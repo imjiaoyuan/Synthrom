@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 import pytz
 from collections import defaultdict
+import yaml  # 添加 yaml 导入
 
 def get_feed_category(feed_url, feed_list_content):
     # 查找feed_url所属的分类
@@ -18,6 +19,14 @@ def get_feed_category(feed_url, feed_list_content):
     return 'Blog'  # 默认分类为 Blog
 
 def fetch_feeds():
+    # 加载标签配置
+    with open('config/labels.yml', 'r', encoding='utf-8') as f:
+        label_config = yaml.safe_load(f)
+    
+    # 创建分类到配置的映射
+    category_configs = {label['feed_category']: label for label in label_config['labels']}
+    default_limit = label_config['default_limit']
+
     with open('feed.list', 'r') as f:
         feed_list_content = f.read()
         feeds = [line.strip() for line in feed_list_content.splitlines() if line.strip() and not line.endswith(':')]
@@ -29,7 +38,15 @@ def fetch_feeds():
             feed = feedparser.parse(feed_url)
             category = get_feed_category(feed_url, feed_list_content)
             
-            for entry in feed.entries:
+            # 获取该分类的文章数量限制
+            category_config = category_configs.get(category, {})
+            article_limit = category_config.get('article_limit', default_limit)
+            
+            entries = feed.entries
+            if article_limit > 0:
+                entries = entries[:article_limit]
+            
+            for entry in entries:
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 if published:
                     dt = datetime(*published[:6])
@@ -63,23 +80,17 @@ def fetch_feeds():
             print(f"Error fetching {feed_url}: {str(e)}")
             continue
     
-    # 对每个分类的文章进行处理
+    # 对每个分类的文章进行排序
     all_articles = []
     for category, articles in articles_by_category.items():
-        # 按时间戳排序
         articles.sort(key=lambda x: x['timestamp'], reverse=True)
-        # 论坛分类保留所有文章，其他分类取60篇
-        if category == 'Forums':
-            all_articles.extend(articles)  # 保留所有文章
-        else:
-            all_articles.extend(articles[:60])  # 其他分类取60篇
+        all_articles.extend(articles)
     
     # 最终按时间排序
     all_articles.sort(key=lambda x: x['timestamp'], reverse=True)
     
-    # 保存为JSON文件
     data = {
-        'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d'),  # 只显示年月日
+        'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d'),
         'articles': all_articles
     }
     

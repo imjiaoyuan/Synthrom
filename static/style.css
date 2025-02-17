@@ -475,4 +475,42 @@ html {
 .article.read:hover {
     opacity: 1;
     transform: translateY(-1px);
+}
+
+/* 已读按钮样式 */
+.read-button {
+    cursor: pointer;
+    transition: all 0.2s ease;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: var(--bg-color);
+}
+
+.read-button:hover {
+    color: var(--hover-color);
+    background-color: var(--border-color);
+}
+
+/* 修改已读状态下的按钮样式 */
+.article.read .read-button {
+    /* 只让图标变红 */
+    .article.read .read-button i {
+        color: var(--hover-color);
+    }
+}
+
+/* 移动端样式适配 */
+@media (max-width: 480px) {
+    .button-group {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+    }
+
+    .read-button,
+    .comment-button,
+    .favorite-button {
+        flex: 1;
+        justify-content: center;
+    }
 } 

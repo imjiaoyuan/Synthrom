@@ -1,0 +1,18 @@
+# GitHub 功能配置
+github:
+  # GitHub 仓库信息
+  repository: imjiaoyuan/RSS    # 仓库地址 username/repo
+  
+  # 评论功能
+  comment:
+    enabled: true              # 是否启用评论功能ase
+    label: comment             # 使用已有的标签名
+    title_template: "{title} ({date})"  # 评论 issue 的标题模板
+    body_template: "{summary}\n\n链接：{link}"  # 评论内容模板
+  
+  # 收藏功能
+  favorite:
+    enabled: true             # 是否启用收藏功能
+    label: favorite           # 使用已有的标签名
+    title_template: "{title} ({date})"  # 收藏 issue 的标题模板
+    body_template: "{summary}\n\n链接：{link}"  # 收藏内容模板 
