@@ -2,6 +2,96 @@
   "update_time": "2025-02-17",
   "articles": [
     {
+      "title": "派评 | 近期值得关注的 App",
+      "link": "https://sspai.com/post/96424",
+      "date": "2025-02-17 18:05",
+      "author": "少数派",
+      "timestamp": 1739786713.0,
+      "summary": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论，也提前祝各位新春快乐。值得关注的新App虽然少数派一直在为大家发 ...查看全文",
+      "source_url": "https://sspai.com",
+      "category": "Blog"
+    },
+    {
+      "title": "又是思路清奇！研究人员生成长度达250万字符的文件名用来绕过谷歌的通知系统",
+      "link": "https://www.landiannews.com/archives/107916.html",
+      "date": "2025-02-17 16:10",
+      "author": "蓝点网",
+      "timestamp": 1739779806.0,
+      "summary": "#安全资讯 研究人员发现谷歌账号系统的漏洞可以获取任意 YouTube 频道的真实 Gmail 邮箱，谷歌最初准备奖励 3133 美元，随后认为该漏洞影响较大又额外奖励 7500 美元。利用漏洞过程中还涉及极长的文件名，该文件名高达 250 万个字符，导致谷歌通知系统都被绕过。查看全文：https:...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌Gemini服务开始切换为默认Gemini 2.0 Flash 将显著提高响应质量和速度",
+      "link": "https://www.landiannews.com/archives/107915.html",
+      "date": "2025-02-17 15:52",
+      "author": "蓝点网",
+      "timestamp": 1739778756.0,
+      "summary": "#人工智能 谷歌 Gemini AI 服务开始切换为默认 Gemini 2.0 Flash 版，将显著提高响应质量并缩短响应等待时间。按谷歌发布的消息，无论是付费用户还是免费用户当前都将用上 Flash 版，只有商业和企业客户还需要等待几周才能更新。查看全文：https://ourl.co/1079...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果计划在苹果地图应用中增加搜索置顶广告 类似谷歌地图中的商业模式",
+      "link": "https://www.landiannews.com/archives/107914.html",
+      "date": "2025-02-17 15:44",
+      "author": "蓝点网",
+      "timestamp": 1739778266.0,
+      "summary": "#科技资讯 苹果计划在苹果地图中添加搜索置顶广告，类似谷歌地图中的商业模式。苹果大多数应用都是没有广告的，但一旦苹果决定在自家应用里添加广告，可能就不会停下脚步，估计后续会有更多应用也会出现广告。查看全文：https://ourl.co/107914",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Meta宣布总长度高达5万公里的海底光缆项目 连接美洲/大洋洲/亚洲/非洲",
+      "link": "https://www.landiannews.com/archives/107913.html",
+      "date": "2025-02-17 15:31",
+      "author": "蓝点网",
+      "timestamp": 1739777482.0,
+      "summary": "#网络设备 社交媒体集团 Meta 宣布总长达达到 50,000 公里的海底光缆项目 Waterworth，连接南北美洲、大洋洲、亚洲和非洲。这条海底光缆的特点在于完全由 Meta 拥有并运营，而不是像其他海底光缆那样有多家 ISP 或科技公司参与，该项目总投资可能会超过 100 亿美元。查看全文：...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "西部数据计划在2026年推出热辅助磁记录硬盘 到2030年推出100TB的硬盘",
+      "link": "https://www.landiannews.com/archives/107912.html",
+      "date": "2025-02-17 15:15",
+      "author": "蓝点网",
+      "timestamp": 1739776547.0,
+      "summary": "#硬件设备 西部数据公布硬件技术路线图：2026 年底首次推出基于热辅助磁记录 HAMR 技术的硬盘，到 2030 年推出 100TB 的硬盘。对西部数据来说微波辅助磁记录已经是弃儿，热辅助磁记录才是未来，希捷也同样是这么认为的。查看全文：https://ourl.co/107912",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "百度宣布将在百度搜索内全面接入DeepSeek模型的深度搜索功能",
+      "link": "https://www.landiannews.com/archives/107911.html",
+      "date": "2025-02-17 15:01",
+      "author": "蓝点网",
+      "timestamp": 1739775718.0,
+      "summary": "#人工智能 百度称为丰富多元化的搜索体验，将在百度搜索内全面接入 DeepSeek 模型的深度搜索功能。可以看出来自从 DeepSeek 问世并成为热点后百度也顾不上李彦宏的面子问题了，反正文心平台都接入了 DeepSeek，脸都丢完了也不在乎再继续丢脸。查看全文：https://ourl.co/1...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "借助 AI 生成 Python 脚本，将阅读记录自动同步到日历",
+      "link": "https://sspai.com/post/96121",
+      "date": "2025-02-17 15:00",
+      "author": "少数派",
+      "timestamp": 1739775600.0,
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source_url": "https://sspai.com",
+      "category": "Blog"
+    },
+    {
+      "title": "微软修复Windows Server 2025服务器系统在iSCSI协议下无法启动的问题",
+      "link": "https://www.landiannews.com/archives/107910.html",
+      "date": "2025-02-17 14:50",
+      "author": "蓝点网",
+      "timestamp": 1739775010.0,
+      "summary": "#系统资讯 微软在 2 月更新种修复 Windows Server 2025 服务器系统无法启动的问题，该问题主要影响使用 iSCSI 挂载远程存储设备的企业。这个问题最初在 2024 年 10 月出现，直到现在微软才通过 2 月累积更新完成修复。查看全文：https://ourl.co/10791...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "爱与成长交相辉映：一位全职爸爸的日常与感悟",
       "link": "https://sspai.com/post/96294",
       "date": "2025-02-17 11:30",
@@ -232,36 +322,6 @@
       "category": "News"
     },
     {
-      "title": "微软更新Windows 11 24H2硬件支持列表 取消对英特尔第8/9/10代大量CPU的支持",
-      "link": "https://www.landiannews.com/archives/107887.html",
-      "date": "2025-02-16 11:45",
-      "author": "蓝点网",
-      "timestamp": 1739677543.0,
-      "summary": "#系统资讯 微软更新 Windows 11 24H2 版官方硬件支持列表，删除数百款英特尔第 8/9/10 代台式机或笔记本电脑处理器的支持。这些处理器并不算特别老旧，目前也可以正常安装或升级 Windows 11 24H2，不知道微软突然删除支持的原因是什么。查看全文：https://ourl.c...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "现在在特定场景下用户可以使用ChatGPT生成成人色情或血腥暴力等方面的内容",
-      "link": "https://www.landiannews.com/archives/107886.html",
-      "date": "2025-02-16 11:26",
-      "author": "蓝点网",
-      "timestamp": 1739676380.0,
-      "summary": "#人工智能 现在在特定场景下用户可以使用 ChatGPT 生成成人色情内容或血腥暴力等方面的内容。本周 OpenAI 更改模型规范，新规范支持在特定场景下生成敏感内容，但内容政策依然适用，包括禁止生成任何涉及未成年人、非法或非自愿的性行为描述或极端血腥内容。查看全文：https://ourl.co/...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微信搜索功能集成DeepSeek-R1模型 可以快速回答但不支持多轮对话和记忆",
-      "link": "https://www.landiannews.com/archives/107885.html",
-      "date": "2025-02-16 11:13",
-      "author": "蓝点网",
-      "timestamp": 1739675602.0,
-      "summary": "#人工智能 微信搜索功能集成 DeepSeek-R1 模型，用户使用微信 AI 搜索时可以手动切换至 R1 模型搜索全网内容。目前微信喂给 R1 模型的优先是微信公众平台数据和网页数据，这样也可以生成带有最新消息的回答，简化用户的搜索体验。查看全文：https://ourl.co/107885",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "被名字耽误了的并非玄学养生科普综述——读「超越百岁」",
       "link": "https://blog.douchi.space/book-outlive/",
       "date": "2025-02-16 08:22",
@@ -382,66 +442,6 @@
       "category": "Blog"
     },
     {
-      "title": "装修容易踩坑？这是我的避坑方法论",
-      "link": "https://sspai.com/post/96168",
-      "date": "2025-02-14 11:30",
-      "author": "少数派",
-      "timestamp": 1739503800.0,
-      "summary": "结合我派的众多装修文章，为大家提供一些装修的「旧」思路，帮助大家躲避装修中的大坑，顺利入住自己的 Dream House。查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
-      "title": "埃隆马斯克透露Grok 3模型很快就会发布 其推理能力优于业界当前所有已发布产品",
-      "link": "https://www.landiannews.com/archives/107884.html",
-      "date": "2025-02-14 11:15",
-      "author": "蓝点网",
-      "timestamp": 1739502937.0,
-      "summary": "#人工智能 埃隆马斯克透露 Grok 3 模型很快就会发布，其推理能力优于业界当前所有已发布的产品，包括 DeepSeek 系列模型。Grok 3 在 10 万张 H100 加速卡上完成训练，当前正处于发布前的最后阶段。查看全文：https://ourl.co/107884",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌终于为Gemini带来记忆功能可以继续之前的对话 不过仅限Advanced订阅用户",
-      "link": "https://www.landiannews.com/archives/107883.html",
-      "date": "2025-02-14 11:01",
-      "author": "蓝点网",
-      "timestamp": 1739502117.0,
-      "summary": "#人工智能 谷歌终于为 Gemini 带来记忆功能可以继续之前的对话，不过目前仅支持英语和付费的 Advanced 用户使用。借助该功能用户可以接续对话、总结内容或继续项目开发等，这应该有助于提升用户的使用效率。查看全文：https://ourl.co/107883",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "开源串流项目OBS将采取法律行动 要求Fedora Linux删除篡改的软件包",
-      "link": "https://www.landiannews.com/archives/107882.html",
-      "date": "2025-02-14 10:52",
-      "author": "蓝点网",
-      "timestamp": 1739501532.0,
-      "summary": "#软件资讯 开源录制和串流软件 OBS 将采取法律行动要求 Fedora Linux 删除篡改的安装包或恶意分叉。Fedora 通过 Flatpak 提供打包不当且严重错误的 OBS 安装包，经过沟通 Fedora 似乎还存在辱骂行为，现在 OBS 要求 Fedora 删除该软件否则将采取法律措施。...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "打脸？百度文心4.5模型将在6月30日开源 此前李彦宏称开源模型越来越落后",
-      "link": "https://www.landiannews.com/archives/107881.html",
-      "date": "2025-02-14 10:33",
-      "author": "蓝点网",
-      "timestamp": 1739500434.0,
-      "summary": "#人工智能 公然打老板的脸？百度宣布文心 4.5 系列模型将在 6 月 30 日开源，此前李彦宏称开源模型只会越来越落后。事实证明李彦宏 1 年前的预测完全都是相反的，无论是 DeepSeek 还是通义千问都在业界引起巨大关注，现在百度开源文心模型怕不是在和李彦宏做切割吧？查看全文：https://...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "派早报：Adobe 发布 Adobe Firefly 文生视频 AI 模型等",
-      "link": "https://sspai.com/post/96326",
-      "date": "2025-02-14 08:45",
-      "author": "少数派",
-      "timestamp": 1739493948.0,
-      "summary": "Apple 将于 2 月 19 日发布新款产品，谷歌 Chrome 密码管理器新功能被指 AI 炒作等。查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
       "title": "科技爱好者周刊（第 337 期）：互联网创业几乎没了",
       "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html",
       "date": "2025-02-14 08:15",
@@ -469,6 +469,16 @@
       "timestamp": 1739415435.0,
       "summary": "随着全球每个人可用的数据量不断增加，消费者做出明智决策的能力也越来越难。幸运的是，对于推荐系统而言，大型数据集 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "安全第一：领先的合作伙伴采用 NVIDIA 网络安全 AI 来保护关键基础设施",
+      "link": "https://blogs.nvidia.cn/blog/cybersecurity-ai-critical-infrastructure/",
+      "date": "2025-02-12 18:03",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1739354582.0,
+      "summary": "生成式 AI 的快速发展为跨行业和研究领域的创新创造了无数机会。与先进技术通常的情况一样，这种发展也改变了网络",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -1575,16 +1585,6 @@
       "title": "NVIDIA 推出 Grace Blackwell 桌面系统，让每位 AI 开发者都能触手可及",
       "link": "https://blogs.nvidia.cn/blog/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips/",
       "date": "2025-01-06 22:50",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736175000.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 推出个人 AI 超级计算机 NVI",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出 Grace Blackwell 桌面系统，让每位 AI 开发者都能触手可及",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips/",
-      "date": "2025-01-06 22:50",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736175000.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 推出个人 AI 超级计算机 NVI",
@@ -2370,6 +2370,16 @@
       "summary": "Beauty in the Overlooked Ordinary Saul Leiter 是我开始街头摄影时 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
+    },
+    {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "那些脱口而出的思考",
@@ -3960,16 +3970,6 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
