@@ -1592,22 +1592,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -2370,16 +2370,6 @@
       "summary": "Beauty in the Overlooked Ordinary Saul Leiter 是我开始街头摄影时 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "那些脱口而出的思考",
@@ -3970,6 +3960,16 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
@@ -8014,7 +8014,7 @@
     {
       "title": "关于我",
       "link": "https://kowyo.com/about/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "无摘要",
@@ -8024,7 +8024,7 @@
     {
       "title": "友邻",
       "link": "https://kowyo.com/friends/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "Pseudoyu\n      区块链开发工程师，喜欢探索新技术\n    \n  \n\n\n\n  \n    \n      \n    \n    \n      Kiryu Sento\n      \n    \n  \n\n\n\n  \n    \n      \n    \n    \n      吴俊达\n      Olive...",
@@ -8034,7 +8034,7 @@
     {
       "title": "时刻",
       "link": "https://kowyo.com/moments/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "2024 年\n看见喜欢的博主隐藏了「Stream」頁面，想起来前不久刷到了本版块的意义所在：\n\n每次马斯克发神经，就有几十万人逃离 X，结果发现每个社交 app 都一样疯狂，每个人都既自恋又从众\n忽然之间，简单分享、真实做自己的 microblog / 微博客 / 迷你个人网站，变成了新潮流",
