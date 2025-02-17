@@ -4,20 +4,14 @@ labels:
     display_name: 博客         # 主页显示的标签名
     icon: mdi-post            # 标签图标
     show_date_divider: true   # 是否显示今日/历史分类
-    article_limit: 60         # 每个源抓取的文章数量限制
+    article_limit: 30         # 每个源抓取的文章数量限制
 
-  - feed_category: Information
+  - feed_category: News
     display_name: 资讯
     icon: mdi-newspaper
     show_date_divider: true
-    article_limit: 60
-
-  - feed_category: Forums
-    display_name: 论坛
-    icon: mdi-forum
-    show_date_divider: false  # 论坛不显示日期分隔
-    article_limit: -1         # -1 表示抓取所有文章
+    article_limit: 30
 
 # 默认配置
-default_limit: 60            # 默认文章限制数
+default_limit: 30            # 默认文章限制数
 default_show_date_divider: true  # 默认是否显示日期分隔 
