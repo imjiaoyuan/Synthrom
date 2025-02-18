@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-02-18",
+  "update_time": "2025-02-19",
   "articles": [
     {
       "title": "Kimi智能助手开发商月之暗面计划大幅度削减推广预算 疑似受到DeepSeek冲击",
@@ -1993,7 +1993,7 @@
     },
     {
       "title": "为什么 2024 年会有 366 天？",
-      "link": "https://www.longluo.me/blog/2024/12/21/leap-year/",
+      "link": "https://www.longluo.me/blog/leap-year/",
       "date": "2024-12-21 21:28",
       "author": "Long Luo's Life Notes",
       "timestamp": 1734787685.0,
@@ -2340,16 +2340,6 @@
       "summary": "Beauty in the Overlooked Ordinary Saul Leiter 是我开始街头摄影时 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "那些脱口而出的思考",
@@ -3962,6 +3952,16 @@
       "category": "Blog"
     },
     {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
       "link": "https://1q43.blog/post/6060/",
       "date": "2024-07-29 10:20",
@@ -4583,7 +4583,7 @@
     },
     {
       "title": "数学之美：几何视角下的高斯积分(Gaussian Integral)",
-      "link": "https://www.longluo.me/blog/2024/05/11/gaussian-integral/",
+      "link": "https://www.longluo.me/blog/gaussian-integral/",
       "date": "2024-05-11 15:34",
       "author": "Long Luo's Life Notes",
       "timestamp": 1715412878.0,
@@ -4653,7 +4653,7 @@
     },
     {
       "title": "从最小二乘法到正态分布：高斯是如何找到失踪的谷神星的？",
-      "link": "https://www.longluo.me/blog/2024/05/02/least-squares-and-normal-distribution/",
+      "link": "https://www.longluo.me/blog/least-squares-and-normal-distribution/",
       "date": "2024-05-02 10:35",
       "author": "Long Luo's Life Notes",
       "timestamp": 1714617308.0,
@@ -4723,7 +4723,7 @@
     },
     {
       "title": "正态分布(Normal Distribution)公式为什么长这样？",
-      "link": "https://www.longluo.me/blog/2024/04/27/normal-distribution/",
+      "link": "https://www.longluo.me/blog/normal-distribution/",
       "date": "2024-04-27 13:16",
       "author": "Long Luo's Life Notes",
       "timestamp": 1714195017.0,
@@ -4753,7 +4753,7 @@
     },
     {
       "title": "高速公路编号背后的数学密码",
-      "link": "https://www.longluo.me/blog/2024/04/21/decode-the-highway-system-numbers/",
+      "link": "https://www.longluo.me/blog/decode-the-highway-system-numbers/",
       "date": "2024-04-21 08:08",
       "author": "Long Luo's Life Notes",
       "timestamp": 1713658112.0,
@@ -4793,7 +4793,7 @@
     },
     {
       "title": "2024 阿里巴巴全球数学竞赛预选赛 试题解答",
-      "link": "https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/",
+      "link": "https://www.longluo.me/blog/2024-alibaba-global-mathematics-competition-qualifying-round/",
       "date": "2024-04-16 11:13",
       "author": "Long Luo's Life Notes",
       "timestamp": 1713237228.0,
@@ -5253,7 +5253,7 @@
     },
     {
       "title": "库函数 (libm) 是如何计算三角函数值的？",
-      "link": "https://www.longluo.me/blog/2024/02/16/sine/",
+      "link": "https://www.longluo.me/blog/sine/",
       "date": "2024-02-16 20:32",
       "author": "Long Luo's Life Notes",
       "timestamp": 1708086778.0,
@@ -5443,7 +5443,7 @@
     },
     {
       "title": "payne hanek 归约算法",
-      "link": "https://www.longluo.me/blog/2024/01/22/payne-hanek/",
+      "link": "https://www.longluo.me/blog/payne-hanek/",
       "date": "2024-01-22 21:10",
       "author": "Long Luo's Life Notes",
       "timestamp": 1705929050.0,
@@ -5503,7 +5503,7 @@
     },
     {
       "title": "音乐背后的数学",
-      "link": "https://www.longluo.me/blog/2024/01/12/math-of-music/",
+      "link": "https://www.longluo.me/blog/math-of-music/",
       "date": "2024-01-12 19:18",
       "author": "Long Luo's Life Notes",
       "timestamp": 1705058318.0,
@@ -5623,7 +5623,7 @@
     },
     {
       "title": "素描背后的物理",
-      "link": "https://www.longluo.me/blog/2023/12/30/physics-behind-drawings/",
+      "link": "https://www.longluo.me/blog/physics-behind-drawings/",
       "date": "2023-12-30 22:53",
       "author": "Long Luo's Life Notes",
       "timestamp": 1703948031.0,
@@ -5713,7 +5713,7 @@
     },
     {
       "title": "cody waite",
-      "link": "https://www.longluo.me/blog/2023/12/19/cody-waite/",
+      "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
       "author": "Long Luo's Life Notes",
       "timestamp": 1702987819.0,
@@ -5743,7 +5743,7 @@
     },
     {
       "title": "浮点数",
-      "link": "https://www.longluo.me/blog/2023/12/03/floating-point/",
+      "link": "https://www.longluo.me/blog/floating-point/",
       "date": "2023-12-03 22:12",
       "author": "Long Luo's Life Notes",
       "timestamp": 1701612765.0,
@@ -6083,7 +6083,7 @@
     },
     {
       "title": "Remez Algorithm",
-      "link": "https://www.longluo.me/blog/2023/10/07/remez-algorithm/",
+      "link": "https://www.longluo.me/blog/remez-algorithm/",
       "date": "2023-10-07 07:08",
       "author": "Long Luo's Life Notes",
       "timestamp": 1696633717.0,
@@ -6163,7 +6163,7 @@
     },
     {
       "title": "参数归约算法(Argument Range Reduction)：如何在浮点数环境下计算超大数字的三角函数值？",
-      "link": "https://www.longluo.me/blog/2023/09/16/argument-range-reduction/",
+      "link": "https://www.longluo.me/blog/argument-range-reduction/",
       "date": "2023-09-16 22:05",
       "author": "Long Luo's Life Notes",
       "timestamp": 1694873107.0,
@@ -6313,7 +6313,7 @@
     },
     {
       "title": "素描背后的数学",
-      "link": "https://www.longluo.me/blog/2023/08/02/perspective/",
+      "link": "https://www.longluo.me/blog/perspective/",
       "date": "2023-08-02 19:15",
       "author": "Long Luo's Life Notes",
       "timestamp": 1690974911.0,
@@ -6473,7 +6473,7 @@
     },
     {
       "title": "发生在计算机内存里的进化：解密遗传算法(Genetic Algorithm)",
-      "link": "https://www.longluo.me/blog/2023/06/12/genetic-algorithm/",
+      "link": "https://www.longluo.me/blog/genetic-algorithm/",
       "date": "2023-06-12 08:32",
       "author": "Long Luo's Life Notes",
       "timestamp": 1686529951.0,
@@ -6533,7 +6533,7 @@
     },
     {
       "title": "CORDIC算法：一种高效计算三角函数值的方法",
-      "link": "https://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/",
+      "link": "https://www.longluo.me/blog/cordic/",
       "date": "2023-06-07 17:11",
       "author": "Long Luo's Life Notes",
       "timestamp": 1686129088.0,
