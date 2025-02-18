@@ -2,13 +2,53 @@
   "update_time": "2025-02-18",
   "articles": [
     {
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/96424",
-      "date": "2025-02-17 18:05",
-      "author": "少数派",
-      "timestamp": 1739786713.0,
-      "summary": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论，也提前祝各位新春快乐。值得关注的新App虽然少数派一直在为大家发 ...查看全文",
-      "source_url": "https://sspai.com",
+      "title": "在数据中心GPU芯片需求出现明显下降后 英伟达将其产能挪给RTX 5090",
+      "link": "https://www.landiannews.com/archives/107918.html",
+      "date": "2025-02-18 10:07",
+      "author": "蓝点网",
+      "timestamp": 1739844476.0,
+      "summary": "#硬件设备 在数据中心 GPU 芯片需求出现明显下降后，英伟达计划将产能挪给 RTX 5090 增加游戏显卡的供应量。在 X 上有网友爆料称英伟达可能会将 GB200 产能中多余的 GB100 芯片整合到 GB202 架构中，这样适用于高端游戏显卡的芯片供应量可以快速提升。查看全文：https://...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Windows 11记事本现在还需登录微软账号才能用？还好只是使用AI时才需登录",
+      "link": "https://www.landiannews.com/archives/107917.html",
+      "date": "2025-02-18 09:52",
+      "author": "蓝点网",
+      "timestamp": 1739843554.0,
+      "summary": "#软件资讯 Windows 11 记事本应用现在还需要登录账号才能使用？还好只是使用 AI 服务时才需登录。当用户打开记事本时可能会看到弹出的登录截图，微软称当用户使用重写及其他 AI 功能时需登录账号并收集信息用于 AI 安全目的。查看全文：https://ourl.co/107917",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "要不要掺合好友的感情变故？",
+      "link": "http://m.wufazhuce.com/question/4297",
+      "date": "2025-02-18 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739831102.0,
+      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            好奇地问\n        \n        \n        要不要掺合好友的感情变故？\n    \n\n    \n\n            \n            宏桑答\n...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "花样年华1990",
+      "link": "http://m.wufazhuce.com/article/6703",
+      "date": "2025-02-18 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739831102.0,
+      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／周宏翔\n\t\n\t&nbsp;网上相传，世纪初，就有人流出王家卫《花样年华》的部分剧本，其中包括九十年代的部分，影迷一时兴奋，难辨真伪，从而对这份剧本残本有了无限想象。2025年情人节，王家卫的《花样年华》重映超长版，上映前，采...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4518",
+      "link": "http://m.wufazhuce.com/one/4667",
+      "date": "2025-02-18 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739831102.0,
+      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4518摄影 | Esrakorkmaz\n\t18\n\tFeb. 2025\n\t\n\t出来了，就一步一个天地，一步一个家。\t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
     {
@@ -72,16 +112,6 @@
       "category": "News"
     },
     {
-      "title": "借助 AI 生成 Python 脚本，将阅读记录自动同步到日历",
-      "link": "https://sspai.com/post/96121",
-      "date": "2025-02-17 15:00",
-      "author": "少数派",
-      "timestamp": 1739775600.0,
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
       "title": "微软修复Windows Server 2025服务器系统在iSCSI协议下无法启动的问题",
       "link": "https://www.landiannews.com/archives/107910.html",
       "date": "2025-02-17 14:50",
@@ -90,16 +120,6 @@
       "summary": "#系统资讯 微软在 2 月更新种修复 Windows Server 2025 服务器系统无法启动的问题，该问题主要影响使用 iSCSI 挂载远程存储设备的企业。这个问题最初在 2024 年 10 月出现，直到现在微软才通过 2 月累积更新完成修复。查看全文：https://ourl.co/10791...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
-    },
-    {
-      "title": "爱与成长交相辉映：一位全职爸爸的日常与感悟",
-      "link": "https://sspai.com/post/96294",
-      "date": "2025-02-17 11:30",
-      "author": "少数派",
-      "timestamp": 1739763000.0,
-      "summary": "编注：本文是「2024年度征文」记录赛道的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。前言周国平在《妞妞》一书中写道「人在世上不妨去追求种种幸福，但不要忘了最重要的幸福就在你的身边， ...查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
     },
     {
       "title": "由AI驱动的增强保护功能抵达Chrome正式版 但用户浏览数据会被发送给谷歌",
@@ -172,46 +192,6 @@
       "category": "News"
     },
     {
-      "title": "派早报：微信、百度接入 DeepSeek",
-      "link": "https://sspai.com/post/96410",
-      "date": "2025-02-17 08:57",
-      "author": "少数派",
-      "timestamp": 1739753858.0,
-      "summary": "你可能错过的新鲜事微信、百度接入DeepSeek据澎湃新闻报道，2月16日，腾讯表示微信正测试接入DeepSeek。如用户获得测试资格，在聊天界面顶部进入搜索栏，页面会出现「AI搜索」入口，点击后出现 ...查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
-      "title": "有什么“经验”，已经过时却还在流行？",
-      "link": "http://m.wufazhuce.com/question/4296",
-      "date": "2025-02-17 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739744703.0,
-      "summary": "17  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            野狼问\n        \n        \n        有什么“经验”，已经过时却还在流行？\n    \n\n    \n\n            \n            ...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "我们还没有去过海边",
-      "link": "http://m.wufazhuce.com/article/6699",
-      "date": "2025-02-17 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739744703.0,
-      "summary": "17  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／张紫晨\n\t\n\t&nbsp;一对争吵的夫妻，一次艰难的旅行，感情的问题像天气一样变幻莫测，说不定阴晴。关于一切的发端，我自己在心里面捋了捋，觉得主要应该是下午时分的那场暴雨。我跟杨在火炬八街像两个不避流矢的英勇士兵，在暴雨里狂...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4517",
-      "link": "http://m.wufazhuce.com/one/4665",
-      "date": "2025-02-17 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739744703.0,
-      "summary": "17  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4517摄影 | Donald Tran\n\t17\n\tFeb. 2025\n\t\n\t我希望永远不要有人对难过的人说，不要难过。\t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
       "title": "猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？",
       "link": "https://ameow.xyz/archives/weekly-056",
       "date": "2025-02-16 22:24",
@@ -229,16 +209,6 @@
       "timestamp": 1739692800.0,
       "summary": "题图由DALL·E生成，Prompt: 生成一张主题为“为什么写作”的图片",
       "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "做合格「猫奴」，从学会正确撸猫开始",
-      "link": "https://sspai.com/post/96156",
-      "date": "2025-02-16 15:00",
-      "author": "少数派",
-      "timestamp": 1739689200.0,
-      "summary": "这是一篇对猫好人好都特好的文章，我们将详细介绍如何更好地撸猫。查看全文",
-      "source_url": "https://sspai.com",
       "category": "Blog"
     },
     {
@@ -302,26 +272,6 @@
       "category": "Blog"
     },
     {
-      "title": "普联(TP-LINK)将在6月30日彻底关停DDNS服务 用户必须在停服前迁移至其他DDNS",
-      "link": "https://www.landiannews.com/archives/107889.html",
-      "date": "2025-02-16 12:03",
-      "author": "蓝点网",
-      "timestamp": 1739678607.0,
-      "summary": "#网络设备 普联 (TP-LINK) 将在 6 月 30 日彻底关闭 DDNS 服务，用户必须在停服前迁移至其他 DDNS 服务。和我们此前预料的一样，普联 DDNS 目前无法新增域名并非 BUG 而是有意为之，也就是普联不准备再提供自有的 DDNS 服务了。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软解除华硕设备升级Windows 11 24H2限制 用户需先更新BIOS固件才可以升级",
-      "link": "https://www.landiannews.com/archives/107888.html",
-      "date": "2025-02-16 11:54",
-      "author": "蓝点网",
-      "timestamp": 1739678075.0,
-      "summary": "#系统资讯 微软解除部分华硕设备升级 Windows 11 24H2 版限制，用户需先安装更新升级 BIOS 固件。此次固件更新也可以直接通过 Windows 11 更新获取，安装更新并在重启后即可再次检查 24H2 版更新。查看全文：https://ourl.co/107888",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "被名字耽误了的并非玄学养生科普综述——读「超越百岁」",
       "link": "https://blog.douchi.space/book-outlive/",
       "date": "2025-02-16 08:22",
@@ -382,16 +332,6 @@
       "category": "Blog"
     },
     {
-      "title": "物念 2.0：追踪物品价值，给你的购物欲戴上口罩",
-      "link": "https://sspai.com/post/96036",
-      "date": "2025-02-15 15:00",
-      "author": "少数派",
-      "timestamp": 1739602800.0,
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
       "title": "寂静的春天2",
       "link": "https://yufree.cn/cn/2025/02/15/silent-spring-2/",
       "date": "2025-02-15 08:00",
@@ -402,43 +342,13 @@
       "category": "Blog"
     },
     {
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "link": "https://sspai.com/post/96359",
-      "date": "2025-02-14 17:55",
-      "author": "少数派",
-      "timestamp": 1739526946.0,
-      "summary": "☕️TL;DR近期佳作推荐：[韩剧]善意的竞争、[美剧]匹兹堡医护前线、[国产]蔷薇风暴、[台剧]死了一个娱乐女记者之后、[日剧]御上老师、[日剧]香草的每天、[纪录片]无穷之路4：一带一路、[真人秀 ...查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
-      "title": "具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」",
-      "link": "https://sspai.com/prime/story/inside-release-notes-250214",
-      "date": "2025-02-14 17:07",
-      "author": "少数派",
-      "timestamp": 1739524075.0,
-      "summary": "Chrome 通过「手把手」地指导模型如何思考，一定程度上克服了 Gemini Nano 在规模上的先天不足。如果你在其他场合有使用小模型的需求，也不妨参考一下谷歌的提示词思路。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
-      "title": "胶片漂流计划｜我们用同一卷胶片捕捉了 4 座城市的光影",
-      "link": "https://sspai.com/post/96339",
-      "date": "2025-02-14 15:00",
-      "author": "少数派",
-      "timestamp": 1739516400.0,
-      "summary": "我们在 2024 年末悄悄发起了一场「胶片漂流计划」，邀请了 5 位少数派成员，用同一卷胶卷记录下他们眼中的那片天地。查看全文",
-      "source_url": "https://sspai.com",
-      "category": "Blog"
-    },
-    {
-      "title": "上班就像上刑？换上一套「打工水獭」键帽表达态度",
-      "link": "https://sspai.com/post/96245",
-      "date": "2025-02-14 14:19",
-      "author": "少数派",
-      "timestamp": 1739513985.0,
-      "summary": "在少数派，水獭也要打工吗？之前少数派推出的合作键盘产品，一直都以灰白底点缀少数派的标志红色为主，走极简风路线，而作为精神图腾的水獭却鲜有出现。毕竟在这里，「效率」一直是个大话题——键盘作为工具，需要的 ...查看全文",
-      "source_url": "https://sspai.com",
+      "title": "最难以阻挡的攻防趋势",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_unstoppable_offensive_and_defensive_trend_of_2024/",
+      "date": "2025-02-14 17:47",
+      "author": "DARKNAVY",
+      "timestamp": 1739526420.0,
+      "summary": "近年来，漏洞攻防不断演进。从多年前仅需一个栈溢出就能攻破系统，到如今需要运用各种精妙的手法来突破系统的层层防御。&ldquo;盾&quot;与&quot;矛&quot;始终处于动态对抗：每当新的防御措施出现，新的攻击手段随之而来。防御机制的升级促使攻击者寻找新的突破口，而攻击方法的创新又推动着防御技...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -449,6 +359,16 @@
       "timestamp": 1739492127.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n秦皇岛海边的某楼盘，像乐高积木一样，每层都有私人露台花园以及公共天台花园。（via）\n\n互联网创业几乎没了\n\n上...",
       "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最悲剧的后门",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_unfortunate_backdoor_of_2024/",
+      "date": "2025-02-13 17:07",
+      "author": "DARKNAVY",
+      "timestamp": 1739437648.0,
+      "summary": "看到了软件的源码，就意味着没有后门吗？\n\n1983年的图灵奖颁奖仪式上，Ken Thompson抛出了这个问题。作为历史上唯三在40岁以下获得图灵奖的传奇之一，他在获奖演讲中向听众展示了如何通过在编译器中植入后门来骇入由无害源码编译得到的Unix系统。Ken的演讲为整个开源世界敲响了信任的警钟，并且...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -482,6 +402,16 @@
       "category": "News"
     },
     {
+      "title": "2024年度最“隐”人注目的安全趋势",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_prominent_privacy_security_trend_of_2024/",
+      "date": "2025-02-12 16:40",
+      "author": "DARKNAVY",
+      "timestamp": 1739349612.0,
+      "summary": "2025年伊始，持续五年的“Siri偷听门”事件终于迎来了终章。苹果公司以9500万美元的和解金，与原告达成了集体诉讼的和解。\n这起备受瞩目的隐私争议案件起源于用户指控Siri在未经授权的情况下，意外捕获并录制日常对话，并将数据泄露给第三方广告商。\n尽管苹果对此坚决否认，但公众对隐私安全的忧虑却与日...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
       "title": "使用 NVIDIA NeMo 框架进行 LLM 模型剪枝和知识蒸馏",
       "link": "https://developer.nvidia.com/zh-cn/blog/llm-model-pruning-and-knowledge-distillation-with-nvidia-nemo-framework/",
       "date": "2025-02-12 11:10",
@@ -509,6 +439,16 @@
       "timestamp": 1739276375.0,
       "summary": "随着电子报的写作逐渐转向付费模式，作者意识到需要重新审视内容的深度和主线。在反思和梳理笔记库后，作者确定了四条核心主线：人文与科技的交汇、东西方哲学对现代生活的启示、美学素养与批判性思维的塑造、以及个人成长与复利思维的结合。未来的电子报将围绕这些主线展开更深入的探讨，而博客将兼具轻盈与厚重，记录生活...",
       "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最狂躁不安的漏洞",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_maddest_vulnerability_of_2024/",
+      "date": "2025-02-11 11:41",
+      "author": "DARKNAVY",
+      "timestamp": 1739245305.0,
+      "summary": "在安全研究人员的共同努力下，越发严格的安全缓解措施，已经把大部分内存漏洞扼杀在了摇篮之中。\n是时候宣布内存漏洞成为过去式了？\n2024年7月，一枚来自Windows阵营的&quot;核弹&quot;打破了安全的幻象。我们不禁发问：面对来自内存的威胁，眼前的城墙究竟能抵挡些什么？\n以下为本期《深蓝洞察...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -552,6 +492,16 @@
       "category": "News"
     },
     {
+      "title": "2024年度最具想象空间的新应用",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_imaginative_new_applications_of_2024/",
+      "date": "2025-02-10 11:25",
+      "author": "DARKNAVY",
+      "timestamp": 1739157950.0,
+      "summary": "2023年是生成式AI和大型语言模型的元年，它们以前所未有的方式输出内容。\n2024年，涌现出大量的AI智能体（AI Agent）不仅扩展了大模型的能力边界，还驱动了更广泛的工具使用，并将其应用场景拓展到更多领域。\n对于安全研究者而言，如何借助AI力量的提高工作效率，甚至驱动AI像人类一样思考、分析...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
       "title": "NVIDIA Grace CPU 与 Arm 软件生态系统集成",
       "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-grace-cpu-integrates-with-the-arm-software-ecosystem/",
       "date": "2025-02-10 11:24",
@@ -569,6 +519,16 @@
       "timestamp": 1739100746.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 56 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n摄于湖南长沙东风路文创园。这里原本是长...",
       "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最具含“金”量的绕过",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_golden_bypass_of_2024/",
+      "date": "2025-02-09 17:13",
+      "author": "DARKNAVY",
+      "timestamp": 1739092410.0,
+      "summary": "基于浏览器漏洞的攻击，自2000年代初出现以来直至今日，一直是一种主流、有效且场景丰富的攻击手段。以下为本期《深蓝洞察 | 2024 年度安全报告》的第二篇。\n\n根据市场调查机构 Statcounter 公布的最新报告，Chrome浏览器无可争议地牢牢占据了市场占有率第一的宝座。\n\nChrome以其...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -609,6 +569,16 @@
       "timestamp": 1739006846.0,
       "summary": "** 本文基于 第三夏尔、Booooom 和 benji 的 Hugo 插件代码，修改为 WordPress  [&#8230;]",
       "source_url": "https://anotherdayu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最别开生面的新生态",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_groundbreaking_new_security_ecosystem_of_2024/",
+      "date": "2025-02-08 17:10",
+      "author": "DARKNAVY",
+      "timestamp": 1739005813.0,
+      "summary": "在《深蓝洞察 | 2023 年度安全报告》中，我们曾提到：&ldquo;当我们站在下一个十年的悬崖边时，2023年注定将成为一个具有深刻转折意义的年份。新防御机制的落地和新型攻击技术的崛起，将深刻改变数字安全的格局。&rdquo;\n2024年，如一阵疾风而至，又如暴雨般迅速远去。我们在2023年中讨...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -2952,6 +2922,16 @@
       "category": "Blog"
     },
     {
+      "title": "以子之矛陷子之盾 · 用AI对AI漏洞的利用探索",
+      "link": "https://www.darknavy.org/zh/blog/chrome_x_ai_1024/",
+      "date": "2024-10-31 17:32",
+      "author": "DARKNAVY",
+      "timestamp": 1730367143.0,
+      "summary": "2024年9月24日，OpenAI的CEO Sam Altman发表文章《The Intelligence Age》，大胆地宣告了AI时代的到来。\n\n给予文章强有力支撑的是ChatGPT-o1的发布，这是一次里程碑式的事件，在深度学习的加成下，大模型如虎添翼，表现强劲。\n身处时代浪潮之中，DARKN...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
       "title": "月刊（第27期）：旅居",
       "link": "https://blog.ursb.me/posts/weekly-27/",
       "date": "2024-10-30 13:00",
@@ -3579,6 +3559,16 @@
       "timestamp": 1725062400.0,
       "summary": "三个月前的我，仍在质疑自己是否能加入开往；而现在的我，将要在 2024 年剩下的 4 个月里担任开往的临时负责人。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes",
+      "link": "https://www.darknavy.org/zh/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/",
+      "date": "2024-08-30 10:09",
+      "author": "DARKNAVY",
+      "timestamp": 1724983769.0,
+      "summary": "在今年5月，我们注意到Chrome在一次更新中修复了一个被在野利用的V8漏洞，我们迅速定位了这个漏洞的修复，发现他是近些年来罕见的Parser模块的漏洞，这引起了我们很大的兴趣，于是有了以下的研究。\n从patch到PoC\n首先我们看一下此漏洞的patch：\ndiff --git a/src/ast/...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -4319,6 +4309,16 @@
       "timestamp": 1719533504.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，PHP 项目 (1)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (3)，Swift 项目 (2)，人工智...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Steam漏洞利用：CEF框架应用下的常规与非常规利用手段",
+      "link": "https://www.darknavy.org/zh/blog/exploiting_steam_usual_and_unusual_ways_in_the_cef_framework/",
+      "date": "2024-06-27 11:39",
+      "author": "DARKNAVY",
+      "timestamp": 1719459577.0,
+      "summary": "前言\nChromium Embedded Framework(CEF)是一个开源框架，开发者可以将Chromium引擎嵌入至他们的应用程序中。尽管CEF被广泛应用于诸如微信和Epic Games Launcher等流行软件中，但对其安全性的研究却甚少。在本文中，我们将以Steam客户端浏览器（一款基...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -5582,6 +5582,16 @@
       "category": "Blog"
     },
     {
+      "title": "填补盾牌的裂缝：堆分配器中的MTE",
+      "link": "https://www.darknavy.org/zh/blog/strengthening_the_shield_mte_in_memory_allocators/",
+      "date": "2024-01-03 16:14",
+      "author": "DARKNAVY",
+      "timestamp": 1704269667.0,
+      "summary": "前言\n2018年，随着ARMv8.5-A的发布，一个全新的芯片安全特性MTE(Memory Tagging Extensions) 横空出世。时隔五年后的2023年，市场上第一款支持此特性的手机发布 —— Google Pixel 8，宣告着MTE正式走入了消费者群体。虽然该特性在手机上还未默认启用...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
       "title": "迁移评论系统至 Artalk",
       "link": "https://blog.gxres.net/posts/move-to-artalk-comment-system",
       "date": "2024-01-02 08:00",
@@ -5972,6 +5982,26 @@
       "category": "Blog"
     },
     {
+      "title": "Exploiting the libwebp Vulnerability, Part 2: Diving into Chrome Blink",
+      "link": "https://www.darknavy.org/zh/blog/exploiting_the_libwebp_vulnerability_part_2/",
+      "date": "2023-11-03 14:10",
+      "author": "DARKNAVY",
+      "timestamp": 1698991829.0,
+      "summary": "前言\n当我们把这样一个在三方库中的漏洞放到真实的环境中再看时，会发现漏洞所处的环境往往有很多复杂的变量，想要利用这个漏洞并非想象般那么容易。\n我们所已知的信息有：\n\n我们溢出的变量huffman_tables，大小为0x2f28\n该堆块在renderer的ThreadPool中分配，而大多数对象在主...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "Exploiting the libwebp Vulnerability, Part 1: Playing with Huffman Code",
+      "link": "https://www.darknavy.org/zh/blog/exploiting_the_libwebp_vulnerability_part_1/",
+      "date": "2023-11-03 14:10",
+      "author": "DARKNAVY",
+      "timestamp": 1698991824.0,
+      "summary": "漏洞定位\n在初始的漏洞分析阶段，由于缺少现成的PoC或详细分析报告，我们首先尝试阅读并理解webmproject/libwebp上游仓库针对CVE-2023-4863的修复代码。然而，WebM Project官方的修补过程相对复杂，这使得我们难以精确地锁定漏洞的原始触发点。\n于是，我们将目光转向了A...",
+      "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
       "title": "基于荷尔蒙开发的开源项目",
       "link": "https://www.eaimty.com/2023/opensource-project-based-on-hormone/",
       "date": "2023-11-03 08:00",
@@ -5979,6 +6009,16 @@
       "timestamp": 1698969600.0,
       "summary": "TUIC 终究又是一个失败的开源项目，至少现在看来如此。一方面是社区上的失败，另一方面是我个人的失败。\n开源项目到底是什么\n究其根本，一个没有商业化的开源项目，本质上就是开发者的技术热情。换句话讲，这样的开源项目就是其开发者荷尔蒙在成果上的体现。\n人类的本性永远是自私的。为什么我们会将自己辛苦思考并...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "About",
+      "link": "https://www.darknavy.org/zh/about/",
+      "date": "2023-11-02 17:11",
+      "author": "DARKNAVY",
+      "timestamp": 1698916318.0,
+      "summary": "We are DARKNAVY, an independent and free-spirited security research team and service provider. We have established AVSS (Adversarial Vulnerability Sco...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
