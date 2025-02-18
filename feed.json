@@ -2,6 +2,96 @@
   "update_time": "2025-02-18",
   "articles": [
     {
+      "title": "Kimi智能助手开发商月之暗面计划大幅度削减推广预算 疑似受到DeepSeek冲击",
+      "link": "https://www.landiannews.com/archives/107934.html",
+      "date": "2025-02-18 17:43",
+      "author": "蓝点网",
+      "timestamp": 1739871836.0,
+      "summary": "#人工智能 Kimi 智能助手开发商月之暗面计划大幅度削减推广预算，疑似受到 DeepSeek 冲击。在 2024 年月之暗面花费大量资金在各种渠道推广 Kimi，但 DeepSeek 问世后非开源模型和产品的融资估计不好拿了。查看全文：https://ourl.co/107934",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "X/Twitter将其Premium+订阅从22美元涨价至40美元/月 只因可以优先使用Grok 3模型",
+      "link": "https://www.landiannews.com/archives/107933.html",
+      "date": "2025-02-18 17:25",
+      "author": "蓝点网",
+      "timestamp": 1739870739.0,
+      "summary": "#人工智能 X/Twitter 将其 Premium + 订阅价格从 22 美元涨价至 40 美元 / 月，涨幅高达 45%，而在 24 年 12 月该订阅刚从 16 美元涨价至 22 美元。可能是因为 X Premium + 支持率先使用 Grok 3、深度搜索和推理功能，这才让 X 有底气如此大...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "腾讯元宝AI平台疑似出现快回收和58到家广告 腾讯回应称非广告已交技术排查",
+      "link": "https://www.landiannews.com/archives/107932.html",
+      "date": "2025-02-18 17:12",
+      "author": "蓝点网",
+      "timestamp": 1739869928.0,
+      "summary": "#人工智能 腾讯元宝 AI 平台疑似出现快回收和 58 同城广告，腾讯回应称并非广告而是呈现问题，目前已同步给技术团队进行排查。腾讯公关总监称这应该是引用来源资料添加的超链接而非广告，即引用名称 + 超链接样式，后续会针对此类呈现问题进行优化。查看全文：https://ourl.co/107932",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Fedora Linux测试WSL官方发行版镜像 下载镜像后通过命令即可本地部署",
+      "link": "https://www.landiannews.com/archives/107924.html",
+      "date": "2025-02-18 15:43",
+      "author": "蓝点网",
+      "timestamp": 1739864612.0,
+      "summary": "#系统资讯 Fedora Linux 测试 WSL 官方发行版镜像，下载镜像后通过 WSL 命令即可本地部署。该功能需要 WSL 2.4.4 + 版，目前提供的包括 x86_64 版和 arm64 版，预计正式版在 4 月份发布。下载地址：https://ourl.co/107924",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软AI编程助手GitHub Copilot for Xcode预览版发布 可对话式检查或生成代码",
+      "link": "https://www.landiannews.com/archives/107923.html",
+      "date": "2025-02-18 15:28",
+      "author": "蓝点网",
+      "timestamp": 1739863680.0,
+      "summary": "#人工智能 微软 AI 编程助手 GitHub Copilot for Xcode Chat 预览版发布，帮助开发者在苹果 Xcode IDE 上使用 AI 辅助开发。GitHub Copilot 可以在任务栏和 Xcode 中进行对话，也可以在 Xcode 中代码补全、检查代码、辅助编程等，免费版...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "xAI开发者平台提供首充活动！充值5美元即可未来每个月获得150美元信用额度",
+      "link": "https://www.landiannews.com/archives/107922.html",
+      "date": "2025-02-18 15:00",
+      "author": "蓝点网",
+      "timestamp": 1739862004.0,
+      "summary": "#人工智能 xAI 推出开发者活动可以充值 5 美元后每月获得 150 美元的信用额度，信用额度可以用来调用 Grok 系列模型 API 进行抵扣。这个活动非常超值，毕竟每个月都有 150 美元信用额度，推荐经常使用 AI 的同学冲起来。查看教程：https://ourl.co/107922",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "消息称iPhone SE 4使用的苹果自研5G基带芯片性能不如高通 无助于解决信号问题",
+      "link": "https://www.landiannews.com/archives/107921.html",
+      "date": "2025-02-18 14:20",
+      "author": "蓝点网",
+      "timestamp": 1739859637.0,
+      "summary": "#手机数码 消息称即将推出的 iPhone SE 4 使用苹果自研 5G 基带芯片，在性能方面不如高通而且不支持 5G 毫米波。苹果选择在入门级 SE 机型上测试新芯片其实也是为了逐步提升性能和稳定性，所以指望自研芯片解决 iPhone 的信号差问题估计暂时是没戏的。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "埃隆马斯克的xAI公司发布旗舰模型Grok 3 新订阅方案SuperGrok每月30美元",
+      "link": "https://www.landiannews.com/archives/107920.html",
+      "date": "2025-02-18 14:03",
+      "author": "蓝点网",
+      "timestamp": 1739858638.0,
+      "summary": "#人工智能 埃隆马斯克旗下的人工智能公司 xAI 推出新旗舰模型 Grok 3，xAI 还推出新订阅计划 SuperGrok，每月 30 美元或每年 300 美元。Grok 3 能力是 Grok 2 的 10 倍以上，基准测试得分超过 GPT-4o，支持推理模式并提供深度研究等功能。查看全文：htt...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "X/Twitter全平台封锁加密通讯应用Signal的链接 无论是推文还是私信都禁止发布",
+      "link": "https://www.landiannews.com/archives/107919.html",
+      "date": "2025-02-18 13:47",
+      "author": "蓝点网",
+      "timestamp": 1739857676.0,
+      "summary": "#科技资讯 X/Twitter 全平台封锁加密通讯应用 Signal 的链接，无论是推文还是私信都禁止发布包含该链接的内容。测试显示 Telegram 的链接 t [.] me 是正常的，目前也只有 Signal 的 signal [.] me 受影响。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "在数据中心GPU芯片需求出现明显下降后 英伟达将其产能挪给RTX 5090",
       "link": "https://www.landiannews.com/archives/107918.html",
       "date": "2025-02-18 10:07",
@@ -142,46 +232,6 @@
       "category": "News"
     },
     {
-      "title": "亚马逊Kindle阅读器将从2月26日起不再支持通过USB下载和传输书籍",
-      "link": "https://www.landiannews.com/archives/107900.html",
-      "date": "2025-02-17 10:45",
-      "author": "蓝点网",
-      "timestamp": 1739760334.0,
-      "summary": "#硬件设备 亚马逊 Kindle 阅读器从 2 月 26 日起不再支持通过 USB 下载和传输书籍，后续用户仍然可以通过 Wi-Fi 进行传输。目前还不清楚亚马逊删除该功能的原因，如果从 DRM 版权保护角度考虑这也没太大意义，毕竟通过 Wi-Fi 传输也不算麻烦。查看全文：https://ourl...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Windows 11 24H2版安装2月累积更新后资源管理器异常 导致经常出现黑屏",
-      "link": "https://www.landiannews.com/archives/107899.html",
-      "date": "2025-02-17 10:31",
-      "author": "蓝点网",
-      "timestamp": 1739759496.0,
-      "summary": "#系统资讯 Windows 11 24H2 版安装 2 月累积更新后资源管理器异常，包括出现黑屏、任务栏消失、无法启动资源管理器、无法打开文件夹等。目前蓝点网碰到的主要是黑屏和任务栏消失，只能重启资源管理器进程恢复显示。查看全文：https://ourl.co/107899",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软澄清Win11不再支持英特尔第8/9/10代处理器 没有放弃只是推荐OEM用新CPU",
-      "link": "https://www.landiannews.com/archives/107898.html",
-      "date": "2025-02-17 10:15",
-      "author": "蓝点网",
-      "timestamp": 1739758518.0,
-      "summary": "#系统资讯 微软澄清 Windows 11 不再支持英特尔第 8/9/10 代处理器：没有放弃支持只是推荐 OEM 用新款 CPU。这份 CPU 支持文档是面向 OEM 而非消费者的，消费者仍可以在旧款处理器上使用 Windows 11，只是微软推荐 OEM 不要再使用老旧的 CPU。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软宣布弃用Windows 11位置历史记录功能 将在未来版本中删除该选项",
-      "link": "https://www.landiannews.com/archives/107897.html",
-      "date": "2025-02-17 10:05",
-      "author": "蓝点网",
-      "timestamp": 1739757905.0,
-      "summary": "#系统资讯 微软宣布弃用 Windows 11 位置历史记录功能，将在未来版本中删除该选项。按微软描述该功能仅供微软小娜访问 24 小时内的本地位置信息，但微软小娜都已经停止开发，所以继续保留也没太大意义。查看全文：https://ourl.co/107897",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "清理旧仓库",
       "link": "https://www.archlinuxcn.org/cleaning-up-old-repositories/",
       "date": "2025-02-17 09:51",
@@ -210,56 +260,6 @@
       "summary": "题图由DALL·E生成，Prompt: 生成一张主题为“为什么写作”的图片",
       "source_url": "https://hutusi.com/",
       "category": "Blog"
-    },
-    {
-      "title": "西部数据将推出基于PCIe 5.0协议的新闪迪固态硬盘 连续读写速度可达14GB/s",
-      "link": "https://www.landiannews.com/archives/107896.html",
-      "date": "2025-02-16 14:29",
-      "author": "蓝点网",
-      "timestamp": 1739687355.0,
-      "summary": "#硬件设备 西部数据将推出基于 PCIe 5.0 协议的新款闪迪固态硬盘，连续读写速度可达 14GB/s。这些新固态硬盘基于 TLC 颗粒，可能采用慧荣 SM2508 芯片。闪迪还计划到 2028 年让 QLC 颗粒占存储产品的 75%，也就是未来闪迪大部分 SSD 都会采用 QLC。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌在Android 16中增加反诈功能：通话期间禁止启用侧载避免被引导安装恶意软件",
-      "link": "https://www.landiannews.com/archives/107895.html",
-      "date": "2025-02-16 13:57",
-      "author": "蓝点网",
-      "timestamp": 1739685458.0,
-      "summary": "#系统资讯 谷歌在 Android 16 测试版中增加反诈功能：通话期间禁止启用侧载安装权限避免被引导安装恶意软件。这项措施主要可以应对诈骗者通过电话指导用户通过侧载方式安装恶意软件并授予无障碍权限从而进行各种恶意操作和诈骗。查看全文：https://ourl.co/107895",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "热门任天堂DS模拟器DraStic从谷歌应用商店消失 尚不清楚具体原因是什么",
-      "link": "https://www.landiannews.com/archives/107894.html",
-      "date": "2025-02-16 13:43",
-      "author": "蓝点网",
-      "timestamp": 1739684635.0,
-      "summary": "#软件资讯 安卓平台热门的任天堂 DS 模拟器 DraStic 从谷歌应用商店消失，目前还不清楚具体原因。DraStic 开发商去年曾表示会从商店下架并开源，不过直到现在也没开源，而下架估计也非计划内的，或许也是迫于任天堂的法律压力。查看全文：https://ourl.co/107894",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿根廷总统效仿特朗普推出加密货币LIBRA 仅4小时开发团队就套现1亿美元",
-      "link": "https://www.landiannews.com/archives/107893.html",
-      "date": "2025-02-16 13:30",
-      "author": "蓝点网",
-      "timestamp": 1739683808.0,
-      "summary": "#加密货币 阿根廷总统米莱效仿特朗普发行加密货币 LIBRA，仅 4 小时开发团队就套现高达 1 亿美元。不过随后米莱否认参与该项目同时也删除了推文，米莱称自己被欺骗发布相关推文，现在阿根廷已成立调查组对此事件进行详细调查并可能对背后的团队 KIP Protocol 采取法律措施。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenAI董事会拒绝埃隆马斯克领导的财团提出的974亿美元收购要约",
-      "link": "https://www.landiannews.com/archives/107890.html",
-      "date": "2025-02-16 13:03",
-      "author": "蓝点网",
-      "timestamp": 1739682225.0,
-      "summary": "#人工智能 OpenAI 董事会拒绝埃隆马斯克领导的财团提出的 974 亿美元收购要约，董事会称马斯克的出价实际上根本不是出价。目前 OpenAI 估值超过 2,500 亿美元，马斯克的出价确实有些开玩笑，但马斯克强调如果 OpenAI 停止营利性转换他将撤回收购要约。查看全文：https://ou...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
     },
     {
       "title": "整理一下《重塑杏仁核》",
@@ -702,12 +702,12 @@
       "category": "News"
     },
     {
-      "title": "借助 NVIDIA Spectrum-X 网络平台和合作伙伴提升 AI 存储速度达48%",
+      "title": "NVIDIA Spectrum-X 网络平台和合作伙伴提升 AI 存储性能达48%",
       "link": "https://developer.nvidia.com/zh-cn/blog/accelerating-ai-storage-by-up-to-48-with-nvidia-spectrum-x-networking-platform-and-partners/",
       "date": "2025-02-04 14:56",
       "author": "NVIDIA 技术博客",
       "timestamp": 1738652185.0,
-      "summary": "AI 工厂依靠的不仅仅是计算结构。连接 GPU 的东西向网络对于 AI 应用程序性能至关重要，而连接高速存储阵 &#8230; Continued",
+      "summary": "AI 工厂依靠的不仅仅是计算网。当然，连接 GPU 的东西向网络对于 AI 应用的性能至关重要，而连接高速存储 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
@@ -2342,6 +2342,16 @@
       "category": "Blog"
     },
     {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "那些脱口而出的思考",
       "link": "https://anotherdayu.com/2024/6185/",
       "date": "2024-12-05 15:02",
@@ -3950,16 +3960,6 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
