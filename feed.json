@@ -2,6 +2,76 @@
   "update_time": "2025-02-19",
   "articles": [
     {
+      "title": "NAS制造商威联通(QNAP)推出NVMe SSD转U.2转接盒 帮助客户使用U.2槽位",
+      "link": "https://www.landiannews.com/archives/107959.html",
+      "date": "2025-02-19 17:00",
+      "author": "蓝点网",
+      "timestamp": 1739955610.0,
+      "summary": "#硬件设备 NAS 制造商威联通为自家全闪存 NAS 产品推出 NVMe SSD 转 U.2 转接盒，让企业有更多选择。U.2 是服务器常用的硬盘协议，产品也都是企业级的因此企业能够选择的 SKU 少、价格高，威联通希望通过转接盒让客户也能用上普通 NVMe SSD 降低成本。查看全文：https:...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "阿里云拉美区域首座数据中心在墨西哥开服 提供弹性计算/云存储/网络/容器服务",
+      "link": "https://www.landiannews.com/archives/107958.html",
+      "date": "2025-02-19 16:23",
+      "author": "蓝点网",
+      "timestamp": 1739953388.0,
+      "summary": "#云计算 阿里云在拉美区域的首座数据中心在墨西哥开服，首批提供 1 个可用区、提供弹性计算、云存储、网络和容器技术。测试显示目前阿里云和 Alibaba Cloud 都可以开通墨西哥区服务器实例，暂时只有 x86 产品起步 2 核心 4GB 内存，其他产品和规格暂时还没。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "热门基准测试工具AIDA64 v7.60版发布 不再支持Windows 95/98/ME",
+      "link": "https://www.landiannews.com/archives/107957.html",
+      "date": "2025-02-19 16:01",
+      "author": "蓝点网",
+      "timestamp": 1739952091.0,
+      "summary": "#软件资讯 Windows 热门基准测试工具 AIDA64 v7.60 版发布，不再支持 Windows 95/98/ME 系统。这些系统在 1995~2000 年之间发布，可能比一些网友年龄都大，此前 AIDA64 一直还提供支持才让人惊讶。查看全文：https://ourl.co/107957",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "因特朗普关税政策 宏碁宣布在美国销售的笔记本电脑等产品涨价10%",
+      "link": "https://www.landiannews.com/archives/107956.html",
+      "date": "2025-02-19 15:44",
+      "author": "蓝点网",
+      "timestamp": 1739951086.0,
+      "summary": "#行业资讯 宏碁 (Acer) 宣布在美国销售的笔记本电脑等产品涨价 10%，以反映特朗普额外施加的 10% 进口关税。宏碁董事长陈杰生表示，宏碁不得不调整最终用户价格以反映关税，宏碁认为由于美国进口关税，10% 也可能是默认上涨的价格。查看全文：https://ourl.co/107956",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知名压缩管理器WinRAR v7.10正式版发布 不再支持任何32位系统以及Vista",
+      "link": "https://www.landiannews.com/archives/107955.html",
+      "date": "2025-02-19 15:28",
+      "author": "蓝点网",
+      "timestamp": 1739950138.0,
+      "summary": "#软件资讯 知名压缩管理器 WinRAR v7.10 正式版现已发布，自此不再支持任何 32 位系统、也不再支持 Vista 系统。新版本要求 Windows 7 + 和 64 位版，对于 32 位版用户仍然可以使用旧版 WinRAR，但无法修复漏洞因此存在安全威胁。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[教程] MAS宣布TSForge激活：可通杀Win/Office所有现代版本和ESU付费更新",
+      "link": "https://www.landiannews.com/archives/107954.html",
+      "date": "2025-02-19 15:12",
+      "author": "蓝点网",
+      "timestamp": 1739949168.0,
+      "summary": "#软件资讯 MAS 团队宣布 TSForge 激活方式，可以通杀 Windows/Office 所有现代版本，并支持免付费开通 Windows 10 ESU 付费扩展安全更新。这种新的激活方式目前已经集成到 MAS 3.0 中，后续用户要激活 Windows 或 Office 时就可以使用 MAS ...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果即日起开始删除欧盟区未公布开发者住址/电话/邮件的所有应用程序",
+      "link": "https://www.landiannews.com/archives/107953.html",
+      "date": "2025-02-19 14:51",
+      "author": "蓝点网",
+      "timestamp": 1739947909.0,
+      "summary": "#科技资讯 苹果即日起从欧盟区应用商店下架未添加开发者个人信息的所有应用程序。根据欧盟数字服务法案要求，所有开发者都必须提供住址、电话号码和电子邮件地址并公布在商店里，现在最后截至日期已经过了，所以苹果直接清除了不满足要求的应用。查看全文：https://ourl.co/107953",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软发现针对macOS系统的XCSSET恶意软件新变种 似乎为了窃取加密货币钱包",
       "link": "https://www.landiannews.com/archives/107941.html",
       "date": "2025-02-19 11:00",
@@ -158,76 +228,6 @@
       "author": "蓝点网",
       "timestamp": 1739862004.0,
       "summary": "#人工智能 xAI 推出开发者活动可以充值 5 美元后每月获得 150 美元的信用额度，信用额度可以用来调用 Grok 系列模型 API 进行抵扣。这个活动非常超值，毕竟每个月都有 150 美元信用额度，推荐经常使用 AI 的同学冲起来。查看教程：https://ourl.co/107922",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "消息称iPhone SE 4使用的苹果自研5G基带芯片性能不如高通 无助于解决信号问题",
-      "link": "https://www.landiannews.com/archives/107921.html",
-      "date": "2025-02-18 14:20",
-      "author": "蓝点网",
-      "timestamp": 1739859637.0,
-      "summary": "#手机数码 消息称即将推出的 iPhone SE 4 使用苹果自研 5G 基带芯片，在性能方面不如高通而且不支持 5G 毫米波。苹果选择在入门级 SE 机型上测试新芯片其实也是为了逐步提升性能和稳定性，所以指望自研芯片解决 iPhone 的信号差问题估计暂时是没戏的。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "埃隆马斯克的xAI公司发布旗舰模型Grok 3 新订阅方案SuperGrok每月30美元",
-      "link": "https://www.landiannews.com/archives/107920.html",
-      "date": "2025-02-18 14:03",
-      "author": "蓝点网",
-      "timestamp": 1739858638.0,
-      "summary": "#人工智能 埃隆马斯克旗下的人工智能公司 xAI 推出新旗舰模型 Grok 3，xAI 还推出新订阅计划 SuperGrok，每月 30 美元或每年 300 美元。Grok 3 能力是 Grok 2 的 10 倍以上，基准测试得分超过 GPT-4o，支持推理模式并提供深度研究等功能。查看全文：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "X/Twitter全平台封锁加密通讯应用Signal的链接 无论是推文还是私信都禁止发布",
-      "link": "https://www.landiannews.com/archives/107919.html",
-      "date": "2025-02-18 13:47",
-      "author": "蓝点网",
-      "timestamp": 1739857676.0,
-      "summary": "#科技资讯 X/Twitter 全平台封锁加密通讯应用 Signal 的链接，无论是推文还是私信都禁止发布包含该链接的内容。测试显示 Telegram 的链接 t [.] me 是正常的，目前也只有 Signal 的 signal [.] me 受影响。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "在数据中心GPU芯片需求出现明显下降后 英伟达将其产能挪给RTX 5090",
-      "link": "https://www.landiannews.com/archives/107918.html",
-      "date": "2025-02-18 10:07",
-      "author": "蓝点网",
-      "timestamp": 1739844476.0,
-      "summary": "#硬件设备 在数据中心 GPU 芯片需求出现明显下降后，英伟达计划将产能挪给 RTX 5090 增加游戏显卡的供应量。在 X 上有网友爆料称英伟达可能会将 GB200 产能中多余的 GB100 芯片整合到 GB202 架构中，这样适用于高端游戏显卡的芯片供应量可以快速提升。查看全文：https://...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Windows 11记事本现在还需登录微软账号才能用？还好只是使用AI时才需登录",
-      "link": "https://www.landiannews.com/archives/107917.html",
-      "date": "2025-02-18 09:52",
-      "author": "蓝点网",
-      "timestamp": 1739843554.0,
-      "summary": "#软件资讯 Windows 11 记事本应用现在还需要登录账号才能使用？还好只是使用 AI 服务时才需登录。当用户打开记事本时可能会看到弹出的登录截图，微软称当用户使用重写及其他 AI 功能时需登录账号并收集信息用于 AI 安全目的。查看全文：https://ourl.co/107917",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "又是思路清奇！研究人员生成长度达250万字符的文件名用来绕过谷歌的通知系统",
-      "link": "https://www.landiannews.com/archives/107916.html",
-      "date": "2025-02-17 16:10",
-      "author": "蓝点网",
-      "timestamp": 1739779806.0,
-      "summary": "#安全资讯 研究人员发现谷歌账号系统的漏洞可以获取任意 YouTube 频道的真实 Gmail 邮箱，谷歌最初准备奖励 3133 美元，随后认为该漏洞影响较大又额外奖励 7500 美元。利用漏洞过程中还涉及极长的文件名，该文件名高达 250 万个字符，导致谷歌通知系统都被绕过。查看全文：https:...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌Gemini服务开始切换为默认Gemini 2.0 Flash 将显著提高响应质量和速度",
-      "link": "https://www.landiannews.com/archives/107915.html",
-      "date": "2025-02-17 15:52",
-      "author": "蓝点网",
-      "timestamp": 1739778756.0,
-      "summary": "#人工智能 谷歌 Gemini AI 服务开始切换为默认 Gemini 2.0 Flash 版，将显著提高响应质量并缩短响应等待时间。按谷歌发布的消息，无论是付费用户还是免费用户当前都将用上 Flash 版，只有商业和企业客户还需要等待几周才能更新。查看全文：https://ourl.co/1079...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -1572,22 +1572,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -2350,16 +2350,6 @@
       "summary": "Beauty in the Overlooked Ordinary Saul Leiter 是我开始街头摄影时 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "那些脱口而出的思考",
@@ -3970,6 +3960,16 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
