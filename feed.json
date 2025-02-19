@@ -2,6 +2,106 @@
   "update_time": "2025-02-19",
   "articles": [
     {
+      "title": "微软发现针对macOS系统的XCSSET恶意软件新变种 似乎为了窃取加密货币钱包",
+      "link": "https://www.landiannews.com/archives/107941.html",
+      "date": "2025-02-19 11:00",
+      "author": "蓝点网",
+      "timestamp": 1739934057.0,
+      "summary": "#安全资讯 微软威胁情报团队发现针对 macOS 系统的 XCSSET 恶意软件新变种，专门针对加密钱包窃取信息。XCSSET 新变种会收集用户的加密货币钱包信息、备忘录以及各种文件，估计目标主要是加密货币投资者。查看全文：https://ourl.co/107941",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "开源项目FFmpegKit因开发者精力和潜在的专利风险而关停 后续不再更新",
+      "link": "https://www.landiannews.com/archives/107940.html",
+      "date": "2025-02-19 10:44",
+      "author": "蓝点网",
+      "timestamp": 1739933097.0,
+      "summary": "#软件资讯 开源项目 FFmpegKit 项目因开发者个人精力和潜在的版权问题彻底关停，相关版本也会在 4 月 1 日后全部删除。开发者 Taner Sener 建议使用该项目的其他开发者咨询专业版权律师以决定是否继续使用该项目，避免未来产生版权问题 (与 MPEG 母公司 Via-LA 的版权问题...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Meta将在4月29日举办首届人工智能开发者大会LlamaCon 2025：只谈开源",
+      "link": "https://www.landiannews.com/archives/107939.html",
+      "date": "2025-02-19 10:26",
+      "author": "蓝点网",
+      "timestamp": 1739931996.0,
+      "summary": "#人工智能 社交媒体集团 Meta 将在 4 月 29 日举办首届人工智能开发者大会：LlamaCon 2025，此次开发者大会只谈开源。Meta 预告称将分享该公司在开源人工智能技术上的最新进展，帮助开发者构建出色的应用和产品。查看全文：https://ourl.co/107939",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "李彦宏强调无论开源闭源解决现实问题才有价值 似乎是回应开源智商税问题",
+      "link": "https://www.landiannews.com/archives/107938.html",
+      "date": "2025-02-19 10:13",
+      "author": "蓝点网",
+      "timestamp": 1739931187.0,
+      "summary": "#人工智能 似乎是在回应开源就是智商税问题：李彦宏在财报电话会议中强调无论开源闭源只有在大规模解决现实问题时才具备真实价值。李彦宏还表示百度开源文心 4.5 系列模型源自对百度技术领先地位的信心，开源将促进文心模型的广泛应用和扩大影响力。查看全文：https://ourl.co/107938",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软决定暂时不推进微软账户的默认记住登录状态 因为可能会造成安全问题",
+      "link": "https://www.landiannews.com/archives/107937.html",
+      "date": "2025-02-19 09:51",
+      "author": "蓝点网",
+      "timestamp": 1739929875.0,
+      "summary": "#科技资讯 微软决定暂时不推进微软账户的默认记住登录状态，因为可能会造成比较严重的安全问题。原本登录账号变成默认记住登录是在 2 月份生效的，现在微软已删除文档并表示这是微软从产品团队错误发布的不完整信息。查看全文：https://ourl.co/107937",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软正在开发新的备份与传输工具 可以将Windows 11应用和数据无缝迁移到新PC",
+      "link": "https://www.landiannews.com/archives/107936.html",
+      "date": "2025-02-19 09:35",
+      "author": "蓝点网",
+      "timestamp": 1739928953.0,
+      "summary": "#软件资讯 微软正在开发新的备份和传输工具，可以将 Windows 11 应用和数据无缝迁移到新 PC。遗憾的是备份功能依然仅支持 OneDrive，而且无论是备份和传输都不清楚是否支持 Win32 软件，如果还不支持 Win32 软件那只能继续说是鸡肋。查看全文：https://ourl.co/1...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "基于法律问题微软在欧盟精简Windows 11资源管理器 删除云文件和推荐等",
+      "link": "https://www.landiannews.com/archives/107935.html",
+      "date": "2025-02-19 09:19",
+      "author": "蓝点网",
+      "timestamp": 1739927961.0,
+      "summary": "#系统资讯 基于法律问题微软在欧盟市场精简 Windows 11 资源管理器，删除关于云端文件的最近、收藏夹和推荐等。即资源管理器重新回到本地模式，不再基于 OneDrive 显示各种云推荐，但目前仅限欧盟企业用户。查看全文：https://ourl.co/107935",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "公众人物，是否应该接受高于常人的道德要求？",
+      "link": "http://m.wufazhuce.com/question/4298",
+      "date": "2025-02-19 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739917502.0,
+      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            搞钱的小李问\n        \n        \n        公众人物，是否应该接受高于常人的道德要求？\n    \n\n    \n\n            \n      ...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "骑马去帮叔叔剪羊毛",
+      "link": "http://m.wufazhuce.com/article/6701",
+      "date": "2025-02-19 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739917502.0,
+      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／索南才让\n\t\n\t&nbsp;青海牧场，主人公去叔叔家帮忙剪羊毛，却不曾想这番邀请另有深意。1春末，我从失去亲人的漩涡中摆脱出来，心境平和下来。我开始习惯一个人生活，有了很多无所事事的空荡荡的时间。为了不过于浪费这些宝贵的光阴...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4519",
+      "link": "http://m.wufazhuce.com/one/4668",
+      "date": "2025-02-19 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1739917502.0,
+      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4519摄影 | Imthemery\n\t19\n\tFeb. 2025\n\t\n\t你知道吗，人的脸上的空间是有限的。如果你的脸上满是笑容，就腾不出地方流泪了。\t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
       "title": "Kimi智能助手开发商月之暗面计划大幅度削减推广预算 疑似受到DeepSeek冲击",
       "link": "https://www.landiannews.com/archives/107934.html",
       "date": "2025-02-18 17:43",
@@ -112,36 +212,6 @@
       "category": "News"
     },
     {
-      "title": "要不要掺合好友的感情变故？",
-      "link": "http://m.wufazhuce.com/question/4297",
-      "date": "2025-02-18 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739831102.0,
-      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            好奇地问\n        \n        \n        要不要掺合好友的感情变故？\n    \n\n    \n\n            \n            宏桑答\n...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "花样年华1990",
-      "link": "http://m.wufazhuce.com/article/6703",
-      "date": "2025-02-18 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739831102.0,
-      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／周宏翔\n\t\n\t&nbsp;网上相传，世纪初，就有人流出王家卫《花样年华》的部分剧本，其中包括九十年代的部分，影迷一时兴奋，难辨真伪，从而对这份剧本残本有了无限想象。2025年情人节，王家卫的《花样年华》重映超长版，上映前，采...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4518",
-      "link": "http://m.wufazhuce.com/one/4667",
-      "date": "2025-02-18 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739831102.0,
-      "summary": "18  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4518摄影 | Esrakorkmaz\n\t18\n\tFeb. 2025\n\t\n\t出来了，就一步一个天地，一步一个家。\t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
       "title": "又是思路清奇！研究人员生成长度达250万字符的文件名用来绕过谷歌的通知系统",
       "link": "https://www.landiannews.com/archives/107916.html",
       "date": "2025-02-17 16:10",
@@ -158,76 +228,6 @@
       "author": "蓝点网",
       "timestamp": 1739778756.0,
       "summary": "#人工智能 谷歌 Gemini AI 服务开始切换为默认 Gemini 2.0 Flash 版，将显著提高响应质量并缩短响应等待时间。按谷歌发布的消息，无论是付费用户还是免费用户当前都将用上 Flash 版，只有商业和企业客户还需要等待几周才能更新。查看全文：https://ourl.co/1079...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果计划在苹果地图应用中增加搜索置顶广告 类似谷歌地图中的商业模式",
-      "link": "https://www.landiannews.com/archives/107914.html",
-      "date": "2025-02-17 15:44",
-      "author": "蓝点网",
-      "timestamp": 1739778266.0,
-      "summary": "#科技资讯 苹果计划在苹果地图中添加搜索置顶广告，类似谷歌地图中的商业模式。苹果大多数应用都是没有广告的，但一旦苹果决定在自家应用里添加广告，可能就不会停下脚步，估计后续会有更多应用也会出现广告。查看全文：https://ourl.co/107914",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Meta宣布总长度高达5万公里的海底光缆项目 连接美洲/大洋洲/亚洲/非洲",
-      "link": "https://www.landiannews.com/archives/107913.html",
-      "date": "2025-02-17 15:31",
-      "author": "蓝点网",
-      "timestamp": 1739777482.0,
-      "summary": "#网络设备 社交媒体集团 Meta 宣布总长达达到 50,000 公里的海底光缆项目 Waterworth，连接南北美洲、大洋洲、亚洲和非洲。这条海底光缆的特点在于完全由 Meta 拥有并运营，而不是像其他海底光缆那样有多家 ISP 或科技公司参与，该项目总投资可能会超过 100 亿美元。查看全文：...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "西部数据计划在2026年推出热辅助磁记录硬盘 到2030年推出100TB的硬盘",
-      "link": "https://www.landiannews.com/archives/107912.html",
-      "date": "2025-02-17 15:15",
-      "author": "蓝点网",
-      "timestamp": 1739776547.0,
-      "summary": "#硬件设备 西部数据公布硬件技术路线图：2026 年底首次推出基于热辅助磁记录 HAMR 技术的硬盘，到 2030 年推出 100TB 的硬盘。对西部数据来说微波辅助磁记录已经是弃儿，热辅助磁记录才是未来，希捷也同样是这么认为的。查看全文：https://ourl.co/107912",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "百度宣布将在百度搜索内全面接入DeepSeek模型的深度搜索功能",
-      "link": "https://www.landiannews.com/archives/107911.html",
-      "date": "2025-02-17 15:01",
-      "author": "蓝点网",
-      "timestamp": 1739775718.0,
-      "summary": "#人工智能 百度称为丰富多元化的搜索体验，将在百度搜索内全面接入 DeepSeek 模型的深度搜索功能。可以看出来自从 DeepSeek 问世并成为热点后百度也顾不上李彦宏的面子问题了，反正文心平台都接入了 DeepSeek，脸都丢完了也不在乎再继续丢脸。查看全文：https://ourl.co/1...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软修复Windows Server 2025服务器系统在iSCSI协议下无法启动的问题",
-      "link": "https://www.landiannews.com/archives/107910.html",
-      "date": "2025-02-17 14:50",
-      "author": "蓝点网",
-      "timestamp": 1739775010.0,
-      "summary": "#系统资讯 微软在 2 月更新种修复 Windows Server 2025 服务器系统无法启动的问题，该问题主要影响使用 iSCSI 挂载远程存储设备的企业。这个问题最初在 2024 年 10 月出现，直到现在微软才通过 2 月累积更新完成修复。查看全文：https://ourl.co/10791...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "由AI驱动的增强保护功能抵达Chrome正式版 但用户浏览数据会被发送给谷歌",
-      "link": "https://www.landiannews.com/archives/107902.html",
-      "date": "2025-02-17 11:23",
-      "author": "蓝点网",
-      "timestamp": 1739762624.0,
-      "summary": "#软件资讯 由 AI 驱动的增强保护功能抵达 Chrome 正式版，此功能会被默认开启且会用户浏览和下载数据发送给谷歌进行分析。该功能借助 AI 应该可以识别恶意网站和钓鱼网站 (即便谷歌未曾得知的网站) 并弹出警告，如果用户介意隐私问题也可以主动关闭此功能。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "消息称博通和台积电正在探索分别收购英特尔芯片设计和制造业务从而控制英特尔",
-      "link": "https://www.landiannews.com/archives/107901.html",
-      "date": "2025-02-17 11:00",
-      "author": "蓝点网",
-      "timestamp": 1739761253.0,
-      "summary": "#科技资讯 消息称博通和台积电正在探索分别收购英特尔的芯片设计和制造业务从而控制英特尔。博通希望收购英特尔的芯片设计和营销业务，台积电的麻烦更大，估计会通过投资者财团的形式控制英特尔部分或全部芯片工厂，这些芯片工厂是英特尔陷入困境的主要原因之一。查看全文：https://ourl.co/107901",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -329,6 +329,16 @@
       "timestamp": 1739626685.0,
       "summary": "言语不仅是思想载体，更是一种建构认知的符号权力。",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最“安全”的防线",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_secure_defenders_of_2024/",
+      "date": "2025-02-15 17:54",
+      "author": "DARKNAVY",
+      "timestamp": 1739613274.0,
+      "summary": "在攻防对抗日益激烈的2024年，安全软件一直被视为企业安全防线的重要基石。然而，这些安全软件本身也可能存在漏洞，甚至被攻击者利用作为入侵的跳板来对用户造成危害。多年来，因为安全软件而导致的事故不禁让人产生一个疑问——安全软件真的可信吗？\n以下为本期《深蓝洞察 | 2024 年度安全报告》的第八篇。\n...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -1562,22 +1572,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
       "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -2340,6 +2350,16 @@
       "summary": "Beauty in the Overlooked Ordinary Saul Leiter 是我开始街头摄影时 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
+    },
+    {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "那些脱口而出的思考",
@@ -3950,16 +3970,6 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
