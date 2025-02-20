@@ -1,103 +1,76 @@
 # RSS Reader
 
-一个简单的 RSS 阅读器，支持分类查看订阅源的最新文章。
+一个简单的 RSS 阅读器，支持分类查看订阅源的最新文章，并通过邮件通知更新。
 
 ## 功能特点
 
-- 支持自定义分类和标签显示
-- 响应式设计，支持移动端浏览
-- 自动跟随系统的暗色模式
-- 每小时自动更新文章
-- 支持一键发起 GitHub Issue 进行评论
-- 支持一键收藏文章到 GitHub Issue
-- 支持自定义每个分类的文章显示方式和数量限制
-- 支持已读/未读文章状态管理
-- 本地保存阅读状态
-- 纯静态页面，无需后端服务
-- 支持 PWA，可添加到主屏幕
-- 使用 GitHub Actions 自动更新文章
-
-## 使用方法
-
-1. Fork 本仓库
-2. 修改配置文件
-3. 在仓库的 Settings -> Pages 中开启 GitHub Pages
-4. 访问 `https://你的用户名.github.io/RSS` 即可阅读
+- 支持多个 RSS 源订阅
+- 按分类（博客/资讯）整理文章
+- 每日定时更新（中国时间：06:00, 11:00, 20:00）
+- 邮件通知最新更新
+- GitHub Issues 评论和收藏功能
 
 ## 配置说明
 
 ### RSS 源配置
 
-编辑 `feed.list` 文件，按分类添加 RSS 源的地址：
-
-```
-Blog:
-https://example1.com/feed
-https://example2.com/rss
-
-Information:
-https://news1.com/feed
-https://news2.com/rss
-
-Forums:
-https://forum1.com/feed
-https://forum2.com/rss
-```
-
-### 标签显示配置
-
-编辑 `config/labels.yml` 文件，自定义每个分类的显示方式：
+在 `config/feeds.yml` 中配置 RSS 源：
 
 ```yaml
-labels:
-  - feed_category: Blog        # feed.list中的分类名
-    display_name: 博客         # 主页显示的标签名
-    icon: mdi-post            # 标签图标
-    show_date_divider: true   # 是否显示今日/历史分类
-    article_limit: 60         # 每个源抓取的文章数量限制
-
-  # ... 其他分类配置
+feeds:
+  - category: Blog
+    url: https://example.com/feed
+    name: 示例博客
+  
+  - category: News
+    url: https://example.com/news/feed
+    name: 示例新闻
 ```
 
-### GitHub 功能配置
+### 邮件通知配置
 
-编辑 `config/github.yml` 文件，配置评论和收藏功能：
+1. 在 `config/email.yml` 中配置收件人：
 
 ```yaml
-github:
-  repository: username/repo    # 你的GitHub仓库地址
-
-  comment:
-    enabled: true             # 是否启用评论功能
-    label: comment           # 评论issue的标签
-    title_template: "{title} ({date})"
-    body_template: "{summary}\n\n链接：{link}"
-
-  favorite:
-    enabled: true            # 是否启用收藏功能
-    label: favorite         # 收藏issue的标签
-    title_template: "{title} ({date})"
-    body_template: "{summary}\n\n链接：{link}"
+email:
+  enabled: true                # 是否启用邮件通知
+  recipients:                  # 收件人列表
+    - your-email@example.com
 ```
 
-## 调试说明
+2. 在 GitHub 仓库添加必要的 Secrets：
 
-本地调试时，可以使用 Python 的内置 HTTP 服务器：
+   1. 进入仓库 Settings -> Security -> Secrets and variables -> Actions
+   2. 点击 "New repository secret" 按钮
+   3. 添加以下 4 个 Repository secrets：
 
+   - `SMTP_SERVER`: SMTP 服务器地址（如：smtp.gmail.com）
+   - `SMTP_PORT`: SMTP 服务器端口（如：587）
+   - `SENDER_EMAIL`: 用于发送邮件的邮箱地址
+   - `SENDER_PASSWORD`: 邮箱密码或应用专用密码
+     - 如果使用 Gmail，需要使用应用专用密码
+     - 可在 Google 账号设置 -> 安全性 -> 2 步验证 -> 应用专用密码 中生成
+
+## 本地测试
+
+1. 测试邮件模板：
 ```bash
-# 在 RSS 目录下运行
-python3 -m http.server 8000
+python test_email_template.py
+```
+生成的 `email_preview.html` 文件可用浏览器打开预览邮件效果。
 
-# 然后在浏览器访问
-http://localhost:8000
+2. 测试抓取文章：
+```bash
+python fetch_feeds.py
 ```
 
-## 自定义配置
+## 自动化部署
 
-- 修改 `static/style.css` 自定义界面样式
-- 修改 `fetch_feeds.py` 自定义文章获取逻辑
-- 修改 `index.html` 自定义页面结构和功能
-- 修改配置文件自定义功能行为
+项目使用 GitHub Actions 实现自动化部署：
+
+1. 定时任务：每天北京时间 06:00, 11:00, 20:00 自动运行
+2. 手动触发：可在 Actions 页面手动触发更新
+3. 自动提交：更新后自动提交变更到仓库
 
 ## 许可证
 

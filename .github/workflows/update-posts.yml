@@ -19,12 +19,21 @@ jobs:
     - name: Set up Python environment
       run: |
         python3 -m pip install --upgrade pip
-        pip3 install feedparser pytz
+        pip3 install feedparser pytz pyyaml
     
     - name: Fetch RSS feeds
       run: |
         ls -la
         python3 fetch_feeds.py
+    
+    - name: Send email notification
+      env:
+        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+      run: |
+        python3 send_email.py
     
     - name: Deploy
       run: |
