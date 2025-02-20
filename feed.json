@@ -2,6 +2,106 @@
   "update_time": "2025-02-20",
   "articles": [
     {
+      "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
+      "link": "https://www.landiannews.com/archives/107966.html",
+      "date": "2025-02-20 10:53",
+      "author": "蓝点网",
+      "timestamp": 1740020004.0,
+      "summary": "#软件资讯 火狐浏览器将通过 Firefox 115 ESR 版将 Windows 7 系统的支持延长至 2025 年 9 月。当用户使用 115 ESR 则可以继续获得安全更新，Firefox 通过观察用户量决定是否延长，或许 9 月份还会再次延长吧。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "OpenSSH推出9.9p2版修复两枚中危安全漏洞 可用于中间人劫持和DoS攻击",
+      "link": "https://www.landiannews.com/archives/107965.html",
+      "date": "2025-02-20 10:42",
+      "author": "蓝点网",
+      "timestamp": 1740019358.0,
+      "summary": "#安全资讯 OpenSSH 推出 9.9p2 版修复安全漏洞，其中 CVE-2025-26465 漏洞可在无需用户交互的情况下发起中间人劫持。这个漏洞主要影响的是 FreeBSD、SUSE、Alpine Linux等，建议使用 OpenSSH 的话都更新到最新版。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "传DeepSeek首次考虑外部融资 潜在投资者包括阿里 但DeepSeek称均为谣言",
+      "link": "https://www.landiannews.com/archives/107964.html",
+      "date": "2025-02-20 10:28",
+      "author": "蓝点网",
+      "timestamp": 1740018502.0,
+      "summary": "#人工智能 消息称 DeepSeek 首次考虑外部融资，潜在投资者包括阿里巴巴等，但 DeepSeek 称均为谣言。The Information 发布报道称 DeepSeek 及其母公司幻方量化首次考虑外部融资以支持基础设施建设和模型开发训练等，DeepSeek 至今没有融资的部分原因是担忧部分基...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谋智基金会宣布转向隐私广告和AI服务 同时元老级任务米切尔贝克离开",
+      "link": "https://www.landiannews.com/archives/107963.html",
+      "date": "2025-02-20 10:13",
+      "author": "蓝点网",
+      "timestamp": 1740017582.0,
+      "summary": "#科技资讯 谋智基金会宣布转向隐私广告和 AI 服务，同时元老级人物米切尔贝克特不再担任董事会主席、董事会成员。此前谋智基金会收购广告公司已经暗示了最终还是回到广告业务上，不知道这对 Firefox 是否会产生负面影响。查看全文：https://ourl.co/107963",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果最新推出的iPhone 16e成为里程碑式产品 放弃Home键和指纹识别等",
+      "link": "https://www.landiannews.com/archives/107962.html",
+      "date": "2025-02-20 09:50",
+      "author": "蓝点网",
+      "timestamp": 1740016245.0,
+      "summary": "#手机数码 苹果最新推出的 iPhone 16e 成为里程碑式产品，放弃 Home 键、指纹识别和 Lightning 接口等。此前在 iPhone SE 3 中苹果还继续沿用 Home 键和指纹识别，不过 16e 也转向全面屏后 Home 键不复存在，所以自然也没有指纹识别了。查看全文：https...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果最新推出的iPhone 16e采用自研的5G芯片C1 苹果称其是能效最高的基带芯片",
+      "link": "https://www.landiannews.com/archives/107961.html",
+      "date": "2025-02-20 09:34",
+      "author": "蓝点网",
+      "timestamp": 1740015249.0,
+      "summary": "#手机数码 苹果最新推出的 iPhone 16e 采用自研的 5G 基带芯片 C1，苹果称其是能效比最高的基带芯片。尽管苹果称其实现快速可靠的 5G 蜂窝连接，不过从已知消息来看该芯片不支持毫米波，苹果可能也需要更多时间对其他东西进行调试和优化。查看全文：https://ourl.co/107961",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果推出iPhone 16e 采用A18芯片支持AI功能 起售价599美元默认128GB存储",
+      "link": "https://www.landiannews.com/archives/107960.html",
+      "date": "2025-02-20 09:21",
+      "author": "蓝点网",
+      "timestamp": 1740014485.0,
+      "summary": "#手机数码 苹果推出新入门级机型 iPhone 16e，采用 6 核心的 A18 仿生芯片，默认 8GB 内存和 128GB 存储，起售价 599 美元。该机型最大的优势就是可以运行苹果 AI 服务，其他方面的硬件配置确实比较低，不过作为入门级机型基本也可以了。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "人类，为什么如此善变？",
+      "link": "http://m.wufazhuce.com/question/4300",
+      "date": "2025-02-20 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740003903.0,
+      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            哦，阿飘问\n        \n        \n        人类，为什么如此善变？\n    \n\n    \n\n            \n            朱德庸答\n...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "盛宴",
+      "link": "http://m.wufazhuce.com/article/6700",
+      "date": "2025-02-20 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740003903.0,
+      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／肖达明\n\t\n\t&nbsp;因为特别的细菌，&lsquo;我&rsquo;拥有神奇的体质，食用&lsquo;垃圾&rsquo;便能维持身体所需。为了寻找新型的微菌，&lsquo;我&rsquo;来到了印度，在这里认识了一个不太...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4520",
+      "link": "http://m.wufazhuce.com/one/4669",
+      "date": "2025-02-20 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740003903.0,
+      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4520摄影 | Homnaychupgi\n\t20\n\tFeb. 2025\n\t\n\t你小时候那么向往的东西，等你真正得到它们的时候，似乎并不那么美妙了。\t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
       "title": "NAS制造商威联通(QNAP)推出NVMe SSD转U.2转接盒 帮助客户使用U.2槽位",
       "link": "https://www.landiannews.com/archives/107959.html",
       "date": "2025-02-19 17:00",
@@ -132,106 +232,6 @@
       "category": "News"
     },
     {
-      "title": "基于法律问题微软在欧盟精简Windows 11资源管理器 删除云文件和推荐等",
-      "link": "https://www.landiannews.com/archives/107935.html",
-      "date": "2025-02-19 09:19",
-      "author": "蓝点网",
-      "timestamp": 1739927961.0,
-      "summary": "#系统资讯 基于法律问题微软在欧盟市场精简 Windows 11 资源管理器，删除关于云端文件的最近、收藏夹和推荐等。即资源管理器重新回到本地模式，不再基于 OneDrive 显示各种云推荐，但目前仅限欧盟企业用户。查看全文：https://ourl.co/107935",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "公众人物，是否应该接受高于常人的道德要求？",
-      "link": "http://m.wufazhuce.com/question/4298",
-      "date": "2025-02-19 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739917502.0,
-      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            搞钱的小李问\n        \n        \n        公众人物，是否应该接受高于常人的道德要求？\n    \n\n    \n\n            \n      ...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "骑马去帮叔叔剪羊毛",
-      "link": "http://m.wufazhuce.com/article/6701",
-      "date": "2025-02-19 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739917502.0,
-      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／索南才让\n\t\n\t&nbsp;青海牧场，主人公去叔叔家帮忙剪羊毛，却不曾想这番邀请另有深意。1春末，我从失去亲人的漩涡中摆脱出来，心境平和下来。我开始习惯一个人生活，有了很多无所事事的空荡荡的时间。为了不过于浪费这些宝贵的光阴...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4519",
-      "link": "http://m.wufazhuce.com/one/4668",
-      "date": "2025-02-19 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1739917502.0,
-      "summary": "19  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4519摄影 | Imthemery\n\t19\n\tFeb. 2025\n\t\n\t你知道吗，人的脸上的空间是有限的。如果你的脸上满是笑容，就腾不出地方流泪了。\t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Kimi智能助手开发商月之暗面计划大幅度削减推广预算 疑似受到DeepSeek冲击",
-      "link": "https://www.landiannews.com/archives/107934.html",
-      "date": "2025-02-18 17:43",
-      "author": "蓝点网",
-      "timestamp": 1739871836.0,
-      "summary": "#人工智能 Kimi 智能助手开发商月之暗面计划大幅度削减推广预算，疑似受到 DeepSeek 冲击。在 2024 年月之暗面花费大量资金在各种渠道推广 Kimi，但 DeepSeek 问世后非开源模型和产品的融资估计不好拿了。查看全文：https://ourl.co/107934",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "X/Twitter将其Premium+订阅从22美元涨价至40美元/月 只因可以优先使用Grok 3模型",
-      "link": "https://www.landiannews.com/archives/107933.html",
-      "date": "2025-02-18 17:25",
-      "author": "蓝点网",
-      "timestamp": 1739870739.0,
-      "summary": "#人工智能 X/Twitter 将其 Premium + 订阅价格从 22 美元涨价至 40 美元 / 月，涨幅高达 45%，而在 24 年 12 月该订阅刚从 16 美元涨价至 22 美元。可能是因为 X Premium + 支持率先使用 Grok 3、深度搜索和推理功能，这才让 X 有底气如此大...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "腾讯元宝AI平台疑似出现快回收和58到家广告 腾讯回应称非广告已交技术排查",
-      "link": "https://www.landiannews.com/archives/107932.html",
-      "date": "2025-02-18 17:12",
-      "author": "蓝点网",
-      "timestamp": 1739869928.0,
-      "summary": "#人工智能 腾讯元宝 AI 平台疑似出现快回收和 58 同城广告，腾讯回应称并非广告而是呈现问题，目前已同步给技术团队进行排查。腾讯公关总监称这应该是引用来源资料添加的超链接而非广告，即引用名称 + 超链接样式，后续会针对此类呈现问题进行优化。查看全文：https://ourl.co/107932",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Fedora Linux测试WSL官方发行版镜像 下载镜像后通过命令即可本地部署",
-      "link": "https://www.landiannews.com/archives/107924.html",
-      "date": "2025-02-18 15:43",
-      "author": "蓝点网",
-      "timestamp": 1739864612.0,
-      "summary": "#系统资讯 Fedora Linux 测试 WSL 官方发行版镜像，下载镜像后通过 WSL 命令即可本地部署。该功能需要 WSL 2.4.4 + 版，目前提供的包括 x86_64 版和 arm64 版，预计正式版在 4 月份发布。下载地址：https://ourl.co/107924",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软AI编程助手GitHub Copilot for Xcode预览版发布 可对话式检查或生成代码",
-      "link": "https://www.landiannews.com/archives/107923.html",
-      "date": "2025-02-18 15:28",
-      "author": "蓝点网",
-      "timestamp": 1739863680.0,
-      "summary": "#人工智能 微软 AI 编程助手 GitHub Copilot for Xcode Chat 预览版发布，帮助开发者在苹果 Xcode IDE 上使用 AI 辅助开发。GitHub Copilot 可以在任务栏和 Xcode 中进行对话，也可以在 Xcode 中代码补全、检查代码、辅助编程等，免费版...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "xAI开发者平台提供首充活动！充值5美元即可未来每个月获得150美元信用额度",
-      "link": "https://www.landiannews.com/archives/107922.html",
-      "date": "2025-02-18 15:00",
-      "author": "蓝点网",
-      "timestamp": 1739862004.0,
-      "summary": "#人工智能 xAI 推出开发者活动可以充值 5 美元后每月获得 150 美元的信用额度，信用额度可以用来调用 Grok 系列模型 API 进行抵扣。这个活动非常超值，毕竟每个月都有 150 美元信用额度，推荐经常使用 AI 的同学冲起来。查看教程：https://ourl.co/107922",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "清理旧仓库",
       "link": "https://www.archlinuxcn.org/cleaning-up-old-repositories/",
       "date": "2025-02-17 09:51",
@@ -249,6 +249,16 @@
       "timestamp": 1739715864.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 57 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n摄于江西武功山。也是春节假期期间去的，...",
       "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
+      "title": "2024年度最憋屈的漏洞披露",
+      "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_frustrating_vulnerability_disclosure_of_2024/",
+      "date": "2025-02-16 17:58",
+      "author": "DARKNAVY",
+      "timestamp": 1739699896.0,
+      "summary": "在网络安全领域，漏洞披露一直被视为保护用户的重要环节，但在现实中，这一过程却充满了争议和矛盾。究竟什么才算得上&quot;负责任的披露&quot;？当厂商在信息公开和补丁发布上占据主导地位，而安全研究者则需要耗费大量精力进行沟通与博弈，这一模式是否还能真正实现保护用户安全的初衷？在技术快速演进、网络...",
+      "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
     },
     {
@@ -2352,6 +2362,16 @@
       "category": "Blog"
     },
     {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "那些脱口而出的思考",
       "link": "https://anotherdayu.com/2024/6185/",
       "date": "2024-12-05 15:02",
@@ -3960,16 +3980,6 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
