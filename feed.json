@@ -1,6 +1,36 @@
 {
-  "update_time": "2025-02-20",
+  "update_time": "2025-02-21",
   "articles": [
+    {
+      "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
+      "link": "http://ddw2019.com/177",
+      "date": "2025-02-21 01:22",
+      "author": "Dongdong's 日志",
+      "timestamp": 1740072163.0,
+      "summary": "昨天grok3发布了，号称地表最强。 想要让AI给你比较好的答案，那么有两种方法： 使用最新的模型 学习Pro [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
+      "title": "友邻们",
+      "link": "https://anotherdayu.com/2025/6554/",
+      "date": "2025-02-20 22:50",
+      "author": "Another Dayu",
+      "timestamp": 1740063000.0,
+      "summary": "不知不觉加了很多友情链接，分享些大家近一年写的有趣博客。 串门的感觉很好，祝大家新的一年里保持充足的表达欲！  [&#8230;]",
+      "source_url": "https://anotherdayu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "博客印象",
+      "link": "https://anotherdayu.com/2025/6549/",
+      "date": "2025-02-20 22:22",
+      "author": "Another Dayu",
+      "timestamp": 1740061330.0,
+      "summary": "看到 椒盐豆豉 和 Allison 征集了博客印象，我也很想知道大家对这个博客的看法和感受。 问卷内容照搬了两 [&#8230;]",
+      "source_url": "https://anotherdayu.com",
+      "category": "Blog"
+    },
     {
       "title": "时体态对动词施加的魔法",
       "link": "https://ssshooter.com/english-grammar-1-tense-aspect-voice/",
@@ -1562,16 +1592,6 @@
       "category": "Blog"
     },
     {
-      "title": "167 优化博客链接：简洁的 URL 链接设计方案",
-      "link": "http://ddw2019.com/167",
-      "date": "2025-01-07 15:27",
-      "author": "Dongdong's 日志",
-      "timestamp": 1736234878.0,
-      "summary": "当我们开始写博客时，通常会忽视一个关键部分——URL 结构。但其实，URL 不仅关乎链接的长短和格式，它直接影 [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
       "title": "为何企业需要 AI 查询引擎来推动代理式 AI？",
       "link": "https://blogs.nvidia.cn/blog/ai-query-engines-agentic-ai/",
       "date": "2025-01-07 10:38",
@@ -2372,14 +2392,14 @@
       "category": "Blog"
     },
     {
-      "title": "那些脱口而出的思考",
-      "link": "https://anotherdayu.com/2024/6185/",
-      "date": "2024-12-05 15:02",
-      "author": "Another Dayu",
-      "timestamp": 1733382173.0,
-      "summary": "0 前几天和朋友谈起自己性格上的一些转变。 提到「表达自己想吃什么」，这一点，对我而言很重要。 说出这句话时， [&#8230;]",
-      "source_url": "https://anotherdayu.com",
-      "category": "Blog"
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "求婚誓言 | 爱的本质是被看见",
@@ -2529,16 +2549,6 @@
       "timestamp": 1732647659.0,
       "summary": "中文播客的前世今生\nRSS 20年 小宇宙负责人 Kyth 在20年写的文章。\n\n播客客户端Overcast的开发者Marco Arment非常享受播客行业的现状，并对Spotify这些new money嗤之以鼻。他向来的观点就是：播客这个花园之所以实现了一定程度上的长尾、繁荣、大家自得其乐，就是因...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Calibre-web 数据库路径和下载权限 500 Internal Server Error 问题",
-      "link": "https://anotherdayu.com/2024/6157/",
-      "date": "2024-11-25 14:23",
-      "author": "Another Dayu",
-      "timestamp": 1732515795.0,
-      "summary": "最近用 Docker 搭建了 Calibre-Web（书籍管理阅读平台），出现了一些问题，以下是解决方案。 C [&#8230;]",
-      "source_url": "https://anotherdayu.com",
       "category": "Blog"
     },
     {
@@ -3980,16 +3990,6 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
