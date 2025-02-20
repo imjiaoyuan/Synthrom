@@ -2,6 +2,36 @@
   "update_time": "2025-02-20",
   "articles": [
     {
+      "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
+      "link": "https://www.landiannews.com/archives/107981.html",
+      "date": "2025-02-20 12:09",
+      "author": "蓝点网",
+      "timestamp": 1740024574.0,
+      "summary": "#软件资讯 微软增强 Excel 内置的 Copilot AI 人工智能服务，可引用来自其他表格、文档、演示文稿、公共网络中的数据。当然用户需要提前授予 Copilot AI 读取企业内部数据或用户自己云端存储的数据，默认会从网络上寻找公共数据。查看全文：https://ourl.co/107981",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "宝可梦GO开发商Niantic计划以35亿美元完全出售游戏业务 原因是没有新热门游戏",
+      "link": "https://www.landiannews.com/archives/107980.html",
+      "date": "2025-02-20 11:52",
+      "author": "蓝点网",
+      "timestamp": 1740023531.0,
+      "summary": "#科技资讯 宝可梦 GO 开发商 Niantic 计划以 35 亿美元完全出售游戏业务，原因是除了宝可梦 GO 和 Ingress 外没有其他热门游戏。想要收购其游戏业务的则是沙特公共投资基金旗下的游戏公司，不过最终能够达成交易还需要等待新消息。查看全文：https://ourl.co/107980",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果正在测试iPhone 17 Pro原型机中的无线反向充电 提供7.5W的充电功率",
+      "link": "https://www.landiannews.com/archives/107967.html",
+      "date": "2025-02-20 11:38",
+      "author": "蓝点网",
+      "timestamp": 1740022732.0,
+      "summary": "#手机数码 知情人士透露苹果正在 iPhone 17 Pro 原型机上测试无线反向充电功能，可以提供 7.5W 的充电功率。苹果最初在 2020 年的 iPhone 12 中测试无线反向充电，但该功能最后并未向用户开放。查看全文：https://ourl.co/107967",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
       "link": "https://www.landiannews.com/archives/107966.html",
       "date": "2025-02-20 10:53",
@@ -32,7 +62,7 @@
       "category": "News"
     },
     {
-      "title": "谋智基金会宣布转向隐私广告和AI服务 同时元老级任务米切尔贝克离开",
+      "title": "谋智基金会宣布转向隐私广告和AI服务 同时元老级人物米切尔贝克离开",
       "link": "https://www.landiannews.com/archives/107963.html",
       "date": "2025-02-20 10:13",
       "author": "蓝点网",
@@ -198,36 +228,6 @@
       "author": "蓝点网",
       "timestamp": 1739931996.0,
       "summary": "#人工智能 社交媒体集团 Meta 将在 4 月 29 日举办首届人工智能开发者大会：LlamaCon 2025，此次开发者大会只谈开源。Meta 预告称将分享该公司在开源人工智能技术上的最新进展，帮助开发者构建出色的应用和产品。查看全文：https://ourl.co/107939",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "李彦宏强调无论开源闭源解决现实问题才有价值 似乎是回应开源智商税问题",
-      "link": "https://www.landiannews.com/archives/107938.html",
-      "date": "2025-02-19 10:13",
-      "author": "蓝点网",
-      "timestamp": 1739931187.0,
-      "summary": "#人工智能 似乎是在回应开源就是智商税问题：李彦宏在财报电话会议中强调无论开源闭源只有在大规模解决现实问题时才具备真实价值。李彦宏还表示百度开源文心 4.5 系列模型源自对百度技术领先地位的信心，开源将促进文心模型的广泛应用和扩大影响力。查看全文：https://ourl.co/107938",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软决定暂时不推进微软账户的默认记住登录状态 因为可能会造成安全问题",
-      "link": "https://www.landiannews.com/archives/107937.html",
-      "date": "2025-02-19 09:51",
-      "author": "蓝点网",
-      "timestamp": 1739929875.0,
-      "summary": "#科技资讯 微软决定暂时不推进微软账户的默认记住登录状态，因为可能会造成比较严重的安全问题。原本登录账号变成默认记住登录是在 2 月份生效的，现在微软已删除文档并表示这是微软从产品团队错误发布的不完整信息。查看全文：https://ourl.co/107937",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软正在开发新的备份与传输工具 可以将Windows 11应用和数据无缝迁移到新PC",
-      "link": "https://www.landiannews.com/archives/107936.html",
-      "date": "2025-02-19 09:35",
-      "author": "蓝点网",
-      "timestamp": 1739928953.0,
-      "summary": "#软件资讯 微软正在开发新的备份和传输工具，可以将 Windows 11 应用和数据无缝迁移到新 PC。遗憾的是备份功能依然仅支持 OneDrive，而且无论是备份和传输都不清楚是否支持 Win32 软件，如果还不支持 Win32 软件那只能继续说是鸡肋。查看全文：https://ourl.co/1...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -2362,16 +2362,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "那些脱口而出的思考",
       "link": "https://anotherdayu.com/2024/6185/",
       "date": "2024-12-05 15:02",
@@ -3980,6 +3970,16 @@
       "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
       "source_url": "https://wsdjeg.net/",
       "category": "Blog"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
     },
     {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
