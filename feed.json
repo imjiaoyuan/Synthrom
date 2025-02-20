@@ -2,6 +2,66 @@
   "update_time": "2025-02-20",
   "articles": [
     {
+      "title": "时体态对动词施加的魔法",
+      "link": "https://ssshooter.com/english-grammar-1-tense-aspect-voice/",
+      "date": "2025-02-20 18:12",
+      "author": "Usubeni Fantasy",
+      "timestamp": 1740046340.0,
+      "summary": "欢迎来到《小猫都能懂的英语语法》第一期——时体态对动词施加的魔法。英语语法的核心是动词，“时体态”的核心也就是对动词的操作，本文尝试给你讲清楚“时体态”是什么，以及对动词产生什么效果，那么，开始上课~",
+      "source_url": "https://ssshooter.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "支持文档显示苹果预计在4月发布的iOS 18.4版中为国内用户带来AI功能",
+      "link": "https://www.landiannews.com/archives/107986.html",
+      "date": "2025-02-20 15:25",
+      "author": "蓝点网",
+      "timestamp": 1740036326.0,
+      "summary": "#人工智能 支持文档显示苹果 AI 服务将在 4 月份支持中文，预计到时候是 iOS 18.4 正式版，国内用户应该也能用上 AI 了。苹果目前提供的 AI 服务挺多的，到时候国内用户估计只能使用部分服务然后慢慢扩展获得更多 AI 相关功能。查看全文：https://ourl.co/107986",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "阿里云服务器出现无法解析XYZ和HOST域名的短时间故障 但不清楚具体原因",
+      "link": "https://www.landiannews.com/archives/107985.html",
+      "date": "2025-02-20 15:05",
+      "author": "蓝点网",
+      "timestamp": 1740035100.0,
+      "summary": "#云计算 阿里云服务器出现无法解析 XYZ/HOST 域名的短时间故障，具体发生时间是在 2 月 20 日 08:57~10:50。得亏受影响的两个域名使用率都比较低所以没造成特别严重的影响，只是蓝点网头一次见服务器无法解析特定域名的情况所以非常好奇。查看全文：https://ourl.co/107...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "传三星/SK海力士/美光将停止生产DDR4/DDR3 转向利润更高的DDR5/HBM内存",
+      "link": "https://www.landiannews.com/archives/107984.html",
+      "date": "2025-02-20 14:51",
+      "author": "蓝点网",
+      "timestamp": 1740034316.0,
+      "summary": "#科技资讯 消息称三星电子、SK 海力士和美光将在 2025 年停止生产 DDR4/DDR3 内存芯片，全面转向利润更高的 DDR5 和 HBM 高带宽内存芯片。这种转变可能会打断当前 DDR4/DDR3 产品价格稳步下降的局面，产能减少后这些产品价格可能会上涨，或者逼迫用户购买价格更高的 DDR5...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "xAI宣布Grok 3模型限时免费使用 支持深度研究和思维但有配额限制",
+      "link": "https://www.landiannews.com/archives/107983.html",
+      "date": "2025-02-20 14:35",
+      "author": "蓝点网",
+      "timestamp": 1740033355.0,
+      "summary": "#人工智能 xAI 宣布 Grok 3 模型限时免费使用，无需任何订阅都可以使用 Grok 3 深度研究和思维功能。不过免费版是有配额限制的，如果用户愿意开通 30 美元 / 月和 40 美元 / 月的 SuperGrok 或 X Premium + 则可以获得更高配额。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "美光也推出读取速度可达14.5GB/秒的消费级SSD 可以缩短AI模型的加载时间",
+      "link": "https://www.landiannews.com/archives/107982.html",
+      "date": "2025-02-20 12:30",
+      "author": "蓝点网",
+      "timestamp": 1740025836.0,
+      "summary": "#硬件设备 美光也推出读取速度可达 14.5GB / 秒的新款消费级固态硬盘，基于 PCIe 5.0 协议最大提供 4TB 容量。这款固态硬盘采用慧荣 SM2508 8 通道主控芯片，美光称其超高速度还可以缩短 LLM 和 AI 模型的加载时间。查看全文：https://ourl.co/107982",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
       "link": "https://www.landiannews.com/archives/107981.html",
       "date": "2025-02-20 12:09",
@@ -178,56 +238,6 @@
       "author": "蓝点网",
       "timestamp": 1739950138.0,
       "summary": "#软件资讯 知名压缩管理器 WinRAR v7.10 正式版现已发布，自此不再支持任何 32 位系统、也不再支持 Vista 系统。新版本要求 Windows 7 + 和 64 位版，对于 32 位版用户仍然可以使用旧版 WinRAR，但无法修复漏洞因此存在安全威胁。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[教程] MAS宣布TSForge激活：可通杀Win/Office所有现代版本和ESU付费更新",
-      "link": "https://www.landiannews.com/archives/107954.html",
-      "date": "2025-02-19 15:12",
-      "author": "蓝点网",
-      "timestamp": 1739949168.0,
-      "summary": "#软件资讯 MAS 团队宣布 TSForge 激活方式，可以通杀 Windows/Office 所有现代版本，并支持免付费开通 Windows 10 ESU 付费扩展安全更新。这种新的激活方式目前已经集成到 MAS 3.0 中，后续用户要激活 Windows 或 Office 时就可以使用 MAS ...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果即日起开始删除欧盟区未公布开发者住址/电话/邮件的所有应用程序",
-      "link": "https://www.landiannews.com/archives/107953.html",
-      "date": "2025-02-19 14:51",
-      "author": "蓝点网",
-      "timestamp": 1739947909.0,
-      "summary": "#科技资讯 苹果即日起从欧盟区应用商店下架未添加开发者个人信息的所有应用程序。根据欧盟数字服务法案要求，所有开发者都必须提供住址、电话号码和电子邮件地址并公布在商店里，现在最后截至日期已经过了，所以苹果直接清除了不满足要求的应用。查看全文：https://ourl.co/107953",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软发现针对macOS系统的XCSSET恶意软件新变种 似乎为了窃取加密货币钱包",
-      "link": "https://www.landiannews.com/archives/107941.html",
-      "date": "2025-02-19 11:00",
-      "author": "蓝点网",
-      "timestamp": 1739934057.0,
-      "summary": "#安全资讯 微软威胁情报团队发现针对 macOS 系统的 XCSSET 恶意软件新变种，专门针对加密钱包窃取信息。XCSSET 新变种会收集用户的加密货币钱包信息、备忘录以及各种文件，估计目标主要是加密货币投资者。查看全文：https://ourl.co/107941",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "开源项目FFmpegKit因开发者精力和潜在的专利风险而关停 后续不再更新",
-      "link": "https://www.landiannews.com/archives/107940.html",
-      "date": "2025-02-19 10:44",
-      "author": "蓝点网",
-      "timestamp": 1739933097.0,
-      "summary": "#软件资讯 开源项目 FFmpegKit 项目因开发者个人精力和潜在的版权问题彻底关停，相关版本也会在 4 月 1 日后全部删除。开发者 Taner Sener 建议使用该项目的其他开发者咨询专业版权律师以决定是否继续使用该项目，避免未来产生版权问题 (与 MPEG 母公司 Via-LA 的版权问题...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Meta将在4月29日举办首届人工智能开发者大会LlamaCon 2025：只谈开源",
-      "link": "https://www.landiannews.com/archives/107939.html",
-      "date": "2025-02-19 10:26",
-      "author": "蓝点网",
-      "timestamp": 1739931996.0,
-      "summary": "#人工智能 社交媒体集团 Meta 将在 4 月 29 日举办首届人工智能开发者大会：LlamaCon 2025，此次开发者大会只谈开源。Meta 预告称将分享该公司在开源人工智能技术上的最新进展，帮助开发者构建出色的应用和产品。查看全文：https://ourl.co/107939",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -4418,16 +4428,6 @@
       "author": "Usubeni Fantasy",
       "timestamp": 1718008140.0,
       "summary": "!sunlit stream\n\n\n\nThe stream flows endlessly, much like the continuous data transmission in computer science.\n\nWhy is streaming important in computer....",
-      "source_url": "https://ssshooter.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "ブラウザのストリーム API をマスターする",
-      "link": "https://ssshooter.com/ja/stream-explanation/",
-      "date": "2024-06-10 16:29",
-      "author": "Usubeni Fantasy",
-      "timestamp": 1718008140.0,
-      "summary": "!日が差す小川\n\n\n\n小川は絶え間なく流れ続け、コンピュータサイエンスにおける連続的なデータ伝送に似ています。\n\nなぜストリーミングがコンピュータサイエンスで重要なのでしょうか？主に2つの理由があります：\n\n\n\n\n!ストリームの使用の違い\n\n上の画像は2016 - ウェブストリームの年からのもので....",
       "source_url": "https://ssshooter.com/",
       "category": "Blog"
     },
