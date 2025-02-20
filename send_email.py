@@ -7,247 +7,153 @@ from datetime import datetime
 import pytz
 import os
 
-def load_config():
-    """加载邮件配置"""
+def load_email_config():
+    with open('config/email.yml', 'r', encoding='utf-8') as f:
+        config = yaml.safe_load(f)
+    return config['email']
+
+def load_posts():
     try:
-        with open('config/email.yml', 'r', encoding='utf-8') as f:
-            config = yaml.safe_load(f)
-        return config['email']
+        # 尝试多个可能的路径
+        possible_paths = ['feed.json', './feed.json', 'data/feed.json']
+        
+        for path in possible_paths:
+            if os.path.exists(path):
+                with open(path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+                    
+        print("加载文章数据失败: 找不到 feed.json 文件")
+        return None
     except Exception as e:
-        print(f"加载邮件配置失败: {e}")
+        print(f"加载文章数据失败: {str(e)}")
         return None
 
-def load_today_posts():
-    """加载今天更新的文章"""
-    try:
-        with open('data/posts.json', 'r', encoding='utf-8') as f:
-            posts = json.load(f)
-        
-        # 获取北京时间今天的日期
-        tz = pytz.timezone('Asia/Shanghai')
-        today = datetime.now(tz).date()
-        
-        # 按分类整理今天的文章
-        categorized_posts = {
-            'Blog': [],  # 博客文章
-            'News': []   # 资讯
-        }
-        
-        for post in posts:
-            post_date = datetime.fromisoformat(post['date']).date()
-            if post_date == today:
-                category = post.get('category', 'Blog')  # 默认归类到Blog
-                if category in categorized_posts:
-                    categorized_posts[category].append(post)
-                
-        return categorized_posts
-    except Exception as e:
-        print(f"加载文章数据失败: {e}")
-        return {'Blog': [], 'News': []}
-
-def format_datetime(date_str):
-    """格式化日期时间为中国格式"""
-    try:
-        # 解析ISO格式的时间字符串
-        dt = datetime.fromisoformat(date_str)
-        # 转换到北京时间
-        tz = pytz.timezone('Asia/Shanghai')
-        dt = dt.astimezone(tz)
-        # 格式化为 "2024/03/21 14:30" 格式
-        return dt.strftime('%Y/%m/%d %H:%M')
-    except Exception as e:
-        print(f"时间格式化失败: {e}")
-        return date_str
-
-def generate_email_content(categorized_posts):
-    """生成邮件内容"""
-    if not any(posts for posts in categorized_posts.values()):
-        return None
+def get_todays_posts(posts):
+    if not posts or 'articles' not in posts:
+        return []
     
-    # 获取当前北京时间
+    # 使用东八区时间
     tz = pytz.timezone('Asia/Shanghai')
-    current_time = datetime.now(tz).strftime('%Y/%m/%d %H:%M')
+    today = datetime.now(tz).date()
     
-    html = """
+    todays_posts = []
+    for post in posts['articles']:
+        try:
+            if 'date' not in post:
+                continue
+                
+            # 处理日期格式，确保年份是4位数
+            date_str = post['date']
+            if date_str.startswith('1-'):  # 处理特殊情况
+                continue
+                
+            post_time = datetime.strptime(date_str, '%Y-%m-%d %H:%M')
+            post_date = post_time.date()
+            
+            if post_date == today:
+                todays_posts.append({
+                    'title': post.get('title', '无标题'),
+                    'link': post.get('link', '#'),
+                    'feed_title': post.get('author', '未知来源'),
+                    'timestamp': post_time.strftime('%Y-%m-%d %H:%M'),
+                    'summary': post.get('summary', '暂无摘要')
+                })
+        except Exception:
+            continue
+    
+    return todays_posts
+
+def generate_email_content(posts):
+    """生成邮件HTML内容"""
+    if not posts:
+        return None
+        
+    html_content = """
     <html>
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 20px;
-                background: #f5f5f7;
-            }
-            
-            .header {
-                text-align: center;
-                margin-bottom: 25px;
-            }
-            
-            h2 {
-                color: #1a1a1a;
-                margin: 0 0 5px;
-                font-size: 1.8em;
-            }
-            
-            .time {
-                color: #666;
-                font-size: 1em;
-            }
-            
-            .category-header {
-                color: #2c3e50;
-                font-size: 1.6em;
-                margin: 30px 0 15px;
-                padding-bottom: 8px;
-                border-bottom: 2px solid #2c3e50;
-            }
-            
-            .article {
-                background: #fff;
-                padding: 15px;
-                margin-bottom: 15px;
-                border-bottom: 1px solid #eee;
-            }
-            
-            .article h3 {
-                margin: 0;
-                font-size: 1.3em;
-                line-height: 1.4;
-            }
-            
-            .article a {
-                color: #2980b9;
-                text-decoration: none;
-            }
-            
-            .meta {
-                color: #666;
-                font-size: 0.9em;
-                margin: 8px 0;
-                padding-bottom: 8px;
-                border-bottom: 1px solid #eee;
-            }
-            
-            .meta span {
-                margin-right: 15px;
-            }
-            
-            .summary {
-                color: #444;
-                margin-top: 8px;
-                font-size: 0.95em;
-            }
-            
-            .footer {
-                text-align: center;
-                margin-top: 30px;
-                padding-top: 15px;
-                border-top: 1px solid #eee;
-                color: #666;
-            }
-            
-            @media screen and (max-width: 600px) {
-                body { padding: 15px; }
-                .article { padding: 12px; }
-            }
+            body { font-family: Arial, sans-serif; }
+            .article { margin-bottom: 20px; }
+            .title { font-size: 18px; color: #333; }
+            .meta { font-size: 14px; color: #666; }
+            .summary { font-size: 16px; color: #444; }
         </style>
     </head>
     <body>
-        <div class="header">
-            <h2>今日RSS更新</h2>
-            <div class="time">""" + current_time + """</div>
-        </div>
+        <h2>今日更新的文章</h2>
     """
     
-    # 分类显示名映射
-    category_names = {
-        'Blog': '博客文章',
-        'News': '资讯'
-    }
-    
-    # 按分类显示文章
-    for category, posts in categorized_posts.items():
-        if not posts:  # 如果该分类没有文章则跳过
-            continue
+    for post in posts:
+        # 检查 post 是否为字典类型
+        if isinstance(post, dict):
+            title = post.get('title', '无标题')
+            link = post.get('link', '#')
+            feed_title = post.get('feed_title', '未知来源')
+            timestamp = post.get('timestamp', '')
+            summary = post.get('summary', '暂无摘要')
+        else:
+            # 如果是字符串或其他类型，尝试直接使用
+            title = link = feed_title = timestamp = summary = str(post)
             
-        html += f"""
-        <div class="category-header">{category_names.get(category, category)}</div>
-        """
-        
-        for post in posts:
-            formatted_time = format_datetime(post['date'])
-            html += f"""
-            <div class="article">
-                <h3><a href="{post['link']}">{post['title']}</a></h3>
-                <div class="meta">
-                    <span>来源: {post['feed_title']}</span>
-                    <span>时间: {formatted_time}</span>
-                </div>
-                <div class="summary">{post.get('summary', '暂无摘要')}</div>
+        html_content += f"""
+        <div class="article">
+            <div class="title"><a href="{link}">{title}</a></div>
+            <div class="meta">
+                来源: {feed_title} | 
+                时间: {timestamp}
             </div>
-            """
-    
-    html += """
-        <div class="footer">
-            感谢使用 RSS 订阅服务
+            <div class="summary">{summary}</div>
         </div>
-    </body>
-    </html>
-    """
-    return html
+        """
+    
+    html_content += "</body></html>"
+    return html_content
 
-def send_email():
-    """发送邮件"""
-    # 加载配置
-    config = load_config()
-    if not config or not config['enabled']:
-        print("邮件通知未启用")
-        return
-        
-    recipients = config['recipients']
-    if not recipients:
-        print("未配置收件人")
-        return
-
-    # 检查今日文章
-    categorized_posts = load_today_posts()
-    if not any(posts for posts in categorized_posts.values()):
+def send_email(posts):
+    if not posts:
         print("今天没有新文章更新")
         return
     
-    html_content = generate_email_content(categorized_posts)
-    if not html_content:
+    email_config = load_email_config()
+    if not email_config.get('enabled', False):
+        print("邮件通知功能未启用")
         return
-        
-    # 从环境变量获取邮件服务器配置
-    smtp_server = os.environ['SMTP_SERVER']
-    smtp_port = int(os.environ['SMTP_PORT'])
-    sender_email = os.environ['SENDER_EMAIL']
-    sender_password = os.environ['SENDER_PASSWORD']
     
-    # 创建邮件
+    smtp_server = os.environ.get('SMTP_SERVER')
+    smtp_port = os.environ.get('SMTP_PORT')
+    sender_email = os.environ.get('SENDER_EMAIL')
+    sender_password = os.environ.get('SENDER_PASSWORD')
+    recipients = email_config.get('recipients', [])
+    
+    if not all([smtp_server, smtp_port, sender_email, sender_password, recipients]):
+        print("邮件配置不完整")
+        return
+    
     msg = MIMEMultipart('alternative')
-    msg['Subject'] = f'RSS订阅更新提醒 - {datetime.now().strftime("%Y-%m-%d")}'
+    msg['Subject'] = f'RSS订阅更新通知 - {datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}'
     msg['From'] = sender_email
     msg['To'] = ', '.join(recipients)
     
-    # 添加HTML内容
-    msg.attach(MIMEText(html_content, 'html'))
-    
-    # 发送邮件
-    try:
-        with smtplib.SMTP(smtp_server, smtp_port) as server:
-            server.starttls()
-            server.login(sender_email, sender_password)
-            server.send_message(msg)
-        print("邮件发送成功")
-    except Exception as e:
-        print(f"发送邮件失败: {e}")
+    html_content = generate_email_content(posts)
+    if html_content:
+        msg.attach(MIMEText(html_content, 'html'))
+        
+        try:
+            with smtplib.SMTP(smtp_server, int(smtp_port)) as server:
+                server.starttls()
+                server.login(sender_email, sender_password)
+                server.send_message(msg)
+            print(f"成功发送邮件给 {len(recipients)} 个收件人")
+        except Exception as e:
+            print(f"发送邮件失败: {str(e)}")
 
-if __name__ == '__main__':
-    send_email() 
+def main():
+    posts = load_posts()
+    if posts:
+        todays_posts = get_todays_posts(posts)
+        if todays_posts:
+            print(f"找到 {len(todays_posts)} 篇今日更新的文章")
+        send_email(todays_posts)
+
+if __name__ == "__main__":
+    main() 
