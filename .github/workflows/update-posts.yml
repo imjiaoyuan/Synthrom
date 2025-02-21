@@ -23,7 +23,6 @@ jobs:
     
     - name: Fetch RSS feeds
       run: |
-        ls -la
         python3 fetch_feeds.py
     
     - name: Send email notification

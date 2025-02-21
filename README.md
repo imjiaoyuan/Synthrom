@@ -14,18 +14,22 @@
 
 ### RSS 源配置
 
-在 `config/feeds.yml` 中配置 RSS 源：
+在 `feed.list` 中配置 RSS 源，按分类组织：
 
-```yaml
-feeds:
-  - category: Blog
-    url: https://example.com/feed
-    name: 示例博客
-  
-  - category: News
-    url: https://example.com/news/feed
-    name: 示例新闻
 ```
+Blog:
+https://example.com/blog/feed
+https://another-blog.com/rss.xml
+
+News:
+https://example.com/news/feed
+https://news-site.com/atom.xml
+```
+
+格式说明：
+- 使用分类名加冒号（如 `Blog:`）标记分类的开始
+- 每个 RSS 源链接单独一行
+- 空行会被自动忽略
 
 ### 邮件通知配置
 
@@ -38,31 +42,48 @@ email:
     - your-email@example.com
 ```
 
-2. 在 GitHub 仓库添加必要的 Secrets：
+2. 配置 SMTP 服务器信息：
 
-   1. 进入仓库 Settings -> Security -> Secrets and variables -> Actions
-   2. 点击 "New repository secret" 按钮
-   3. 添加以下 4 个 Repository secrets：
+在 GitHub 仓库中添加以下 Secrets：
+- `SMTP_SERVER`: SMTP 服务器地址（如：smtp.qq.com）
+- `SMTP_PORT`: SMTP 服务器端口（如：587）
+- `SENDER_EMAIL`: 发件人邮箱
+- `SENDER_PASSWORD`: 邮箱密码或授权码
 
-   - `SMTP_SERVER`: SMTP 服务器地址（如：smtp.gmail.com）
-   - `SMTP_PORT`: SMTP 服务器端口（如：587）
-   - `SENDER_EMAIL`: 用于发送邮件的邮箱地址
-   - `SENDER_PASSWORD`: 邮箱密码或应用专用密码
-     - 如果使用 Gmail，需要使用应用专用密码
-     - 可在 Google 账号设置 -> 安全性 -> 2 步验证 -> 应用专用密码 中生成
+### 邮件通知效果
+
+- 按分类（Blog/News）组织文章
+- 美观的响应式布局，支持桌面端和移动端
+- 显示文章标题、来源、发布时间和摘要
+- 支持直接点击链接访问原文
 
 ## 本地测试
 
-1. 测试邮件模板：
-```bash
-python test_email_template.py
-```
-生成的 `email_preview.html` 文件可用浏览器打开预览邮件效果。
+1. 修改测试脚本中的邮箱配置：
 
-2. 测试抓取文章：
-```bash
-python fetch_feeds.py
+编辑 `test_email.py`，修改以下配置：
+```python
+# 设置测试环境变量 (以QQ邮箱为例)
+os.environ['SMTP_SERVER'] = 'smtp.qq.com'
+os.environ['SMTP_PORT'] = '587'  # 也可以使用 465(SSL) 或 25
+os.environ['SENDER_EMAIL'] = 'your-qq-number@qq.com'  # 替换为你的QQ邮箱
+os.environ['SENDER_PASSWORD'] = 'your-auth-code'  # 替换为你的授权码
 ```
+
+2. 运行测试：
+```bash
+python test_email.py
+```
+
+测试脚本会：
+- 测试 SMTP 服务器连接
+- 抓取订阅源文章
+- 生成邮件预览
+- 发送测试邮件
+
+测试数据和预览文件将保存在 `test_data` 目录：
+- `test_data/feed.json`: 抓取的文章数据
+- `test_data/email_preview.html`: 邮件预览
 
 ## 自动化部署
 
