@@ -7282,6 +7282,16 @@
       "category": "Blog"
     },
     {
+      "title": "DeepSeek开启开源周活动 从下周开始将开源5个repos 为开源社区助力",
+      "link": "https://www.landiannews.com/archives/108005.html",
+      "date": "2025-02-21 14:40",
+      "author": "蓝点网",
+      "timestamp": 1740120002.0,
+      "summary": "#人工智能 DeepSeek 将在下周开启开源周，周一到周五每天分享一个开源 repo。这些 repo 包括 DeepSeek 构建的已经在生产环境中使用的模块，DeepSeek 希望通过这种方式为开源社区助力。查看全文：https://ourl.co/108005",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "啊这也太夸张了吧？不到3个月ChatGPT新增活跃用户达到1亿 总用户达到4亿",
       "link": "https://www.landiannews.com/archives/108004.html",
       "date": "2025-02-21 12:03",
@@ -7528,16 +7538,6 @@
       "author": "蓝点网",
       "timestamp": 1740020004.0,
       "summary": "#软件资讯 火狐浏览器将通过 Firefox 115 ESR 版将 Windows 7 系统的支持延长至 2025 年 9 月。当用户使用 115 ESR 则可以继续获得安全更新，Firefox 通过观察用户量决定是否延长，或许 9 月份还会再次延长吧。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenSSH推出9.9p2版修复两枚中危安全漏洞 可用于中间人劫持和DoS攻击",
-      "link": "https://www.landiannews.com/archives/107965.html",
-      "date": "2025-02-20 10:42",
-      "author": "蓝点网",
-      "timestamp": 1740019358.0,
-      "summary": "#安全资讯 OpenSSH 推出 9.9p2 版修复安全漏洞，其中 CVE-2025-26465 漏洞可在无需用户交互的情况下发起中间人劫持。这个漏洞主要影响的是 FreeBSD、SUSE、Alpine Linux等，建议使用 OpenSSH 的话都更新到最新版。查看全文：https://ourl....",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
