@@ -39,9 +39,39 @@ def generate_email_content(articles):
     tz = pytz.timezone('Asia/Shanghai')
     current_time = datetime.now(tz).strftime('%Y-%m-%d %H:%M')
     
-    # CSS样式部分使用普通字符串
+    # 修改CSS样式部分
     style = """
         <style>
+            /* Gmail特定的样式覆盖 */
+            u + .body { /* Gmail特定的选择器 */
+                display: block !important;
+            }
+            
+            .email-body {
+                display: block !important;
+                max-width: 800px !important;
+                margin: 0 auto !important;
+            }
+            
+            .post {
+                display: block !important;
+            }
+            
+            /* 确保内容不会被截断 */
+            .summary {
+                display: block !important;
+                overflow: visible !important;
+                max-height: none !important;
+            }
+            
+            /* 移除Gmail的引用样式 */
+            blockquote {
+                display: block !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+            }
+            
             /* 重置默认样式 */
             * {
                 margin: 0;
@@ -96,14 +126,6 @@ def generate_email_content(articles):
                 margin: 20px 0 12px;
             }
             
-            .post {
-                background: white;
-                border-radius: 6px;
-                padding: 15px;
-                margin: 12px 0;
-                box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-            }
-            
             .title {
                 font-size: 16px;  /* 文章标题调小 */
                 margin-bottom: 8px;
@@ -139,28 +161,6 @@ def generate_email_content(articles):
                 background: #f3e5f5;
                 color: #7b1fa2;
             }
-            
-            .summary {
-                font-size: 14px;
-                color: #5f6368;
-                line-height: 1.5;
-            }
-            
-            footer {
-                margin-top: 30px;
-                padding-top: 15px;
-                border-top: 1px solid #eee;
-                text-align: center;
-                font-size: 13px;
-                color: #95a5a6;
-            }
-            
-            /* 强制显示完整内容 */
-            .email-content {
-                display: block !important;
-                max-height: none !important;
-                overflow: visible !important;
-            }
         </style>
     """
     
@@ -172,12 +172,14 @@ def generate_email_content(articles):
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {style}
     </head>
-    <body>
-        <div class="email-content">
-            <div class="header">
-                <h2>今日RSS更新</h2>
-                <span class="time">{current_time}</span>
-            </div>
+    <body class="body">
+        <!-- 添加额外的包装器 -->
+        <div class="email-body">
+            <div style="min-width: 100%; display: block !important;">
+                <div class="header">
+                    <h2>今日RSS更新</h2>
+                    <span class="time">{current_time}</span>
+                </div>
     """
     
     # 按分类组织文章
@@ -212,13 +214,22 @@ def generate_email_content(articles):
                 """
     
     html += """
-            <footer>
+            </div>
+            <footer style="display: block !important;">
                 由 RSS Reader 自动生成
             </footer>
         </div>
     </body>
     </html>
     """
+    
+    # 在发送前进行额外处理
+    # 移除可能导致Gmail截断的注释
+    html = html.replace('<!--', '').replace('-->', '')
+    
+    # 确保所有块级元素都有display: block !important
+    for tag in ['div', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+        html = html.replace(f'<{tag}', f'<{tag} style="display: block !important;"')
     
     # 保存邮件HTML预览
     os.makedirs('test_data', exist_ok=True)
@@ -263,7 +274,12 @@ def send_email():
     msg['From'] = formataddr(('今日RSS更新', sender_email))
     msg['To'] = ', '.join(config['email']['recipients'])
     
-    msg.attach(MIMEText(html_content, 'html'))
+    # 添加纯文本版本（这有助于某些邮件客户端）
+    text_content = "请使用支持HTML的邮件客户端查看此邮件。"
+    msg.attach(MIMEText(text_content, 'plain', 'utf-8'))
+    
+    # 添加HTML版本
+    msg.attach(MIMEText(html_content, 'html', 'utf-8'))
     
     # 发送邮件
     try:
