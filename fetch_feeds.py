@@ -109,9 +109,27 @@ def fetch_feeds():
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def load_feed_config():
-    """加载订阅源配置"""
-    with open('config/feeds.yml', 'r', encoding='utf-8') as f:
-        return yaml.safe_load(f)
+    """从 feed.list 加载订阅源配置"""
+    feeds = []
+    current_category = None
+    
+    with open('feed.list', 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:  # 跳过空行
+                continue
+            
+            if line.endswith(':'):  # 分类行
+                current_category = line[:-1]
+            else:  # RSS源链接行
+                if current_category:
+                    feeds.append({
+                        'name': line,  # 暂时用URL作为名称
+                        'url': line,
+                        'category': current_category
+                    })
+    
+    return {'feeds': feeds}
 
 def fetch_all_feeds():
     """抓取所有订阅源的文章"""
@@ -127,8 +145,11 @@ def fetch_all_feeds():
     
     for feed in config['feeds']:
         try:
-            print(f"正在抓取: {feed['name']}")
+            print(f"正在抓取: {feed['url']}")
             parsed = feedparser.parse(feed['url'])
+            
+            # 使用真实的源标题
+            feed_title = parsed.feed.get('title', feed['url'])
             
             for entry in parsed.entries[:10]:  # 每个源最多取10篇
                 # 解析发布时间
@@ -149,7 +170,8 @@ def fetch_all_feeds():
                         'title': entry.title,
                         'link': entry.link,
                         'date': date.isoformat(),
-                        'source': feed['name'],
+                        'source': feed_title,
+                        'category': feed['category'],
                         'summary': entry.get('summary', '暂无描述')
                     }
                     
@@ -161,7 +183,7 @@ def fetch_all_feeds():
                         yaml.dump(post, f, allow_unicode=True)
                         
         except Exception as e:
-            print(f"抓取 {feed['name']} 失败: {str(e)}")
+            print(f"抓取 {feed['url']} 失败: {str(e)}")
             continue
 
 if __name__ == '__main__':

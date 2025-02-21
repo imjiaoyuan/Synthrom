@@ -61,7 +61,7 @@ email:
 
 1. 修改测试脚本中的邮箱配置：
 
-编辑 `test_email.py`，修改以下配置：
+编辑 `test.py`，修改以下配置：
 ```python
 # 设置测试环境变量 (以QQ邮箱为例)
 os.environ['SMTP_SERVER'] = 'smtp.qq.com'
