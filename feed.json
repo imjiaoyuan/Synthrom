@@ -2,13 +2,133 @@
   "update_time": "2025-02-21",
   "articles": [
     {
+      "title": "爆料者透露苹果工程团队已经在测试C2基带芯片 但没有任何具体细节",
+      "link": "https://www.landiannews.com/archives/108002.html",
+      "date": "2025-02-21 11:13",
+      "author": "蓝点网",
+      "timestamp": 1740107581.0,
+      "summary": "#手机数码 爆料者透露苹果工程团队已经在测试 C2 基带芯片，内部标识符 C4020，但爆料者没有提供更多细节。目前 C1 芯片仅在入门级设备上采用，短时间内苹果不会推出 C2 芯片，iPhone 17 大多数机型仍将采用高通骁龙基带芯片。查看全文：https://ourl.co/108002",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌计划推出价格更便宜的YouTube Premium Lite订阅主要用于屏蔽视频广告",
+      "link": "https://www.landiannews.com/archives/108001.html",
+      "date": "2025-02-21 10:56",
+      "author": "蓝点网",
+      "timestamp": 1740106600.0,
+      "summary": "#科技资讯 谷歌计划推出价格更便宜的 YouTube Premium Lite 订阅主要用于帮助用户屏蔽广告。目前 YouTube 正在采取多种措施阻止用户屏蔽广告，包括限制观看视频和不停地弹出提醒等，谷歌希望通过新的 Lite 版吸引用户付费直接跳过广告而不是继续使用广告拦截软件进行对抗。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "安全统计数据显示苹果只能检测出50%被NSO间谍软件感染的设备 检测率非常低",
+      "link": "https://www.landiannews.com/archives/108000.html",
+      "date": "2025-02-21 10:46",
+      "author": "蓝点网",
+      "timestamp": 1740105967.0,
+      "summary": "#安全资讯 数据显示苹果大约只能检测出 50% 被 NSO 间谍软件感染的 iPhone，整体检测率仍然非常低。苹果会在检测到潜在攻击时主动向用户发出提醒，移动安全公司 iVerify 统计了该公司同名应用确认感染的 iPhone，发现苹果的检测率大约只有 50%，剩余 50% 的用户并不知道自己已...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "群晖推出办公套件API允许将群晖网盘和办公套件与其他产品集成实现工作流自动化",
+      "link": "https://www.landiannews.com/archives/107999.html",
+      "date": "2025-02-21 10:25",
+      "author": "蓝点网",
+      "timestamp": 1740104720.0,
+      "summary": "#科技资讯 群晖推出办公套件 API 允许将群晖网盘和办公套件与其他产品集成实现工作流自动化。例如在 CRM 中集成群晖网盘 API 可以直接上传和管理网盘中的文件，表格 API 可以自动收集数据并实时获得见解等，有兴趣的企业可以访问 API 文档查看具体的示例。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果以安全风险为由拒绝在英国开放iOS浏览器内核 — 毕竟你不是欧盟成员呀",
+      "link": "https://www.landiannews.com/archives/107998.html",
+      "date": "2025-02-21 10:11",
+      "author": "蓝点网",
+      "timestamp": 1740103862.0,
+      "summary": "#科技资讯 苹果以安全风险为由拒绝在英国开放 iOS 浏览器内核，毕竟你也不是欧盟成员呀！英国监管机构拟议的新规定要求苹果开放 iOS 浏览器内核，允许其他替代内核，苹果直接拒绝了该提议并要进行诉讼。查看全文：https://ourl.co/107998",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Windows 11安卓子系统关闭的原因(之一)？亚马逊宣布关闭其安卓应用商店",
+      "link": "https://www.landiannews.com/archives/107997.html",
+      "date": "2025-02-21 09:54",
+      "author": "蓝点网",
+      "timestamp": 1740102891.0,
+      "summary": "#软件资讯 Windows 11 安卓子系统关闭的原因 (之一)？亚马逊宣布关闭其安卓应用商店。此前微软与亚马逊合作，安卓子系统预装的就是亚马逊商店，不知道亚马逊是不是已经提前知会微软，微软这才觉得本来安卓子系统也没多少人用所以不如关了。查看全文：https://ourl.co/107997",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "分析师透露苹果将在iPhone 17全系列中使用自研Wi-Fi芯片取代博通",
+      "link": "https://www.landiannews.com/archives/107989.html",
+      "date": "2025-02-21 09:43",
+      "author": "蓝点网",
+      "timestamp": 1740102204.0,
+      "summary": "#手机数码 分析师透露苹果将在 iPhone 17 全系列中采用自研的 Wi-Fi 芯片取代长期以来博通提供的 Wi-Fi 芯片。天风国际知名分析师郭明錤称自研 Wi-Fi 芯片的采用速度非常快，因为 C1 基带芯片仅在入门级机型使用，现在 Wi-Fi 芯片全系列采用说明苹果非常有信心因此也没必要分...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知情人士透露微软正在为OpenAI即将推出的GPT-5系列模型做好服务器容量准备",
+      "link": "https://www.landiannews.com/archives/107988.html",
+      "date": "2025-02-21 09:22",
+      "author": "蓝点网",
+      "timestamp": 1740100936.0,
+      "summary": "#人工智能 知情人士透露微软正在为 OpenAI 即将推出的 GPT-5 系列模型做好服务器容量准备。预计最早从下周开始微软将在 Azure 托管 GPT-4.5 系列模型，而 GPT-5 模型可能要到 5 月底发布，所以微软要提前准备好服务器。查看全文：https://ourl.co/107988",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
       "link": "http://ddw2019.com/177",
-      "date": "2025-02-21 01:22",
+      "date": "2025-02-21 08:22",
       "author": "Dongdong's 日志",
-      "timestamp": 1740072163.0,
+      "timestamp": 1740097363.0,
       "summary": "昨天grok3发布了，号称地表最强。 想要让AI给你比较好的答案，那么有两种方法： 使用最新的模型 学习Pro [&#8230;]",
       "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
+      "title": "科技爱好者周刊（第 338 期）：重新思考 6G",
+      "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html",
+      "date": "2025-02-21 08:17",
+      "author": "阮一峰的网络日志",
+      "timestamp": 1740097071.0,
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n图片\n\n\n\n重庆巫山的悬崖上，有一座民宿，可以俯瞰三峡，图片是民宿的后院。（via）\n\n重新思考 6G\n\n上周，国际电气电子工...",
+      "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "一周的心情｜本周小记精选",
+      "link": "http://m.wufazhuce.com/question/4302",
+      "date": "2025-02-21 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740090302.0,
+      "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            ONE编辑部问\n        \n        \n        周末将至，你想对树洞说些什么？\n    \n\n    \n\n            \n           ...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "一次约会",
+      "link": "http://m.wufazhuce.com/article/6704",
+      "date": "2025-02-21 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740090302.0,
+      "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／寂静森林\n\t\n\t&nbsp;都市之中，同样的人，相处的时间地点不一样，印象也就不一样了。逢星期二和星期四，晓慧都会比平时早半个小时来到办公室。今天是星期二，晓慧来到办公室的时候是8点35分，办公室还没有人到。晓慧依次打开自己...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4521",
+      "link": "http://m.wufazhuce.com/one/4670",
+      "date": "2025-02-21 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740090302.0,
+      "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4521摄影 | Weekendplayer\n\t21\n\tFeb. 2025\n\t\n\t等你名声扫地了，就明白名声其实是个大包袱，也明白自由的意义了。\t\n\n\n\n\n &nbsp;\n获取更多RSS：https://feedx.net...",
+      "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
     {
@@ -122,6 +242,16 @@
       "category": "News"
     },
     {
+      "title": "制造业产品设计工作流程的生成式 AI 转型",
+      "link": "https://developer.nvidia.com/zh-cn/blog/transforming-product-design-workflows-in-manufacturing-with-generative-ai/",
+      "date": "2025-02-20 11:03",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740020617.0,
+      "summary": "长期以来，制造行业的传统设计和工程工作流程一直以顺序迭代的方法为特征，这种方法通常既耗时又需要大量资源。这些传 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
       "link": "https://www.landiannews.com/archives/107966.html",
       "date": "2025-02-20 10:53",
@@ -158,116 +288,6 @@
       "author": "蓝点网",
       "timestamp": 1740017582.0,
       "summary": "#科技资讯 谋智基金会宣布转向隐私广告和 AI 服务，同时元老级人物米切尔贝克特不再担任董事会主席、董事会成员。此前谋智基金会收购广告公司已经暗示了最终还是回到广告业务上，不知道这对 Firefox 是否会产生负面影响。查看全文：https://ourl.co/107963",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果最新推出的iPhone 16e成为里程碑式产品 放弃Home键和指纹识别等",
-      "link": "https://www.landiannews.com/archives/107962.html",
-      "date": "2025-02-20 09:50",
-      "author": "蓝点网",
-      "timestamp": 1740016245.0,
-      "summary": "#手机数码 苹果最新推出的 iPhone 16e 成为里程碑式产品，放弃 Home 键、指纹识别和 Lightning 接口等。此前在 iPhone SE 3 中苹果还继续沿用 Home 键和指纹识别，不过 16e 也转向全面屏后 Home 键不复存在，所以自然也没有指纹识别了。查看全文：https...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果最新推出的iPhone 16e采用自研的5G芯片C1 苹果称其是能效最高的基带芯片",
-      "link": "https://www.landiannews.com/archives/107961.html",
-      "date": "2025-02-20 09:34",
-      "author": "蓝点网",
-      "timestamp": 1740015249.0,
-      "summary": "#手机数码 苹果最新推出的 iPhone 16e 采用自研的 5G 基带芯片 C1，苹果称其是能效比最高的基带芯片。尽管苹果称其实现快速可靠的 5G 蜂窝连接，不过从已知消息来看该芯片不支持毫米波，苹果可能也需要更多时间对其他东西进行调试和优化。查看全文：https://ourl.co/107961",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果推出iPhone 16e 采用A18芯片支持AI功能 起售价599美元默认128GB存储",
-      "link": "https://www.landiannews.com/archives/107960.html",
-      "date": "2025-02-20 09:21",
-      "author": "蓝点网",
-      "timestamp": 1740014485.0,
-      "summary": "#手机数码 苹果推出新入门级机型 iPhone 16e，采用 6 核心的 A18 仿生芯片，默认 8GB 内存和 128GB 存储，起售价 599 美元。该机型最大的优势就是可以运行苹果 AI 服务，其他方面的硬件配置确实比较低，不过作为入门级机型基本也可以了。查看全文：https://ourl.c...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "人类，为什么如此善变？",
-      "link": "http://m.wufazhuce.com/question/4300",
-      "date": "2025-02-20 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740003903.0,
-      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            哦，阿飘问\n        \n        \n        人类，为什么如此善变？\n    \n\n    \n\n            \n            朱德庸答\n...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "盛宴",
-      "link": "http://m.wufazhuce.com/article/6700",
-      "date": "2025-02-20 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740003903.0,
-      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／肖达明\n\t\n\t&nbsp;因为特别的细菌，&lsquo;我&rsquo;拥有神奇的体质，食用&lsquo;垃圾&rsquo;便能维持身体所需。为了寻找新型的微菌，&lsquo;我&rsquo;来到了印度，在这里认识了一个不太...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4520",
-      "link": "http://m.wufazhuce.com/one/4669",
-      "date": "2025-02-20 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740003903.0,
-      "summary": "20  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4520摄影 | Homnaychupgi\n\t20\n\tFeb. 2025\n\t\n\t你小时候那么向往的东西，等你真正得到它们的时候，似乎并不那么美妙了。\t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "NAS制造商威联通(QNAP)推出NVMe SSD转U.2转接盒 帮助客户使用U.2槽位",
-      "link": "https://www.landiannews.com/archives/107959.html",
-      "date": "2025-02-19 17:00",
-      "author": "蓝点网",
-      "timestamp": 1739955610.0,
-      "summary": "#硬件设备 NAS 制造商威联通为自家全闪存 NAS 产品推出 NVMe SSD 转 U.2 转接盒，让企业有更多选择。U.2 是服务器常用的硬盘协议，产品也都是企业级的因此企业能够选择的 SKU 少、价格高，威联通希望通过转接盒让客户也能用上普通 NVMe SSD 降低成本。查看全文：https:...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿里云拉美区域首座数据中心在墨西哥开服 提供弹性计算/云存储/网络/容器服务",
-      "link": "https://www.landiannews.com/archives/107958.html",
-      "date": "2025-02-19 16:23",
-      "author": "蓝点网",
-      "timestamp": 1739953388.0,
-      "summary": "#云计算 阿里云在拉美区域的首座数据中心在墨西哥开服，首批提供 1 个可用区、提供弹性计算、云存储、网络和容器技术。测试显示目前阿里云和 Alibaba Cloud 都可以开通墨西哥区服务器实例，暂时只有 x86 产品起步 2 核心 4GB 内存，其他产品和规格暂时还没。查看全文：https://o...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "热门基准测试工具AIDA64 v7.60版发布 不再支持Windows 95/98/ME",
-      "link": "https://www.landiannews.com/archives/107957.html",
-      "date": "2025-02-19 16:01",
-      "author": "蓝点网",
-      "timestamp": 1739952091.0,
-      "summary": "#软件资讯 Windows 热门基准测试工具 AIDA64 v7.60 版发布，不再支持 Windows 95/98/ME 系统。这些系统在 1995~2000 年之间发布，可能比一些网友年龄都大，此前 AIDA64 一直还提供支持才让人惊讶。查看全文：https://ourl.co/107957",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "因特朗普关税政策 宏碁宣布在美国销售的笔记本电脑等产品涨价10%",
-      "link": "https://www.landiannews.com/archives/107956.html",
-      "date": "2025-02-19 15:44",
-      "author": "蓝点网",
-      "timestamp": 1739951086.0,
-      "summary": "#行业资讯 宏碁 (Acer) 宣布在美国销售的笔记本电脑等产品涨价 10%，以反映特朗普额外施加的 10% 进口关税。宏碁董事长陈杰生表示，宏碁不得不调整最终用户价格以反映关税，宏碁认为由于美国进口关税，10% 也可能是默认上涨的价格。查看全文：https://ourl.co/107956",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "知名压缩管理器WinRAR v7.10正式版发布 不再支持任何32位系统以及Vista",
-      "link": "https://www.landiannews.com/archives/107955.html",
-      "date": "2025-02-19 15:28",
-      "author": "蓝点网",
-      "timestamp": 1739950138.0,
-      "summary": "#软件资讯 知名压缩管理器 WinRAR v7.10 正式版现已发布，自此不再支持任何 32 位系统、也不再支持 Vista 系统。新版本要求 Windows 7 + 和 64 位版，对于 32 位版用户仍然可以使用旧版 WinRAR，但无法修复漏洞因此存在安全威胁。查看全文：https://our...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -758,16 +778,6 @@
       "author": "NVIDIA 技术博客",
       "timestamp": 1738729855.0,
       "summary": "翻译在助力公司实现跨国业务扩展方面发挥着至关重要的作用，在语调、准确性和技术术语处理方面的要求差异很大。 主权 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Spectrum-X 网络平台和合作伙伴提升 AI 存储性能达48%",
-      "link": "https://developer.nvidia.com/zh-cn/blog/accelerating-ai-storage-by-up-to-48-with-nvidia-spectrum-x-networking-platform-and-partners/",
-      "date": "2025-02-04 14:56",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738652185.0,
-      "summary": "AI 工厂依靠的不仅仅是计算网。当然，连接 GPU 的东西向网络对于 AI 应用的性能至关重要，而连接高速存储 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
@@ -1499,16 +1509,6 @@
       "timestamp": 1736475220.0,
       "summary": "引 这是一篇拖了 1 年的游记。 24 年初，去英国探望女友，去了威尔士坎布里亚山脉的斯诺登山（Snowdon [&#8230;]",
       "source_url": "https://anotherdayu.com",
-      "category": "Blog"
-    },
-    {
-      "title": "科技爱好者周刊（第 333 期）：一切都要支付两次",
-      "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html",
-      "date": "2025-01-10 08:14",
-      "author": "阮一峰的网络日志",
-      "timestamp": 1736468077.0,
-      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n42层的深圳金融科技研究院大楼，去年6月封顶了，采用了不规则外形的设计。（via）\n\n一切都要支付两次\n\n有一句...",
-      "source_url": "http://www.ruanyifeng.com/blog/",
       "category": "Blog"
     },
     {
