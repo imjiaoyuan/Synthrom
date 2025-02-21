@@ -1,14 +1,24 @@
 {
-  "update_time": "2025-02-21",
+  "update_time": "2025-02-22",
   "articles": [
     {
-      "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
-      "link": "http://ddw2019.com/177",
-      "date": "2025-02-21 08:22",
-      "author": "Dongdong's 日志",
-      "timestamp": 1740097363.0,
-      "summary": "昨天grok3发布了，号称地表最强。 想要让AI给你比较好的答案，那么有两种方法： 使用最新的模型 学习Pro [&#8230;]",
-      "source_url": "https://ddw2019.com",
+      "title": "老虎围困九号楼",
+      "link": "http://m.wufazhuce.com/article/6694",
+      "date": "2025-02-22 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740176702.0,
+      "summary": "22  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／花叔\n\t\n\t&nbsp;假期的快乐早已跑得无影无踪，而且好像没有来过。明天，我该以什么理由请假呢？那天一早我像往常一样去上班，电梯下到一楼，就看到楼道里人头攒动。我问咋回事儿，一个人告诉我楼道被封了。我往前看，一个人在和门卫...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4522",
+      "link": "http://m.wufazhuce.com/one/4671",
+      "date": "2025-02-22 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740176702.0,
+      "summary": "22  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4522摄影 | Samuel Jeronimo\n\t22\n\tFeb. 2025\n\t\n\t其实，最理想的世界是大家不要争论，“和和气气地过日子”。 \t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
     {
@@ -28,26 +38,6 @@
       "author": "ONE · 一个",
       "timestamp": 1740090302.0,
       "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            ONE编辑部问\n        \n        \n        周末将至，你想对树洞说些什么？\n    \n\n    \n\n            \n           ...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "一次约会",
-      "link": "http://m.wufazhuce.com/article/6704",
-      "date": "2025-02-21 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740090302.0,
-      "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／寂静森林\n\t\n\t&nbsp;都市之中，同样的人，相处的时间地点不一样，印象也就不一样了。逢星期二和星期四，晓慧都会比平时早半个小时来到办公室。今天是星期二，晓慧来到办公室的时候是8点35分，办公室还没有人到。晓慧依次打开自己...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4521",
-      "link": "http://m.wufazhuce.com/one/4670",
-      "date": "2025-02-21 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740090302.0,
-      "summary": "21  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4521摄影 | Weekendplayer\n\t21\n\tFeb. 2025\n\t\n\t等你名声扫地了，就明白名声其实是个大包袱，也明白自由的意义了。\t\n\n\n\n\n &nbsp;\n获取更多RSS：https://feedx.net...",
       "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
@@ -262,16 +252,6 @@
       "category": "Blog"
     },
     {
-      "title": "176 使用Web App，将最常用的网站像软件一样操作，以DeepSeek举例",
-      "link": "http://ddw2019.com/176",
-      "date": "2025-02-11 00:10",
-      "author": "Dongdong's 日志",
-      "timestamp": 1739203832.0,
-      "summary": "大家经常使用浏览器访问某些网页或者网站，常见步骤有两个： 打开浏览器 打开对应的网站 那么能不能够减少一步了？ [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
       "title": "2024年度最具想象空间的新应用",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_imaginative_new_applications_of_2024/",
       "date": "2025-02-10 11:25",
@@ -362,16 +342,6 @@
       "category": "Blog"
     },
     {
-      "title": "175 免费监控个人网站的访客情况的一种方法 vercel + Umami + Neon",
-      "link": "http://ddw2019.com/175",
-      "date": "2025-02-07 19:43",
-      "author": "Dongdong's 日志",
-      "timestamp": 1738928632.0,
-      "summary": "今天看到一个网址，能够非常有效的监控个人网站。具体见 Bense（一个大佬呀）的访客情况：https://um [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
       "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
       "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html",
       "date": "2025-02-07 08:20",
@@ -379,16 +349,6 @@
       "timestamp": 1738887656.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n漳州钟法路的大榕树新春彩灯。（via）\n\n面对 AI，互联网正在衰落\n\n这一段日子，新闻焦点全是 DeepSee...",
       "source_url": "http://www.ruanyifeng.com/blog/",
-      "category": "Blog"
-    },
-    {
-      "title": "174 春节结束，长途跋涉之后到了城市小窝，应该干啥？",
-      "link": "http://ddw2019.com/174",
-      "date": "2025-02-06 15:22",
-      "author": "Dongdong's 日志",
-      "timestamp": 1738826562.0,
-      "summary": "春节假期过完了，这昨天回到了所在城市的小窝。从我家到现在的城市，旅途2000km，风尘仆仆的我昨天干了不少事情 [&#8230;]",
-      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -542,36 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "173 春节祭祖的思考",
-      "link": "http://ddw2019.com/173",
-      "date": "2025-01-29 17:49",
-      "author": "Dongdong's 日志",
-      "timestamp": 1738144146.0,
-      "summary": "春节回家就要祭祖，这是毋庸置疑的。毕竟多年以来的教育告诉我们，祭祖是一件必须要进行的工作。 祭祖的形式不一，但 [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
-      "title": "172 关于春节期间一些习俗话语的思考",
-      "link": "http://ddw2019.com/172",
-      "date": "2025-01-29 10:21",
-      "author": "Dongdong's 日志",
-      "timestamp": 1738117296.0,
-      "summary": "任何事情都是有原因的，都是从一定的实际来出发。春节期间的习俗也是如此。这里引用古人的一句话 “知之者不如好之者 [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
-      "title": "171 写一份“个性化”和“用心”的新年祝福，升级个性化新年祝福v2.0",
-      "link": "http://ddw2019.com/171",
-      "date": "2025-01-29 00:08",
-      "author": "Dongdong's 日志",
-      "timestamp": 1738080523.0,
-      "summary": "过年是我们中国人的习俗，过年都要写新年祝福。特别是互联网时代了都，这个新年祝福大家都会发。今天对新年祝福进行了 [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
       "title": "黎明：写在《论反对日本帝国主义的策略》前",
       "link": "https://wangyurui.com/posts/qi-fu-zhi-jian-a8d9d844",
       "date": "2025-01-27 22:08",
@@ -599,16 +529,6 @@
       "timestamp": 1737911074.0,
       "summary": "最近认识了 2 位“艺术家”朋友，她们给我发了一些链接，让我感受到了一些来自艺术家的震撼，顺便也换了换脑子（因为平时老是沉浸在实用主义的思维中，看到艺术家天马行空的创意，就很羡慕…）\n今天的链接都是“修四边形”背后的人推荐的，她经常做很多好玩的东西（不知道有没有读者想复兴一下 Web 艺术的，也可以...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
-      "title": "170 为什么我家附近沟渠总是和道路并列而建？",
-      "link": "http://ddw2019.com/170",
-      "date": "2025-01-26 23:17",
-      "author": "Dongdong's 日志",
-      "timestamp": 1737904633.0,
-      "summary": "这个现象呢，总是观察到，但是从来没有思考过。这两天从几位老人的聊天中，发现了这个问题并且以及对应答案。 回答问 [&#8230;]",
-      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -732,16 +652,6 @@
       "category": "Blog"
     },
     {
-      "title": "169 过年回家 列张清单 防止遗忘 不留遗憾",
-      "link": "http://ddw2019.com/169",
-      "date": "2025-01-21 16:24",
-      "author": "Dongdong's 日志",
-      "timestamp": 1737447846.0,
-      "summary": "随着年龄越来越大，回家带的东西越来越多，需要处理的事也越来越多。而我们的注意力却是有限的。这就造成了我们春节回 [&#8230;]",
-      "source_url": "https://ddw2019.com",
-      "category": "Blog"
-    },
-    {
       "title": "1007",
       "link": "https://cyp0633.icu/timeline/2025/01/1007/",
       "date": "2025-01-21 10:41",
@@ -809,16 +719,6 @@
       "timestamp": 1737158400.0,
       "summary": "公元2025年1月18日，这是临时驾照过期的日子，过期后如预约路考，需要重新考选择题。\n公元2023年1月18日，这是考选择题的日子，那一天，过了。\n公元2024年8月，刚从国内拔了智齿回美，打算准备路考，不然明年身份证要过期。\n公元2024年9月，坐在了驾校的学员车上，教练让倒车出去，一脸懵逼。\n...",
       "source_url": "https://yufree.cn/cn/",
-      "category": "Blog"
-    },
-    {
-      "title": "168 个性化设置Endnote 助力科研工作",
-      "link": "http://ddw2019.com/168",
-      "date": "2025-01-17 16:41",
-      "author": "Dongdong's 日志",
-      "timestamp": 1737103299.0,
-      "summary": "Endnote是一款古老又强大的软件。能够做到 批量管理大量的期刊数据和附件 数据可以和通过Web of Sc [&#8230;]",
-      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -7922,16 +7822,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -8058,6 +7948,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
