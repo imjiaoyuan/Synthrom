@@ -2,86 +2,6 @@
   "update_time": "2025-02-21",
   "articles": [
     {
-      "title": "爆料者透露苹果工程团队已经在测试C2基带芯片 但没有任何具体细节",
-      "link": "https://www.landiannews.com/archives/108002.html",
-      "date": "2025-02-21 11:13",
-      "author": "蓝点网",
-      "timestamp": 1740107581.0,
-      "summary": "#手机数码 爆料者透露苹果工程团队已经在测试 C2 基带芯片，内部标识符 C4020，但爆料者没有提供更多细节。目前 C1 芯片仅在入门级设备上采用，短时间内苹果不会推出 C2 芯片，iPhone 17 大多数机型仍将采用高通骁龙基带芯片。查看全文：https://ourl.co/108002",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌计划推出价格更便宜的YouTube Premium Lite订阅主要用于屏蔽视频广告",
-      "link": "https://www.landiannews.com/archives/108001.html",
-      "date": "2025-02-21 10:56",
-      "author": "蓝点网",
-      "timestamp": 1740106600.0,
-      "summary": "#科技资讯 谷歌计划推出价格更便宜的 YouTube Premium Lite 订阅主要用于帮助用户屏蔽广告。目前 YouTube 正在采取多种措施阻止用户屏蔽广告，包括限制观看视频和不停地弹出提醒等，谷歌希望通过新的 Lite 版吸引用户付费直接跳过广告而不是继续使用广告拦截软件进行对抗。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "安全统计数据显示苹果只能检测出50%被NSO间谍软件感染的设备 检测率非常低",
-      "link": "https://www.landiannews.com/archives/108000.html",
-      "date": "2025-02-21 10:46",
-      "author": "蓝点网",
-      "timestamp": 1740105967.0,
-      "summary": "#安全资讯 数据显示苹果大约只能检测出 50% 被 NSO 间谍软件感染的 iPhone，整体检测率仍然非常低。苹果会在检测到潜在攻击时主动向用户发出提醒，移动安全公司 iVerify 统计了该公司同名应用确认感染的 iPhone，发现苹果的检测率大约只有 50%，剩余 50% 的用户并不知道自己已...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "群晖推出办公套件API允许将群晖网盘和办公套件与其他产品集成实现工作流自动化",
-      "link": "https://www.landiannews.com/archives/107999.html",
-      "date": "2025-02-21 10:25",
-      "author": "蓝点网",
-      "timestamp": 1740104720.0,
-      "summary": "#科技资讯 群晖推出办公套件 API 允许将群晖网盘和办公套件与其他产品集成实现工作流自动化。例如在 CRM 中集成群晖网盘 API 可以直接上传和管理网盘中的文件，表格 API 可以自动收集数据并实时获得见解等，有兴趣的企业可以访问 API 文档查看具体的示例。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果以安全风险为由拒绝在英国开放iOS浏览器内核 — 毕竟你不是欧盟成员呀",
-      "link": "https://www.landiannews.com/archives/107998.html",
-      "date": "2025-02-21 10:11",
-      "author": "蓝点网",
-      "timestamp": 1740103862.0,
-      "summary": "#科技资讯 苹果以安全风险为由拒绝在英国开放 iOS 浏览器内核，毕竟你也不是欧盟成员呀！英国监管机构拟议的新规定要求苹果开放 iOS 浏览器内核，允许其他替代内核，苹果直接拒绝了该提议并要进行诉讼。查看全文：https://ourl.co/107998",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Windows 11安卓子系统关闭的原因(之一)？亚马逊宣布关闭其安卓应用商店",
-      "link": "https://www.landiannews.com/archives/107997.html",
-      "date": "2025-02-21 09:54",
-      "author": "蓝点网",
-      "timestamp": 1740102891.0,
-      "summary": "#软件资讯 Windows 11 安卓子系统关闭的原因 (之一)？亚马逊宣布关闭其安卓应用商店。此前微软与亚马逊合作，安卓子系统预装的就是亚马逊商店，不知道亚马逊是不是已经提前知会微软，微软这才觉得本来安卓子系统也没多少人用所以不如关了。查看全文：https://ourl.co/107997",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "分析师透露苹果将在iPhone 17全系列中使用自研Wi-Fi芯片取代博通",
-      "link": "https://www.landiannews.com/archives/107989.html",
-      "date": "2025-02-21 09:43",
-      "author": "蓝点网",
-      "timestamp": 1740102204.0,
-      "summary": "#手机数码 分析师透露苹果将在 iPhone 17 全系列中采用自研的 Wi-Fi 芯片取代长期以来博通提供的 Wi-Fi 芯片。天风国际知名分析师郭明錤称自研 Wi-Fi 芯片的采用速度非常快，因为 C1 基带芯片仅在入门级机型使用，现在 Wi-Fi 芯片全系列采用说明苹果非常有信心因此也没必要分...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "知情人士透露微软正在为OpenAI即将推出的GPT-5系列模型做好服务器容量准备",
-      "link": "https://www.landiannews.com/archives/107988.html",
-      "date": "2025-02-21 09:22",
-      "author": "蓝点网",
-      "timestamp": 1740100936.0,
-      "summary": "#人工智能 知情人士透露微软正在为 OpenAI 即将推出的 GPT-5 系列模型做好服务器容量准备。预计最早从下周开始微软将在 Azure 托管 GPT-4.5 系列模型，而 GPT-5 模型可能要到 5 月底发布，所以微软要提前准备好服务器。查看全文：https://ourl.co/107988",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
       "link": "http://ddw2019.com/177",
       "date": "2025-02-21 08:22",
@@ -160,146 +80,6 @@
       "summary": "欢迎来到《小猫都能懂的英语语法》第一期——时体态对动词施加的魔法。英语语法的核心是动词，“时体态”的核心也就是对动词的操作，本文尝试给你讲清楚“时体态”是什么，以及对动词产生什么效果，那么，开始上课~",
       "source_url": "https://ssshooter.com/",
       "category": "Blog"
-    },
-    {
-      "title": "支持文档显示苹果预计在4月发布的iOS 18.4版中为国内用户带来AI功能",
-      "link": "https://www.landiannews.com/archives/107986.html",
-      "date": "2025-02-20 15:25",
-      "author": "蓝点网",
-      "timestamp": 1740036326.0,
-      "summary": "#人工智能 支持文档显示苹果 AI 服务将在 4 月份支持中文，预计到时候是 iOS 18.4 正式版，国内用户应该也能用上 AI 了。苹果目前提供的 AI 服务挺多的，到时候国内用户估计只能使用部分服务然后慢慢扩展获得更多 AI 相关功能。查看全文：https://ourl.co/107986",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿里云服务器出现无法解析XYZ和HOST域名的短时间故障 但不清楚具体原因",
-      "link": "https://www.landiannews.com/archives/107985.html",
-      "date": "2025-02-20 15:05",
-      "author": "蓝点网",
-      "timestamp": 1740035100.0,
-      "summary": "#云计算 阿里云服务器出现无法解析 XYZ/HOST 域名的短时间故障，具体发生时间是在 2 月 20 日 08:57~10:50。得亏受影响的两个域名使用率都比较低所以没造成特别严重的影响，只是蓝点网头一次见服务器无法解析特定域名的情况所以非常好奇。查看全文：https://ourl.co/107...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "传三星/SK海力士/美光将停止生产DDR4/DDR3 转向利润更高的DDR5/HBM内存",
-      "link": "https://www.landiannews.com/archives/107984.html",
-      "date": "2025-02-20 14:51",
-      "author": "蓝点网",
-      "timestamp": 1740034316.0,
-      "summary": "#科技资讯 消息称三星电子、SK 海力士和美光将在 2025 年停止生产 DDR4/DDR3 内存芯片，全面转向利润更高的 DDR5 和 HBM 高带宽内存芯片。这种转变可能会打断当前 DDR4/DDR3 产品价格稳步下降的局面，产能减少后这些产品价格可能会上涨，或者逼迫用户购买价格更高的 DDR5...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "xAI宣布Grok 3模型限时免费使用 支持深度研究和思维但有配额限制",
-      "link": "https://www.landiannews.com/archives/107983.html",
-      "date": "2025-02-20 14:35",
-      "author": "蓝点网",
-      "timestamp": 1740033355.0,
-      "summary": "#人工智能 xAI 宣布 Grok 3 模型限时免费使用，无需任何订阅都可以使用 Grok 3 深度研究和思维功能。不过免费版是有配额限制的，如果用户愿意开通 30 美元 / 月和 40 美元 / 月的 SuperGrok 或 X Premium + 则可以获得更高配额。查看全文：https://o...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "美光也推出读取速度可达14.5GB/秒的消费级SSD 可以缩短AI模型的加载时间",
-      "link": "https://www.landiannews.com/archives/107982.html",
-      "date": "2025-02-20 12:30",
-      "author": "蓝点网",
-      "timestamp": 1740025836.0,
-      "summary": "#硬件设备 美光也推出读取速度可达 14.5GB / 秒的新款消费级固态硬盘，基于 PCIe 5.0 协议最大提供 4TB 容量。这款固态硬盘采用慧荣 SM2508 8 通道主控芯片，美光称其超高速度还可以缩短 LLM 和 AI 模型的加载时间。查看全文：https://ourl.co/107982",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
-      "link": "https://www.landiannews.com/archives/107981.html",
-      "date": "2025-02-20 12:09",
-      "author": "蓝点网",
-      "timestamp": 1740024574.0,
-      "summary": "#软件资讯 微软增强 Excel 内置的 Copilot AI 人工智能服务，可引用来自其他表格、文档、演示文稿、公共网络中的数据。当然用户需要提前授予 Copilot AI 读取企业内部数据或用户自己云端存储的数据，默认会从网络上寻找公共数据。查看全文：https://ourl.co/107981",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "宝可梦GO开发商Niantic计划以35亿美元完全出售游戏业务 原因是没有新热门游戏",
-      "link": "https://www.landiannews.com/archives/107980.html",
-      "date": "2025-02-20 11:52",
-      "author": "蓝点网",
-      "timestamp": 1740023531.0,
-      "summary": "#科技资讯 宝可梦 GO 开发商 Niantic 计划以 35 亿美元完全出售游戏业务，原因是除了宝可梦 GO 和 Ingress 外没有其他热门游戏。想要收购其游戏业务的则是沙特公共投资基金旗下的游戏公司，不过最终能够达成交易还需要等待新消息。查看全文：https://ourl.co/107980",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果正在测试iPhone 17 Pro原型机中的无线反向充电 提供7.5W的充电功率",
-      "link": "https://www.landiannews.com/archives/107967.html",
-      "date": "2025-02-20 11:38",
-      "author": "蓝点网",
-      "timestamp": 1740022732.0,
-      "summary": "#手机数码 知情人士透露苹果正在 iPhone 17 Pro 原型机上测试无线反向充电功能，可以提供 7.5W 的充电功率。苹果最初在 2020 年的 iPhone 12 中测试无线反向充电，但该功能最后并未向用户开放。查看全文：https://ourl.co/107967",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "制造业产品设计工作流程的生成式 AI 转型",
-      "link": "https://developer.nvidia.com/zh-cn/blog/transforming-product-design-workflows-in-manufacturing-with-generative-ai/",
-      "date": "2025-02-20 11:03",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740020617.0,
-      "summary": "长期以来，制造行业的传统设计和工程工作流程一直以顺序迭代的方法为特征，这种方法通常既耗时又需要大量资源。这些传 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
-      "link": "https://www.landiannews.com/archives/107966.html",
-      "date": "2025-02-20 10:53",
-      "author": "蓝点网",
-      "timestamp": 1740020004.0,
-      "summary": "#软件资讯 火狐浏览器将通过 Firefox 115 ESR 版将 Windows 7 系统的支持延长至 2025 年 9 月。当用户使用 115 ESR 则可以继续获得安全更新，Firefox 通过观察用户量决定是否延长，或许 9 月份还会再次延长吧。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenSSH推出9.9p2版修复两枚中危安全漏洞 可用于中间人劫持和DoS攻击",
-      "link": "https://www.landiannews.com/archives/107965.html",
-      "date": "2025-02-20 10:42",
-      "author": "蓝点网",
-      "timestamp": 1740019358.0,
-      "summary": "#安全资讯 OpenSSH 推出 9.9p2 版修复安全漏洞，其中 CVE-2025-26465 漏洞可在无需用户交互的情况下发起中间人劫持。这个漏洞主要影响的是 FreeBSD、SUSE、Alpine Linux等，建议使用 OpenSSH 的话都更新到最新版。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "传DeepSeek首次考虑外部融资 潜在投资者包括阿里 但DeepSeek称均为谣言",
-      "link": "https://www.landiannews.com/archives/107964.html",
-      "date": "2025-02-20 10:28",
-      "author": "蓝点网",
-      "timestamp": 1740018502.0,
-      "summary": "#人工智能 消息称 DeepSeek 首次考虑外部融资，潜在投资者包括阿里巴巴等，但 DeepSeek 称均为谣言。The Information 发布报道称 DeepSeek 及其母公司幻方量化首次考虑外部融资以支持基础设施建设和模型开发训练等，DeepSeek 至今没有融资的部分原因是担忧部分基...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谋智基金会宣布转向隐私广告和AI服务 同时元老级人物米切尔贝克离开",
-      "link": "https://www.landiannews.com/archives/107963.html",
-      "date": "2025-02-20 10:13",
-      "author": "蓝点网",
-      "timestamp": 1740017582.0,
-      "summary": "#科技资讯 谋智基金会宣布转向隐私广告和 AI 服务，同时元老级人物米切尔贝克特不再担任董事会主席、董事会成员。此前谋智基金会收购广告公司已经暗示了最终还是回到广告业务上，不知道这对 Firefox 是否会产生负面影响。查看全文：https://ourl.co/107963",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "清理旧仓库",
-      "link": "https://www.archlinuxcn.org/cleaning-up-old-repositories/",
-      "date": "2025-02-17 09:51",
-      "author": "Arch Linux",
-      "timestamp": 1739757089.0,
-      "summary": "大约两年前，我们在 git 迁移的过程中合并了 [community] 仓库到 [extra] 仓库。当时为了 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
     },
     {
       "title": "猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？",
@@ -452,36 +232,6 @@
       "category": "Blog"
     },
     {
-      "title": "使用 DeepSeek-R1 和推理时间缩放实现自动化 GPU 内核生成",
-      "link": "https://developer.nvidia.com/zh-cn/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/",
-      "date": "2025-02-13 11:04",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739415869.0,
-      "summary": "随着 AI 模型扩展其功能以解决更复杂的挑战，一种称为“ 测试时扩展 ”或“ 推理时扩展 ”的新扩展法则正在出 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "使用 NetworkX、Jaccard Similarity 和 cuGraph 预测您下一部最喜欢的电影",
-      "link": "https://developer.nvidia.com/zh-cn/blog/using-networkx-jaccard-similarity-and-cugraph-to-predict-your-next-favorite-movie/",
-      "date": "2025-02-13 10:57",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739415435.0,
-      "summary": "随着全球每个人可用的数据量不断增加，消费者做出明智决策的能力也越来越难。幸运的是，对于推荐系统而言，大型数据集 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "安全第一：领先的合作伙伴采用 NVIDIA 网络安全 AI 来保护关键基础设施",
-      "link": "https://blogs.nvidia.cn/blog/cybersecurity-ai-critical-infrastructure/",
-      "date": "2025-02-12 18:03",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1739354582.0,
-      "summary": "生成式 AI 的快速发展为跨行业和研究领域的创新创造了无数机会。与先进技术通常的情况一样，这种发展也改变了网络",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "2024年度最“隐”人注目的安全趋势",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_prominent_privacy_security_trend_of_2024/",
       "date": "2025-02-12 16:40",
@@ -490,26 +240,6 @@
       "summary": "2025年伊始，持续五年的“Siri偷听门”事件终于迎来了终章。苹果公司以9500万美元的和解金，与原告达成了集体诉讼的和解。\n这起备受瞩目的隐私争议案件起源于用户指控Siri在未经授权的情况下，意外捕获并录制日常对话，并将数据泄露给第三方广告商。\n尽管苹果对此坚决否认，但公众对隐私安全的忧虑却与日...",
       "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
-    },
-    {
-      "title": "使用 NVIDIA NeMo 框架进行 LLM 模型剪枝和知识蒸馏",
-      "link": "https://developer.nvidia.com/zh-cn/blog/llm-model-pruning-and-knowledge-distillation-with-nvidia-nemo-framework/",
-      "date": "2025-02-12 11:10",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739329823.0,
-      "summary": "模型剪枝和知识蒸馏是功能强大且经济高效的策略，用于从最初较大的同级获得较小的语言模型。 剪枝：丢弃图层 (深度 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "如何通过扩展定律推动更智能、更强大的 AI",
-      "link": "https://blogs.nvidia.cn/blog/ai-scaling-laws/",
-      "date": "2025-02-12 10:48",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1739328483.0,
-      "summary": "如同许多众所周知的自然经验法则 (例如，凡事有起必有落，或每一个作用力都有一个大小相等、方向相反的反作用力)",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
     },
     {
       "title": "电子报与博客",
@@ -532,26 +262,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA DGX 云推出即用型模板，更好地评估 AI 平台性能",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-dgx-cloud-introduces-ready-to-use-templates-to-benchmark-ai-platform-performance/",
-      "date": "2025-02-11 11:20",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739244000.0,
-      "summary": "在快速发展的 AI 系统和工作负载环境中，实现出色的模型训练性能远远超出芯片速度。这需要对整个堆栈进行全面评估 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "聚焦：BRLi 和 Toulouse INP 使用 NVIDIA Modulus 开发基于 AI 的洪水模型",
-      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-brli-and-toulouse-inp-develop-ai-based-flood-models-using-nvidia-modulus/",
-      "date": "2025-02-11 11:16",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739243807.0,
-      "summary": "洪水对 15 亿人构成了重大威胁，使其成为重大自然灾害的最常见原因。洪水每年给全球带来高达 25 亿美元的经济 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
       "title": "176 使用Web App，将最常用的网站像软件一样操作，以DeepSeek举例",
       "link": "http://ddw2019.com/176",
       "date": "2025-02-11 00:10",
@@ -562,16 +272,6 @@
       "category": "Blog"
     },
     {
-      "title": "适用于 RHEL9 的 NVIDIA 开放 GPU 数据中心驱动，由 Red Hat 签署",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-open-gpu-datacenter-drivers-for-rhel9-signed-by-red-hat/",
-      "date": "2025-02-10 12:07",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739160474.0,
-      "summary": "NVIDIA 和 Red Hat 合作，对 2020 年推出的预编译 NVIDIA Driver 进行持续改进 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
       "title": "2024年度最具想象空间的新应用",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_imaginative_new_applications_of_2024/",
       "date": "2025-02-10 11:25",
@@ -580,16 +280,6 @@
       "summary": "2023年是生成式AI和大型语言模型的元年，它们以前所未有的方式输出内容。\n2024年，涌现出大量的AI智能体（AI Agent）不仅扩展了大模型的能力边界，还驱动了更广泛的工具使用，并将其应用场景拓展到更多领域。\n对于安全研究者而言，如何借助AI力量的提高工作效率，甚至驱动AI像人类一样思考、分析...",
       "source_url": "https://www.darknavy.org/zh/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA Grace CPU 与 Arm 软件生态系统集成",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-grace-cpu-integrates-with-the-arm-software-ecosystem/",
-      "date": "2025-02-10 11:24",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1739157856.0,
-      "summary": "NVIDIA Grace CPU 将节能高效的性能提升到了新的高度，正在改变数据中心的设计。Grace CPU &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
     },
     {
       "title": "猫鱼周刊 vol. 055 城市旅游就是打卡吗？",
@@ -702,86 +392,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA RTX Mega Geometry 现已支持新的 Vulkan 示例程序",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-rtx-mega-geometry-now-available-with-new-vulkan-samples/",
-      "date": "2025-02-06 12:23",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738815807.0,
-      "summary": "在过去 30 年里，计算机图形领域的几何细节呈指数级增长。为了渲染具有更高实例数量和三角形密度的高质量素材，N &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "开始使用 NVIDIA RTX 套件进行神经渲染",
-      "link": "https://developer.nvidia.com/zh-cn/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/",
-      "date": "2025-02-06 12:19",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738815550.0,
-      "summary": "神经渲染是计算机图形的下一个时代。通过将神经网络集成到渲染过程中，我们可以在性能、图像质量和交互性方面实现巨大 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "使用 NVIDIA GeForce RTX 50 系列 GPU 实时渲染路径追踪头发",
-      "link": "https://developer.nvidia.com/zh-cn/blog/render-path-traced-hair-in-real-time-with-nvidia-geforce-rtx-50-series-gpus/",
-      "date": "2025-02-06 12:14",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738815294.0,
-      "summary": "2018 年， NVIDIA RTX 引入了对光线追踪三角形网格的硬件支持。但是，头发和毛皮的光线追踪仍然是一 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "适用于数据科学的 GPU 加速入门",
-      "link": "https://developer.nvidia.com/zh-cn/blog/get-started-with-gpu-acceleration-for-data-science/",
-      "date": "2025-02-06 12:11",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738815112.0,
-      "summary": "在数据科学领域，运营效率是处理日益复杂和大型数据集的关键。GPU 加速已成为现代工作流程的关键，可显著提高性能 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "GeForce RTX 50 系列 GPU 为 PC 上的生成式 AI 提供强劲助力",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-nim-blueprints-pc/",
-      "date": "2025-02-05 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1738764000.0,
-      "summary": "NVIDIA GeForce RTX 5090 D 和 5080 GPU 基于突破性的 NVIDIA Blac",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "使用 NVIDIA AI Workbench 简化本地和云系统之间的协作",
-      "link": "https://developer.nvidia.com/zh-cn/blog/streamline-collaboration-across-local-and-cloud-systems-with-nvidia-ai-workbench/",
-      "date": "2025-02-05 12:39",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738730370.0,
-      "summary": "NVIDIA AI Workbench 是一款免费的开发环境管理器 ，用于在 GPUs 上开发、定制 AI 应 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell 上的 OpenAI Triton 提升 AI 性能和可编程性",
-      "link": "https://developer.nvidia.com/zh-cn/blog/openai-triton-on-nvidia-blackwell-boosts-ai-performance-and-programmability/",
-      "date": "2025-02-05 12:33",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738730015.0,
-      "summary": "矩阵乘法和注意力机制是现代 AI 工作负载的计算支柱。虽然库如 NVIDIA cuDNN 提供高度优化的实现， &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "利用特定领域的微调和 NVIDIA NIM 提高翻译质量",
-      "link": "https://developer.nvidia.com/zh-cn/blog/improving-translation-quality-with-domain-specific-fine-tuning-and-nvidia-nim/",
-      "date": "2025-02-05 12:30",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1738729855.0,
-      "summary": "翻译在助力公司实现跨国业务扩展方面发挥着至关重要的作用，在语调、准确性和技术术语处理方面的要求差异很大。 主权 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
       "title": "AI论文评分",
       "link": "https://yufree.cn/cn/2025/02/04/ai-score-paper/",
       "date": "2025-02-04 08:00",
@@ -800,16 +410,6 @@
       "summary": "本月事件\n\n万万没想到新年第一天的第一件事竟然是 陪 Kei 酱做核磁共振 MRI。加拿大类似的检查是众所周知的慢，原本预约时间排到了四月，前两周临时通知有凌晨 4 点的空位，那也行吧，谁叫我们家是没什么外出活动的人呢。于是前一天 4 点多吃了晚饭早早上床，做核磁共振的地方和急诊室在一起，过程倒是挺...",
       "source_url": "https://thirdshire.com/",
       "category": "Blog"
-    },
-    {
-      "title": "Glibc 2.41 版本会损坏 Discord 安装",
-      "link": "https://www.archlinuxcn.org/glibc-241-corrupting-discord-installation/",
-      "date": "2025-02-03 21:49",
-      "author": "Arch Linux",
-      "timestamp": 1738590589.0,
-      "summary": "我们计划今天（2月3日）将 glibc 及其相关组件更新至稳定版。安装此更新后，Discord 客户端将显示红 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
     },
     {
       "title": "周报 #86 - 用影像打败时间",
@@ -912,16 +512,6 @@
       "category": "Blog"
     },
     {
-      "title": "借助 NVIDIA GeForce RTX 50 系列 AI PC 加速 DeepSeek 推理模型",
-      "link": "https://blogs.nvidia.cn/blog/deepseek-r1-rtx-ai-pc/",
-      "date": "2025-01-31 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1738332000.0,
-      "summary": "最近发布的 DeepSeek-R1 系列模型已在 AI 社区掀起一阵风潮，爱好者和开发者可以在 PC 上本地运",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "艺术书盲盒",
       "link": "https://anotherdayu.com/2025/6516/",
       "date": "2025-01-31 11:29",
@@ -932,16 +522,6 @@
       "category": "Blog"
     },
     {
-      "title": "Andres Diaz-Pinto 使用 MONAI 深入改变医学成像技术",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-life-andres-diaz-pinto/",
-      "date": "2025-01-31 11:24",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1738293891.0,
-      "summary": "Andres Diaz-Pinto 早在加入 NVIDIA 之前就已经站在了使用 AI 深入改变医疗健康行业的",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "近期测试的几个软件",
       "link": "https://anotherdayu.com/2025/6509/",
       "date": "2025-01-31 00:15",
@@ -950,26 +530,6 @@
       "summary": "近期收到或抽到了一些软件，都挺有趣，放在一起聊聊。 写完才发现 5 个项目的作者都是推友。 Juchats 推 [&#8230;]",
       "source_url": "https://anotherdayu.com",
       "category": "Blog"
-    },
-    {
-      "title": "光照、摄像头就位，准备开播：全新 NVIDIA Broadcast AI 功能已通过 GeForce RTX 50 系列 GPU 实现",
-      "link": "https://blogs.nvidia.cn/blog/studio-ai-geforce-rtx-50-series-broadcast/",
-      "date": "2025-01-30 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1738245600.0,
-      "summary": "基于 NVIDIA Blackwell 架构的全新 GeForce RTX 5090 D 和 RTX 5080",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "DeepSeek-R1 现已在 NVIDIA NIM 上线",
-      "link": "https://blogs.nvidia.cn/blog/deepseek-r1-nim-microservice/",
-      "date": "2025-01-30 14:38",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1738219096.0,
-      "summary": "DeepSeek-R1 是一个具备先进推理能力的开源模型。与直接给出答案不同，像 DeepSeek-R1 这样",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
     },
     {
       "title": "PIVOT Vol.12 新年快乐呀！",
@@ -1132,16 +692,6 @@
       "category": "Blog"
     },
     {
-      "title": "AI 盈利的关键：快速、低成本的推理",
-      "link": "https://blogs.nvidia.cn/blog/ai-inference-platform/",
-      "date": "2025-01-23 15:24",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1737617046.0,
-      "summary": "今年，各行各业的企业都在纷纷推出 AI 服务。对于微软、Oracle、Perplexity、Snap 等数百家",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "一些值得升级的事物",
       "link": "https://blog.douchi.space/gears-worth-upgrading/",
       "date": "2025-01-23 13:38",
@@ -1282,26 +832,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA Kaggle Grandmaster 如何将创新与游戏融为一体",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-life-kazuki-onodera/",
-      "date": "2025-01-17 11:26",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1737084387.0,
-      "summary": "Kazuki Onodera 从小就喜欢在电子游戏厅里制定游戏策略。他从未想过自己对游戏的热爱有朝一日会帮助他",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "关键 rsync 安全更新 3.4.0",
-      "link": "https://www.archlinuxcn.org/critical-rsync-security-release-340/",
-      "date": "2025-01-17 08:55",
-      "author": "Arch Linux",
-      "timestamp": 1737075309.0,
-      "summary": "我们想提醒大家 rsync 发布了安全版本更新 3.4.0-1 ，已经在公告 ASA-202501-1 中所描 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
       "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
       "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html",
       "date": "2025-01-17 08:17",
@@ -1310,16 +840,6 @@
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n武汉光谷是今年春节晚会的分会场，将表演灯光秀，非常有科幻感。（via）\n\n年终笔记四则\n\n下面是过去的笔记，我读...",
       "source_url": "http://www.ruanyifeng.com/blog/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 发布保障代理式 AI 应用安全的 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nemo-guardrails-nim-microservices/",
-      "date": "2025-01-16 13:24",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1737005054.0,
-      "summary": "AI 智能体有望成为能够完成各种任务的“知识机器人”，提升全球数十亿知识工作者的生产力。为了开发 AI 智能体",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
     },
     {
       "title": "AI 搞定微信小程序",
@@ -1362,26 +882,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 携手行业领先机构推动基因组学、药物发现及医疗健康行业发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-partners-with-industry-leaders-to-advance-genomics-drug-discovery-and-healthcare/",
-      "date": "2025-01-13 22:27",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736778433.0,
-      "summary": "摩根大通医疗健康大会——NVIDIA 今日宣布新的合作伙伴关系，旨在通过加速药物发现、提升基因组研究，以及利用",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 关于拜登政府错误引导的“AI 扩散”规则的声明",
-      "link": "https://blogs.nvidia.cn/blog/ai-policy/",
-      "date": "2025-01-13 21:40",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736775600.0,
-      "summary": "⼏⼗年来，计算和软件⽣态系统的领导地位⼀直是美国全球实⼒和影响⼒的基⽯。联邦政府明智地避免了对主流计算机和软件",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "便利店",
       "link": "https://imzm.im/711-store/",
       "date": "2025-01-13 17:58",
@@ -1390,16 +890,6 @@
       "summary": "公司楼下的便利店倒闭了，没有一点预兆。前一天还在店里买这买那，某天再走近一看，大门已经封紧，透过玻璃能看到几位 [&#8230;]",
       "source_url": "https://imzm.im",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 赋能 Pantheon Lab 数字人实时交互解决方案",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-empowers-pantheon-lab-real-time-interaction-solutions-for-digital-humans/",
-      "date": "2025-01-13 15:50",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736754637.0,
-      "summary": "案例简介 本案例中，Pantheon Lab（万想科技）专注于数字人技术解决方案，通过 NVIDIA 技术实现",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
     },
     {
       "title": "2024 年终总结：时间统计和人物属性轴",
@@ -1472,36 +962,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
-      "date": "2025-01-10 22:09",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736518152.0,
-      "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
-      "date": "2025-01-10 22:09",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736518152.0,
-      "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "AI 零售成为现实：NVIDIA 最新调研发现，十分之九的零售商正在使用或试点 AI",
-      "link": "https://blogs.nvidia.cn/blog/ai-in-retail-cpg-survey-2025/",
-      "date": "2025-01-10 21:45",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736516758.0,
-      "summary": "人工智能 (AI) 正在迅速地成为零售和快速消费品行业创新的基石。 富有远见的公司正在使用 AI 来重新设计整",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "第一次中距离徒步 Yr Wyddfa",
       "link": "https://anotherdayu.com/2025/6416/",
       "date": "2025-01-10 10:13",
@@ -1532,16 +992,6 @@
       "category": "Blog"
     },
     {
-      "title": "现代汽车集团采用 NVIDIA AI 和 Omniverse 技术打造下一代移动出行方式",
-      "link": "https://blogs.nvidia.cn/blog/hyundai-motor-group-ces/",
-      "date": "2025-01-09 16:14",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736410445.0,
-      "summary": "现代汽车集团（以下简称为“现代集团”）正在与 NVIDIA 合作，引领智能出行的未来，共同利用 AI 和工业数",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "vivo X200 Pro 使用体验",
       "link": "https://imzm.im/vivo-x200-pro/",
       "date": "2025-01-08 23:59",
@@ -1550,16 +1000,6 @@
       "summary": "我的前五部手机都是一加，该品牌并不以摄影摄像作为主要卖点，而上一台一加 Ace 2 Pro 已经不能满足我日渐 [&#8230;]",
       "source_url": "https://imzm.im",
       "category": "Blog"
-    },
-    {
-      "title": "借助 NVIDIA NIM 微服务和 AI Blueprint 开启本地 AI 新时代",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-ces-pc-nim-blueprints/",
-      "date": "2025-01-08 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736344800.0,
-      "summary": "去年，生成式 AI 改变了人们的生活、工作和娱乐方式，从写作到内容创作，再到游戏、学习和生产力，方方面面获得提",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
     },
     {
       "title": "寸心水月",
@@ -1592,46 +1032,6 @@
       "category": "Blog"
     },
     {
-      "title": "为何企业需要 AI 查询引擎来推动代理式 AI？",
-      "link": "https://blogs.nvidia.cn/blog/ai-query-engines-agentic-ai/",
-      "date": "2025-01-07 10:38",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736217480.0,
-      "summary": "数据是 AI 应用的燃料，但企业数据的量级和规模往往会使其使用成本高且耗时，难以有效利用。 根据 IDC 的",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出 Grace Blackwell 桌面系统，让每位 AI 开发者都能触手可及",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips/",
-      "date": "2025-01-06 22:50",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736175000.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 推出个人 AI 超级计算机 NVI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "iphone 利用 Scriptable 添加网上国网电费小组件",
       "link": "https://cuixinxin.cn/archives/3479",
       "date": "2025-01-06 20:40",
@@ -1640,46 +1040,6 @@
       "summary": "scriptable 添加网上国网电量组件。",
       "source_url": "https://cuixinxin.cn",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 通过生成式物理 AI 进一步扩展 Omniverse",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-expands-omniverse-with-generative-physical-ai/",
-      "date": "2025-01-06 17:25",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736155532.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出多个生成式 AI 模型和蓝",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "丰田、Aurora 和大陆集团加入 NVIDIA 合作伙伴行列，推出下一代高度自动化的自动驾驶车型",
-      "link": "https://blogs.nvidia.cn/blog/toyota-aurora-continental-nvidia-drive/",
-      "date": "2025-01-06 17:18",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736155119.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 宣布，丰田、Aurora 和大陆集",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA DRIVE Hyperion 平台为自动驾驶汽车开发实现关键汽车安全和网络安全里程碑",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-drive-hyperion-platform-achieves-critical-automotive-safety-and-cybersecurity-milestones-for-av-development/",
-      "date": "2025-01-06 17:14",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736154862.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 宣布自动驾驶汽车平台 NVIDIA",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出加速物理 AI 开发的 Cosmos 世界基础模型平台",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-cosmos-world-foundation-model-platform-to-accelerate-physical-ai-development/",
-      "date": "2025-01-06 17:06",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736154360.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出 NVIDIA Cosmo",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "小寒｜2024年12月小结",
@@ -2392,16 +1752,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "求婚誓言 | 爱的本质是被看见",
       "link": "https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/",
       "date": "2024-12-03 21:43",
@@ -2622,36 +1972,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 发布 2025 财年第三季度财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
-      "date": "2024-11-20 14:31",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1732084316.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 10 月 27 日的第三季度收入为 3",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "给打包用的源码指定协议",
-      "link": "https://www.archlinuxcn.org/providing-a-license-for-package-sources/",
-      "date": "2024-11-19 20:33",
-      "author": "Arch Linux",
-      "timestamp": 1732019583.0,
-      "summary": "以前 Arch Linux 打包用的源码（比如PKGBUILD文件）一直没有写明协议，这潜藏着问题。明确指定协 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出 BioNeMo 开源框架，扩大全球生物制药和科学行业的数字生物学研究规模",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-opens-bionemo-to-scale-digital-biology-for-global-biopharma-and-scientific-industry/",
-      "date": "2024-11-18 22:27",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731940053.0,
-      "summary": "SC24 – NVIDIA 今日宣布，全球制药和科技生物行业的领导者、学术先锋和 AI 研究人员正在使用开源的",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案",
       "link": "https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/",
       "date": "2024-11-18 17:30",
@@ -2660,26 +1980,6 @@
       "summary": "前言 最近在参与 Follow 以及 RSSHub 这两个开源项目的一些开发维护工作，因为牵扯到与很多订阅源的“斗智斗勇”，有一些很有意思的开发实践，于是开了这个新坑系列",
       "source_url": "https://www.pseudoyu.com/zh/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 助力谷歌量子 AI 通过量子器件物理学模拟加快处理器设计",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-supercharges-google-quantum-processor-design-with-simulation-of-quantum-device-physics/",
-      "date": "2024-11-18 13:56",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731909412.0,
-      "summary": "SC24 — NVIDIA 于今日宣布正在与谷歌量子 AI 合作，使用 NVIDIA CUDA-Q™ 平台进行",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 宣布与行业软件领先者推出 Omniverse 实时物理数字孪生产品",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders/",
-      "date": "2024-11-18 13:02",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731906166.0,
-      "summary": "SC24 — NVIDIA 今日宣布推出 NVIDIA Omniverse™ Blueprint。借助该蓝图，",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "猫鱼周刊 vol. 048 世界是个巨大的草台班子",
@@ -2700,16 +2000,6 @@
       "summary": "或许 Pixel 的 eSIM、WiFi Calling 等功能是除了外版 iPhone 外支持最好的设备之一。但是Pixel 的设置逻辑和功能细节有着不小的差异，甚至还夹杂了一些反直觉的操作。本文结合个人实践与经验，解析了 Pixel 在这些功能上的实现设置，无论是在国内的特殊情况，还是在跨地区使...",
       "source_url": "https://blog.ichr.me/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 与软银集团助力日本迈向全球 AI 前沿阵列",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-softbank-accelerate-japans-journey-to-global-ai-powerhouse/",
-      "date": "2024-11-12 22:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731420000.0,
-      "summary": "NVIDIA AI Summit Japan – NVIDIA 今日宣布与软银集团开展一系列合作，旨在加速日本",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "Automatically Update Open Source Project API Documentation Using GitHub Actions",
@@ -3002,16 +2292,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 以太网加速 xAI 构建的全球最大 AI 超级计算机",
-      "link": "https://blogs.nvidia.cn/blog/spectrum-x-ethernet-networking-xai-colossus/",
-      "date": "2024-10-28 20:37",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1730119079.0,
-      "summary": "2024 年 10 月 28 日—NVIDIA 宣布，xAI 位于田纳西州孟菲斯市的 Colossus 超级计",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "从亲密关系中学到的",
       "link": "https://thirdshire.com/relationship/",
       "date": "2024-10-28 10:00",
@@ -3162,16 +2442,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 向开放硬件生态系统捐赠 Blackwell 平台设计，加速 AI 基础设施创新",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-contributes-blackwell-platform-design-to-open-hardware-ecosystem-accelerating-ai-infrastructure-innovation/",
-      "date": "2024-10-15 09:34",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1728956048.0,
-      "summary": "10 月 16 日，在美国加利福尼亚州举行的 OCP 全球峰会上，NVIDIA 宣布已把 NVIDIA Bla",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "独立博客自省问卷15题",
       "link": "https://imzm.im/15-questions-on-blogging/",
       "date": "2024-10-14 14:45",
@@ -3220,16 +2490,6 @@
       "summary": "Sam Altman 最近有一个关于 AI 和写作的访谈，让我开始思考 AI 辅助写作这个课题。\n在辅助生产代码方面，Cursor 和 GitHub Copilot 已经证明了 AI 和人类在编程方面的协作非常有效。通过代码的上下文和注释，加上人类显示声明需求，AI 能很好地完成写代码任务。\n我在思...",
       "source_url": "https://lutaonan.com",
       "category": "Blog"
-    },
-    {
-      "title": "众多技术领导者利用 NVIDIA AI 软件改变全球各行各业",
-      "link": "https://blogs.nvidia.cn/blog/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries/",
-      "date": "2024-10-08 22:22",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1728397326.0,
-      "summary": "技术领导者利用 NVIDIA AI 软件来改变全球各行各业。 NVIDIA AI 峰会 – NVIDIA 近日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "2024 年，将网站部署到 Cloudflare Workers",
@@ -3422,16 +2682,6 @@
       "category": "Blog"
     },
     {
-      "title": "pacman 7.0.0 更新，本地仓库需要手动干预",
-      "link": "https://www.archlinuxcn.org/manual-intervention-for-pacman-700-and-local-repositories-required/",
-      "date": "2024-09-14 20:00",
-      "author": "Arch Linux",
-      "timestamp": 1726315259.0,
-      "summary": "随着 7.0.0 版本的发布，pacman 增加了以单独的低权限用户身份来下载软件包的功能。 然而，对于使用本 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
       "title": "记录一次濒死体验",
       "link": "https://1q43.blog/post/7757/",
       "date": "2024-09-11 11:37",
@@ -3440,16 +2690,6 @@
       "summary": "与死亡相比，从死亡被拉回来的过程更难受。",
       "source_url": "https://1q43.blog",
       "category": "Blog"
-    },
-    {
-      "title": "升级 tzdata 至 2024b-1 可能会出现问题",
-      "link": "https://www.archlinuxcn.org/%e5%8d%87%e7%ba%a7-tzdata-%e8%87%b3-2024b-1-%e5%8f%af%e8%83%bd%e4%bc%9a%e5%87%ba%e7%8e%b0%e9%97%ae%e9%a2%98/",
-      "date": "2024-09-10 12:45",
-      "author": "Arch Linux",
-      "timestamp": 1725943544.0,
-      "summary": "2024-09-14更新：该问题已经通过更新 gcc 到包含修复的提交的方式得到解决。Arch Linux 的 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
     },
     {
       "title": "聊聊未来技术趋势",
@@ -3612,16 +2852,6 @@
       "category": "Blog"
     },
     {
-      "title": "NVIDIA 发布 2025 财年第二季度财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-second-quarter-fiscal-2025/",
-      "date": "2024-08-28 20:09",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1724846989.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "HelloGitHub 第 101 期",
       "link": "https://hellogithub.com/periodical/volume/101",
       "date": "2024-08-28 08:03",
@@ -3650,16 +2880,6 @@
       "summary": "前言很早就有了解到今年的 KubeCon China 会在香港举办，虽然有些兴趣，但我最初是有被 KubeCon 高昂的门票价格劝退了的。\n有时候不得不相信运气的魔力，机缘巧合之下，我从朋友 @Kev 处得知了 KubeCon 的「最终用户门票计划」并借此 0 元购了门票，又邀上了 0xFFFF 社...",
       "source_url": "https://thiscute.world/",
       "category": "Blog"
-    },
-    {
-      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
-      "date": "2024-08-27 09:16",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1724721386.0,
-      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
     },
     {
       "title": "2024.08.26: 各种链接",
@@ -4242,16 +3462,6 @@
       "category": "Blog"
     },
     {
-      "title": "需要在更新到 openssh-9.8p1 之后重启 sshd 服务",
-      "link": "https://www.archlinuxcn.org/the-sshd-service-needs-to-be-restarted-after-upgrading-to-openssh-98p1/",
-      "date": "2024-07-02 09:19",
-      "author": "Arch Linux",
-      "timestamp": 1719883194.0,
-      "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
       "title": "独立创作是一种生活方式",
       "link": "https://limboy.me/posts/independent-creation-is-a-lifestyle",
       "date": "2024-07-02 08:00",
@@ -4822,16 +4032,6 @@
       "category": "Blog"
     },
     {
-      "title": "Arch Linux 2024 项目负责人选举结果",
-      "link": "https://www.archlinuxcn.org/arch-linux-2024-leader-election-results/",
-      "date": "2024-04-15 15:55",
-      "author": "Arch Linux",
-      "timestamp": 1713167706.0,
-      "summary": "最近我们举办了项目负责人选举，前一任项目负责人 Levente &#8220;anthraxx&#8221;  [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
       "title": "Vue3 Ref获取节点返回顺序不一致。",
       "link": "https://cuixinxin.cn/archives/2796",
       "date": "2024-04-15 13:14",
@@ -4912,16 +4112,6 @@
       "category": "Blog"
     },
     {
-      "title": "增加 vm.max_map_count 的默认值",
-      "link": "https://www.archlinuxcn.org/increasing-the-default-vmmax_map_count-value/",
-      "date": "2024-04-08 09:39",
-      "author": "Arch Linux",
-      "timestamp": 1712540396.0,
-      "summary": "系统参数 vm.max_map_count 的默认值将从 65530 增加到 1048576 。 这一变更应该 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
       "title": "结婚有什么好处？",
       "link": "https://www.ntiy.com/2147.html",
       "date": "2024-04-07 13:34",
@@ -4960,16 +4150,6 @@
       "summary": "周日去公园 本来上午还是阴天☁️的。 结果下午出了太阳☀️ 那就带着娃去公园挖沙子。 上次去公园捞鱼。没看到有沙坑。就没有带挖沙子的工具。 而且上次捞鱼掉河里了。玩了一会就回家了。",
       "source_url": "https://cuixinxin.cn",
       "category": "Blog"
-    },
-    {
-      "title": "xz 软件包被植入后门",
-      "link": "https://www.archlinuxcn.org/the-xz-package-has-been-backdoored/",
-      "date": "2024-03-30 06:43",
-      "author": "Arch Linux",
-      "timestamp": 1711752190.0,
-      "summary": "简单讲：立即升级系统和容器镜像！ 大家可能已经听说了 [1]，xz 上游发布的 5.6.0 和 5.6.1 版 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
     },
     {
       "title": "个人工具箱与好物分享",
@@ -8100,6 +7280,826 @@
       "summary": "2024 年\n看见喜欢的博主隐藏了「Stream」頁面，想起来前不久刷到了本版块的意义所在：\n\n每次马斯克发神经，就有几十万人逃离 X，结果发现每个社交 app 都一样疯狂，每个人都既自恋又从众\n忽然之间，简单分享、真实做自己的 microblog / 微博客 / 迷你个人网站，变成了新潮流",
       "source_url": "https://kowyo.com/",
       "category": "Blog"
+    },
+    {
+      "title": "啊这也太夸张了吧？不到3个月ChatGPT新增活跃用户达到1亿 总用户达到4亿",
+      "link": "https://www.landiannews.com/archives/108004.html",
+      "date": "2025-02-21 12:03",
+      "author": "蓝点网",
+      "timestamp": 1740110629.0,
+      "summary": "#人工智能 啊这也太夸张了吧？不到 3 个月 ChatGPT 新增周活跃用户达到 1 亿名，目前总周活跃用户已达到 4 亿名。2024 年 8 月 ChatGPT 周活跃用户达到 2 亿名，到 12 月达到 3 亿名，没想到这还不到 3 个月竟然又增加了 1 亿名用户。查看全文：https://ou...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "独家消息：5ber eSIM卡团队疑似被强行解散并拖欠工资 母公司多项业务停摆",
+      "link": "https://www.landiannews.com/archives/108003.html",
+      "date": "2025-02-21 11:42",
+      "author": "蓝点网",
+      "timestamp": 1740109344.0,
+      "summary": "#行业资讯 5ber eSIM 疑似跑路事件更多消息：eSIM 从业者向蓝点网提供独家爆料，5ber 母公司 iFree 出现问题导致旗下多个业务停摆。受影响的包括 5ber eSIM、环球流量卡业务 MOGO 以及线下店铺等，目前 5ber 团队疑似被强行解散并拖欠了至少三个月工资。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "爆料者透露苹果工程团队已经在测试C2基带芯片 但没有任何具体细节",
+      "link": "https://www.landiannews.com/archives/108002.html",
+      "date": "2025-02-21 11:13",
+      "author": "蓝点网",
+      "timestamp": 1740107581.0,
+      "summary": "#手机数码 爆料者透露苹果工程团队已经在测试 C2 基带芯片，内部标识符 C4020，但爆料者没有提供更多细节。目前 C1 芯片仅在入门级设备上采用，短时间内苹果不会推出 C2 芯片，iPhone 17 大多数机型仍将采用高通骁龙基带芯片。查看全文：https://ourl.co/108002",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌计划推出价格更便宜的YouTube Premium Lite订阅主要用于屏蔽视频广告",
+      "link": "https://www.landiannews.com/archives/108001.html",
+      "date": "2025-02-21 10:56",
+      "author": "蓝点网",
+      "timestamp": 1740106600.0,
+      "summary": "#科技资讯 谷歌计划推出价格更便宜的 YouTube Premium Lite 订阅主要用于帮助用户屏蔽广告。目前 YouTube 正在采取多种措施阻止用户屏蔽广告，包括限制观看视频和不停地弹出提醒等，谷歌希望通过新的 Lite 版吸引用户付费直接跳过广告而不是继续使用广告拦截软件进行对抗。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "安全统计数据显示苹果只能检测出50%被NSO间谍软件感染的设备 检测率非常低",
+      "link": "https://www.landiannews.com/archives/108000.html",
+      "date": "2025-02-21 10:46",
+      "author": "蓝点网",
+      "timestamp": 1740105967.0,
+      "summary": "#安全资讯 数据显示苹果大约只能检测出 50% 被 NSO 间谍软件感染的 iPhone，整体检测率仍然非常低。苹果会在检测到潜在攻击时主动向用户发出提醒，移动安全公司 iVerify 统计了该公司同名应用确认感染的 iPhone，发现苹果的检测率大约只有 50%，剩余 50% 的用户并不知道自己已...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "群晖推出办公套件API允许将群晖网盘和办公套件与其他产品集成实现工作流自动化",
+      "link": "https://www.landiannews.com/archives/107999.html",
+      "date": "2025-02-21 10:25",
+      "author": "蓝点网",
+      "timestamp": 1740104720.0,
+      "summary": "#科技资讯 群晖推出办公套件 API 允许将群晖网盘和办公套件与其他产品集成实现工作流自动化。例如在 CRM 中集成群晖网盘 API 可以直接上传和管理网盘中的文件，表格 API 可以自动收集数据并实时获得见解等，有兴趣的企业可以访问 API 文档查看具体的示例。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果以安全风险为由拒绝在英国开放iOS浏览器内核 — 毕竟你不是欧盟成员呀",
+      "link": "https://www.landiannews.com/archives/107998.html",
+      "date": "2025-02-21 10:11",
+      "author": "蓝点网",
+      "timestamp": 1740103862.0,
+      "summary": "#科技资讯 苹果以安全风险为由拒绝在英国开放 iOS 浏览器内核，毕竟你也不是欧盟成员呀！英国监管机构拟议的新规定要求苹果开放 iOS 浏览器内核，允许其他替代内核，苹果直接拒绝了该提议并要进行诉讼。查看全文：https://ourl.co/107998",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Windows 11安卓子系统关闭的原因(之一)？亚马逊宣布关闭其安卓应用商店",
+      "link": "https://www.landiannews.com/archives/107997.html",
+      "date": "2025-02-21 09:54",
+      "author": "蓝点网",
+      "timestamp": 1740102891.0,
+      "summary": "#软件资讯 Windows 11 安卓子系统关闭的原因 (之一)？亚马逊宣布关闭其安卓应用商店。此前微软与亚马逊合作，安卓子系统预装的就是亚马逊商店，不知道亚马逊是不是已经提前知会微软，微软这才觉得本来安卓子系统也没多少人用所以不如关了。查看全文：https://ourl.co/107997",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "分析师透露苹果将在iPhone 17全系列中使用自研Wi-Fi芯片取代博通",
+      "link": "https://www.landiannews.com/archives/107989.html",
+      "date": "2025-02-21 09:43",
+      "author": "蓝点网",
+      "timestamp": 1740102204.0,
+      "summary": "#手机数码 分析师透露苹果将在 iPhone 17 全系列中采用自研的 Wi-Fi 芯片取代长期以来博通提供的 Wi-Fi 芯片。天风国际知名分析师郭明錤称自研 Wi-Fi 芯片的采用速度非常快，因为 C1 基带芯片仅在入门级机型使用，现在 Wi-Fi 芯片全系列采用说明苹果非常有信心因此也没必要分...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知情人士透露微软正在为OpenAI即将推出的GPT-5系列模型做好服务器容量准备",
+      "link": "https://www.landiannews.com/archives/107988.html",
+      "date": "2025-02-21 09:22",
+      "author": "蓝点网",
+      "timestamp": 1740100936.0,
+      "summary": "#人工智能 知情人士透露微软正在为 OpenAI 即将推出的 GPT-5 系列模型做好服务器容量准备。预计最早从下周开始微软将在 Azure 托管 GPT-4.5 系列模型，而 GPT-5 模型可能要到 5 月底发布，所以微软要提前准备好服务器。查看全文：https://ourl.co/107988",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "支持文档显示苹果预计在4月发布的iOS 18.4版中为国内用户带来AI功能",
+      "link": "https://www.landiannews.com/archives/107986.html",
+      "date": "2025-02-20 15:25",
+      "author": "蓝点网",
+      "timestamp": 1740036326.0,
+      "summary": "#人工智能 支持文档显示苹果 AI 服务将在 4 月份支持中文，预计到时候是 iOS 18.4 正式版，国内用户应该也能用上 AI 了。苹果目前提供的 AI 服务挺多的，到时候国内用户估计只能使用部分服务然后慢慢扩展获得更多 AI 相关功能。查看全文：https://ourl.co/107986",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "阿里云服务器出现无法解析XYZ和HOST域名的短时间故障 但不清楚具体原因",
+      "link": "https://www.landiannews.com/archives/107985.html",
+      "date": "2025-02-20 15:05",
+      "author": "蓝点网",
+      "timestamp": 1740035100.0,
+      "summary": "#云计算 阿里云服务器出现无法解析 XYZ/HOST 域名的短时间故障，具体发生时间是在 2 月 20 日 08:57~10:50。得亏受影响的两个域名使用率都比较低所以没造成特别严重的影响，只是蓝点网头一次见服务器无法解析特定域名的情况所以非常好奇。查看全文：https://ourl.co/107...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "传三星/SK海力士/美光将停止生产DDR4/DDR3 转向利润更高的DDR5/HBM内存",
+      "link": "https://www.landiannews.com/archives/107984.html",
+      "date": "2025-02-20 14:51",
+      "author": "蓝点网",
+      "timestamp": 1740034316.0,
+      "summary": "#科技资讯 消息称三星电子、SK 海力士和美光将在 2025 年停止生产 DDR4/DDR3 内存芯片，全面转向利润更高的 DDR5 和 HBM 高带宽内存芯片。这种转变可能会打断当前 DDR4/DDR3 产品价格稳步下降的局面，产能减少后这些产品价格可能会上涨，或者逼迫用户购买价格更高的 DDR5...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "xAI宣布Grok 3模型限时免费使用 支持深度研究和思维但有配额限制",
+      "link": "https://www.landiannews.com/archives/107983.html",
+      "date": "2025-02-20 14:35",
+      "author": "蓝点网",
+      "timestamp": 1740033355.0,
+      "summary": "#人工智能 xAI 宣布 Grok 3 模型限时免费使用，无需任何订阅都可以使用 Grok 3 深度研究和思维功能。不过免费版是有配额限制的，如果用户愿意开通 30 美元 / 月和 40 美元 / 月的 SuperGrok 或 X Premium + 则可以获得更高配额。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "聚焦：东京大学使用 NVIDIA Grace Hopper 进行开创性的节能地震研究",
+      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-university-of-tokyo-uses-nvidia-grace-hopper-for-groundbreaking-energy-efficient-seismic-research/",
+      "date": "2025-02-20 12:36",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740026164.0,
+      "summary": "超级计算机是推动突破性发现的引擎。从预测极端天气到推进疾病研究，以及设计更安全、更高效的基础设施，这些机器可以 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "美光也推出读取速度可达14.5GB/秒的消费级SSD 可以缩短AI模型的加载时间",
+      "link": "https://www.landiannews.com/archives/107982.html",
+      "date": "2025-02-20 12:30",
+      "author": "蓝点网",
+      "timestamp": 1740025836.0,
+      "summary": "#硬件设备 美光也推出读取速度可达 14.5GB / 秒的新款消费级固态硬盘，基于 PCIe 5.0 协议最大提供 4TB 容量。这款固态硬盘采用慧荣 SM2508 8 通道主控芯片，美光称其超高速度还可以缩短 LLM 和 AI 模型的加载时间。查看全文：https://ourl.co/107982",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "借助全新的游戏内推理 SDK，将 NVIDIA ACE AI 角色引入游戏",
+      "link": "https://developer.nvidia.com/zh-cn/blog/bring-nvidia-ace-ai-characters-to-games-with-the-new-in-game-inference-sdk/",
+      "date": "2025-02-20 12:27",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740025637.0,
+      "summary": "NVIDIA ACE 是一套数字人技术，可借助生成式 AI 让游戏角色和数字助理如生。ACE 设备上模型为自主 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 NVIDIA cuDF，pandas 读取 JSON 行文件速度提升100倍",
+      "link": "https://developer.nvidia.com/zh-cn/blog/json-lines-reading-with-pandas-100x-faster-using-nvidia-cudf/",
+      "date": "2025-02-20 12:21",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740025271.0,
+      "summary": "JSON 是一种广泛采用的格式，用于在系统之间 (通常用于 Web 应用和大语言模型 (LLMs)) 以互操作 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
+      "link": "https://www.landiannews.com/archives/107981.html",
+      "date": "2025-02-20 12:09",
+      "author": "蓝点网",
+      "timestamp": 1740024574.0,
+      "summary": "#软件资讯 微软增强 Excel 内置的 Copilot AI 人工智能服务，可引用来自其他表格、文档、演示文稿、公共网络中的数据。当然用户需要提前授予 Copilot AI 读取企业内部数据或用户自己云端存储的数据，默认会从网络上寻找公共数据。查看全文：https://ourl.co/107981",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA GTC 2025 上的人工智能促进气候、能源和生态系统复原力",
+      "link": "https://developer.nvidia.com/zh-cn/blog/ai-for-climate-energy-and-ecosystem-resilience-at-nvidia-gtc-2025/",
+      "date": "2025-02-20 12:09",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740024559.0,
+      "summary": "从减缓气候变化到改进灾害响应和环境监测，AI 正在重塑我们应对重大全球挑战的方式。快速、高分辨率的气候预报、实 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 Whisper 和 Canary 架构部署 NVIDIA Riva 多语种 ASR，同时选择性地停用 NMT",
+      "link": "https://developer.nvidia.com/zh-cn/blog/deploying-nvidia-riva-multilingual-asr-with-whisper-and-canary-architectures-while-selectively-deactivating-nmt/",
+      "date": "2025-02-20 12:05",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740024301.0,
+      "summary": "NVIDIA 持续开发自动语音识别 (ASR) 模型，这些模型在业内树立了基准。 早期版本的 NVIDIA R &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "宝可梦GO开发商Niantic计划以35亿美元完全出售游戏业务 原因是没有新热门游戏",
+      "link": "https://www.landiannews.com/archives/107980.html",
+      "date": "2025-02-20 11:52",
+      "author": "蓝点网",
+      "timestamp": 1740023531.0,
+      "summary": "#科技资讯 宝可梦 GO 开发商 Niantic 计划以 35 亿美元完全出售游戏业务，原因是除了宝可梦 GO 和 Ingress 外没有其他热门游戏。想要收购其游戏业务的则是沙特公共投资基金旗下的游戏公司，不过最终能够达成交易还需要等待新消息。查看全文：https://ourl.co/107980",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果正在测试iPhone 17 Pro原型机中的无线反向充电 提供7.5W的充电功率",
+      "link": "https://www.landiannews.com/archives/107967.html",
+      "date": "2025-02-20 11:38",
+      "author": "蓝点网",
+      "timestamp": 1740022732.0,
+      "summary": "#手机数码 知情人士透露苹果正在 iPhone 17 Pro 原型机上测试无线反向充电功能，可以提供 7.5W 的充电功率。苹果最初在 2020 年的 iPhone 12 中测试无线反向充电，但该功能最后并未向用户开放。查看全文：https://ourl.co/107967",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "制造业产品设计工作流程的生成式 AI 转型",
+      "link": "https://developer.nvidia.com/zh-cn/blog/transforming-product-design-workflows-in-manufacturing-with-generative-ai/",
+      "date": "2025-02-20 11:03",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740020617.0,
+      "summary": "长期以来，制造行业的传统设计和工程工作流程一直以顺序迭代的方法为特征，这种方法通常既耗时又需要大量资源。这些传 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
+      "link": "https://www.landiannews.com/archives/107966.html",
+      "date": "2025-02-20 10:53",
+      "author": "蓝点网",
+      "timestamp": 1740020004.0,
+      "summary": "#软件资讯 火狐浏览器将通过 Firefox 115 ESR 版将 Windows 7 系统的支持延长至 2025 年 9 月。当用户使用 115 ESR 则可以继续获得安全更新，Firefox 通过观察用户量决定是否延长，或许 9 月份还会再次延长吧。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "OpenSSH推出9.9p2版修复两枚中危安全漏洞 可用于中间人劫持和DoS攻击",
+      "link": "https://www.landiannews.com/archives/107965.html",
+      "date": "2025-02-20 10:42",
+      "author": "蓝点网",
+      "timestamp": 1740019358.0,
+      "summary": "#安全资讯 OpenSSH 推出 9.9p2 版修复安全漏洞，其中 CVE-2025-26465 漏洞可在无需用户交互的情况下发起中间人劫持。这个漏洞主要影响的是 FreeBSD、SUSE、Alpine Linux等，建议使用 OpenSSH 的话都更新到最新版。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "利用 Evo 2 以全新规模跨进化研究生命生物分子的语言",
+      "link": "https://developer.nvidia.com/zh-cn/blog/understanding-the-language-of-lifes-biomolecules-across-evolution-at-a-new-scale-with-evo-2/",
+      "date": "2025-02-19 12:52",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739940735.0,
+      "summary": "AI 已从实验好奇心发展为生物学研究的驱动力。 深度学习算法、海量组学数据集和自动化实验室工作流程的融合使 科 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "聚焦：药物发现初创公司 Protai 利用 AlphaFold、蛋白质组学和 NVIDIA NIM 提升复杂结构预测能力",
+      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-drug-discovery-startup-protai-advances-complex-structure-prediction-with-alphafold-proteomics-and-nvidia-nim/",
+      "date": "2025-02-19 12:44",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739940269.0,
+      "summary": "特别是借助 AlphaFold 和 RosettaFold 等突破性成果，生成式 AI 正在改变药物研发以及生 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "清理旧仓库",
+      "link": "https://www.archlinuxcn.org/cleaning-up-old-repositories/",
+      "date": "2025-02-17 09:51",
+      "author": "Arch Linux",
+      "timestamp": 1739757089.0,
+      "summary": "大约两年前，我们在 git 迁移的过程中合并了 [community] 仓库到 [extra] 仓库。当时为了 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "使用 NVIDIA TensorRT-LLM 前瞻性解码优化 Qwen2.5-Coder 吞吐量",
+      "link": "https://developer.nvidia.com/zh-cn/blog/optimizing-qwen2-5-coder-throughput-with-nvidia-tensorrt-llm-lookahead-decoding/",
+      "date": "2025-02-14 12:58",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739509085.0,
+      "summary": "专注于编码的 大语言模型（LLMs） 已稳步应用于开发者工作流程。从配对编程到自我改进的 AI 智能体 ，这些 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 DeepSeek-R1 和推理时间缩放实现自动化 GPU 内核生成",
+      "link": "https://developer.nvidia.com/zh-cn/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/",
+      "date": "2025-02-13 11:04",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739415869.0,
+      "summary": "随着 AI 模型扩展其功能以解决更复杂的挑战，一种称为“ 测试时扩展 ”或“ 推理时扩展 ”的新扩展法则正在出 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 NetworkX、Jaccard Similarity 和 cuGraph 预测您下一部最喜欢的电影",
+      "link": "https://developer.nvidia.com/zh-cn/blog/using-networkx-jaccard-similarity-and-cugraph-to-predict-your-next-favorite-movie/",
+      "date": "2025-02-13 10:57",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739415435.0,
+      "summary": "随着全球每个人可用的数据量不断增加，消费者做出明智决策的能力也越来越难。幸运的是，对于推荐系统而言，大型数据集 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "安全第一：领先的合作伙伴采用 NVIDIA 网络安全 AI 来保护关键基础设施",
+      "link": "https://blogs.nvidia.cn/blog/cybersecurity-ai-critical-infrastructure/",
+      "date": "2025-02-12 18:03",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1739354582.0,
+      "summary": "生成式 AI 的快速发展为跨行业和研究领域的创新创造了无数机会。与先进技术通常的情况一样，这种发展也改变了网络",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "使用 NVIDIA NeMo 框架进行 LLM 模型剪枝和知识蒸馏",
+      "link": "https://developer.nvidia.com/zh-cn/blog/llm-model-pruning-and-knowledge-distillation-with-nvidia-nemo-framework/",
+      "date": "2025-02-12 11:10",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739329823.0,
+      "summary": "模型剪枝和知识蒸馏是功能强大且经济高效的策略，用于从最初较大的同级获得较小的语言模型。 剪枝：丢弃图层 (深度 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "如何通过扩展定律推动更智能、更强大的 AI",
+      "link": "https://blogs.nvidia.cn/blog/ai-scaling-laws/",
+      "date": "2025-02-12 10:48",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1739328483.0,
+      "summary": "如同许多众所周知的自然经验法则 (例如，凡事有起必有落，或每一个作用力都有一个大小相等、方向相反的反作用力)",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA DGX 云推出即用型模板，更好地评估 AI 平台性能",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-dgx-cloud-introduces-ready-to-use-templates-to-benchmark-ai-platform-performance/",
+      "date": "2025-02-11 11:20",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739244000.0,
+      "summary": "在快速发展的 AI 系统和工作负载环境中，实现出色的模型训练性能远远超出芯片速度。这需要对整个堆栈进行全面评估 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "聚焦：BRLi 和 Toulouse INP 使用 NVIDIA Modulus 开发基于 AI 的洪水模型",
+      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-brli-and-toulouse-inp-develop-ai-based-flood-models-using-nvidia-modulus/",
+      "date": "2025-02-11 11:16",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739243807.0,
+      "summary": "洪水对 15 亿人构成了重大威胁，使其成为重大自然灾害的最常见原因。洪水每年给全球带来高达 25 亿美元的经济 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "适用于 RHEL9 的 NVIDIA 开放 GPU 数据中心驱动，由 Red Hat 签署",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-open-gpu-datacenter-drivers-for-rhel9-signed-by-red-hat/",
+      "date": "2025-02-10 12:07",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1739160474.0,
+      "summary": "NVIDIA 和 Red Hat 合作，对 2020 年推出的预编译 NVIDIA Driver 进行持续改进 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "GeForce RTX 50 系列 GPU 为 PC 上的生成式 AI 提供强劲助力",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-nim-blueprints-pc/",
+      "date": "2025-02-05 22:00",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1738764000.0,
+      "summary": "NVIDIA GeForce RTX 5090 D 和 5080 GPU 基于突破性的 NVIDIA Blac",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Glibc 2.41 版本会损坏 Discord 安装",
+      "link": "https://www.archlinuxcn.org/glibc-241-corrupting-discord-installation/",
+      "date": "2025-02-03 21:49",
+      "author": "Arch Linux",
+      "timestamp": 1738590589.0,
+      "summary": "我们计划今天（2月3日）将 glibc 及其相关组件更新至稳定版。安装此更新后，Discord 客户端将显示红 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA GeForce RTX 50 系列 AI PC 加速 DeepSeek 推理模型",
+      "link": "https://blogs.nvidia.cn/blog/deepseek-r1-rtx-ai-pc/",
+      "date": "2025-01-31 22:00",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1738332000.0,
+      "summary": "最近发布的 DeepSeek-R1 系列模型已在 AI 社区掀起一阵风潮，爱好者和开发者可以在 PC 上本地运",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Andres Diaz-Pinto 使用 MONAI 深入改变医学成像技术",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-life-andres-diaz-pinto/",
+      "date": "2025-01-31 11:24",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1738293891.0,
+      "summary": "Andres Diaz-Pinto 早在加入 NVIDIA 之前就已经站在了使用 AI 深入改变医疗健康行业的",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "光照、摄像头就位，准备开播：全新 NVIDIA Broadcast AI 功能已通过 GeForce RTX 50 系列 GPU 实现",
+      "link": "https://blogs.nvidia.cn/blog/studio-ai-geforce-rtx-50-series-broadcast/",
+      "date": "2025-01-30 22:00",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1738245600.0,
+      "summary": "基于 NVIDIA Blackwell 架构的全新 GeForce RTX 5090 D 和 RTX 5080",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "DeepSeek-R1 现已在 NVIDIA NIM 上线",
+      "link": "https://blogs.nvidia.cn/blog/deepseek-r1-nim-microservice/",
+      "date": "2025-01-30 14:38",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1738219096.0,
+      "summary": "DeepSeek-R1 是一个具备先进推理能力的开源模型。与直接给出答案不同，像 DeepSeek-R1 这样",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "AI 盈利的关键：快速、低成本的推理",
+      "link": "https://blogs.nvidia.cn/blog/ai-inference-platform/",
+      "date": "2025-01-23 15:24",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1737617046.0,
+      "summary": "今年，各行各业的企业都在纷纷推出 AI 服务。对于微软、Oracle、Perplexity、Snap 等数百家",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Kaggle Grandmaster 如何将创新与游戏融为一体",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-life-kazuki-onodera/",
+      "date": "2025-01-17 11:26",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1737084387.0,
+      "summary": "Kazuki Onodera 从小就喜欢在电子游戏厅里制定游戏策略。他从未想过自己对游戏的热爱有朝一日会帮助他",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "关键 rsync 安全更新 3.4.0",
+      "link": "https://www.archlinuxcn.org/critical-rsync-security-release-340/",
+      "date": "2025-01-17 08:55",
+      "author": "Arch Linux",
+      "timestamp": 1737075309.0,
+      "summary": "我们想提醒大家 rsync 发布了安全版本更新 3.4.0-1 ，已经在公告 ASA-202501-1 中所描 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布保障代理式 AI 应用安全的 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nemo-guardrails-nim-microservices/",
+      "date": "2025-01-16 13:24",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1737005054.0,
+      "summary": "AI 智能体有望成为能够完成各种任务的“知识机器人”，提升全球数十亿知识工作者的生产力。为了开发 AI 智能体",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 携手行业领先机构推动基因组学、药物发现及医疗健康行业发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-partners-with-industry-leaders-to-advance-genomics-drug-discovery-and-healthcare/",
+      "date": "2025-01-13 22:27",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736778433.0,
+      "summary": "摩根大通医疗健康大会——NVIDIA 今日宣布新的合作伙伴关系，旨在通过加速药物发现、提升基因组研究，以及利用",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 关于拜登政府错误引导的“AI 扩散”规则的声明",
+      "link": "https://blogs.nvidia.cn/blog/ai-policy/",
+      "date": "2025-01-13 21:40",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736775600.0,
+      "summary": "⼏⼗年来，计算和软件⽣态系统的领导地位⼀直是美国全球实⼒和影响⼒的基⽯。联邦政府明智地避免了对主流计算机和软件",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 赋能 Pantheon Lab 数字人实时交互解决方案",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-empowers-pantheon-lab-real-time-interaction-solutions-for-digital-humans/",
+      "date": "2025-01-13 15:50",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736754637.0,
+      "summary": "案例简介 本案例中，Pantheon Lab（万想科技）专注于数字人技术解决方案，通过 NVIDIA 技术实现",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
+      "date": "2025-01-10 22:09",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736518152.0,
+      "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
+      "date": "2025-01-10 22:09",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736518152.0,
+      "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "AI 零售成为现实：NVIDIA 最新调研发现，十分之九的零售商正在使用或试点 AI",
+      "link": "https://blogs.nvidia.cn/blog/ai-in-retail-cpg-survey-2025/",
+      "date": "2025-01-10 21:45",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736516758.0,
+      "summary": "人工智能 (AI) 正在迅速地成为零售和快速消费品行业创新的基石。 富有远见的公司正在使用 AI 来重新设计整",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "现代汽车集团采用 NVIDIA AI 和 Omniverse 技术打造下一代移动出行方式",
+      "link": "https://blogs.nvidia.cn/blog/hyundai-motor-group-ces/",
+      "date": "2025-01-09 16:14",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736410445.0,
+      "summary": "现代汽车集团（以下简称为“现代集团”）正在与 NVIDIA 合作，引领智能出行的未来，共同利用 AI 和工业数",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA NIM 微服务和 AI Blueprint 开启本地 AI 新时代",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-ces-pc-nim-blueprints/",
+      "date": "2025-01-08 22:00",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736344800.0,
+      "summary": "去年，生成式 AI 改变了人们的生活、工作和娱乐方式，从写作到内容创作，再到游戏、学习和生产力，方方面面获得提",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "为何企业需要 AI 查询引擎来推动代理式 AI？",
+      "link": "https://blogs.nvidia.cn/blog/ai-query-engines-agentic-ai/",
+      "date": "2025-01-07 10:38",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1736217480.0,
+      "summary": "数据是 AI 应用的燃料，但企业数据的量级和规模往往会使其使用成本高且耗时，难以有效利用。 根据 IDC 的",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出 Grace Blackwell 桌面系统，让每位 AI 开发者都能触手可及",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips/",
+      "date": "2025-01-06 22:50",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736175000.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 推出个人 AI 超级计算机 NVI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 通过生成式物理 AI 进一步扩展 Omniverse",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-expands-omniverse-with-generative-physical-ai/",
+      "date": "2025-01-06 17:25",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736155532.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出多个生成式 AI 模型和蓝",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "丰田、Aurora 和大陆集团加入 NVIDIA 合作伙伴行列，推出下一代高度自动化的自动驾驶车型",
+      "link": "https://blogs.nvidia.cn/blog/toyota-aurora-continental-nvidia-drive/",
+      "date": "2025-01-06 17:18",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736155119.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 宣布，丰田、Aurora 和大陆集",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA DRIVE Hyperion 平台为自动驾驶汽车开发实现关键汽车安全和网络安全里程碑",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-drive-hyperion-platform-achieves-critical-automotive-safety-and-cybersecurity-milestones-for-av-development/",
+      "date": "2025-01-06 17:14",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736154862.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日—NVIDIA 宣布自动驾驶汽车平台 NVIDIA",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出加速物理 AI 开发的 Cosmos 世界基础模型平台",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-cosmos-world-foundation-model-platform-to-accelerate-physical-ai-development/",
+      "date": "2025-01-06 17:06",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736154360.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出 NVIDIA Cosmo",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布 2025 财年第三季度财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
+      "date": "2024-11-20 14:31",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1732084316.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 10 月 27 日的第三季度收入为 3",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "给打包用的源码指定协议",
+      "link": "https://www.archlinuxcn.org/providing-a-license-for-package-sources/",
+      "date": "2024-11-19 20:33",
+      "author": "Arch Linux",
+      "timestamp": 1732019583.0,
+      "summary": "以前 Arch Linux 打包用的源码（比如PKGBUILD文件）一直没有写明协议，这潜藏着问题。明确指定协 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出 BioNeMo 开源框架，扩大全球生物制药和科学行业的数字生物学研究规模",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-opens-bionemo-to-scale-digital-biology-for-global-biopharma-and-scientific-industry/",
+      "date": "2024-11-18 22:27",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731940053.0,
+      "summary": "SC24 – NVIDIA 今日宣布，全球制药和科技生物行业的领导者、学术先锋和 AI 研究人员正在使用开源的",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 助力谷歌量子 AI 通过量子器件物理学模拟加快处理器设计",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-supercharges-google-quantum-processor-design-with-simulation-of-quantum-device-physics/",
+      "date": "2024-11-18 13:56",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731909412.0,
+      "summary": "SC24 — NVIDIA 于今日宣布正在与谷歌量子 AI 合作，使用 NVIDIA CUDA-Q™ 平台进行",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 宣布与行业软件领先者推出 Omniverse 实时物理数字孪生产品",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders/",
+      "date": "2024-11-18 13:02",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731906166.0,
+      "summary": "SC24 — NVIDIA 今日宣布推出 NVIDIA Omniverse™ Blueprint。借助该蓝图，",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与软银集团助力日本迈向全球 AI 前沿阵列",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-softbank-accelerate-japans-journey-to-global-ai-powerhouse/",
+      "date": "2024-11-12 22:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731420000.0,
+      "summary": "NVIDIA AI Summit Japan – NVIDIA 今日宣布与软银集团开展一系列合作，旨在加速日本",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 以太网加速 xAI 构建的全球最大 AI 超级计算机",
+      "link": "https://blogs.nvidia.cn/blog/spectrum-x-ethernet-networking-xai-colossus/",
+      "date": "2024-10-28 20:37",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1730119079.0,
+      "summary": "2024 年 10 月 28 日—NVIDIA 宣布，xAI 位于田纳西州孟菲斯市的 Colossus 超级计",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 向开放硬件生态系统捐赠 Blackwell 平台设计，加速 AI 基础设施创新",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-contributes-blackwell-platform-design-to-open-hardware-ecosystem-accelerating-ai-infrastructure-innovation/",
+      "date": "2024-10-15 09:34",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728956048.0,
+      "summary": "10 月 16 日，在美国加利福尼亚州举行的 OCP 全球峰会上，NVIDIA 宣布已把 NVIDIA Bla",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "众多技术领导者利用 NVIDIA AI 软件改变全球各行各业",
+      "link": "https://blogs.nvidia.cn/blog/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries/",
+      "date": "2024-10-08 22:22",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728397326.0,
+      "summary": "技术领导者利用 NVIDIA AI 软件来改变全球各行各业。 NVIDIA AI 峰会 – NVIDIA 近日",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "pacman 7.0.0 更新，本地仓库需要手动干预",
+      "link": "https://www.archlinuxcn.org/manual-intervention-for-pacman-700-and-local-repositories-required/",
+      "date": "2024-09-14 20:00",
+      "author": "Arch Linux",
+      "timestamp": 1726315259.0,
+      "summary": "随着 7.0.0 版本的发布，pacman 增加了以单独的低权限用户身份来下载软件包的功能。 然而，对于使用本 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "升级 tzdata 至 2024b-1 可能会出现问题",
+      "link": "https://www.archlinuxcn.org/%e5%8d%87%e7%ba%a7-tzdata-%e8%87%b3-2024b-1-%e5%8f%af%e8%83%bd%e4%bc%9a%e5%87%ba%e7%8e%b0%e9%97%ae%e9%a2%98/",
+      "date": "2024-09-10 12:45",
+      "author": "Arch Linux",
+      "timestamp": 1725943544.0,
+      "summary": "2024-09-14更新：该问题已经通过更新 gcc 到包含修复的提交的方式得到解决。Arch Linux 的 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布 2025 财年第二季度财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-second-quarter-fiscal-2025/",
+      "date": "2024-08-28 20:09",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724846989.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
+      "date": "2024-08-27 09:16",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724721386.0,
+      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "需要在更新到 openssh-9.8p1 之后重启 sshd 服务",
+      "link": "https://www.archlinuxcn.org/the-sshd-service-needs-to-be-restarted-after-upgrading-to-openssh-98p1/",
+      "date": "2024-07-02 09:19",
+      "author": "Arch Linux",
+      "timestamp": 1719883194.0,
+      "summary": "在更新到 openssh-9.8p1 之后，现存的 SSH 守护进程将无法再接受新的连接（详见 https:/ [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "Arch Linux 2024 项目负责人选举结果",
+      "link": "https://www.archlinuxcn.org/arch-linux-2024-leader-election-results/",
+      "date": "2024-04-15 15:55",
+      "author": "Arch Linux",
+      "timestamp": 1713167706.0,
+      "summary": "最近我们举办了项目负责人选举，前一任项目负责人 Levente &#8220;anthraxx&#8221;  [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "增加 vm.max_map_count 的默认值",
+      "link": "https://www.archlinuxcn.org/increasing-the-default-vmmax_map_count-value/",
+      "date": "2024-04-08 09:39",
+      "author": "Arch Linux",
+      "timestamp": 1712540396.0,
+      "summary": "系统参数 vm.max_map_count 的默认值将从 65530 增加到 1048576 。 这一变更应该 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "xz 软件包被植入后门",
+      "link": "https://www.archlinuxcn.org/the-xz-package-has-been-backdoored/",
+      "date": "2024-03-30 06:43",
+      "author": "Arch Linux",
+      "timestamp": 1711752190.0,
+      "summary": "简单讲：立即升级系统和容器镜像！ 大家可能已经听说了 [1]，xz 上游发布的 5.6.0 和 5.6.1 版 [&#8230;]",
+      "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
     }
   ]
 }
