@@ -22,6 +22,16 @@
       "category": "Blog"
     },
     {
+      "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
+      "link": "http://ddw2019.com/177",
+      "date": "2025-02-21 08:22",
+      "author": "Dongdong's 日志",
+      "timestamp": 1740097363.0,
+      "summary": "昨天grok3发布了，号称地表最强。 想要让AI给你比较好的答案，那么有两种方法： 使用最新的模型 学习Pro [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
       "title": "科技爱好者周刊（第 338 期）：重新思考 6G",
       "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html",
       "date": "2025-02-21 08:17",
@@ -89,16 +99,6 @@
       "timestamp": 1739699896.0,
       "summary": "在网络安全领域，漏洞披露一直被视为保护用户的重要环节，但在现实中，这一过程却充满了争议和矛盾。究竟什么才算得上&quot;负责任的披露&quot;？当厂商在信息公开和补丁发布上占据主导地位，而安全研究者则需要耗费大量精力进行沟通与博弈，这一模式是否还能真正实现保护用户安全的初衷？在技术快速演进、网络...",
       "source_url": "https://www.darknavy.org/zh/",
-      "category": "Blog"
-    },
-    {
-      "title": "为什么写作？",
-      "link": "https://hutusi.com/articles/why-write",
-      "date": "2025-02-16 16:00",
-      "author": "胡涂说",
-      "timestamp": 1739692800.0,
-      "summary": "题图由DALL·E生成，Prompt: 生成一张主题为“为什么写作”的图片",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -252,6 +252,16 @@
       "category": "Blog"
     },
     {
+      "title": "176 使用Web App，将最常用的网站像软件一样操作，以DeepSeek举例",
+      "link": "http://ddw2019.com/176",
+      "date": "2025-02-11 00:10",
+      "author": "Dongdong's 日志",
+      "timestamp": 1739203832.0,
+      "summary": "大家经常使用浏览器访问某些网页或者网站，常见步骤有两个： 打开浏览器 打开对应的网站 那么能不能够减少一步了？ [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
       "title": "2024年度最具想象空间的新应用",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_imaginative_new_applications_of_2024/",
       "date": "2025-02-10 11:25",
@@ -342,6 +352,16 @@
       "category": "Blog"
     },
     {
+      "title": "175 免费监控个人网站的访客情况的一种方法 vercel + Umami + Neon",
+      "link": "http://ddw2019.com/175",
+      "date": "2025-02-07 19:43",
+      "author": "Dongdong's 日志",
+      "timestamp": 1738928632.0,
+      "summary": "今天看到一个网址，能够非常有效的监控个人网站。具体见 Bense（一个大佬呀）的访客情况：https://um [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
       "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
       "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html",
       "date": "2025-02-07 08:20",
@@ -349,6 +369,16 @@
       "timestamp": 1738887656.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n漳州钟法路的大榕树新春彩灯。（via）\n\n面对 AI，互联网正在衰落\n\n这一段日子，新闻焦点全是 DeepSee...",
       "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "174 春节结束，长途跋涉之后到了城市小窝，应该干啥？",
+      "link": "http://ddw2019.com/174",
+      "date": "2025-02-06 15:22",
+      "author": "Dongdong's 日志",
+      "timestamp": 1738826562.0,
+      "summary": "春节假期过完了，这昨天回到了所在城市的小窝。从我家到现在的城市，旅途2000km，风尘仆仆的我昨天干了不少事情 [&#8230;]",
+      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -502,6 +532,36 @@
       "category": "Blog"
     },
     {
+      "title": "173 春节祭祖的思考",
+      "link": "http://ddw2019.com/173",
+      "date": "2025-01-29 17:49",
+      "author": "Dongdong's 日志",
+      "timestamp": 1738144146.0,
+      "summary": "春节回家就要祭祖，这是毋庸置疑的。毕竟多年以来的教育告诉我们，祭祖是一件必须要进行的工作。 祭祖的形式不一，但 [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
+      "title": "172 关于春节期间一些习俗话语的思考",
+      "link": "http://ddw2019.com/172",
+      "date": "2025-01-29 10:21",
+      "author": "Dongdong's 日志",
+      "timestamp": 1738117296.0,
+      "summary": "任何事情都是有原因的，都是从一定的实际来出发。春节期间的习俗也是如此。这里引用古人的一句话 “知之者不如好之者 [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
+      "title": "171 写一份“个性化”和“用心”的新年祝福，升级个性化新年祝福v2.0",
+      "link": "http://ddw2019.com/171",
+      "date": "2025-01-29 00:08",
+      "author": "Dongdong's 日志",
+      "timestamp": 1738080523.0,
+      "summary": "过年是我们中国人的习俗，过年都要写新年祝福。特别是互联网时代了都，这个新年祝福大家都会发。今天对新年祝福进行了 [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
       "title": "黎明：写在《论反对日本帝国主义的策略》前",
       "link": "https://wangyurui.com/posts/qi-fu-zhi-jian-a8d9d844",
       "date": "2025-01-27 22:08",
@@ -529,6 +589,16 @@
       "timestamp": 1737911074.0,
       "summary": "最近认识了 2 位“艺术家”朋友，她们给我发了一些链接，让我感受到了一些来自艺术家的震撼，顺便也换了换脑子（因为平时老是沉浸在实用主义的思维中，看到艺术家天马行空的创意，就很羡慕…）\n今天的链接都是“修四边形”背后的人推荐的，她经常做很多好玩的东西（不知道有没有读者想复兴一下 Web 艺术的，也可以...",
       "source_url": "https://www.owenyoung.com",
+      "category": "Blog"
+    },
+    {
+      "title": "170 为什么我家附近沟渠总是和道路并列而建？",
+      "link": "http://ddw2019.com/170",
+      "date": "2025-01-26 23:17",
+      "author": "Dongdong's 日志",
+      "timestamp": 1737904633.0,
+      "summary": "这个现象呢，总是观察到，但是从来没有思考过。这两天从几位老人的聊天中，发现了这个问题并且以及对应答案。 回答问 [&#8230;]",
+      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -652,6 +722,16 @@
       "category": "Blog"
     },
     {
+      "title": "169 过年回家 列张清单 防止遗忘 不留遗憾",
+      "link": "http://ddw2019.com/169",
+      "date": "2025-01-21 16:24",
+      "author": "Dongdong's 日志",
+      "timestamp": 1737447846.0,
+      "summary": "随着年龄越来越大，回家带的东西越来越多，需要处理的事也越来越多。而我们的注意力却是有限的。这就造成了我们春节回 [&#8230;]",
+      "source_url": "https://ddw2019.com",
+      "category": "Blog"
+    },
+    {
       "title": "1007",
       "link": "https://cyp0633.icu/timeline/2025/01/1007/",
       "date": "2025-01-21 10:41",
@@ -719,6 +799,16 @@
       "timestamp": 1737158400.0,
       "summary": "公元2025年1月18日，这是临时驾照过期的日子，过期后如预约路考，需要重新考选择题。\n公元2023年1月18日，这是考选择题的日子，那一天，过了。\n公元2024年8月，刚从国内拔了智齿回美，打算准备路考，不然明年身份证要过期。\n公元2024年9月，坐在了驾校的学员车上，教练让倒车出去，一脸懵逼。\n...",
       "source_url": "https://yufree.cn/cn/",
+      "category": "Blog"
+    },
+    {
+      "title": "168 个性化设置Endnote 助力科研工作",
+      "link": "http://ddw2019.com/168",
+      "date": "2025-01-17 16:41",
+      "author": "Dongdong's 日志",
+      "timestamp": 1737103299.0,
+      "summary": "Endnote是一款古老又强大的软件。能够做到 批量管理大量的期刊数据和附件 数据可以和通过Web of Sc [&#8230;]",
+      "source_url": "https://ddw2019.com",
       "category": "Blog"
     },
     {
@@ -829,16 +919,6 @@
       "timestamp": 1736681706.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 54 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n本期是猫鱼周刊在 2025 年的第一期，...",
       "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
-      "title": "心猿意马",
-      "link": "https://hutusi.com/articles/restless-mind-2024-review",
-      "date": "2025-01-12 16:30",
-      "author": "胡涂说",
-      "timestamp": 1736670600.0,
-      "summary": "2024年，我年满四十。",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -1429,16 +1509,6 @@
       "timestamp": 1734261527.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 52 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n周刊马上迎来一周年，预告一篇特刊，会分享...",
       "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
-      "title": "从铁幕到硅幕",
-      "link": "https://hutusi.com/articles/the-silicon-curtain",
-      "date": "2024-12-15 18:00",
-      "author": "胡涂说",
-      "timestamp": 1734256800.0,
-      "summary": "谁控制过去就控制未来，谁就控制现在就控制过去。 —— 乔治·奥威尔《1984》",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -3622,16 +3692,6 @@
       "category": "Blog"
     },
     {
-      "title": "银弹飞过先锋大厦",
-      "link": "https://hutusi.com/articles/the-history-of-software-engineering",
-      "date": "2024-05-28 21:37",
-      "author": "胡涂说",
-      "timestamp": 1716903420.0,
-      "summary": "TL;DR 本文13200+字，全文阅读约需20分钟。其中2680字的示例部分为ChatGPT生成，因此可以说本文GPT含量20%，不过该部分详细内容与本文主旨关系不大，且由GPT-4生成，可略过不看。本文简要回顾了从软件及计算机诞生到当前大模型AI时代的软件工程发展历史，并试图从软件工程历史和Ch...",
-      "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 98 期",
       "link": "https://hellogithub.com/periodical/volume/98",
       "date": "2024-05-28 08:12",
@@ -4112,16 +4172,6 @@
       "category": "Blog"
     },
     {
-      "title": "从神经网络到 Hugging Face",
-      "link": "https://hutusi.com/articles/the-history-of-neural-networks",
-      "date": "2024-03-17 18:43",
-      "author": "胡涂说",
-      "timestamp": 1710672180.0,
-      "summary": "TL;DR 本文8200+字，全文阅读约需15分钟。从去年开始，我读了十余本人工智能方面入门的书籍（参见文末附2），酝酿了两个月，花了两周时间写作此文。本文简要回顾了从感知机到深度学习及Hugging Face的历史，并试图以通俗的语言来介绍神经网络和深度学习的原理。",
-      "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
       "title": "月刊（第25期）：爱具体的人",
       "link": "https://blog.ursb.me/posts/weekly-25/",
       "date": "2024-03-17 15:53",
@@ -4202,16 +4252,6 @@
       "category": "Blog"
     },
     {
-      "title": "在大理，听打雷",
-      "link": "https://hutusi.com/articles/dalifornia",
-      "date": "2024-03-02 10:35",
-      "author": "胡涂说",
-      "timestamp": 1709346900.0,
-      "summary": "年初看别人的总结，其中DIYGod的总结让我印象很深刻，他每年给自己制定OKR，其中KR部分很详细，且Smart化，这种将自己的生活量化规划的方式是个不错的实践，因此我也尝试着按照健康、家庭、成长、工作几个方面来规划OKR，在家庭Objective一项分解的KR里，列上“今年安排家庭旅游至少3次”，...",
-      "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
       "title": "租房、搬家、三分之一",
       "link": "https://www.ntiy.com/2135.html",
       "date": "2024-02-28 11:01",
@@ -4239,16 +4279,6 @@
       "timestamp": 1709047140.0,
       "summary": "微软出品的 VS Code 官方 C/C++ 插件当然很好，似乎在 C/C++ 用户中也是用得较为广泛的，调试功能很好用。然而在稍大一点的项目中，有时会出现找不到代码索引的问题，以及代码补全、提示不够智能等，在一定程度上 Clangd 就能够解决这个问题。\nClangd 是 LLVM 社区的一个项目...",
       "source_url": "https://cyp0633.icu/",
-      "category": "Blog"
-    },
-    {
-      "title": "Git 纪元",
-      "link": "https://hutusi.com/articles/after-git",
-      "date": "2024-02-25 23:10",
-      "author": "胡涂说",
-      "timestamp": 1708873800.0,
-      "summary": "19世纪末，弗雷德里克·泰勒在美国一些工厂推广他的科学管理方法，这包括用科学的方法来代替人工经验判断、对工人进行专业训练以及按专业分工。亨利·福特在他的汽车工厂里也开始应用泰勒科学管理，并且在汽车生产上创新性的采用了流水线作业。1908年，第一辆福特T型车从流水线上面世，而经过优化的流水线在几年后甚...",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -4579,16 +4609,6 @@
       "timestamp": 1705582237.0,
       "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
       "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
-      "title": "凡所有相，皆是虚妄",
-      "link": "https://hutusi.com/articles/awareness-2023-review",
-      "date": "2024-01-14 20:05",
-      "author": "胡涂说",
-      "timestamp": 1705233900.0,
-      "summary": "2023年过得有点太快，似乎还没有反应过来，就到了2024年。回望这一年，与其说收获，不如说是改变。这一年心态和认知上都发生了改变，我从抑郁的边缘走出来，面对生活与工作有了更多的淡定与从容。",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -5202,16 +5222,6 @@
       "category": "Blog"
     },
     {
-      "title": "马斯克的故事与模式",
-      "link": "https://hutusi.com/articles/elon-musk",
-      "date": "2023-10-06 11:45",
-      "author": "胡涂说",
-      "timestamp": 1696563900.0,
-      "summary": "约瑟夫·坎贝尔在《千面英雄》中总结了英雄神话的模式：在英雄还是普通人的时候，他受到召唤启程冒险，起初抵触，进而与智者相遇得到启蒙，跨越边界，开始初次尝试，到历险阶段历经严峻考验，由内而外得到救赎，胜利回归。好莱坞影片中的英雄故事无不是按照这个模式来演绎，蜘蛛侠、蝙蝠侠、阿凡达……皆是如此。相对于编剧...",
-      "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
       "title": "《赛博朋克 2077》：欢迎来到黑暗未来",
       "link": "https://cyp0633.icu/post/cyberpunk-2077/",
       "date": "2023-10-01 22:46",
@@ -5529,16 +5539,6 @@
       "timestamp": 1687564800.0,
       "summary": "已经一年多没有再更新了。其间发生了很多事情，也有很多想法，但是我没有记录下来。这是一个很大的遗憾。\n首先，关于本博客。\n这些年来，我对一些事物的理解发生了很大的变化。对于这个记录我多年来技术与想法的记事本，我觉得其最有价值的是其中的内容，而非是它的形式，或是它本身。所以，我决定将它迁移到一个新的平台...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "纳瓦尔的智慧",
-      "link": "https://hutusi.com/articles/naval",
-      "date": "2023-06-18 11:11",
-      "author": "胡涂说",
-      "timestamp": 1687057871.0,
-      "summary": "纳瓦尔·拉维坎特(Naval Ravikant)是美国硅谷的风险投资家，他出生在印度，儿时随父母搬到纽约，家境贫穷，靠着自己的努力一步步走上财富自由之路，创办了AngelList风险投资公司，成功投资了Twitter、Uber等初创公司。纳瓦尔经常在博客、推特、播客上分享他的人生哲学，最著名的是他在...",
-      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
