@@ -1,6 +1,16 @@
 {
-  "update_time": "2025-02-22",
+  "update_time": "2025-02-23",
   "articles": [
+    {
+      "title": "重启 TUIC 的开发，但我将不再是“作者”",
+      "link": "https://www.eaimty.com/2025/restart-developing-tuic-but-not-as-the-author/",
+      "date": "2025-02-22 08:00",
+      "author": "EAimTY's Blog",
+      "timestamp": 1740182400.0,
+      "summary": "一个开源项目如何才能长久生存？我一直在思考这个问题。\n不久前，@iHsin 找到了我。他一直在维护一个 TUIC 的 fork。看到时至今日社区中的一些人还在持续做贡献，我感到很高兴，但也意识到我曾经做出的停止开发的决定可能并不是最好的选择。\n为什么当初 TUIC 没有发展出一个活跃且气氛良好的社区...",
+      "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
     {
       "title": "老虎围困九号楼",
       "link": "http://m.wufazhuce.com/article/6694",
@@ -109,6 +119,16 @@
       "timestamp": 1739699896.0,
       "summary": "在网络安全领域，漏洞披露一直被视为保护用户的重要环节，但在现实中，这一过程却充满了争议和矛盾。究竟什么才算得上&quot;负责任的披露&quot;？当厂商在信息公开和补丁发布上占据主导地位，而安全研究者则需要耗费大量精力进行沟通与博弈，这一模式是否还能真正实现保护用户安全的初衷？在技术快速演进、网络...",
       "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "为什么写作？",
+      "link": "https://hutusi.com/articles/why-write",
+      "date": "2025-02-16 16:00",
+      "author": "胡涂说",
+      "timestamp": 1739692800.0,
+      "summary": "题图由DALL·E生成，Prompt: 生成一张主题为“为什么写作”的图片",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -932,6 +952,16 @@
       "category": "Blog"
     },
     {
+      "title": "心猿意马",
+      "link": "https://hutusi.com/articles/restless-mind-2024-review",
+      "date": "2025-01-12 16:30",
+      "author": "胡涂说",
+      "timestamp": 1736670600.0,
+      "summary": "2024年，我年满四十。",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "我如何写博客",
       "link": "https://blog.douchi.space/how-i-write-blog/",
       "date": "2025-01-12 15:12",
@@ -1512,6 +1542,16 @@
       "category": "Blog"
     },
     {
+      "title": "从铁幕到硅幕",
+      "link": "https://hutusi.com/articles/the-silicon-curtain",
+      "date": "2024-12-15 18:00",
+      "author": "胡涂说",
+      "timestamp": 1734256800.0,
+      "summary": "谁控制过去就控制未来，谁就控制现在就控制过去。 —— 乔治·奥威尔《1984》",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "破地狱 The Last Dance",
       "link": "https://ssshooter.com/the-last-dance/",
       "date": "2024-12-14 13:04",
@@ -1538,6 +1578,16 @@
       "author": "槿呈Goidea",
       "timestamp": 1734128310.0,
       "summary": "In this article, the author shares detailed insights into their digital tool choices and experiences in 2024. From the convenience of returning to nat...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024 年数字工具箱",
+      "link": "https://justgoidea.com/posts/2024-028/",
+      "date": "2024-12-13 22:56",
+      "author": "槿呈Goidea",
+      "timestamp": 1734101772.0,
+      "summary": "在这篇文章中，作者详细分享了自己在 2024 年的数字工具选择和使用心得。从回归原生应用的便利性，到隐私与安全的多层防护策略，再到生产力工具的精挑细选，作者展示了如何通过合理选择和整合工具来提升工作效率和生活质量。无论是对隐私的重视，还是对自动化的追求，文章都为读者提供了丰富的参考和实践经验。",
       "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
@@ -2052,6 +2102,16 @@
       "category": "Blog"
     },
     {
+      "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
+      "link": "https://justgoidea.com/posts/2024-027/",
+      "date": "2024-11-10 04:16",
+      "author": "槿呈Goidea",
+      "timestamp": 1731183364.0,
+      "summary": "这是一个融合斯多葛主义、佛教哲学和法兰克福学派思想的日记模板。它不仅是一个简单的记录工具，更是一个促进个人成长的实践系统。通过每日的书写与反思，帮助你培养批判性思维、提升自我觉察能力、增强情绪管理能力，最终达到更好的自我认知和生活品质。无论你是对个人成长感兴趣，还是在寻找一种更有意义的日记写作方式，...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "人生需要浮士德精神",
       "link": "https://wangyurui.com/posts/fu-shi-de-jing-shen-fe7413c8",
       "date": "2024-11-09 23:03",
@@ -2352,6 +2412,16 @@
       "category": "Blog"
     },
     {
+      "title": "答复 dayu 的问卷",
+      "link": "https://justgoidea.com/posts/2024-026/",
+      "date": "2024-10-19 04:32",
+      "author": "槿呈Goidea",
+      "timestamp": 1729283549.0,
+      "summary": "回答 dayu 的 Blogger 问卷。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "再读毛选：《井冈山的斗争》",
       "link": "https://wangyurui.com/posts/zai-du-mao-xuan-jing-gang-shan-de-dou-zheng-890adb22",
       "date": "2024-10-17 18:59",
@@ -2512,6 +2582,16 @@
       "category": "Blog"
     },
     {
+      "title": "里斯本日记（一）",
+      "link": "https://justgoidea.com/posts/2024-025/",
+      "date": "2024-09-30 04:07",
+      "author": "槿呈Goidea",
+      "timestamp": 1727640430.0,
+      "summary": "抵达里斯本一周的每日日记。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "因 Magisk 模块致 Pixel 8 卡死在 Fastboot 的救砖记录",
       "link": "https://blog.ichr.me/post/pixel-stuck-in-fastboot-magisk-module/",
       "date": "2024-09-29 01:44",
@@ -2669,6 +2749,16 @@
       "timestamp": 1725782400.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-09-03 到 2024-09-08 这周生活的记录与思考。 去上海参加了 Rust Conf 2024，度过了两天，收获了很多周边，现场",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "闲白",
+      "link": "https://justgoidea.com/posts/2024-024/",
+      "date": "2024-09-08 12:33",
+      "author": "槿呈Goidea",
+      "timestamp": 1725770005.0,
+      "summary": "通过引用《周易》和《易传》中的经典句子，作者探讨了积德行善与作恶多端对个人福报的影响，并强调了时间的重要性。",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -2972,6 +3062,16 @@
       "category": "Blog"
     },
     {
+      "title": "时乎时乎，会有变时",
+      "link": "https://justgoidea.com/posts/2024-023/",
+      "date": "2024-08-16 11:28",
+      "author": "槿呈Goidea",
+      "timestamp": 1723778932.0,
+      "summary": "近日，积薪项目下线，引发了一些对开发者个人的质疑与批判。本文探讨了在当今社会中，面对不同观点和意识形态时应持有的态度，强调尊重他人观点的重要性。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "网站统计工具Umami的傻瓜安装指南～",
       "link": "https://cuixinxin.cn/archives/3145",
       "date": "2024-08-15 17:26",
@@ -3062,6 +3162,16 @@
       "category": "Blog"
     },
     {
+      "title": "Cloudflare R2 的完美搭档：R2 Uploader 使用指南",
+      "link": "https://justgoidea.com/posts/2024-022/",
+      "date": "2024-08-08 20:29",
+      "author": "槿呈Goidea",
+      "timestamp": 1723120179.0,
+      "summary": "Cloudflare R2 是一款出色的对象存储服务，但其简陋的图形界面给日常管理带来了诸多不便。本文介绍了如何使用 R2 Uploader 项目来弥补这些不足，从大文件上传到图像压缩，再到多数据桶快速切换和跨设备安全同步，详细讲解了配置和使用 R2 Uploader 的步骤，并且可以和 WebP ...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "做胃镜！",
       "link": "https://cuixinxin.cn/archives/3119",
       "date": "2024-08-08 17:30",
@@ -3129,6 +3239,16 @@
       "timestamp": 1722807000.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-07-31 到 2024-08-04 这周生活的记录与思考。 这一周最开心的是体验到了 follow，久违的一款让我有兴奋",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "使用 Zeabur 部署 TiddlyWiki",
+      "link": "https://justgoidea.com/posts/2024-021/",
+      "date": "2024-08-03 16:51",
+      "author": "槿呈Goidea",
+      "timestamp": 1722675077.0,
+      "summary": "本文介绍了如何在 Zeabur 上部署 TiddlyWiki，尽管其模板市场中提供的 TiddlyWiki 模板并不能实现真正的一键部署功能。通过本地构建 Node.js 版 TiddlyWiki 的 Docker 镜像并上传到容器仓库，用户可以在 Zeabur 平台上实现 TiddlyWiki 的...",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -3362,6 +3482,16 @@
       "category": "Blog"
     },
     {
+      "title": "让 Tana 和 Heptabase 协同作战",
+      "link": "https://justgoidea.com/posts/2024-020/",
+      "date": "2024-07-12 12:09",
+      "author": "槿呈Goidea",
+      "timestamp": 1720757340.0,
+      "summary": "面对 Heptabase 使用中的混乱，我在工作流中引入了新的笔记工具：Tana 负责快速记录和表层思考，Heptabase 专注深度分析和知识管理。这种协同方法不仅解决了功能局限，还实现了「简 → 繁 → 简」循环，培养了元认知能力。通过优化使用习惯和工具协同作战，我成功应对了笔记管理中的挑战，提...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "Kubernetes 集群伸缩组件 - Karpenter",
       "link": "https://thiscute.world/posts/kubernetes-cluster-autoscaling-1-karpenter/?utm_source=atom_feed",
       "date": "2024-07-10 09:17",
@@ -3409,6 +3539,16 @@
       "timestamp": 1720310400.0,
       "summary": "起因\n  获取可用事件列表\n  事件的触发时机    \n      BufAdd\n      BufNew\n      BufNewFile\n    \n  \n  测试示例\n\n\n起因\n\n最近在使用 SpaceVim 的标签栏（tabline）时发现，对于新增的空内容的缓冲区（buffer），标签栏上方...",
       "source_url": "https://wsdjeg.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024 上半年电子报内容精选",
+      "link": "https://justgoidea.com/posts/2024-019/",
+      "date": "2024-07-02 16:43",
+      "author": "槿呈Goidea",
+      "timestamp": 1719909810.0,
+      "summary": "在 2024 年上半年，我共发布了 20 期电子报，涵盖了个人知识管理（PKM）、AI 发展、社交媒体等多个主题。为了让更多读者能够方便地获取这些精华内容，我特别将其汇总发布在博客上。这些内容不仅反映了我对当代科技和社会问题的深入思考，还包含了对未来趋势的独特见解。如果您对这些主题感兴趣，欢迎点击阅...",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -3572,6 +3712,16 @@
       "category": "Blog"
     },
     {
+      "title": "2024 端午随笔",
+      "link": "https://justgoidea.com/posts/2024-018/",
+      "date": "2024-06-10 19:42",
+      "author": "槿呈Goidea",
+      "timestamp": 1718019727.0,
+      "summary": "从中国的休假制度演变到端午节的多种纪念说法，再到王阳明临终遗言的哲学思考，这些随笔不仅记录了节日的点滴，也探讨了深层次的人文与社会问题。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "Mastering the Stream API",
       "link": "https://ssshooter.com/en/stream-explanation/",
       "date": "2024-06-10 16:29",
@@ -3652,6 +3802,16 @@
       "category": "Blog"
     },
     {
+      "title": "佛法的终极奥义",
+      "link": "https://justgoidea.com/posts/2024-017/",
+      "date": "2024-05-30 15:34",
+      "author": "槿呈Goidea",
+      "timestamp": 1717054465.0,
+      "summary": "本文深入探讨了佛教中药山惟俨禅师的公案，通过现象学理论和禅宗的教义，阐述了「不曲意逢迎」的重要性，并解释了三法印中的「诸行无常」、「诸法无我」和「涅槃寂静」，以及它们与佛法终极奥义的关系。通过对这些概念的详细剖析，揭示佛法终极智慧的深刻内涵，走进禅宗修行的核心理念。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "2024.05.30: 各种链接",
       "link": "https://www.owenyoung.com/blog/journals/2024-05-30/",
       "date": "2024-05-30 00:20",
@@ -3659,6 +3819,16 @@
       "timestamp": 1716999602.0,
       "summary": "房价见底了吗？\n我希望成为贵公司的常驻艺术家\n\n在驻校期间，我将投入时间思考贵公司、文化和产品，并采用跨学科方法进行创作。\n我希望你们不要抱有任何期望。这样，如果没有任何具体结果，您也不会失望。我还希望，只有在支付我的时间不会给贵公司带来挫折的情况下，你们才会考虑这件事。\n同样重要的是，我不会为贵公...",
       "source_url": "https://www.owenyoung.com",
+      "category": "Blog"
+    },
+    {
+      "title": "银弹飞过先锋大厦",
+      "link": "https://hutusi.com/articles/the-history-of-software-engineering",
+      "date": "2024-05-28 21:37",
+      "author": "胡涂说",
+      "timestamp": 1716903420.0,
+      "summary": "TL;DR 本文13200+字，全文阅读约需20分钟。其中2680字的示例部分为ChatGPT生成，因此可以说本文GPT含量20%，不过该部分详细内容与本文主旨关系不大，且由GPT-4生成，可略过不看。本文简要回顾了从软件及计算机诞生到当前大模型AI时代的软件工程发展历史，并试图从软件工程历史和Ch...",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -3782,6 +3952,16 @@
       "category": "Blog"
     },
     {
+      "title": "老用户的失望",
+      "link": "https://justgoidea.com/posts/2024-016/",
+      "date": "2024-05-09 11:11",
+      "author": "槿呈Goidea",
+      "timestamp": 1715224318.0,
+      "summary": "作者作为Apple的老用户，对Apple最新广告中的破坏文明象征的行为表示失望。文章批评了科技发展应当是文明进步的加速器，而非破坏者，呼吁科技公司应尊重并继承传统，推动人类文明向前发展，而不是简单地定义和摧毁一切。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "我居然用回有线耳机了",
       "link": "https://tw93.fun/2024-05-08/sony.html",
       "date": "2024-05-08 08:00",
@@ -3799,6 +3979,16 @@
       "timestamp": 1715079257.0,
       "summary": "本篇是对二〇二四年四月的生活记录与思考。\n因为机票相对便宜的缘故，在元旦就早早定下了五一期间新西兰的旅程。而我对国外旅游几乎没有经验，甚至攻略也是临时在飞机上对着离线地图做的，未曾想到，这趟旅途可以如此丰富多彩。\n现在是旅途的最后一夜，在机场等待着归途的飞机。闲来无事，凭借着回忆，流水账般记录下这次...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "2024 五一随笔",
+      "link": "https://justgoidea.com/posts/2024-015/",
+      "date": "2024-05-05 17:28",
+      "author": "槿呈Goidea",
+      "timestamp": 1714901310.0,
+      "summary": "五一假期的几篇随笔，记录了生活中的点滴与感悟。从智齿肿痛的烦恼到童年记忆中的美好时光，从梅大高速的悲剧到对历史人物的重新认识，每一篇随笔都充满了真实的情感与细腻的观察。阅读这些随笔，你会发现生活中的小事也能带来深刻的思考与感动。",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -3889,6 +4079,16 @@
       "timestamp": 1714195017.0,
       "summary": "By Long Luo\n相信大家或多或少都听过六西格玛( \\(\\text{6\nSigma}\\) ) 1 这个词，六西格玛是指生产的产品中，\n\\(99.99966\\%\\)\n的产品是没有质量问题的，即只有 \\(3.4ppm\\) 的不良率。\n假如一家工厂生产某型号零件，零件的长度要求是 \\(100mm\\)...",
       "source_url": "https://www.longluo.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "AI 在艺术领域的发展",
+      "link": "https://justgoidea.com/posts/2024-014/",
+      "date": "2024-04-27 12:02",
+      "author": "槿呈Goidea",
+      "timestamp": 1714190561.0,
+      "summary": "本文详细探讨了 AI 在艺术领域的发展历程和路径，从早期的算法艺术探索到当代生成对抗网络（GANs）的应用。通过分析关键技术进步和标志性事件，如谷歌 DeepDream 项目和人工智能创作的拍卖成功，本文揭示了 AI 在艺术创作中的巨大潜力和社会接受度的提升。同时，也反思了 AI 艺术带来的伦理和版...",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -3992,6 +4192,16 @@
       "category": "Blog"
     },
     {
+      "title": "我为什么想要研究 AI 美学",
+      "link": "https://justgoidea.com/posts/2024-013/",
+      "date": "2024-04-13 12:33",
+      "author": "槿呈Goidea",
+      "timestamp": 1712982794.0,
+      "summary": "当重新审视技术和人性、创造和生命的关系后，也就更能以开放和审慎的态度拥抱这个充满不确定性的 AI 时代。只有在坚持艺术的人文内核、秉持对美好生活的想象和追求的同时，以人性化的方式应用 AI 技术，AI 美学才能真正实现其革新艺术、促进人类社会进步的终极理想。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "ThinkBook 14+ 2024 体验：主流轻薄本的舍与得",
       "link": "https://cyp0633.icu/post/thinkbook-14plus/",
       "date": "2024-04-13 12:33",
@@ -4032,6 +4242,16 @@
       "category": "Blog"
     },
     {
+      "title": "清明随笔",
+      "link": "https://justgoidea.com/posts/2024-012/",
+      "date": "2024-04-06 19:25",
+      "author": "槿呈Goidea",
+      "timestamp": 1712402746.0,
+      "summary": "这是一篇反映作者在清明节期间的所思所感的随笔，涉及季节变化的感慨、个人生活体验、对历史和文化的思考，以及对当前社会现象的观察和反思。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "锐评：因语言表达不到位而造成的前因后果",
       "link": "https://blog.gxres.net/posts/language-is-an-art",
       "date": "2024-04-06 08:00",
@@ -4062,6 +4282,16 @@
       "category": "Blog"
     },
     {
+      "title": "重新理解 Heptabase",
+      "link": "https://justgoidea.com/posts/2024-009/",
+      "date": "2024-03-30 15:07",
+      "author": "槿呈Goidea",
+      "timestamp": 1711782458.0,
+      "summary": "Heptabase 是一个以卡片、白板和标签为基础，帮助我以中观视角对复杂问题建立深度理解的可视化笔记工具。本文通过重新梳理对 Heptabase 的认知，详细分析了其作为笔记工具的四个特征、功能性以及如何利用 Heptabase 建立深度理解。通过多层次认知结构和中观视角，Heptabase 不仅...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "个人工具箱与好物分享",
       "link": "https://blog.ursb.me/posts/tools/",
       "date": "2024-03-29 19:00",
@@ -4079,6 +4309,16 @@
       "timestamp": 1711584554.0,
       "summary": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (4)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (4)，其它 (5)...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "你好 AstroPaper",
+      "link": "https://justgoidea.com/posts/2024-011/",
+      "date": "2024-03-27 18:41",
+      "author": "槿呈Goidea",
+      "timestamp": 1711536083.0,
+      "summary": "作者分享了将博客框架迁移到 Astro 后遇到的一些问题，提供了修改显示时区、添加 Twikoo 评论组件、让 RSS 输出全文等解决方案。通过详细的代码示例和操作步骤，本文展示了如何在 AstroPaper 主题中进行个性化调整，提升博客的用户体验和美观度。如果你也在使用 AstroPaper 主...",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -4119,6 +4359,46 @@
       "timestamp": 1711134282.0,
       "summary": "目前来看，在 GitHub Issues 上写博客无论对于作者还是读者都达到一个体验的甜点──无论是数据安全抑或前端可玩性。经过几天的工作，`ginb` 初步完成并替代 BloginHub。",
       "source_url": "https://blog.ichr.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "电子报平台迁移通知",
+      "link": "https://justgoidea.com/posts/2024-newsletter-announcement/",
+      "date": "2024-03-22 12:00",
+      "author": "槿呈Goidea",
+      "timestamp": 1711080000.0,
+      "summary": "《壹苇可航》电子报由 Buttondown 平台迁移至 Quail 平台的通知。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "七绝-悼祖父二周年",
+      "link": "https://justgoidea.com/posts/2024-010/",
+      "date": "2024-03-21 20:45",
+      "author": "槿呈Goidea",
+      "timestamp": 1711025100.0,
+      "summary": "平水韵七绝一首，怀念祖父去世两周年",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Rediscovering Heptabase",
+      "link": "https://justgoidea.com/posts/2024-009-en/",
+      "date": "2024-03-19 15:02",
+      "author": "槿呈Goidea",
+      "timestamp": 1710831725.0,
+      "summary": "Heptabase is a visual note-taking tool based on cards, whiteboards, and labels that helps me build a deep understanding of complex problems from a mes...",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "从神经网络到 Hugging Face",
+      "link": "https://hutusi.com/articles/the-history-of-neural-networks",
+      "date": "2024-03-17 18:43",
+      "author": "胡涂说",
+      "timestamp": 1710672180.0,
+      "summary": "TL;DR 本文8200+字，全文阅读约需15分钟。从去年开始，我读了十余本人工智能方面入门的书籍（参见文末附2），酝酿了两个月，花了两周时间写作此文。本文简要回顾了从感知机到深度学习及Hugging Face的历史，并试图以通俗的语言来介绍神经网络和深度学习的原理。",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -4202,6 +4482,16 @@
       "category": "Blog"
     },
     {
+      "title": "在大理，听打雷",
+      "link": "https://hutusi.com/articles/dalifornia",
+      "date": "2024-03-02 10:35",
+      "author": "胡涂说",
+      "timestamp": 1709346900.0,
+      "summary": "年初看别人的总结，其中DIYGod的总结让我印象很深刻，他每年给自己制定OKR，其中KR部分很详细，且Smart化，这种将自己的生活量化规划的方式是个不错的实践，因此我也尝试着按照健康、家庭、成长、工作几个方面来规划OKR，在家庭Objective一项分解的KR里，列上“今年安排家庭旅游至少3次”，...",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 95 期",
       "link": "https://hellogithub.com/periodical/volume/95",
       "date": "2024-02-28 08:11",
@@ -4219,6 +4509,16 @@
       "timestamp": 1709047140.0,
       "summary": "微软出品的 VS Code 官方 C/C++ 插件当然很好，似乎在 C/C++ 用户中也是用得较为广泛的，调试功能很好用。然而在稍大一点的项目中，有时会出现找不到代码索引的问题，以及代码补全、提示不够智能等，在一定程度上 Clangd 就能够解决这个问题。\nClangd 是 LLVM 社区的一个项目...",
       "source_url": "https://cyp0633.icu/",
+      "category": "Blog"
+    },
+    {
+      "title": "Git 纪元",
+      "link": "https://hutusi.com/articles/after-git",
+      "date": "2024-02-25 23:10",
+      "author": "胡涂说",
+      "timestamp": 1708873800.0,
+      "summary": "19世纪末，弗雷德里克·泰勒在美国一些工厂推广他的科学管理方法，这包括用科学的方法来代替人工经验判断、对工人进行专业训练以及按专业分工。亨利·福特在他的汽车工厂里也开始应用泰勒科学管理，并且在汽车生产上创新性的采用了流水线作业。1908年，第一辆福特T型车从流水线上面世，而经过优化的流水线在几年后甚...",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -4259,6 +4559,16 @@
       "timestamp": 1708473600.0,
       "summary": "日常滚答辩山，但是这一次有了新发现（？",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "最难沟通的，是被灌输了标准答案的人",
+      "link": "https://justgoidea.com/posts/2024-008/",
+      "date": "2024-02-20 19:50",
+      "author": "槿呈Goidea",
+      "timestamp": 1708429800.0,
+      "summary": "在近期的社会热点事件中，作者分享了对女教师网暴事件的看法，认为这属于父权话语下的荡妇羞辱。文章强调，在没有执法机关公告事件真实性的情况下，不应对女教师进行网暴。作者指出，公众应关注的是法律对未成年男性保护的缺位，而不是道德瑕疵。通过讨论，作者呼吁立法部门应尽快对未成年男性进行法律平权，保障其合法权益...",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -4362,6 +4672,16 @@
       "category": "Blog"
     },
     {
+      "title": "2024 春节随笔",
+      "link": "https://justgoidea.com/posts/2024-007/",
+      "date": "2024-02-14 16:03",
+      "author": "槿呈Goidea",
+      "timestamp": 1707897780.0,
+      "summary": "从除夕到初五的每日随笔，没有固定主题，想到什么写什么。",
+      "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
       "title": "2023 年总结 - 随心而行",
       "link": "https://tw93.fun/2024-02-13/my-2023.html",
       "date": "2024-02-13 08:00",
@@ -4429,6 +4749,16 @@
       "timestamp": 1706793499.0,
       "summary": "我记得中学的时候做过一篇英文阅读题，是一项关于阅读率的调查，大多数人都说只读过「麦田里的守望者」这本书。若干年后的今天，我也终于体会到那种越来越不愿意读书的感觉，尽管如此，还是前前后后用了一年零零散散的时间（都是在放假的时候，开学后几乎不读文学）读完了这本书。",
       "source_url": "https://kowyo.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "天理昭彰，报应不爽",
+      "link": "https://justgoidea.com/posts/2024-006/",
+      "date": "2024-01-31 14:25",
+      "author": "槿呈Goidea",
+      "timestamp": 1706682300.0,
+      "summary": "这是一篇充满迷信色彩的文章。当黑兔走入了青龙穴，再加之鼎、丰二卦的火势，似乎象征着什么，意味着什么。而我们能做的也就只有用自己的德行，像水一样去滋养自己的根树。",
+      "source_url": "https://justgoidea.com/",
       "category": "Blog"
     },
     {
@@ -4549,6 +4879,16 @@
       "timestamp": 1705582237.0,
       "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
       "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
+      "title": "凡所有相，皆是虚妄",
+      "link": "https://hutusi.com/articles/awareness-2023-review",
+      "date": "2024-01-14 20:05",
+      "author": "胡涂说",
+      "timestamp": 1705233900.0,
+      "summary": "2023年过得有点太快，似乎还没有反应过来，就到了2024年。回望这一年，与其说收获，不如说是改变。这一年心态和认知上都发生了改变，我从抑郁的边缘走出来，面对生活与工作有了更多的淡定与从容。",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -5132,6 +5472,16 @@
       "category": "Blog"
     },
     {
+      "title": "马斯克的故事与模式",
+      "link": "https://hutusi.com/articles/elon-musk",
+      "date": "2023-10-06 11:45",
+      "author": "胡涂说",
+      "timestamp": 1696563900.0,
+      "summary": "约瑟夫·坎贝尔在《千面英雄》中总结了英雄神话的模式：在英雄还是普通人的时候，他受到召唤启程冒险，起初抵触，进而与智者相遇得到启蒙，跨越边界，开始初次尝试，到历险阶段历经严峻考验，由内而外得到救赎，胜利回归。好莱坞影片中的英雄故事无不是按照这个模式来演绎，蜘蛛侠、蝙蝠侠、阿凡达……皆是如此。相对于编剧...",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "《赛博朋克 2077》：欢迎来到黑暗未来",
       "link": "https://cyp0633.icu/post/cyberpunk-2077/",
       "date": "2023-10-01 22:46",
@@ -5439,6 +5789,16 @@
       "timestamp": 1687564800.0,
       "summary": "已经一年多没有再更新了。其间发生了很多事情，也有很多想法，但是我没有记录下来。这是一个很大的遗憾。\n首先，关于本博客。\n这些年来，我对一些事物的理解发生了很大的变化。对于这个记录我多年来技术与想法的记事本，我觉得其最有价值的是其中的内容，而非是它的形式，或是它本身。所以，我决定将它迁移到一个新的平台...",
       "source_url": "https://www.eaimty.com",
+      "category": "Blog"
+    },
+    {
+      "title": "纳瓦尔的智慧",
+      "link": "https://hutusi.com/articles/naval",
+      "date": "2023-06-18 11:11",
+      "author": "胡涂说",
+      "timestamp": 1687057871.0,
+      "summary": "纳瓦尔·拉维坎特(Naval Ravikant)是美国硅谷的风险投资家，他出生在印度，儿时随父母搬到纽约，家境贫穷，靠着自己的努力一步步走上财富自由之路，创办了AngelList风险投资公司，成功投资了Twitter、Uber等初创公司。纳瓦尔经常在博客、推特、播客上分享他的人生哲学，最著名的是他在...",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -7042,16 +7402,6 @@
       "category": "Blog"
     },
     {
-      "title": "2018？？",
-      "link": "https://www.eaimty.com/2018/2018/",
-      "date": "2018-01-21 08:00",
-      "author": "EAimTY's Blog",
-      "timestamp": 1516492800.0,
-      "summary": "其实这篇文章在去年末就开始写了...只是懒癌泛滥，所以到现在才发出...\n时间真快呵。这个博客从建立之初到现在，也已经有两年了。\n然而...就算过了两年，我还是这么菜...\n\n两年间发生了什么？\n\n变得越来越懒\n上了高中\n变得越来越宅\n强迫症越来越严重\n认识了一群有趣的朋友\n近半年以来，情绪不太好，...",
-      "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
       "title": "关于我",
       "link": "https://kowyo.com/about/",
       "date": "1-01-01 08:06",
@@ -7722,16 +8072,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -7858,6 +8198,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
