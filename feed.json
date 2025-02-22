@@ -22,6 +22,16 @@
       "category": "Blog"
     },
     {
+      "title": "索尼 WH-CN720N：我就知道会缺点什么",
+      "link": "https://cyp0633.icu/post/sony-wh-ch720n/",
+      "date": "2025-02-21 22:42",
+      "author": "cyp0633's Blog",
+      "timestamp": 1740148977.0,
+      "summary": "一提到降噪头戴式耳机，很多人脱口而出的显然是索尼 WH-1000XM 系列，降噪效果优秀，降价交朋友也很勤快，属于是索尼消费级音频产品线的拳头产品。但是即使上代 WH-1000XM4 降完价也要 1200 块钱，那么大法有没有什么便宜的降噪耳机呢？有的兄弟有的，这样的产品一共有三代，索尼在 2023...",
+      "source_url": "https://cyp0633.icu/",
+      "category": "Blog"
+    },
+    {
       "title": "177 感谢Grok，让我能够使用DeepSearch，这才是理想中可以辅助科研的AI助手呀",
       "link": "http://ddw2019.com/177",
       "date": "2025-02-21 08:22",
@@ -1143,22 +1153,12 @@
     },
     {
       "title": "记导出 Android 版 NTQQ 聊天记录",
-      "link": "https://cyp0633.icu/post/%E8%AE%B0%E5%AF%BC%E5%87%BA-android-%E7%89%88-ntqq-%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95/",
+      "link": "https://cyp0633.icu/post/android-qqnt-export/",
       "date": "2024-12-31 16:46",
       "author": "cyp0633's Blog",
       "timestamp": 1735634760.0,
       "summary": "正值 2024 年的最后一天，群友突发奇想，该做群聊年终总结了。而众所周知，自从 QQ 全平台更新到了 NT 架构，原有的聊天记录导出方法就全都失效了。本文记录一下根据网上现有方案导出 Android 版 NTQQ （版本 9.1.5）聊天记录的过程。\n我准备了一台 root 过的小米 15，以及一...",
       "source_url": "https://cyp0633.icu/",
-      "category": "Blog"
-    },
-    {
-      "title": "2024 – 2025",
-      "link": "https://www.ntiy.com/2257.html",
-      "date": "2024-12-31 13:20",
-      "author": "非理勿试",
-      "timestamp": 1735622400.0,
-      "summary": "每年的最后一天，都会有一篇以新旧年份数字组合作为标题的博客文章，意为在一年的最后一天回顾即将结束的一年，并展望新的一年。然而，今年这篇文章使用这个标题似乎是不准确的，因为这篇文章可能只会讲述一件事，而...",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -1519,16 +1519,6 @@
       "timestamp": 1734152658.0,
       "summary": "破地狱得观影感想，含剧透，主要是锐评（",
       "source_url": "https://ssshooter.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "你考不上，关我屁事",
-      "link": "https://www.ntiy.com/2249.html",
-      "date": "2024-12-14 12:25",
-      "author": "非理勿试",
-      "timestamp": 1734150353.0,
-      "summary": "最近，我的生活发生了一些让人难以置信的变化。说来话长，长话短说就是我和我的前任（相恋于2022年10月19日，分手于2024年11月19日，恋爱关系存续2年零1个月）以及我现在的情人（相识于2024年...",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -2299,16 +2289,6 @@
       "timestamp": 1729920355.0,
       "summary": "开源流水账",
       "source_url": "https://kowyo.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "最体面的向这个世界告别的方式",
-      "link": "https://www.ntiy.com/2240.html",
-      "date": "2024-10-26 11:09",
-      "author": "非理勿试",
-      "timestamp": 1729912166.0,
-      "summary": "所有人都会变老，也会死，这是小学生都明白的道理。但一位哲学家（不确定具体是谁）却说过这样一句话：The biggest surprise in a man&#8217;s life is old ag...",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -3562,16 +3542,6 @@
       "category": "Blog"
     },
     {
-      "title": "观“我在闲鱼上买购物卡被骗了”有感：虚拟商品交易骗局防不胜防",
-      "link": "https://www.ntiy.com/2185.html",
-      "date": "2024-06-21 09:56",
-      "author": "非理勿试",
-      "timestamp": 1718935007.0,
-      "summary": "原贴地址：https://v2ex.com/t/1049430 一位网友发帖称自己在二手物品交易平台“闲鱼”上，以970元的价格购买面值为1000元的山姆会员店购物卡被骗。该网友使用卖家提供的卡密进行...",
-      "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
       "title": "梅雨季节来了。",
       "link": "https://cuixinxin.cn/archives/2985",
       "date": "2024-06-20 15:45",
@@ -4042,16 +4012,6 @@
       "category": "Blog"
     },
     {
-      "title": "从辣条哥的“论人性”说起",
-      "link": "https://www.ntiy.com/2160.html",
-      "date": "2024-04-11 19:42",
-      "author": "非理勿试",
-      "timestamp": 1712835752.0,
-      "summary": "在大自然的孕育下，人类诞生了。而人类为了自身的利益，对大自然进行摧残和破坏。同样的，人类为社会（特指人类社会，下同）的诞生提供了基础条件，社会诞生后，也开始了对人类的摧残。",
-      "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
       "title": "清明假期～",
       "link": "https://cuixinxin.cn/archives/2762",
       "date": "2024-04-09 16:30",
@@ -4069,16 +4029,6 @@
       "timestamp": 1712641978.0,
       "summary": "You Have Failed This City! Arrow 时隔多年终于把大学时期未看完的 CW 台柱子 [&#8230;]",
       "source_url": "https://imzm.im",
-      "category": "Blog"
-    },
-    {
-      "title": "结婚有什么好处？",
-      "link": "https://www.ntiy.com/2147.html",
-      "date": "2024-04-07 13:34",
-      "author": "非理勿试",
-      "timestamp": 1712468069.0,
-      "summary": "一个人本来可以活得很好，但因为有了“你没结婚，所以你不快乐、你的人生不完整、你是个失败者”的“社会共识”给这些人带来的痛苦，这些人反而必须通过结婚来避免这种痛苦。可谓是削足适履、本末倒置。",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -4249,16 +4199,6 @@
       "timestamp": 1709424000.0,
       "summary": "极简是恰到好处的东西\n\n想和大伙随便聊聊的极简主义，我挺喜欢这种生活方式，但并不是说每个人需要极简，有的人喜欢收藏，有喜欢购物买很多东西，让自己舒心的生活方式我觉得都挺好的。但假如你也喜欢简单生活方式，或者有点儿强迫症，那这些小建议可能适合你。\n\n首先，极简主义不是把大部分的东西都扔掉，在空无一物的...",
       "source_url": "https://tw93.fun",
-      "category": "Blog"
-    },
-    {
-      "title": "租房、搬家、三分之一",
-      "link": "https://www.ntiy.com/2135.html",
-      "date": "2024-02-28 11:01",
-      "author": "非理勿试",
-      "timestamp": 1709089272.0,
-      "summary": "因为一些原因，目前（指搬家前）居住的地方已经不适合继续住下去，所以需要重新租房并搬家。 每次搬家，总会整理出一大堆熟悉又陌生的物品，其中甚至有一些是从上次搬家完成后、到这次搬家开始前都从没碰过的。也就...",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -4772,16 +4712,6 @@
       "category": "Blog"
     },
     {
-      "title": "2023 – 2024",
-      "link": "https://www.ntiy.com/2049.html",
-      "date": "2023-12-28 09:22",
-      "author": "非理勿试",
-      "timestamp": 1703726566.0,
-      "summary": "现在，2023年只剩下最后不到100个小时，又到了写“年终总结”的时候。 由于我现在的生活非常平淡，就像是游戏里的“NPC”，几乎每天都过得毫无新意，实在没什么可“总结”的。所以这一次的内容除了关于我...",
-      "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 93 期",
       "link": "https://hellogithub.com/periodical/volume/93",
       "date": "2023-12-28 08:05",
@@ -4839,16 +4769,6 @@
       "timestamp": 1702987819.0,
       "summary": "By Long Luo\n挖坑\n参考文献\n\n<a",
       "source_url": "https://www.longluo.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "“博客教”形式宗与质料宗的相爱相杀特别报道",
-      "link": "https://www.ntiy.com/2043.html",
-      "date": "2023-12-17 22:40",
-      "author": "非理勿试",
-      "timestamp": 1702824003.0,
-      "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
-      "source_url": "https://www.ntiy.com",
       "category": "Blog"
     },
     {
@@ -5152,16 +5072,6 @@
       "category": "Blog"
     },
     {
-      "title": "关于笔记软件的一些想法",
-      "link": "https://www.ntiy.com/2019.html",
-      "date": "2023-10-31 14:30",
-      "author": "非理勿试",
-      "timestamp": 1698733800.0,
-      "summary": "在V2EX的这篇帖子中，有人抛出了“差生文具多”的观点。在下面的讨论中，多次有人提到了“花里胡哨的”笔记软件以及“没有需求就创造需求”的折腾笔记软件的人，认为这些人在折腾笔记软件“提升效率”时所花费的...",
-      "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 91 期",
       "link": "https://hellogithub.com/periodical/volume/91",
       "date": "2023-10-27 08:05",
@@ -5289,16 +5199,6 @@
       "timestamp": 1694537131.0,
       "summary": "对 Linux 的第一次祛魅",
       "source_url": "https://kowyo.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "启用 AMD P-State EPP 调频驱动",
-      "link": "https://cyp0633.icu/post/amd-pstate-epp/",
-      "date": "2023-09-12 23:05",
-      "author": "cyp0633's Blog",
-      "timestamp": 1694531100.0,
-      "summary": "Arch Linux 的 Linux 6.5 内核终于在前几天进入了 core 软件库，其中一个重要的特性就是默认启用了 P-State EPP (Active) 调频驱动1。调频驱动不同于调速器，前者与特定的 CPU 有关；而后者与电源方案有关，如 powersave 就是一直运行在最低频率。\n\n...",
-      "source_url": "https://cyp0633.icu/",
       "category": "Blog"
     },
     {
@@ -7822,6 +7722,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -7948,16 +7858,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
