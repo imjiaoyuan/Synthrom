@@ -2,6 +2,36 @@
   "update_time": "2025-02-23",
   "articles": [
     {
+      "title": "我看《哪吒》",
+      "link": "https://hutusi.com/articles/ne-zha",
+      "date": "2025-02-23 19:05",
+      "author": "胡涂说",
+      "timestamp": 1740308700.0,
+      "summary": "《哪吒之魔童闹海》海报",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "一个英语句子的构成",
+      "link": "https://ssshooter.com/english-grammar-2-sentence-structure/",
+      "date": "2025-02-23 16:00",
+      "author": "Usubeni Fantasy",
+      "timestamp": 1740297600.0,
+      "summary": "欢迎来到《小猫都能懂的英语语法》第二期，上期讲了动词对英语句子的重要性，本期就来看看除了动词，构成一个英语句子还需要什么成分吧~",
+      "source_url": "https://ssshooter.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "葬花三问：林黛玉在《红楼梦》中埋下的生命哲学",
+      "link": "https://wangyurui.com/posts/zang-hua-san-wen-3894aae6",
+      "date": "2025-02-23 11:32",
+      "author": "太隐",
+      "timestamp": 1740281561.0,
+      "summary": "木心先生曾说“《红楼梦》中的诗，如水草。取出水，即不好。放在水中，好看”，这比喻很形象，很贴切。而其中最有名的莫过于书中二十七回林黛玉所作的《葬花吟》，这首诗被红学家们赞为大观园里的诗中之诗，是全书最具代表性的诗作。尽管《红楼梦》里的诗作在红学领域不是四大研究方向之一，但如果少了这首诗，林黛玉的角色...",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
       "title": "VOL.4523",
       "link": "http://m.wufazhuce.com/one/4691",
       "date": "2025-02-23 06:25",
@@ -3052,16 +3082,6 @@
       "category": "Blog"
     },
     {
-      "title": "梗与符号",
-      "link": "https://wangyurui.com/posts/geng-yu-fu-hao-52874f8e",
-      "date": "2024-08-17 11:01",
-      "author": "太隐",
-      "timestamp": 1723863709.0,
-      "summary": "在现代生活中，我们年轻人日常聊天中经常会说起各种各样的“梗”，究其根本，我们为什么在聊天的时候一聊到“梗”会引发共鸣而会心一笑，其实跟哲学上的结构主义有关，结构主义的开创者是瑞士语言学家索绪尔，这是认识和解释我们人类文化现象的一种方法，例如我们的日常行为和语言现象，这就包括了玩“梗”现象。 实际上，...",
-      "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
       "title": "时乎时乎，会有变时",
       "link": "https://justgoidea.com/posts/2024-023/",
       "date": "2024-08-16 11:28",
@@ -3719,16 +3739,6 @@
       "timestamp": 1718019727.0,
       "summary": "从中国的休假制度演变到端午节的多种纪念说法，再到王阳明临终遗言的哲学思考，这些随笔不仅记录了节日的点滴，也探讨了深层次的人文与社会问题。",
       "source_url": "https://justgoidea.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Mastering the Stream API",
-      "link": "https://ssshooter.com/en/stream-explanation/",
-      "date": "2024-06-10 16:29",
-      "author": "Usubeni Fantasy",
-      "timestamp": 1718008140.0,
-      "summary": "!sunlit stream\n\n\n\nThe stream flows endlessly, much like the continuous data transmission in computer science.\n\nWhy is streaming important in computer....",
-      "source_url": "https://ssshooter.com/",
       "category": "Blog"
     },
     {
@@ -5792,16 +5802,6 @@
       "category": "Blog"
     },
     {
-      "title": "纳瓦尔的智慧",
-      "link": "https://hutusi.com/articles/naval",
-      "date": "2023-06-18 11:11",
-      "author": "胡涂说",
-      "timestamp": 1687057871.0,
-      "summary": "纳瓦尔·拉维坎特(Naval Ravikant)是美国硅谷的风险投资家，他出生在印度，儿时随父母搬到纽约，家境贫穷，靠着自己的努力一步步走上财富自由之路，创办了AngelList风险投资公司，成功投资了Twitter、Uber等初创公司。纳瓦尔经常在博客、推特、播客上分享他的人生哲学，最著名的是他在...",
-      "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
       "title": "我怎么看博客",
       "link": "https://imzm.im/how-i-observe-a-blog/",
       "date": "2023-06-16 14:47",
@@ -7432,6 +7432,36 @@
       "category": "Blog"
     },
     {
+      "title": "[教程] 群晖NAS使用自定义脚本设置Cloudflare DDNS 实现绑定自己的域名访问",
+      "link": "https://www.landiannews.com/archives/107987.html",
+      "date": "2025-02-23 10:00",
+      "author": "蓝点网",
+      "timestamp": 1740276022.0,
+      "summary": "#技术教程 群晖 NAS 使用自定义脚本添加 Cloudflare DDNS 绑定自己的域名，实现自有域名和 HTTPS 远程访问。群晖并没有内置 Cloudflare DDNS 服务，但可以通过 API 和脚本添加，添加后也可以绑定自己的域名。查看全文：https://ourl.co/107987",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "压缩管理器WinRAR在7.10版中修改MoTW默认设置 解决分享文件泄露地址问题",
+      "link": "https://www.landiannews.com/archives/108011.html",
+      "date": "2025-02-22 14:41",
+      "author": "蓝点网",
+      "timestamp": 1740206516.0,
+      "summary": "#软件资讯 WinRAR 7.10 版修改了 MoTV 替代数据流的默认设置，解决潜在的泄露下载 URL 和用户 IP 地址等问题。新版本会默认仅保留区域值，这可以继续触发 MoTW 弹窗，但不再可以用来分析具体的地址。查看全文：https://ourl.co/108011",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知识库和协作应用Obsidian宣布商用免费 商业许可证变成可选购买状态",
+      "link": "https://www.landiannews.com/archives/108006.html",
+      "date": "2025-02-22 10:00",
+      "author": "蓝点网",
+      "timestamp": 1740189631.0,
+      "summary": "#软件资讯 知识库和协作应用 Obsidian 不再强迫企业购买商业许可证，即日起无论个人还是企业都可以免费使用。但企业仍然可以购买商业许可证以获得支持服务，另外 Obsidian 提供同步服务起步价每月 5 美元 / 用户。查看全文：https://ourl.co/108006",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "DeepSeek开启开源周活动 从下周开始将开源5个repos 为开源社区助力",
       "link": "https://www.landiannews.com/archives/108005.html",
       "date": "2025-02-21 14:40",
@@ -7652,26 +7682,6 @@
       "category": "News"
     },
     {
-      "title": "宝可梦GO开发商Niantic计划以35亿美元完全出售游戏业务 原因是没有新热门游戏",
-      "link": "https://www.landiannews.com/archives/107980.html",
-      "date": "2025-02-20 11:52",
-      "author": "蓝点网",
-      "timestamp": 1740023531.0,
-      "summary": "#科技资讯 宝可梦 GO 开发商 Niantic 计划以 35 亿美元完全出售游戏业务，原因是除了宝可梦 GO 和 Ingress 外没有其他热门游戏。想要收购其游戏业务的则是沙特公共投资基金旗下的游戏公司，不过最终能够达成交易还需要等待新消息。查看全文：https://ourl.co/107980",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果正在测试iPhone 17 Pro原型机中的无线反向充电 提供7.5W的充电功率",
-      "link": "https://www.landiannews.com/archives/107967.html",
-      "date": "2025-02-20 11:38",
-      "author": "蓝点网",
-      "timestamp": 1740022732.0,
-      "summary": "#手机数码 知情人士透露苹果正在 iPhone 17 Pro 原型机上测试无线反向充电功能，可以提供 7.5W 的充电功率。苹果最初在 2020 年的 iPhone 12 中测试无线反向充电，但该功能最后并未向用户开放。查看全文：https://ourl.co/107967",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "制造业产品设计工作流程的生成式 AI 转型",
       "link": "https://developer.nvidia.com/zh-cn/blog/transforming-product-design-workflows-in-manufacturing-with-generative-ai/",
       "date": "2025-02-20 11:03",
@@ -7679,16 +7689,6 @@
       "timestamp": 1740020617.0,
       "summary": "长期以来，制造行业的传统设计和工程工作流程一直以顺序迭代的方法为特征，这种方法通常既耗时又需要大量资源。这些传 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "火狐浏览器将通过Firefox 115 ESR版将Windows 7系统的支持延长至2025年9月",
-      "link": "https://www.landiannews.com/archives/107966.html",
-      "date": "2025-02-20 10:53",
-      "author": "蓝点网",
-      "timestamp": 1740020004.0,
-      "summary": "#软件资讯 火狐浏览器将通过 Firefox 115 ESR 版将 Windows 7 系统的支持延长至 2025 年 9 月。当用户使用 115 ESR 则可以继续获得安全更新，Firefox 通过观察用户量决定是否延长，或许 9 月份还会再次延长吧。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
