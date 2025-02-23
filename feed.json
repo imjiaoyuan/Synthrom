@@ -1,6 +1,16 @@
 {
-  "update_time": "2025-02-23",
+  "update_time": "2025-02-24",
   "articles": [
+    {
+      "title": "猫鱼周刊 vol. 057 什么是推理语言大模型？",
+      "link": "https://ameow.xyz/archives/weekly-057",
+      "date": "2025-02-23 23:16",
+      "author": "阿猫的博客",
+      "timestamp": 1740323808.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 58 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n文章\n认识推理语言大模型 —— 构建和优...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
     {
       "title": "我看《哪吒》",
       "link": "https://hutusi.com/articles/ne-zha",
@@ -2469,16 +2479,6 @@
       "timestamp": 1729154588.0,
       "summary": "网页点击滚动效果",
       "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "利用快捷指令实现短信转发",
-      "link": "https://ameow.xyz/archives/sms-forwarding-with-apple-shortcuts",
-      "date": "2024-10-17 01:21",
-      "author": "阿猫的博客",
-      "timestamp": 1729099260.0,
-      "summary": "概述\n目前已知的方案有以下几种：\n\n 利用旧安卓手机转发\n 随身 WIFI\n ESP32 + Air780，硬件转发\n 商业方案（专门的硬件软件）\n 快捷指令（需要 iPhone）\n\n我最终使用的是 Shortcuts 的方式实现，没有任何成本，够稳定，也能满足我的需求。其他的方案我也会把收集到的流...",
-      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
