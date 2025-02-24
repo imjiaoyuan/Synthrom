@@ -2,6 +2,36 @@
   "update_time": "2025-02-24",
   "articles": [
     {
+      "title": "你曾因为什么拉黑别人？",
+      "link": "http://m.wufazhuce.com/question/4301",
+      "date": "2025-02-24 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740349502.0,
+      "summary": "24  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            开拖拉机的阿凡达问\n        \n        \n        你曾因为什么拉黑别人？\n\n    \n\n    \n\n            \n            ...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "敌手",
+      "link": "http://m.wufazhuce.com/article/6706",
+      "date": "2025-02-24 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740349502.0,
+      "summary": "24  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／舒好\n\t\n\t&nbsp;当爱美变成枷锁，减肥必定是其中一种酷刑。一三十岁的林玥是一名训练有素的记者，和别人说话时总注意看对方的鼻尖，但十三岁的林玥一度不敢与人对视，连看对方的脸都不敢。原因很简单，林玥&mdash;&mdas...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4524",
+      "link": "http://m.wufazhuce.com/one/4673",
+      "date": "2025-02-24 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1740349502.0,
+      "summary": "24  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4524摄影 | Oussama Bergaoui\n\t24\n\tFeb. 2025\n\t\n\t梦是好的；否则，钱是要紧的。\t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
       "title": "猫鱼周刊 vol. 057 什么是推理语言大模型？",
       "link": "https://ameow.xyz/archives/weekly-057",
       "date": "2025-02-23 23:16",
@@ -42,16 +72,6 @@
       "category": "Blog"
     },
     {
-      "title": "VOL.4523",
-      "link": "http://m.wufazhuce.com/one/4691",
-      "date": "2025-02-23 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740263102.0,
-      "summary": "23  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4523周日推荐 | 叛逆即觉醒\n\t23\n\tFeb. 2025\n\t\n\t当我们来到世间，游戏规则早就定好了，读书、工作、生活，大人们总说只要按部就班便可顺遂，正如按照乐谱演奏曲子。可人无法像机器一样服从于程序，再美的旋律重复...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
       "title": "重启 TUIC 的开发，但我将不再是“作者”",
       "link": "https://www.eaimty.com/2025/restart-developing-tuic-but-not-as-the-author/",
       "date": "2025-02-22 08:00",
@@ -59,26 +79,6 @@
       "timestamp": 1740182400.0,
       "summary": "一个开源项目如何才能长久生存？我一直在思考这个问题。\n不久前，@iHsin 找到了我。他一直在维护一个 TUIC 的 fork。看到时至今日社区中的一些人还在持续做贡献，我感到很高兴，但也意识到我曾经做出的停止开发的决定可能并不是最好的选择。\n为什么当初 TUIC 没有发展出一个活跃且气氛良好的社区...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "老虎围困九号楼",
-      "link": "http://m.wufazhuce.com/article/6694",
-      "date": "2025-02-22 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740176702.0,
-      "summary": "22  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／花叔\n\t\n\t&nbsp;假期的快乐早已跑得无影无踪，而且好像没有来过。明天，我该以什么理由请假呢？那天一早我像往常一样去上班，电梯下到一楼，就看到楼道里人头攒动。我问咋回事儿，一个人告诉我楼道被封了。我往前看，一个人在和门卫...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4522",
-      "link": "http://m.wufazhuce.com/one/4671",
-      "date": "2025-02-22 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1740176702.0,
-      "summary": "22  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4522摄影 | Samuel Jeronimo\n\t22\n\tFeb. 2025\n\t\n\t其实，最理想的世界是大家不要争论，“和和气气地过日子”。 \t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
     {
@@ -7432,6 +7432,76 @@
       "category": "Blog"
     },
     {
+      "title": "苹果计划将谷歌Gemini集成到AI服务中 让用户有ChatGPT的替代使用",
+      "link": "https://www.landiannews.com/archives/108021.html",
+      "date": "2025-02-24 11:28",
+      "author": "蓝点网",
+      "timestamp": 1740367696.0,
+      "summary": "#人工智能 苹果计划将谷歌 Gemini 集成到 AI 服务中，让用户有 ChatGPT 的替代使用。在 iOS 18.4 测试版中有网友注意到 AI 模型选择中出现了 Google 和 OpenAI 选项，原本只有 OpenAI。不过当前这些还在开发中，不知道 iOS 18.4 正式版是否会提供 ...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "DeepSeek开源周首日推出FlashMLA项目 可以显著降低内存占用和计算开销",
+      "link": "https://www.landiannews.com/archives/108020.html",
+      "date": "2025-02-24 11:14",
+      "author": "蓝点网",
+      "timestamp": 1740366861.0,
+      "summary": "#人工智能 DeepSeek 开源周 1/5：开源 FlashMLA 项目可以在 NVIDIA Grace Hopper 架构上显著降低内存占用和计算开销，提高响应速度。该项目目前已经在 GitHub 上开源，有兴趣的开发者可以快速部署和使用 DeepSeek 提供的脚本进行测试验证。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微信化：谷歌宣布Gmail弃用传统的短信验证码 后续需使用谷歌应用扫码认证",
+      "link": "https://www.landiannews.com/archives/108019.html",
+      "date": "2025-02-24 10:42",
+      "author": "蓝点网",
+      "timestamp": 1740364937.0,
+      "summary": "#科技资讯 谷歌宣布 Gmail 弃用传统的短信验证码，后续用户登录时需使用谷歌应用扫码进行验证。谷歌解释扫码认证的诸多优势，包括黑客都没法诱骗用户分享数字验证码，谷歌还表示很高兴推出一种创新方法缩小攻击面 (微信：喵喵喵？)。查看全文：https://ourl.co/108019",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "免费域名US.KG再次被暂停解析 预计今天恢复 后续将实施身份验证机制",
+      "link": "https://www.landiannews.com/archives/108015.html",
+      "date": "2025-02-24 10:28",
+      "author": "蓝点网",
+      "timestamp": 1740364120.0,
+      "summary": "#域名爱好者 免费域名 US.KG 再次被暂停解析，运营商称预计今天恢复，后续将实施身份验证机制降低滥用率。运营商 DigitalPlat 称周末注册局没上班所以没恢复解析，预计今天就能恢复解析，不过当前吉尔吉斯斯坦注册局已经进入工作日，测试还是没恢复。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果可能会在未来将5G基带芯片集成到A系列芯片里 这样可以继续提升效率",
+      "link": "https://www.landiannews.com/archives/108014.html",
+      "date": "2025-02-24 10:17",
+      "author": "蓝点网",
+      "timestamp": 1740363458.0,
+      "summary": "#科技资讯 苹果可能会在未来将 5G 基带芯片集成到 A 系列芯片里，这可以降低整体制造成本和继续提升效率。全部进行集成的显著优势包括提高芯片组效率、降低制造成本以及缩小主板尺寸，马克古尔曼称最早可能也要到 2028 年才能实现这个目标。查看全文：https://ourl.co/108014",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "4月1日起Docker Hub每小时最多允许非注册用户拉取10次镜像 超过将被限制",
+      "link": "https://www.landiannews.com/archives/108013.html",
+      "date": "2025-02-24 10:04",
+      "author": "蓝点网",
+      "timestamp": 1740362641.0,
+      "summary": "#科技资讯 为防止滥用和确保平台稳定性，Docker Hub 自 4 月 1 日起实施新配额限制，每 IP 地址每小时最多拉取 10 次镜像。如果注册账号认证的话则可以每小时拉取 100 次，付费的话则可以无限制拉取，这种做法主要是稳定性和成本考虑，使用 Docker 的开发者最好注意这个限制以免影...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "因英国政府要求添加后门程序 苹果在英国禁用iCloud高级数据保护功能",
+      "link": "https://www.landiannews.com/archives/108012.html",
+      "date": "2025-02-24 09:26",
+      "author": "蓝点网",
+      "timestamp": 1740360389.0,
+      "summary": "#安全资讯 因英国要求添加后门程序，苹果宣布在英国禁用 iCloud 高级数据保护功能，即不再允许用户采用端到端加密数据。苹果对此感到失望，但迫于英国法律要求，在英国禁用加密已经是最大让步，指望苹果开后门让英国政府可以监视全球用户那是不可能的。查看全文：https://ourl.co/108012",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "[教程] 群晖NAS使用自定义脚本设置Cloudflare DDNS 实现绑定自己的域名访问",
       "link": "https://www.landiannews.com/archives/107987.html",
       "date": "2025-02-23 10:00",
@@ -7562,56 +7632,6 @@
       "category": "News"
     },
     {
-      "title": "知情人士透露微软正在为OpenAI即将推出的GPT-5系列模型做好服务器容量准备",
-      "link": "https://www.landiannews.com/archives/107988.html",
-      "date": "2025-02-21 09:22",
-      "author": "蓝点网",
-      "timestamp": 1740100936.0,
-      "summary": "#人工智能 知情人士透露微软正在为 OpenAI 即将推出的 GPT-5 系列模型做好服务器容量准备。预计最早从下周开始微软将在 Azure 托管 GPT-4.5 系列模型，而 GPT-5 模型可能要到 5 月底发布，所以微软要提前准备好服务器。查看全文：https://ourl.co/107988",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "支持文档显示苹果预计在4月发布的iOS 18.4版中为国内用户带来AI功能",
-      "link": "https://www.landiannews.com/archives/107986.html",
-      "date": "2025-02-20 15:25",
-      "author": "蓝点网",
-      "timestamp": 1740036326.0,
-      "summary": "#人工智能 支持文档显示苹果 AI 服务将在 4 月份支持中文，预计到时候是 iOS 18.4 正式版，国内用户应该也能用上 AI 了。苹果目前提供的 AI 服务挺多的，到时候国内用户估计只能使用部分服务然后慢慢扩展获得更多 AI 相关功能。查看全文：https://ourl.co/107986",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿里云服务器出现无法解析XYZ和HOST域名的短时间故障 但不清楚具体原因",
-      "link": "https://www.landiannews.com/archives/107985.html",
-      "date": "2025-02-20 15:05",
-      "author": "蓝点网",
-      "timestamp": 1740035100.0,
-      "summary": "#云计算 阿里云服务器出现无法解析 XYZ/HOST 域名的短时间故障，具体发生时间是在 2 月 20 日 08:57~10:50。得亏受影响的两个域名使用率都比较低所以没造成特别严重的影响，只是蓝点网头一次见服务器无法解析特定域名的情况所以非常好奇。查看全文：https://ourl.co/107...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "传三星/SK海力士/美光将停止生产DDR4/DDR3 转向利润更高的DDR5/HBM内存",
-      "link": "https://www.landiannews.com/archives/107984.html",
-      "date": "2025-02-20 14:51",
-      "author": "蓝点网",
-      "timestamp": 1740034316.0,
-      "summary": "#科技资讯 消息称三星电子、SK 海力士和美光将在 2025 年停止生产 DDR4/DDR3 内存芯片，全面转向利润更高的 DDR5 和 HBM 高带宽内存芯片。这种转变可能会打断当前 DDR4/DDR3 产品价格稳步下降的局面，产能减少后这些产品价格可能会上涨，或者逼迫用户购买价格更高的 DDR5...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "xAI宣布Grok 3模型限时免费使用 支持深度研究和思维但有配额限制",
-      "link": "https://www.landiannews.com/archives/107983.html",
-      "date": "2025-02-20 14:35",
-      "author": "蓝点网",
-      "timestamp": 1740033355.0,
-      "summary": "#人工智能 xAI 宣布 Grok 3 模型限时免费使用，无需任何订阅都可以使用 Grok 3 深度研究和思维功能。不过免费版是有配额限制的，如果用户愿意开通 30 美元 / 月和 40 美元 / 月的 SuperGrok 或 X Premium + 则可以获得更高配额。查看全文：https://o...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "聚焦：东京大学使用 NVIDIA Grace Hopper 进行开创性的节能地震研究",
       "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-university-of-tokyo-uses-nvidia-grace-hopper-for-groundbreaking-energy-efficient-seismic-research/",
       "date": "2025-02-20 12:36",
@@ -7619,16 +7639,6 @@
       "timestamp": 1740026164.0,
       "summary": "超级计算机是推动突破性发现的引擎。从预测极端天气到推进疾病研究，以及设计更安全、更高效的基础设施，这些机器可以 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "美光也推出读取速度可达14.5GB/秒的消费级SSD 可以缩短AI模型的加载时间",
-      "link": "https://www.landiannews.com/archives/107982.html",
-      "date": "2025-02-20 12:30",
-      "author": "蓝点网",
-      "timestamp": 1740025836.0,
-      "summary": "#硬件设备 美光也推出读取速度可达 14.5GB / 秒的新款消费级固态硬盘，基于 PCIe 5.0 协议最大提供 4TB 容量。这款固态硬盘采用慧荣 SM2508 8 通道主控芯片，美光称其超高速度还可以缩短 LLM 和 AI 模型的加载时间。查看全文：https://ourl.co/107982",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -7649,16 +7659,6 @@
       "timestamp": 1740025271.0,
       "summary": "JSON 是一种广泛采用的格式，用于在系统之间 (通常用于 Web 应用和大语言模型 (LLMs)) 以互操作 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
-      "link": "https://www.landiannews.com/archives/107981.html",
-      "date": "2025-02-20 12:09",
-      "author": "蓝点网",
-      "timestamp": 1740024574.0,
-      "summary": "#软件资讯 微软增强 Excel 内置的 Copilot AI 人工智能服务，可引用来自其他表格、文档、演示文稿、公共网络中的数据。当然用户需要提前授予 Copilot AI 读取企业内部数据或用户自己云端存储的数据，默认会从网络上寻找公共数据。查看全文：https://ourl.co/107981",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
