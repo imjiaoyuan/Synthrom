@@ -7432,6 +7432,66 @@
       "category": "Blog"
     },
     {
+      "title": "阿里云买下Qwen.Ai域名用于通义千问AI问答平台 但花费可能不是特别高",
+      "link": "https://www.landiannews.com/archives/108027.html",
+      "date": "2025-02-24 16:39",
+      "author": "蓝点网",
+      "timestamp": 1740386397.0,
+      "summary": "#人工智能 恭喜域名爱好者！阿里云买下 Qwen.Ai 域名用于通义千问 AI 平台，不知道具体花了多少钱。该域名注册于 2023 年 8 月，到 2023 年 9 月阿里云才面向公众号推出通义千问 AI 对话平台，估计当时阿里云也没想起来要把这个域名注册了。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌全家桶订阅Google One土耳其区价格大幅度上涨 相当于原价格5倍",
+      "link": "https://www.landiannews.com/archives/108026.html",
+      "date": "2025-02-24 15:56",
+      "author": "蓝点网",
+      "timestamp": 1740383783.0,
+      "summary": "#软件资讯 谷歌全家桶订阅 Google One 土耳其价格大幅度上涨，相当于原价的 5 倍。目前 Google One 2TB 订阅用户陆续收到通知，自 3 月 20 日每月 49.99 里拉变更为 204.99 里拉，尽管价格大幅度上涨但这仍然比大部分区还是要便宜的。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "腾讯云新春活动正在进行：200M带宽轻量服务器/续费代金券/续费红包等",
+      "link": "https://www.landiannews.com/archives/108025.html",
+      "date": "2025-02-24 15:26",
+      "author": "蓝点网",
+      "timestamp": 1740381983.0,
+      "summary": "#云计算 腾讯云新春活动正在进行：200M 带宽轻量应用服务器、续费代金券、续费红包等。实测抽奖抽到 6.88 元红包代金券可用于购买常规或轻量应用服务器，个人用户还可以领取续费代金券，这样按年续费时平均相当于 3.5 折。查看全文：https://ourl.co/108025",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[附禁用方法] 谷歌在Android 9+静默安装SafetyCore应用 卸载后会自动重装",
+      "link": "https://www.landiannews.com/archives/108024.html",
+      "date": "2025-02-24 12:25",
+      "author": "蓝点网",
+      "timestamp": 1740371106.0,
+      "summary": "#技术教程 谷歌在 Android 9 + 上静默安装 SafetyCore 应用引起争议，即便卸载也会自动重装，但可以 ADB 禁用。该应用用于检测内容并分类，但不会主动扫描和上传用户数据，其他应用可以调用 SafetyCore 识别和分类钓鱼网站或欺诈内容等。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "阿里巴巴将在未来3年投资3800亿元用于建设云和AI硬件基础 超过过去10年总和",
+      "link": "https://www.landiannews.com/archives/108023.html",
+      "date": "2025-02-24 11:58",
+      "author": "蓝点网",
+      "timestamp": 1740369516.0,
+      "summary": "#云计算 阿里巴巴宣布未来 3 年将投资 3800 亿元用于云和 AI 硬件基础设施，投资额超过过去 10 年的投资总和。阿里巴巴称 AI 爆发远超预期，国内科技产业方兴未艾且潜力巨大，阿里巴巴将不遗余力地加速云和 AI 硬件基础设施建设助推全行业生态发展。查看全文：https://ourl.co/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "英伟达承认RTX5090/5070等因制造问题导致缺少渲染单元 用户可联系换货",
+      "link": "https://www.landiannews.com/archives/108022.html",
+      "date": "2025-02-24 11:43",
+      "author": "蓝点网",
+      "timestamp": 1740368631.0,
+      "summary": "#硬件设备 英伟达承认 RTX 5090/5070 等显卡因为罕见的制造问题导致缺少渲染单元从而影响性能，用户可以联系 AIB 制造商换货。例如索泰的 RTX 5090 Solid 只有 168 个渲染单元而非标准规格中的 176 个，Reddit 网友还表示 RTX 5080 也存在类似问题。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "苹果计划将谷歌Gemini集成到AI服务中 让用户有ChatGPT的替代使用",
       "link": "https://www.landiannews.com/archives/108021.html",
       "date": "2025-02-24 11:28",
@@ -7572,63 +7632,13 @@
       "category": "News"
     },
     {
-      "title": "谷歌计划推出价格更便宜的YouTube Premium Lite订阅主要用于屏蔽视频广告",
-      "link": "https://www.landiannews.com/archives/108001.html",
-      "date": "2025-02-21 10:56",
-      "author": "蓝点网",
-      "timestamp": 1740106600.0,
-      "summary": "#科技资讯 谷歌计划推出价格更便宜的 YouTube Premium Lite 订阅主要用于帮助用户屏蔽广告。目前 YouTube 正在采取多种措施阻止用户屏蔽广告，包括限制观看视频和不停地弹出提醒等，谷歌希望通过新的 Lite 版吸引用户付费直接跳过广告而不是继续使用广告拦截软件进行对抗。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "安全统计数据显示苹果只能检测出50%被NSO间谍软件感染的设备 检测率非常低",
-      "link": "https://www.landiannews.com/archives/108000.html",
-      "date": "2025-02-21 10:46",
-      "author": "蓝点网",
-      "timestamp": 1740105967.0,
-      "summary": "#安全资讯 数据显示苹果大约只能检测出 50% 被 NSO 间谍软件感染的 iPhone，整体检测率仍然非常低。苹果会在检测到潜在攻击时主动向用户发出提醒，移动安全公司 iVerify 统计了该公司同名应用确认感染的 iPhone，发现苹果的检测率大约只有 50%，剩余 50% 的用户并不知道自己已...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "群晖推出办公套件API允许将群晖网盘和办公套件与其他产品集成实现工作流自动化",
-      "link": "https://www.landiannews.com/archives/107999.html",
-      "date": "2025-02-21 10:25",
-      "author": "蓝点网",
-      "timestamp": 1740104720.0,
-      "summary": "#科技资讯 群晖推出办公套件 API 允许将群晖网盘和办公套件与其他产品集成实现工作流自动化。例如在 CRM 中集成群晖网盘 API 可以直接上传和管理网盘中的文件，表格 API 可以自动收集数据并实时获得见解等，有兴趣的企业可以访问 API 文档查看具体的示例。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果以安全风险为由拒绝在英国开放iOS浏览器内核 — 毕竟你不是欧盟成员呀",
-      "link": "https://www.landiannews.com/archives/107998.html",
-      "date": "2025-02-21 10:11",
-      "author": "蓝点网",
-      "timestamp": 1740103862.0,
-      "summary": "#科技资讯 苹果以安全风险为由拒绝在英国开放 iOS 浏览器内核，毕竟你也不是欧盟成员呀！英国监管机构拟议的新规定要求苹果开放 iOS 浏览器内核，允许其他替代内核，苹果直接拒绝了该提议并要进行诉讼。查看全文：https://ourl.co/107998",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Windows 11安卓子系统关闭的原因(之一)？亚马逊宣布关闭其安卓应用商店",
-      "link": "https://www.landiannews.com/archives/107997.html",
-      "date": "2025-02-21 09:54",
-      "author": "蓝点网",
-      "timestamp": 1740102891.0,
-      "summary": "#软件资讯 Windows 11 安卓子系统关闭的原因 (之一)？亚马逊宣布关闭其安卓应用商店。此前微软与亚马逊合作，安卓子系统预装的就是亚马逊商店，不知道亚马逊是不是已经提前知会微软，微软这才觉得本来安卓子系统也没多少人用所以不如关了。查看全文：https://ourl.co/107997",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "分析师透露苹果将在iPhone 17全系列中使用自研Wi-Fi芯片取代博通",
-      "link": "https://www.landiannews.com/archives/107989.html",
-      "date": "2025-02-21 09:43",
-      "author": "蓝点网",
-      "timestamp": 1740102204.0,
-      "summary": "#手机数码 分析师透露苹果将在 iPhone 17 全系列中采用自研的 Wi-Fi 芯片取代长期以来博通提供的 Wi-Fi 芯片。天风国际知名分析师郭明錤称自研 Wi-Fi 芯片的采用速度非常快，因为 C1 基带芯片仅在入门级机型使用，现在 Wi-Fi 芯片全系列采用说明苹果非常有信心因此也没必要分...",
-      "source_url": "https://www.landiannews.com",
+      "title": "GeForce RTX 5070 Ti GPU 加速生成式 AI 以及视频编辑、3D 等领域的内容创作",
+      "link": "https://blogs.nvidia.cn/blog/studio-ai-geforce-rtx-5070-ti-gpu-dlss/",
+      "date": "2025-02-20 22:00",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1740060000.0,
+      "summary": "基于 NVIDIA Blackwell 架构打造的 NVIDIA GeForce RTX 5070 Ti GP",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -7988,16 +7998,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1736344800.0,
       "summary": "去年，生成式 AI 改变了人们的生活、工作和娱乐方式，从写作到内容创作，再到游戏、学习和生产力，方方面面获得提",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "为何企业需要 AI 查询引擎来推动代理式 AI？",
-      "link": "https://blogs.nvidia.cn/blog/ai-query-engines-agentic-ai/",
-      "date": "2025-01-07 10:38",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736217480.0,
-      "summary": "数据是 AI 应用的燃料，但企业数据的量级和规模往往会使其使用成本高且耗时，难以有效利用。 根据 IDC 的",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
