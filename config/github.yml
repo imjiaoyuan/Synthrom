@@ -5,7 +5,7 @@ github:
   
   # 评论功能
   comment:
-    enabled: true              # 是否启用评论功能ase
+    enabled: true              # 是否启用评论功能
     label: comment             # 使用已有的标签名
     title_template: "{title} ({date})"  # 评论 issue 的标题模板
     body_template: "{summary}\n\n链接：{link}"  # 评论内容模板

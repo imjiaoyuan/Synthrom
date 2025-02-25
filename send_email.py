@@ -7,6 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.utils import formataddr
 from datetime import datetime
 import pytz
+import ssl
 
 def load_config():
     """加载邮件配置"""
@@ -42,37 +43,7 @@ def generate_email_content(articles):
     # 修改CSS样式部分
     style = """
         <style>
-            /* Gmail特定的样式覆盖 */
-            u + .body { /* Gmail特定的选择器 */
-                display: block !important;
-            }
-            
-            .email-body {
-                display: block !important;
-                max-width: 800px !important;
-                margin: 0 auto !important;
-            }
-            
-            .post {
-                display: block !important;
-            }
-            
-            /* 确保内容不会被截断 */
-            .summary {
-                display: block !important;
-                overflow: visible !important;
-                max-height: none !important;
-            }
-            
-            /* 移除Gmail的引用样式 */
-            blockquote {
-                display: block !important;
-                margin: 0 !important;
-                padding: 0 !important;
-                border: none !important;
-            }
-            
-            /* 重置默认样式 */
+            /* 基础样式 */
             * {
                 margin: 0;
                 padding: 0;
@@ -81,105 +52,117 @@ def generate_email_content(articles):
             
             body {
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-                line-height: 1.6;
+                line-height: 1.5;
                 color: #333;
                 max-width: 800px;
                 margin: 0 auto;
-                padding: 15px;
-                background: #f9f9f9;
-                font-size: 14px;  /* 默认字体大小调小 */
+                padding: 12px;  /* 减小整体边距 */
+                font-size: 14px;
             }
             
-            /* 移动端适配 */
-            @media screen and (max-width: 600px) {
-                body {
-                    padding: 10px;
-                    font-size: 13px;  /* 移动端字体更小 */
-                }
+            /* 邮件主体 */
+            .email-body {
+                padding: 12px;  /* 减小内边距 */
             }
             
+            /* 头部样式 */
             .header {
                 display: flex;
                 justify-content: space-between;
                 align-items: baseline;
-                border-bottom: 2px solid #eee;
-                padding-bottom: 8px;
-                margin: 20px 0 15px;
+                border-bottom: 1px solid #eee;  /* 减小分隔线粗细 */
+                padding-bottom: 6px;  /* 减小底部间距 */
+                margin: 12px 0;  /* 减小上下间距 */
             }
             
             .header h2 {
-                font-size: 20px;  /* 标题字体调小 */
+                font-size: 18px;
                 font-weight: 500;
                 color: #2c3e50;
                 margin: 0;
             }
             
-            .header .time {
-                font-size: 13px;
-                color: #7f8c8d;
+            /* 文章卡片样式 */
+            .post {
+                border: 1px solid #e0e0e0;
+                border-radius: 6px;  /* 减小圆角 */
+                padding: 12px;  /* 减小内边距 */
+                margin-bottom: 16px;  /* 减小卡片间距 */
             }
             
-            h3 {
-                font-size: 18px;  /* 分类标题调小 */
-                font-weight: 500;
-                color: #34495e;
-                margin: 20px 0 12px;
-            }
-            
+            /* 标题样式 */
             .title {
-                font-size: 16px;  /* 文章标题调小 */
-                margin-bottom: 8px;
+                margin-bottom: 8px;  /* 减小标题下方间距 */
+                padding-bottom: 6px;  /* 减小标题分隔线上方间距 */
+                border-bottom: 1px solid #f0f0f0;
             }
             
             .title a {
                 color: #2c3e50;
                 text-decoration: none;
                 font-weight: 500;
+                font-size: 15px;  /* 稍微调小标题字号 */
             }
             
-            .meta {
-                font-size: 13px;
-                color: #7f8c8d;
-                margin-bottom: 8px;
-            }
-            
+            /* 分类标签样式 */
             .category {
                 display: inline-block;
-                padding: 2px 6px;
+                padding: 2px 6px;  /* 减小标签内边距 */
                 border-radius: 3px;
                 font-size: 12px;
-                font-weight: 500;
                 margin-right: 6px;
             }
             
             .category.blog {
-                background: #e3f2fd;
-                color: #1976d2;
+                background: #e8f5e9;
+                color: #2e7d32;
             }
             
             .category.news {
-                background: #f3e5f5;
-                color: #7b1fa2;
+                background: #fff3e0;
+                color: #ef6c00;
+            }
+            
+            /* 元信息样式 */
+            .meta {
+                font-size: 12px;
+                color: #666;
+                margin-bottom: 8px;  /* 减小元信息下方间距 */
+            }
+            
+            /* 摘要样式 */
+            .summary {
+                color: #444;
+                line-height: 1.5;
+                font-size: 13px;
+            }
+            
+            /* 分类标题样式 */
+            h3 {
+                font-size: 16px;
+                font-weight: 500;
+                color: #1a1a1a;
+                margin: 16px 0 12px;  /* 减小分类标题间距 */
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f0f0f0;
             }
         </style>
     """
     
-    # 修改HTML结构
+    # 修改 HTML 结构，减少嵌套层级
     html = f"""
+    <!DOCTYPE html>
     <html>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {style}
     </head>
-    <body class="body">
-        <!-- 添加额外的包装器 -->
-        <div class="email-body">
-            <div style="min-width: 100%; display: block !important;">
-                <div class="header">
-                    <h2>今日RSS更新</h2>
-                    <span class="time">{current_time}</span>
-                </div>
+    <body>
+        <div class="header">
+            <h2>今日RSS更新</h2>
+            <span class="time">{current_time}</span>
+        </div>
     """
     
     # 按分类组织文章
@@ -200,11 +183,10 @@ def generate_email_content(articles):
             html += f'<h3>{category}</h3>'
             for article in sorted(category_articles, key=lambda x: x['timestamp'], reverse=True):
                 category_class = 'blog' if category == 'Blog' else 'news'
+                # 减少 div 嵌套层级
                 html += f"""
                 <div class="post">
-                    <div class="title">
-                        <a href="{article['link']}" target="_blank">{article['title']}</a>
-                    </div>
+                    <div class="title"><a href="{article['link']}" target="_blank">{article['title']}</a></div>
                     <div class="meta">
                         <span class="category {category_class}">{article['category']}</span>
                         {article['author']} / {article['date']}
@@ -214,10 +196,8 @@ def generate_email_content(articles):
                 """
     
     html += """
-            </div>
-            <footer style="display: block !important;">
-                由 RSS Reader 自动生成
-            </footer>
+        <div style="color: #666; font-size: 12px; margin-top: 20px; border-top: 1px solid #eee; padding-top: 12px;">
+            由 RSS Reader 自动生成
         </div>
     </body>
     </html>
@@ -271,10 +251,10 @@ def send_email():
     # 创建邮件
     msg = MIMEMultipart('alternative')
     msg['Subject'] = '今日RSS更新'
-    msg['From'] = formataddr(('今日RSS更新', sender_email))
+    msg['From'] = formataddr(('RSS Reader', sender_email))  # 添加发件人名称
     msg['To'] = ', '.join(config['email']['recipients'])
     
-    # 添加纯文本版本（这有助于某些邮件客户端）
+    # 添加纯文本版本
     text_content = "请使用支持HTML的邮件客户端查看此邮件。"
     msg.attach(MIMEText(text_content, 'plain', 'utf-8'))
     
@@ -284,30 +264,11 @@ def send_email():
     # 发送邮件
     try:
         print("开始连接SMTP服务器...")
-        import ssl
         context = ssl.create_default_context()
         
-        if int(smtp_port) == 465:
-            # 使用 SSL 连接
-            print("使用SSL连接...")
-            try:
-                server = smtplib.SMTP_SSL(smtp_server, 
-                                        int(smtp_port), 
-                                        context=context,
-                                        timeout=10)
-                print("SSL连接成功")
-            except Exception as e:
-                print(f"SSL连接失败: {str(e)}")
-                print("尝试普通连接...")
-                server = smtplib.SMTP(smtp_server, int(smtp_port))
-                server.starttls(context=context)
-                print("TLS连接成功")
-        else:
-            # 使用 TLS 连接
-            print("使用TLS连接...")
-            server = smtplib.SMTP(smtp_server, int(smtp_port))
-            server.starttls(context=context)
-            print("TLS连接成功")
+        # 直接使用SSL连接（端口465）
+        print("使用SSL连接...")
+        server = smtplib.SMTP_SSL(smtp_server, 465, context=context)
         
         try:
             print("开始登录...")
@@ -319,7 +280,6 @@ def send_email():
             print("邮件发送成功")
         except Exception as e:
             print(f"操作失败: {str(e)}")
-            print(f"错误类型: {type(e)}")
             raise
         finally:
             print("关闭连接...")
@@ -327,7 +287,6 @@ def send_email():
             
     except Exception as e:
         print(f"邮件发送失败: {str(e)}")
-        print(f"错误类型: {type(e)}")
         raise
 
 if __name__ == '__main__':

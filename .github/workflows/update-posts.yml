@@ -1,7 +1,7 @@
 name: Update RSS Feeds
 on:
   schedule:
-    # 中国时间：每天 06:00, 11:00, 20:00
+    # RSS抓取：UTC 22:00, 03:00, 12:00 (北京时间 06:00, 11:00, 20:00)
     - cron: '0 22,3,12 * * *'
   workflow_dispatch:
 jobs:
@@ -26,6 +26,7 @@ jobs:
         python3 fetch_feeds.py
     
     - name: Send email notification
+      if: github.event.schedule == '0 22 * * *'  # 只在UTC 22:00（北京时间第二天6:00）运行时发送邮件
       env:
         SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
         SMTP_PORT: ${{ secrets.SMTP_PORT }}

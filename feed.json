@@ -8404,7 +8404,7 @@
     {
       "title": "关于我",
       "link": "https://kowyo.com/about/",
-      "date": "1-01-01 08:06",
+      "date": "0001-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "无摘要",
@@ -8414,7 +8414,7 @@
     {
       "title": "友邻",
       "link": "https://kowyo.com/friends/",
-      "date": "1-01-01 08:06",
+      "date": "0001-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "Pseudoyu\n      区块链开发工程师，喜欢探索新技术\n    \n  \n\n\n\n  \n    \n      \n    \n    \n      Kiryu Sento\n      \n    \n  \n\n\n\n  \n    \n      \n    \n    \n      吴俊达\n      Olive...",
@@ -8424,12 +8424,22 @@
     {
       "title": "时刻",
       "link": "https://kowyo.com/moments/",
-      "date": "1-01-01 08:06",
+      "date": "0001-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "2024 年\n看见喜欢的博主隐藏了「Stream」頁面，想起来前不久刷到了本版块的意义所在：\n\n每次马斯克发神经，就有几十万人逃离 X，结果发现每个社交 app 都一样疯狂，每个人都既自恋又从众\n忽然之间，简单分享、真实做自己的 microblog / 微博客 / 迷你个人网站，变成了新潮流",
       "source_url": "https://kowyo.com/",
       "category": "Blog"
+    },
+    {
+      "title": "阿里云通义千问在AI对话平台推出QwQ深度思考模型 具有更强的推理和创造力",
+      "link": "https://www.landiannews.com/archives/108043.html",
+      "date": "2025-02-25 11:36",
+      "author": "蓝点网",
+      "timestamp": 1740454563.0,
+      "summary": "#人工智能 阿里云通义千问团队在 AI 对话平台推出 QwQ 深度思考功能，基于 QwQ 思维模型，具有更强的数学理解、编程和推理能力，也更聪明和更具创造力。后续通义千问将在 Apache 2.0 许可证下开源 QwQ-Max 模型和 Qwen2.5-Max 模型。查看全文：https://ourl...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
     },
     {
       "title": "希望与色情应用撇清关系：苹果修改替代商店应用分发的公证措辞",
@@ -8618,16 +8628,6 @@
       "author": "蓝点网",
       "timestamp": 1740364120.0,
       "summary": "#域名爱好者 免费域名 US.KG 再次被暂停解析，运营商称预计今天恢复，后续将实施身份验证机制降低滥用率。运营商 DigitalPlat 称周末注册局没上班所以没恢复解析，预计今天就能恢复解析，不过当前吉尔吉斯斯坦注册局已经进入工作日，测试还是没恢复。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果可能会在未来将5G基带芯片集成到A系列芯片里 这样可以继续提升效率",
-      "link": "https://www.landiannews.com/archives/108014.html",
-      "date": "2025-02-24 10:17",
-      "author": "蓝点网",
-      "timestamp": 1740363458.0,
-      "summary": "#科技资讯 苹果可能会在未来将 5G 基带芯片集成到 A 系列芯片里，这可以降低整体制造成本和继续提升效率。全部进行集成的显著优势包括提高芯片组效率、降低制造成本以及缩小主板尺寸，马克古尔曼称最早可能也要到 2028 年才能实现这个目标。查看全文：https://ourl.co/108014",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -9012,22 +9012,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
       "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -9068,6 +9068,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736154360.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出 NVIDIA Cosmo",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -9198,16 +9208,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
