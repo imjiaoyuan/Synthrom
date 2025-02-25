@@ -3,3 +3,34 @@ email:
   enabled: true                # 是否启用邮件通知
   recipients:                  # 收件人列表
     - imjiaoyuan@gmail.com
+  daily_digest: true          # 启用每日摘要模式
+  digest_time: "08:00"        # 每日发送时间(北京时间)
+  style: |                    # 邮件样式
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+    }
+    .article {
+      border-bottom: 2px solid #ddd;
+      padding: 20px 0;
+      margin: 0;
+    }
+    .article-title {
+      font-size: 18px;
+      font-weight: bold;
+      color: #000;
+      margin-bottom: 12px;
+    }
+    .article-source {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    .article-content {
+      margin: 10px 0;
+    }
+    .article-link {
+      color: #1a73e8;
+      text-decoration: none;
+    }
