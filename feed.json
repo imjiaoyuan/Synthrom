@@ -2,6 +2,16 @@
   "update_time": "2025-02-25",
   "articles": [
     {
+      "title": "当一个动词不是动词",
+      "link": "https://ssshooter.com/english-grammar-3-infinitive-gerund-participle/",
+      "date": "2025-02-25 11:59",
+      "author": "Usubeni Fantasy",
+      "timestamp": 1740455993.0,
+      "summary": "欢迎来到《小猫都能懂的英语语法》第三期，本文告诉你，一个“动词”除了成为谓语动词，还有什么出路",
+      "source_url": "https://ssshooter.com/",
+      "category": "Blog"
+    },
+    {
       "title": "什么时候开始发现自己不需要婚姻了？",
       "link": "http://m.wufazhuce.com/question/4303",
       "date": "2025-02-25 06:25",
@@ -4552,16 +4562,6 @@
       "category": "Blog"
     },
     {
-      "title": "50 年前的粤语流行歌治好了我的精神内耗",
-      "link": "https://ssshooter.com/drifter-s-song/",
-      "date": "2024-06-29 17:53",
-      "author": "Usubeni Fantasy",
-      "timestamp": 1719654829.0,
-      "summary": "写出这个标题的时候我觉得很夸张，这首歌发布于 1976 年，居然真的快 50 年了。所谓的这首歌，就是许冠杰的《浪子心声》。\n\n对一个 90 后广东人来说，不管你愿不愿意听，或许都会在各种场合听过这首歌。尤其是我——据说我名字里，甚至借了许冠杰的一个字——自然在小时候听过不少他的歌。但此处必有但是....",
-      "source_url": "https://ssshooter.com/",
-      "category": "Blog"
-    },
-    {
       "title": "ant-design slider 组件增加推荐区间展示",
       "link": "https://cuixinxin.cn/archives/2983",
       "date": "2024-06-28 16:38",
@@ -8404,7 +8404,7 @@
     {
       "title": "关于我",
       "link": "https://kowyo.com/about/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "无摘要",
@@ -8414,7 +8414,7 @@
     {
       "title": "友邻",
       "link": "https://kowyo.com/friends/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "Pseudoyu\n      区块链开发工程师，喜欢探索新技术\n    \n  \n\n\n\n  \n    \n      \n    \n    \n      Kiryu Sento\n      \n    \n  \n\n\n\n  \n    \n      \n    \n    \n      吴俊达\n      Olive...",
@@ -8424,12 +8424,82 @@
     {
       "title": "时刻",
       "link": "https://kowyo.com/moments/",
-      "date": "0001-01-01 08:06",
+      "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
       "summary": "2024 年\n看见喜欢的博主隐藏了「Stream」頁面，想起来前不久刷到了本版块的意义所在：\n\n每次马斯克发神经，就有几十万人逃离 X，结果发现每个社交 app 都一样疯狂，每个人都既自恋又从众\n忽然之间，简单分享、真实做自己的 microblog / 微博客 / 迷你个人网站，变成了新潮流",
       "source_url": "https://kowyo.com/",
       "category": "Blog"
+    },
+    {
+      "title": "三星推出9100 PRO PCIe Gen5 NVMe SSD 读取速度可达14.8GB/秒 最大8TB",
+      "link": "https://www.landiannews.com/archives/108057.html",
+      "date": "2025-02-25 15:47",
+      "author": "蓝点网",
+      "timestamp": 1740469654.0,
+      "summary": "#硬件设备 三星电子推出 9100 PRO PCIe Gen5 NVMe SSD，最大读取速度 14.8GB / 秒、写入速度 13.4GB / 秒，最大容量 8TB，支持硬盘直通。其中 1~4TB 版将在 3 月 18 日发售，8TB 版价格和发售时间暂时都还没有公布。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "英伟达确认RTX 5080也存在缺少ROP渲染单元 目前生产异常问题已得到纠正",
+      "link": "https://www.landiannews.com/archives/108056.html",
+      "date": "2025-02-25 15:33",
+      "author": "蓝点网",
+      "timestamp": 1740468815.0,
+      "summary": "#硬件设备 英伟达确认 RTX 5080 也存在缺少 ROP 的问题，目前英伟达生产异常问题已经得到纠正，近期生产的新显卡不存在此类问题。简单来说从 5070 Ti~5090 的早期产品都存在少 ROP 的问题，缺少的 ROP 渲染单元会降低 GPU 性能，用户可以联系显卡制造商售后进行换货。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "DeepSeek API平台重新开放充值 每百万输入2元/百万输出8元",
+      "link": "https://www.landiannews.com/archives/108055.html",
+      "date": "2025-02-25 15:12",
+      "author": "蓝点网",
+      "timestamp": 1740467527.0,
+      "summary": "#人工智能 DeepSeek API 平台重新开放充值功能，目前每百万输入 2 元，每百万输出 8 元。有兴趣的开发者可以通过 DeepSeek API 平台充值直接调用 API 使用 DeepSeek 最新模型。查看全文：https://ourl.co/108055",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "三星与长江存储签署混合键合专利许可协议 三星需使用晶栈封装高性能NAND",
+      "link": "https://www.landiannews.com/archives/108054.html",
+      "date": "2025-02-25 14:42",
+      "author": "蓝点网",
+      "timestamp": 1740465759.0,
+      "summary": "#科技资讯 三星电子与长江存储签署混合键合专利许可协议，三星需使用该技术生产 V10 高密度高性能 NAND。什么？没听过混合键合？其实这就是长江存储使用多年的晶栈 (Xtacking) 封装技术，该专利几乎是生产下一代 NAND 不可避免的，预计 SK 海力士也会签署类似的专利许可。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "难道是已经没有流量？知乎不再强制用户登录 现未登录也能查看全文",
+      "link": "https://www.landiannews.com/archives/108053.html",
+      "date": "2025-02-25 14:09",
+      "author": "蓝点网",
+      "timestamp": 1740463799.0,
+      "summary": "# 网站应用 难道是已经没有流量？知乎不再强迫用户登录，现在不登录也能查看回答全文和评论。去年 5 月开始知乎采用严格措施强制用户登录，不知道是不是现在已经没流量了导致知乎最终还是放开了访问，但，说实话我也懒得继续看知乎了。查看全文：https://ourl.co/108053",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "澳大利亚以安全风险为由禁止政府机构使用卡巴斯基 必须在4月1日前删除",
+      "link": "https://www.landiannews.com/archives/108052.html",
+      "date": "2025-02-25 13:57",
+      "author": "蓝点网",
+      "timestamp": 1740463032.0,
+      "summary": "#安全资讯 澳大利亚以安全风险为由禁止政府机构使用卡巴斯基实验室的任何产品和服务，现有的安装必须在 4 月 1 日前删除。卡巴斯基称澳政府既没有提前通知也没有发出警告，也就是卡巴斯基现在连解释的机会都没。查看全文：https://ourl.co/108052",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Anthropic推出首个AI推理模型Claude 3.7 Sonnet 更适合编程开发和Web开发",
+      "link": "https://www.landiannews.com/archives/108051.html",
+      "date": "2025-02-25 13:45",
+      "author": "蓝点网",
+      "timestamp": 1740462358.0,
+      "summary": "#人工智能 Anthropic 推出首款 AI 推理模型 Claude 3.7 Sonnet，该模型既是普通模型也是思维模型，用户可以在不同模式下切换。该模型特别适合编程开发和前端 Web 开发，为此 Anthropic 还推出了 Claude Code 开发工具，帮助开发者测试和编写代码。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
     },
     {
       "title": "阿里云通义千问在AI对话平台推出QwQ深度思考模型 具有更强的推理和创造力",
@@ -8558,76 +8628,6 @@
       "author": "蓝点网",
       "timestamp": 1740381983.0,
       "summary": "#云计算 腾讯云新春活动正在进行：200M 带宽轻量应用服务器、续费代金券、续费红包等。实测抽奖抽到 6.88 元红包代金券可用于购买常规或轻量应用服务器，个人用户还可以领取续费代金券，这样按年续费时平均相当于 3.5 折。查看全文：https://ourl.co/108025",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[附禁用方法] 谷歌在Android 9+静默安装SafetyCore应用 卸载后会自动重装",
-      "link": "https://www.landiannews.com/archives/108024.html",
-      "date": "2025-02-24 12:25",
-      "author": "蓝点网",
-      "timestamp": 1740371106.0,
-      "summary": "#技术教程 谷歌在 Android 9 + 上静默安装 SafetyCore 应用引起争议，即便卸载也会自动重装，但可以 ADB 禁用。该应用用于检测内容并分类，但不会主动扫描和上传用户数据，其他应用可以调用 SafetyCore 识别和分类钓鱼网站或欺诈内容等。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿里巴巴将在未来3年投资3800亿元用于建设云和AI硬件基础 超过过去10年总和",
-      "link": "https://www.landiannews.com/archives/108023.html",
-      "date": "2025-02-24 11:58",
-      "author": "蓝点网",
-      "timestamp": 1740369516.0,
-      "summary": "#云计算 阿里巴巴宣布未来 3 年将投资 3800 亿元用于云和 AI 硬件基础设施，投资额超过过去 10 年的投资总和。阿里巴巴称 AI 爆发远超预期，国内科技产业方兴未艾且潜力巨大，阿里巴巴将不遗余力地加速云和 AI 硬件基础设施建设助推全行业生态发展。查看全文：https://ourl.co/...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "英伟达承认RTX5090/5070等因制造问题导致缺少渲染单元 用户可联系换货",
-      "link": "https://www.landiannews.com/archives/108022.html",
-      "date": "2025-02-24 11:43",
-      "author": "蓝点网",
-      "timestamp": 1740368631.0,
-      "summary": "#硬件设备 英伟达承认 RTX 5090/5070 等显卡因为罕见的制造问题导致缺少渲染单元从而影响性能，用户可以联系 AIB 制造商换货。例如索泰的 RTX 5090 Solid 只有 168 个渲染单元而非标准规格中的 176 个，Reddit 网友还表示 RTX 5080 也存在类似问题。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果计划将谷歌Gemini集成到AI服务中 让用户有ChatGPT的替代使用",
-      "link": "https://www.landiannews.com/archives/108021.html",
-      "date": "2025-02-24 11:28",
-      "author": "蓝点网",
-      "timestamp": 1740367696.0,
-      "summary": "#人工智能 苹果计划将谷歌 Gemini 集成到 AI 服务中，让用户有 ChatGPT 的替代使用。在 iOS 18.4 测试版中有网友注意到 AI 模型选择中出现了 Google 和 OpenAI 选项，原本只有 OpenAI。不过当前这些还在开发中，不知道 iOS 18.4 正式版是否会提供 ...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "DeepSeek开源周首日推出FlashMLA项目 可以显著降低内存占用和计算开销",
-      "link": "https://www.landiannews.com/archives/108020.html",
-      "date": "2025-02-24 11:14",
-      "author": "蓝点网",
-      "timestamp": 1740366861.0,
-      "summary": "#人工智能 DeepSeek 开源周 1/5：开源 FlashMLA 项目可以在 NVIDIA Grace Hopper 架构上显著降低内存占用和计算开销，提高响应速度。该项目目前已经在 GitHub 上开源，有兴趣的开发者可以快速部署和使用 DeepSeek 提供的脚本进行测试验证。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微信化：谷歌宣布Gmail弃用传统的短信验证码 后续需使用谷歌应用扫码认证",
-      "link": "https://www.landiannews.com/archives/108019.html",
-      "date": "2025-02-24 10:42",
-      "author": "蓝点网",
-      "timestamp": 1740364937.0,
-      "summary": "#科技资讯 谷歌宣布 Gmail 弃用传统的短信验证码，后续用户登录时需使用谷歌应用扫码进行验证。谷歌解释扫码认证的诸多优势，包括黑客都没法诱骗用户分享数字验证码，谷歌还表示很高兴推出一种创新方法缩小攻击面 (微信：喵喵喵？)。查看全文：https://ourl.co/108019",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "免费域名US.KG再次被暂停解析 预计今天恢复 后续将实施身份验证机制",
-      "link": "https://www.landiannews.com/archives/108015.html",
-      "date": "2025-02-24 10:28",
-      "author": "蓝点网",
-      "timestamp": 1740364120.0,
-      "summary": "#域名爱好者 免费域名 US.KG 再次被暂停解析，运营商称预计今天恢复，后续将实施身份验证机制降低滥用率。运营商 DigitalPlat 称周末注册局没上班所以没恢复解析，预计今天就能恢复解析，不过当前吉尔吉斯斯坦注册局已经进入工作日，测试还是没恢复。查看全文：https://ourl.co/10...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -9012,22 +9012,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -9068,16 +9068,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736154360.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月6日—NVIDIA 今日宣布推出 NVIDIA Cosmo",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -9208,6 +9198,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
