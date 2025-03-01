@@ -22,16 +22,6 @@
       "category": "Blog"
     },
     {
-      "title": "是过年呀",
-      "link": "https://cuixinxin.cn/archives/3536",
-      "date": "2025-02-28 17:54",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1740736471.0,
-      "summary": "是过年呀。",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "科技爱好者周刊（第 339 期）：代币是什么",
       "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html",
       "date": "2025-02-28 08:21",
@@ -119,16 +109,6 @@
       "timestamp": 1740498763.0,
       "summary": "五年磨一剑，那句“我命由我不由天”还在耳畔回响，没想到转眼到了今年春节，马上就能看到第二部《哪吒之魔童闹海》。 [&#8230;]",
       "source_url": "https://imzm.im",
-      "category": "Blog"
-    },
-    {
-      "title": "微信电脑版 for Windows v4.0.2.18 多开和消息防撤回绿色版",
-      "link": "https://cuixinxin.cn/archives/3540",
-      "date": "2025-02-25 20:51",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1740487886.0,
-      "summary": "微信电脑版 for Windows v4.0.2.18 测试版多开&#38;消息防撤回绿色版（纯64位） [2025/2/24更新，跟进官方最新测试版，此版防撤回暂无保留撤回提示。推荐楼层可以有其他网盘分流下载] v4.0.2.18 绿色版： ① &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -712,16 +692,6 @@
       "category": "Blog"
     },
     {
-      "title": "好险！我差点被诈骗了～",
-      "link": "https://cuixinxin.cn/archives/3504",
-      "date": "2025-01-22 00:09",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1737475780.0,
-      "summary": "事情是这样的，最近不是正在找工作嘛！在各种平台投递简历，也是有人通过电话联系是否面试，但是直接发短信连个电话也不打的还是头一次见到。 因为直接发的短信，我有个习惯就是会去微信搜一下，看是否能添 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "1007",
       "link": "https://cyp0633.icu/timeline/2025/01/1007/",
       "date": "2025-01-21 10:41",
@@ -972,16 +942,6 @@
       "category": "Blog"
     },
     {
-      "title": "iphone 利用 Scriptable 添加网上国网电费小组件",
-      "link": "https://cuixinxin.cn/archives/3479",
-      "date": "2025-01-06 20:40",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1736167220.0,
-      "summary": "scriptable 添加网上国网电量组件。",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "小寒｜2024年12月小结",
       "link": "https://thirdshire.com/december-recap-2024/",
       "date": "2025-01-06 13:00",
@@ -1109,16 +1069,6 @@
       "timestamp": 1735603200.0,
       "summary": "二十岁的时候，每过一年，人生阅历会增长约5%；三十岁的时候，会增长3.3%；现在，只会增长2.7%。阅历这东西是随年龄边际效益递减的，经常感觉啥也没做就一年过去是年长者的专利，如果把受教育当成社会层面的复读机驯化，那么年龄就是个人层面的押韵，韵脚就那些，自然感觉快了。为了让年龄的边际效益小一点，我进...",
       "source_url": "https://yufree.cn/cn/",
-      "category": "Blog"
-    },
-    {
-      "title": "我的2024！开了好头，但结尾好像有点不太好～",
-      "link": "https://cuixinxin.cn/archives/3399",
-      "date": "2024-12-30 15:37",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1735544266.0,
-      "summary": "2024 年度总结。",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -1262,16 +1212,6 @@
       "category": "Blog"
     },
     {
-      "title": "在博客中加上memos记录展示。",
-      "link": "https://cuixinxin.cn/archives/3389",
-      "date": "2024-12-25 23:41",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1735141287.0,
-      "summary": "什么是 memos？ memos 是「一个具有知识管理和社交网络的开源、自我托管的备忘录中心」。这是一个类似私人微博的产品，支持标签、过滤、搜索、多账户，可以自用也可以和朋友一起使用，用来碎片化的记录信息 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "代码格式化插件 format.nvim",
       "link": "https://wsdjeg.net/code-formatting-plugin-format-nvim/",
       "date": "2024-12-25 08:00",
@@ -1359,16 +1299,6 @@
       "timestamp": 1734739200.0,
       "summary": "今年愚人节，我搞了个YuGPT，声称用我的资料训练了一个语言模型。当然，那就是一个js脚本，不论你问什么，答案都是固定的。其实我当时是真的计划做一个YuGPT当彩蛋的，但那段时间我过于繁忙（到处钓鱼），而现在外面都冻上了，所以我打算在冬至这天完成这个小项目。\n首先，我们现在所处的2024年末可以电子...",
       "source_url": "https://yufree.cn/cn/",
-      "category": "Blog"
-    },
-    {
-      "title": "最近半个月",
-      "link": "https://cuixinxin.cn/archives/3382",
-      "date": "2024-12-20 11:05",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1734663909.0,
-      "summary": "最近又生病了。 自从上月底公司裁员离开后，本来想着尽快复习，投入到找工作的节奏中去。 没想到上个月因为感染咳嗽，前后看了快一个月才好了。结果在 12 月初又成功的感染肺炎了。 这次一发觉不舒服就立马 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -1722,16 +1652,6 @@
       "category": "Blog"
     },
     {
-      "title": "黎里古镇半日游～",
-      "link": "https://cuixinxin.cn/archives/3362",
-      "date": "2024-11-27 11:00",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1732676440.0,
-      "summary": "周末的时候准备带娃出去溜达，因为娃在生病😷不能去人多的地方，所以商场这些地方就没考虑。打开地图看了一下家周边，发现离黎里古镇也就半小时左右的路程，带上娃就出发了。 黎里古镇，位于江苏省苏州市吴 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "2024.11.27: 各种链接",
       "link": "https://www.owenyoung.com/blog/journals/2024-11-27/",
       "date": "2024-11-27 03:00",
@@ -1962,16 +1882,6 @@
       "category": "Blog"
     },
     {
-      "title": "我生病😷",
-      "link": "https://cuixinxin.cn/archives/3319",
-      "date": "2024-11-08 13:21",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1731043277.0,
-      "summary": "近期 最近真的是一波未平，一波又起。上周先是疑似痛风。把我弄的够呛，脚🦶疼了快一个星期才好了。 接着又是娃生病。娃生病一开始以为是普通的感冒。就去医院开了吃药。结果到了上周末还没有好转反而又加重 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
       "link": "https://limboy.me/posts/bike-shedding",
       "date": "2024-11-08 08:00",
@@ -2109,16 +2019,6 @@
       "timestamp": 1730248920.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-10-21 到 2024-10-28 这周生活的记录与思考。 前两天读到了「第三夏尔 | Third Shire」写的一篇「从亲密关系",
       "source_url": "https://www.pseudoyu.com/zh/",
-      "category": "Blog"
-    },
-    {
-      "title": "我的脚是扭伤了？还是痛风发作了？",
-      "link": "https://cuixinxin.cn/archives/3312",
-      "date": "2024-10-29 13:24",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1730179481.0,
-      "summary": "右脚好像是扭伤了，可是我又不记得哪里扭到了。 说它是痛风吧，可是症状又跟扭伤了一样。 而且发作的不是急性的。从晚上开始一点点感知变强的。 昨天一夜加上娃哭闹。再加上我这个脚。 一夜都没有睡好。 今 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -2262,16 +2162,6 @@
       "category": "Blog"
     },
     {
-      "title": "网页点击平滑滚动效果～",
-      "link": "https://cuixinxin.cn/archives/3280",
-      "date": "2024-10-17 16:43",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1729154588.0,
-      "summary": "网页点击滚动效果",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "我不是“杨过”",
       "link": "https://wangyurui.com/posts/yu-mai-gui-hua-tong-zai-jiu-5087b7a8",
       "date": "2024-10-16 18:30",
@@ -2319,16 +2209,6 @@
       "timestamp": 1728575621.0,
       "summary": "这里是现实版的绿野仙踪",
       "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "国庆假期的一些照片～",
-      "link": "https://cuixinxin.cn/archives/3211",
-      "date": "2024-10-10 14:29",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1728541776.0,
-      "summary": "国庆第一天，看打铁花，真的是比以前在电视或者短视频上看的感受更让人震撼，也佩服打铁花艺人。那么高的温度就光着上身，铁花掉在身上也依然敬业的为观众呈现一场视觉盛宴。 国庆第二天，带娃去苏州湾看了 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -2472,16 +2352,6 @@
       "category": "Blog"
     },
     {
-      "title": "Ant-design-vue Table 自定义列斑马纹效果",
-      "link": "https://cuixinxin.cn/archives/3208",
-      "date": "2024-09-26 11:26",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1727321210.0,
-      "summary": "业务需求 在使用 ant-design-vue 的 Table组件的时候，在某个业务模块的内因其承载的功能比较多，各个条件间界定不明显导致感官上十分的模糊，所以需要增加类似斑马纹的填充区分。 table组件自带只支持行的 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "洗澡这件小事值得被认真对待",
       "link": "https://limboy.me/posts/shower-habit",
       "date": "2024-09-24 08:00",
@@ -2499,16 +2369,6 @@
       "timestamp": 1727136000.0,
       "summary": "CoreProtect 是一个用于快速数据记录和反窃听的 Minecraft 服务器插件，常见用法便是查询箱子被哪些玩家摸过。但是，如果你需要使用 CoreProtect 的最新特性，你必须自行编译插件，或是捐助作者、得到其编译的开发版插件。正好，有一个开服的朋友找我编译 CoreProtect，整...",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米 note3 折腾记",
-      "link": "https://cuixinxin.cn/archives/3203",
-      "date": "2024-09-23 14:32",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1727073125.0,
-      "summary": "家里有好多闲置的手机📱。有一个小米 note3 是老爸之前换下来的手机。扔在抽屉里已经吃灰很久了。 上个星期脑子一热，突然翻出来想给它刷个机，结果这一折腾浪费了好几个晚上。果然早晚不能刷机，因为晚上刷 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -2602,16 +2462,6 @@
       "category": "Blog"
     },
     {
-      "title": "最近",
-      "link": "https://cuixinxin.cn/archives/3195",
-      "date": "2024-09-06 20:42",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1725626568.0,
-      "summary": "最近镜头下的一点记录",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "Rebuilt this site for the next decade using Astro",
       "link": "https://limboy.me/posts/rebuilt-this-site-for-the-next-decade",
       "date": "2024-09-06 08:00",
@@ -2649,16 +2499,6 @@
       "timestamp": 1725294214.0,
       "summary": "仔细一想，在更新使用 Windows 11 这段时间，我确实进行了不少调整折腾。然而，随着稳定使用好一阵子，许多折腾过程被我逐渐淡忘。于是想着写下本文作为记录，以便回顾，顺带给也有意深入调整 Windows 11 的朋友一些参考。",
       "source_url": "https://blog.ichr.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "娃上幼儿园了。",
-      "link": "https://cuixinxin.cn/archives/3177",
-      "date": "2024-09-02 16:31",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1725265860.0,
-      "summary": "四年真的是嗖嗖就过去了。 以后就得戴上紧箍咒了。 幼儿园三年估计也是一晃而过。 今天在学校一天也不知道过得咋样。 刚刚接回来，大口大口的喝水。 一天了，幼儿园的新生群里，一张照片一个视频也没得。",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -2842,16 +2682,6 @@
       "category": "Blog"
     },
     {
-      "title": "网站统计工具Umami的傻瓜安装指南～",
-      "link": "https://cuixinxin.cn/archives/3145",
-      "date": "2024-08-15 17:26",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1723713987.0,
-      "summary": "docker安装 umami 统计工具，宝塔面板安装 umami 统计工具，WordPress 博客添加 umami 统计工具",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "随便聊聊最近买的物件",
       "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
       "date": "2024-08-15 15:29",
@@ -2939,16 +2769,6 @@
       "timestamp": 1723120179.0,
       "summary": "Cloudflare R2 是一款出色的对象存储服务，但其简陋的图形界面给日常管理带来了诸多不便。本文介绍了如何使用 R2 Uploader 项目来弥补这些不足，从大文件上传到图像压缩，再到多数据桶快速切换和跨设备安全同步，详细讲解了配置和使用 R2 Uploader 的步骤，并且可以和 WebP ...",
       "source_url": "https://justgoidea.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "做胃镜！",
-      "link": "https://cuixinxin.cn/archives/3119",
-      "date": "2024-08-08 17:30",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1723109440.0,
-      "summary": "大家能做无痛的还是做无痛的吧，毕竟没有这么难受。而且无痛的不同的医院鉴定能做的方式也不一样。我在中医院直接被拒绝的，市立医院是建议我不要做，但是在京东方直接说的是可以做的。",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -3079,26 +2899,6 @@
       "timestamp": 1721830261.0,
       "summary": "我以前对冥想的印象是玄而又玄 甚至觉得是 bullshit，以至于今年初听到家庭医生建议我练习冥想来对抗焦虑\n时感到十分困惑。正式学习之后才发现我对冥想有许多很典型的误区，到现在练习冥想已近半年了，写本文的初衷，就是想向跟我一样有类似疑问的人分享对冥想的认识和感受。",
       "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "AntDesign Table Radio点击死循环导致页面卡死",
-      "link": "https://cuixinxin.cn/archives/3110",
-      "date": "2024-07-23 17:19",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1721726367.0,
-      "summary": "前提 在开发过程中使用 vben 的 BasicTable组件进行页面功能实现，因设计需求页面在 table 中需要每行可点击从而显示对应的图标数据。所以需要给 table 中每行加上单选按钮。BasicTable设置如下,只要加上ro &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "老家的桃树和梨树",
-      "link": "https://cuixinxin.cn/archives/3101",
-      "date": "2024-07-22 21:00",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1721653216.0,
-      "summary": "今天在那吃桃🍑，突然想到老家也有两颗桃树。为什么要用老家呢？长大之后，从家里出来到了城市，在城市安了家，故乡就变成了口中的老家。 桃树长在以前的蚕室南边，有两颗。 已经忘记大概是从什么时候起就长 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -3332,26 +3132,6 @@
       "category": "Blog"
     },
     {
-      "title": "ant-design slider 组件增加推荐区间展示",
-      "link": "https://cuixinxin.cn/archives/2983",
-      "date": "2024-06-28 16:38",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1719563895.0,
-      "summary": "前提 在项目开发中有一个模块大批量的使用ant-design slider滑动输入条组件来作为辅助参数输入的方式。现在有需求需要在slider上增加类似推荐区间的展示。 思路 第一种方法 一开始是查看官方文档发现可以设 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "自驾太湖龙之梦动物世界～",
-      "link": "https://cuixinxin.cn/archives/3016",
-      "date": "2024-06-28 14:06",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1719554784.0,
-      "summary": "在朋友圈里看到有人去太湖龙之梦乐园玩的。看见发的有动物表演和马戏表演。然后去网上搜了一下，发现是一个很大的游乐园，里面也有动物园。 正好娃想去动物园玩，上海野生动物园去过一次不开车太远了。苏州 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 99 期",
       "link": "https://hellogithub.com/periodical/volume/99",
       "date": "2024-06-28 08:11",
@@ -3382,16 +3162,6 @@
       "category": "Blog"
     },
     {
-      "title": "一起普通车祸带来的思考🤔",
-      "link": "https://cuixinxin.cn/archives/2982",
-      "date": "2024-06-22 14:20",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1719037203.0,
-      "summary": "时隔多年又出车祸了，一起普通的追尾事故。事故不大，但是在处理事故的过程以及过程后所发生的事。可以给没有出过事故的司机们一点小小的经验分享。 为什么要用时隔多年来说呢？因为上一次开车出事故还是刚 &#8230;",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "毕宿五｜2024年6月小结",
       "link": "https://thirdshire.com/june-recap-2024/",
       "date": "2024-06-22 04:16",
@@ -3409,16 +3179,6 @@
       "timestamp": 1718935007.0,
       "summary": "原贴地址：https://v2ex.com/t/1049430 一位网友发帖称自己在二手物品交易平台“闲鱼”上，以970元的价格购买面值为1000元的山姆会员店购物卡被骗。该网友使用卖家提供的卡密进行...",
       "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
-      "title": "梅雨季节来了。",
-      "link": "https://cuixinxin.cn/archives/2985",
-      "date": "2024-06-20 15:45",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1718869548.0,
-      "summary": "苏州的梅雨季节又来了。 整天下着小雨。偶尔也会暴雨⛈️。 反正就是下雨、下雨。 而且天又很闷热。你开空调吧，有点冷。不开空调，开风扇。又有点热。 关键是身上湿漉漉的。 然后还有影响最大的就是衣服，衣 &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -3469,16 +3229,6 @@
       "timestamp": 1717864507.0,
       "summary": "作为独立开发者，我如何获得动力？\n\n每当有人购买时，“赚钱” Bot会推送消息。（作为对比，我给沉浸式翻译也开发了一个名叫“喜讯”的bot，每当有年会员购买时，就会在群里推送一条截止到当时的当日收入。）\n注册了一个服务，每当用户在社交媒体上提到作者的产品时，作者会收到通送，然后前去互动。\n故意让每天...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
-      "title": "已经六月了，今年又过去了一半。",
-      "link": "https://cuixinxin.cn/archives/2979",
-      "date": "2024-06-06 13:02",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1717650127.0,
-      "summary": "不知不觉。已经到六月了。今年的时间又来到了年中。 时间过的太快了。 自从通勤时间变长达到 4小时。感觉一天上班的时间都在路上。 虽然早上看起来是比之前出门提前了一个小时。但是其实 6.30 就起来了。7. &#8230;",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -3652,16 +3402,6 @@
       "category": "Blog"
     },
     {
-      "title": "五月初～",
-      "link": "https://cuixinxin.cn/archives/2967",
-      "date": "2024-05-10 13:59",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1715320765.0,
-      "summary": "天气渐渐的暖和了。 已经开始穿短袖了。 夏天快要来了。 温度也越来越高了。 虽然早晚还是很凉。 但是中午很热。 最近晴天很多。 天好蓝好蓝。 风景也是不错的。",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "ThinkBook 14+ 2024 的 TGX 外接显卡指南详解",
       "link": "https://cyp0633.icu/post/thinkbook-14plus-oculink/",
       "date": "2024-05-10 08:00",
@@ -3812,16 +3552,6 @@
       "category": "Blog"
     },
     {
-      "title": "早上小毛驴40km通勤上班～",
-      "link": "https://cuixinxin.cn/archives/2827",
-      "date": "2024-04-26 10:15",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1714097736.0,
-      "summary": "嘿嘿(¬◡¬)✧ 早上小毛驴40km通勤上班～",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "在 Electron 中使用 SQLite 的最好方式",
       "link": "https://lutaonan.com/blog/electron-sqlite",
       "date": "2024-04-22 08:00",
@@ -3842,16 +3572,6 @@
       "category": "Blog"
     },
     {
-      "title": "魔都一日游~",
-      "link": "https://cuixinxin.cn/archives/2802",
-      "date": "2024-04-19 11:26",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1713497182.0,
-      "summary": "上海一日游",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "右更二｜2024年4月小结",
       "link": "https://thirdshire.com/april-recap-2024/",
       "date": "2024-04-19 09:03",
@@ -3862,16 +3582,6 @@
       "category": "Blog"
     },
     {
-      "title": "嗦鸭头～",
-      "link": "https://cuixinxin.cn/archives/2804",
-      "date": "2024-04-17 15:59",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1713340740.0,
-      "summary": "以前只吃鸭脖。 对于鸭头一直是敬而远之的。 最近也不知道是被什么附上身了。 突然就喜欢上了嗦鸭头。 根本停不下来。",
-      "source_url": "https://cuixinxin.cn",
-      "category": "Blog"
-    },
-    {
       "title": "2024 阿里巴巴全球数学竞赛预选赛 试题解答",
       "link": "https://www.longluo.me/blog/2024-alibaba-global-mathematics-competition-qualifying-round/",
       "date": "2024-04-16 11:13",
@@ -3879,16 +3589,6 @@
       "timestamp": 1713237228.0,
       "summary": "By Long Luo\n阿里巴巴达摩院 从\n2018\n年开始每年都会举办一届全球数学竞赛，之前一方面自己数学水平比较弱，另外一方面也没有报名，但一直很仰慕那些数学大神的风采。今年是第一次报名参加\n2024阿里巴巴全球数学竞赛\n，上周末参加了预选赛，但遗憾的是，全部 \\(7\\) 道题中只有第 \\(1,...",
       "source_url": "https://www.longluo.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "Vue3 Ref获取节点返回顺序不一致。",
-      "link": "https://cuixinxin.cn/archives/2796",
-      "date": "2024-04-15 13:14",
-      "author": "卖坚果的怪叔叔",
-      "timestamp": 1713158089.0,
-      "summary": "虚拟 DOM 和响应式系统通常会在渲染期间对节点进行优化和重新排序，以提高性能并确保 DOM 的一致性。因此，可能会出现在遍历节点数组时返回的顺序与在浏览器中实际渲染的顺序不同的情况。",
-      "source_url": "https://cuixinxin.cn",
       "category": "Blog"
     },
     {
@@ -7132,6 +6832,26 @@
       "category": "Blog"
     },
     {
+      "title": "引起争议后谋智基金会修改Firefox使用条款措辞 但仍然可能用于商业性目的",
+      "link": "https://www.landiannews.com/archives/108124.html",
+      "date": "2025-03-01 12:06",
+      "author": "蓝点网",
+      "timestamp": 1740801976.0,
+      "summary": "#科技资讯 引起争议后 Mozilla 修改 Firefox 使用条款措辞：强调通过 Firefox 上传和输入的数据仍然赋予非独占免版税许可，但不赋予 Mozilla 对该内容的任何所有权。不过这里强调的是所有权而非使用权，所以理论上说 Mozilla 仍然可以使用这些信息用于商业用途。查看全文：...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌发布更新修复Android USB驱动零日漏洞 漏洞已被间谍软件使用",
+      "link": "https://www.landiannews.com/archives/108123.html",
+      "date": "2025-03-01 11:48",
+      "author": "蓝点网",
+      "timestamp": 1740800901.0,
+      "summary": "#安全资讯 谷歌发布更新修复 Android USB 驱动漏洞，该漏洞被塞尔维亚用于部署间谍软件。借助漏洞攻击者可以绕过 Android 锁屏并获得访问权限，随后即可植入间谍软件进行全方位的监听。查看全文：https://ourl.co/108123",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软宣布将在5月份关停Skype网络电话服务 后续将专注于Teams提供类似服务",
       "link": "https://www.landiannews.com/archives/108122.html",
       "date": "2025-03-01 11:30",
@@ -7328,26 +7048,6 @@
       "author": "蓝点网",
       "timestamp": 1740624692.0,
       "summary": "#硬件设备 英伟达将推出新版显卡驱动程序修复 RTX 50/40 系等显卡频繁出现的蓝屏死机和黑屏问题。目前英伟达已经将带有修复补丁的 vBIOS 更新发布给 AIB 合作伙伴，英伟达称用户安装 vBIOS 或新版驱动 (即将推出) 都可以解决问题。查看全文：https://ourl.co/1080...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "小行星2024 YR4撞击地球概率降低至0.004% 不会再对地球构成任何威胁",
-      "link": "https://www.landiannews.com/archives/108089.html",
-      "date": "2025-02-27 10:32",
-      "author": "蓝点网",
-      "timestamp": 1740623567.0,
-      "summary": "#天体物理 小行星 2024 YR4 撞击地球概率降低至 0.004%，已经不会再对地球构成任何威胁。有趣的是 NASA 称这颗小行星仍然有较低概率撞击月球，这也依然会产生影响，不过这也需要继续跟踪和观测以便计算更加精确的轨道。查看全文：https://ourl.co/108089",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "火狐浏览器变更使用协议 将收集用户上传和输入的信息可能用于广告业务",
-      "link": "https://www.landiannews.com/archives/108088.html",
-      "date": "2025-02-27 10:20",
-      "author": "蓝点网",
-      "timestamp": 1740622805.0,
-      "summary": "#软件资讯 火狐浏览器变更使用条款明确说明将收集用户使用火狐浏览器上传和输入的信息，这些信息可能会被用于广告业务。此前谋智基金会发布博客宣布将投资隐私广告以便能够在短期内提升收入，所以收集用户信息也不算让人惊讶。查看全文：https://ourl.co/108088",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -7772,6 +7472,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
+      "date": "2024-12-05 16:19",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1733386798.0,
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -7898,16 +7608,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
-      "date": "2024-07-29 23:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1722265200.0,
-      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
