@@ -2,6 +2,26 @@
   "update_time": "2025-03-02",
   "articles": [
     {
+      "title": "周刊第14期：罗振宇和《罗辑思维》",
+      "link": "https://hutusi.com/weeklies/14",
+      "date": "2025-03-02 16:06",
+      "author": "胡涂说",
+      "timestamp": 1740902760.0,
+      "summary": "本文为周刊第14期，前期的周刊参见：周刊系列。距离上一份周刊又过去两年零十个月。感觉每次中断的时长间隔比斐波那契数列扩展速度还要快。本期主要谈谈罗振宇和他的书《罗辑思维》。",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "寻找《山海经》的另一半",
+      "link": "https://wangyurui.com/posts/tu-shuo-shan-hai-jing-gu-ben-f979a1f2",
+      "date": "2025-03-02 15:18",
+      "author": "太隐",
+      "timestamp": 1740899931.0,
+      "summary": "《图说·山海经·古本》（马昌仪）摘选",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
       "title": "尺素书",
       "link": "http://m.wufazhuce.com/article/6709",
       "date": "2025-03-02 06:25",
@@ -2672,16 +2692,6 @@
       "category": "Blog"
     },
     {
-      "title": "斑驳人生 义山无题",
-      "link": "https://wangyurui.com/posts/ban-bo-ren-sheng-yi-shan-wu-ti-40f11e4f",
-      "date": "2024-08-18 09:30",
-      "author": "太隐",
-      "timestamp": 1723944639.0,
-      "summary": "中路因循我所长，古来才命两相妨",
-      "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
       "title": "周报 #68 - 关于写博客这件事与我生活的色彩",
       "link": "https://www.pseudoyu.com/zh/2024/08/18/weekly_review_20240818/",
       "date": "2024-08-18 05:30",
@@ -5242,6 +5252,16 @@
       "category": "Blog"
     },
     {
+      "title": "纳瓦尔的智慧",
+      "link": "https://hutusi.com/articles/naval",
+      "date": "2023-06-18 11:11",
+      "author": "胡涂说",
+      "timestamp": 1687057871.0,
+      "summary": "纳瓦尔·拉维坎特(Naval Ravikant)是美国硅谷的风险投资家，他出生在印度，儿时随父母搬到纽约，家境贫穷，靠着自己的努力一步步走上财富自由之路，创办了AngelList风险投资公司，成功投资了Twitter、Uber等初创公司。纳瓦尔经常在博客、推特、播客上分享他的人生哲学，最著名的是他在...",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "我怎么看博客",
       "link": "https://imzm.im/how-i-observe-a-blog/",
       "date": "2023-06-16 14:47",
@@ -5582,6 +5602,16 @@
       "category": "Blog"
     },
     {
+      "title": "当魔法消失时",
+      "link": "https://hutusi.com/articles/nostalgia",
+      "date": "2023-02-28 21:45",
+      "author": "胡涂说",
+      "timestamp": 1677591900.0,
+      "summary": "上海美术电影制片厂和哔哩哔哩今年联合推出的《中国奇谭》在网络上收获了大量好评，一共八集，我花了几个周末追完，感觉都非常不错。印象最深的是前四集。第一集《小妖怪的夏天》最幽默，第二集《鹅鹅鹅》最具艺术气息，第三集《林林》最有故事性，而我最喜欢的也是勾起回忆的则是第四集《乡村巴士带走了王孩儿和神仙》。",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 83 期",
       "link": "https://hellogithub.com/periodical/volume/83",
       "date": "2023-02-28 08:11",
@@ -5649,6 +5679,16 @@
       "timestamp": 1674864792.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (3)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (2)，Swift 项目 (1)，人工智...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "人生无论怎么度过都像是浪费",
+      "link": "https://hutusi.com/articles/life-is-a-good-thing-2022-review",
+      "date": "2023-01-25 19:45",
+      "author": "胡涂说",
+      "timestamp": 1674647100.0,
+      "summary": "修行",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -5802,6 +5842,16 @@
       "category": "Blog"
     },
     {
+      "title": "我们都是新穷人",
+      "link": "https://hutusi.com/articles/the-new-poor",
+      "date": "2022-11-06 21:21",
+      "author": "胡涂说",
+      "timestamp": 1667740860.0,
+      "summary": "《新约·马太福音》中说：“富人进入天堂比骆驼穿过针眼还要难。”古往今来，无论是民间传说，还是文学作品，富人大多是以贪婪、吝啬、狡诈等负面形象出现，而穷人大多正直、善良，嫉恶如仇。也就是说，道德高尚者往往以穷人的身份出现，他们安贫乐道，视金钱如粪土。从某种意义上说，贫穷是一件美德。这符合广大老百姓的期...",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "终于又把 blog 建起来了",
       "link": "https://blog.tonyding.net/archives/1/",
       "date": "2022-11-05 12:35",
@@ -5842,6 +5892,16 @@
       "category": "Blog"
     },
     {
+      "title": "代码、法律和自由软件",
+      "link": "https://hutusi.com/articles/code-v2",
+      "date": "2022-10-05 23:12",
+      "author": "胡涂说",
+      "timestamp": 1664982720.0,
+      "summary": "劳伦斯·莱斯格是“知识共享”(Creative Commons)的发起人，他本人是位法学教授，同时对互联网颇有研究。因此，在上世纪末互联网如火如荼的时候，他写了一本书《代码》(Code)，针对当时网络上流行的互联网无政府主义观点应用法律常识予以反驳，莱斯格的观点很明确：网络不能自治，针对网络空间的规...",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
       "title": "刻意练习",
       "link": "https://thiscute.world/posts/deliberate-practice/?utm_source=atom_feed",
       "date": "2022-10-05 13:31",
@@ -5849,6 +5909,16 @@
       "timestamp": 1664947860.0,
       "summary": "我最近理解到一个事实——许多知识或者技能，都是可以通过正确的学习方法，加上短时间大量的练习，就能达到 60 分及格标准的。而这个及格水平，相对于完全没有进行过这样训练的其他人而言，\n可能就已经很惊艳了。",
       "source_url": "https://thiscute.world/",
+      "category": "Blog"
+    },
+    {
+      "title": "乾隆的性格",
+      "link": "https://hutusi.com/articles/qianlong",
+      "date": "2022-10-02 23:05",
+      "author": "胡涂说",
+      "timestamp": 1664723100.0,
+      "summary": "看完张宏杰的《饥饿的盛世》，对乾隆的认识加深了些。历史学家说清朝的没落是从乾隆开始的，而这有西方崛起东方衰落的历史趋势，但也跟乾隆的性格有很大关系。乾隆治下，中国的人口首次突破三亿，实际控制的领土面积也达到了历史的巅峰。而另一方面，闭关锁国、奴性臣民也达到了历史的巅峰。说清史，不得不说乾隆。",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -5879,6 +5949,16 @@
       "timestamp": 1663632000.0,
       "summary": "保持一颗解决问题的心\n按照我的观察，那些在工作中用技术取胜的人们共同点都在于他们能保持一颗解决问题的心。他们可以率先想到一种更优的手段解决存在的问题(一般是效率问题)。他们不是嗅觉特别灵敏或者技术特别强，而是当他们遇到了问题，不是把它作为抱怨的话题，而是开始思考这个问题为什么没人解决、应该怎么解决，...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "当下我们还需要启蒙吗？",
+      "link": "https://hutusi.com/articles/enlightenment-now",
+      "date": "2022-09-12 21:52",
+      "author": "胡涂说",
+      "timestamp": 1662990720.0,
+      "summary": "谈到「启蒙」一词，很多人会想到18世纪发生在欧洲的「启蒙运动」，这是一场哲学和文化的运动，也是「文艺复兴运动」后人类再一次的思想解放。如果说「文艺复兴运动」使人们从宗教的思想禁锢中解放出来，那么「启蒙运动」则使人们利用理性来认知世界。用康德的话说：“启蒙运动就是人类脱离自己所加之于自己的不成熟状态，...",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -5999,6 +6079,26 @@
       "timestamp": 1656246927.0,
       "summary": "三幕剧与英雄旅程\n说三幕剧之前，我们先谈谈如何分析一个故事的组成，以前语文课程学过，总结下有两种方式：\n\n要素拆解法\n叙事过程拆解法\n\n所谓要素拆解法，就是分析「人事时地因」（5W），如果要辅以叙事方法的分析可以再加上「如何叙事」 这个要素，以组成 5W1H：\n\n人物(Who)\n事件(What)\n时...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "云门胡饼赵州茶",
+      "link": "https://hutusi.com/articles/zen-baggage",
+      "date": "2022-06-19 19:01",
+      "author": "胡涂说",
+      "timestamp": 1655636460.0,
+      "summary": "花了几天时间，读完了比尔·波特写的《禅的行囊》，这是我读过的他的第二本书。自从看了《心经解读》，我就对比尔·波特这个老头产生了兴趣，他写的书很符合我的口味。在《禅的行囊》中，作者从北京到香港，从北到南，穿行了小半个中国，寻访禅宗在中国的印记。既有对禅宗历史的追溯，也有对禅宗在中国当前的状态观察。",
+      "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "上海周末骑行：从浦东到外白渡桥",
+      "link": "https://hutusi.com/articles/cycling-in-shanghai-after-lockdown",
+      "date": "2022-06-06 23:55",
+      "author": "胡涂说",
+      "timestamp": 1654530900.0,
+      "summary": "上海解封后，端午放假第一天，我带着七岁的儿子大卫早早起来去骑行。",
+      "source_url": "https://hutusi.com/",
       "category": "Blog"
     },
     {
@@ -6832,6 +6932,36 @@
       "category": "Blog"
     },
     {
+      "title": "朝鲜黑客集团快速清洗盗取的14亿美元以太坊 34.3万个通过跨链桥被洗白",
+      "link": "https://www.landiannews.com/archives/108127.html",
+      "date": "2025-03-02 16:31",
+      "author": "蓝点网",
+      "timestamp": 1740904271.0,
+      "summary": "#加密货币 朝鲜黑客集团 Lazarus Group 正在快速清洗从 Bybit 盗取的 14 亿美元以太坊，目前已经有 34.3 万个以太坊通过跨链桥洗白。有匿名分析师预计剩下的 15.65 万个以太坊会在未来 3 天完成清洗，被跨链桥兑换的加密货币难以追踪，因此更容易转入交易所变现。查看全文：h...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谋智基金会(Mozilla)旗下开源社区/论坛因拖欠托管费用被设置为只读模式",
+      "link": "https://www.landiannews.com/archives/108126.html",
+      "date": "2025-03-02 16:12",
+      "author": "蓝点网",
+      "timestamp": 1740903139.0,
+      "summary": "#网站应用 谋智基金会旗下开源社区 / 论坛因拖欠托管费用被设置为只读模式，只能查看不能回复、点赞和进行其他操作。托官方是 Discourse，OpenAI 开发者社区也托管这里，但按理说谋智基金会应该不至于拖欠 5000 美元的托管费吧，所以现在具体什么情况还不清楚。查看全文：https://ou...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Windows 10 Mobile商店似乎已经凉凉 启动后白屏或灰屏无法下载应用",
+      "link": "https://www.landiannews.com/archives/108125.html",
+      "date": "2025-03-02 15:53",
+      "author": "蓝点网",
+      "timestamp": 1740902023.0,
+      "summary": "#系统资讯 Microsoft Store for Windows 10 Mobile 商店似乎已经彻底凉凉，启动后出现白屏或灰屏无法下载应用。这并非普遍情况，部分用户仍然可以安装应用但无法访问已购买应用，估计是微软工程师不再积极维护服务器导致的。查看全文：https://ourl.co/10812...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "引起争议后谋智基金会修改Firefox使用条款措辞 但仍然可能用于商业性目的",
       "link": "https://www.landiannews.com/archives/108124.html",
       "date": "2025-03-01 12:06",
@@ -7022,36 +7152,6 @@
       "category": "News"
     },
     {
-      "title": "苹果切断俄罗斯企业的企业证书签名服务 导致企业内部应用无法通过签名快速部署",
-      "link": "https://www.landiannews.com/archives/108092.html",
-      "date": "2025-02-27 11:14",
-      "author": "蓝点网",
-      "timestamp": 1740626064.0,
-      "summary": "#科技资讯 苹果停止向俄罗斯企业提供企业证书签名服务，导致不少企业内部应用程序无法快速进行分发。企业证书用于签名后无需苹果审核即可在 iOS 上安装，所以大多数企业内部应用程序都通过这种方式签名分发。查看全文：https://ourl.co/108092",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "AutoCAD在Windows 11 24H2上频繁崩溃 微软正在和开发商排查原因",
-      "link": "https://www.landiannews.com/archives/108091.html",
-      "date": "2025-02-27 11:00",
-      "author": "蓝点网",
-      "timestamp": 1740625216.0,
-      "summary": "#软件资讯 AutoCAD 在 Windows 11 24H2 上频繁崩溃，目前微软正在和开发商 Autodesk 调查原因。当前微软也开始阻止安装 AutoCAD 2022 的系统自动升级 24H2 版，AutoCAD 其他版本不受影响。查看全文：https://ourl.co/108091",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "英伟达将推出新版显卡驱动程序修复RTX 50/40系显卡频繁蓝屏死机和黑屏问题",
-      "link": "https://www.landiannews.com/archives/108090.html",
-      "date": "2025-02-27 10:51",
-      "author": "蓝点网",
-      "timestamp": 1740624692.0,
-      "summary": "#硬件设备 英伟达将推出新版显卡驱动程序修复 RTX 50/40 系等显卡频繁出现的蓝屏死机和黑屏问题。目前英伟达已经将带有修复补丁的 vBIOS 更新发布给 AIB 合作伙伴，英伟达称用户安装 vBIOS 或新版驱动 (即将推出) 都可以解决问题。查看全文：https://ourl.co/1080...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
       "date": "2025-02-26 22:00",
@@ -7059,6 +7159,16 @@
       "timestamp": 1740578400.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
       "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
+      "date": "2025-02-26 22:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1740578400.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -7477,7 +7587,7 @@
       "date": "2024-12-05 16:19",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -7598,16 +7708,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724846989.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
-      "date": "2024-08-27 09:16",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1724721386.0,
-      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
