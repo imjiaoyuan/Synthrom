@@ -1,6 +1,16 @@
 {
-  "update_time": "2025-03-02",
+  "update_time": "2025-03-03",
   "articles": [
+    {
+      "title": "猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义",
+      "link": "https://ameow.xyz/archives/weekly-058",
+      "date": "2025-03-02 23:25",
+      "author": "阿猫的博客",
+      "timestamp": 1740929129.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 59 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n尖岗山上的落日，城市高楼、主干道、夕阳...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
     {
       "title": "周刊第14期：罗振宇和《罗辑思维》",
       "link": "https://hutusi.com/weeklies/14",
@@ -2158,16 +2168,6 @@
       "author": "阿猫的博客",
       "timestamp": 1729418555.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 45 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n独立博客自省问卷 15 题\n原文链接\n最近...",
-      "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
-      "title": "独立博客自省问卷15题",
-      "link": "https://ameow.xyz/archives/independent-blog-questionnaire",
-      "date": "2024-10-19 19:16",
-      "author": "阿猫的博客",
-      "timestamp": 1729336602.0,
-      "summary": "近期独立博客圈子里很火这个问卷，我也分享下我的答卷。\n1、你的博客更新频率是多少？\n固定每周更新猫鱼周刊，除了有时候碰上节假日或调休没有时间写；偶尔会加更一些折腾或者经验分享。\n2、你的博客上次更新是什么时候？\n10.17，就前两天。折腾了一个短信转发，收集调研了目前市面上大多数短信转发的方案，\n3...",
       "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
@@ -7162,16 +7162,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
-      "date": "2025-02-26 22:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1740578400.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "图像和视频理解的视觉语言模型提示工程实践指南",
       "link": "https://developer.nvidia.com/zh-cn/blog/vision-language-model-prompt-engineering-guide-for-image-and-video-understanding/",
       "date": "2025-02-26 14:49",
@@ -7587,7 +7577,7 @@
       "date": "2024-12-05 16:19",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -7708,6 +7698,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724846989.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
+      "date": "2024-08-27 09:16",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724721386.0,
+      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
