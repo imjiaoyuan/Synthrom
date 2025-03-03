@@ -2,6 +2,36 @@
   "update_time": "2025-03-03",
   "articles": [
     {
+      "title": "Trae 国内版出来了，真的好用吗？",
+      "link": "http://www.ruanyifeng.com/blog/2025/03/trae.html",
+      "date": "2025-03-03 16:00",
+      "author": "阮一峰的网络日志",
+      "timestamp": 1740988856.0,
+      "summary": "年初一月份，我就看到新闻，字节面向海外发布了一款 AI IDE，叫做 Trae。\n\n\n我心想，现在的 IDE 都有 AI 插件，功能完备，字节自己也有 MarsCode 插件，有必要再做一款单独的 IDE 吗？\n\n我就没有特别关注这个工具。\n\n上周，我遇到字节的同学，得知 Trae 国内版就在本周发...",
+      "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "关我辟事 Vol.35：无常",
+      "link": "https://blog.douchi.space/spark-joy-digest-2025-2b/",
+      "date": "2025-03-03 14:15",
+      "author": "椒盐豆豉",
+      "timestamp": 1740982500.0,
+      "summary": "记忆中是开始更（半）月刊以来第一次两刊中间没有别的博文，日更站也首次断更（还断了两次）。这半个月基本没着家几天，今天才从 Vegas 回来。中间经历了三场演唱会，若干场新老朋友见面，一次陪女朋友进 ER，一次自己生病，和一次完全没准备好经历也没准备好记录的生离死别。半个月不着家也没有多少新的书影游，...",
+      "source_url": "https://blog.douchi.space/",
+      "category": "Blog"
+    },
+    {
+      "title": "折中与中庸",
+      "link": "https://wangyurui.com/posts/zhong-b37c21d4",
+      "date": "2025-03-03 12:10",
+      "author": "太隐",
+      "timestamp": 1740975011.0,
+      "summary": "1927年，鲁迅先生曾在《无声的中国》中写过这样一段著名的话，“中国人的性情总是调和的，折中的。譬如你说，这屋子太暗，须在这里开个窗，大家一定是不允许的。但如果你主张拆掉屋顶，他们就会来调和，愿意开窗的。”在那个急需民族觉醒崛起的时代，这句话是非常有道理的，但现在有不少人有意又或是无意那般，将那个“...",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
       "title": "哪些事件的发生，让你恍然发现时光飞逝？",
       "link": "http://m.wufazhuce.com/question/4306",
       "date": "2025-03-03 06:25",
@@ -29,6 +59,16 @@
       "timestamp": 1740954303.0,
       "summary": "3  Mar. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4531摄影 | Mathias Reding\n\t3\n\tMar. 2025\n\t\n\t我想要什么？连想要什么、自己想要什么都不知道，这是孤独的开始。\t\n\n\n\n\n &nbsp;",
       "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#27",
+      "link": "https://taxodium.ink/27.html",
+      "date": "2025-03-03 00:00",
+      "author": "Taxodium",
+      "timestamp": 1740931200.0,
+      "summary": "Weekly#27",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -62,13 +102,13 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim 任务管理插件 tasks.nvim",
-      "link": "https://wsdjeg.net/tasks-manager-for-neovim/",
-      "date": "2025-03-01 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1740787200.0,
-      "summary": "起因\n  安装及配置 tasks.nvim\n  常用命令\n\n\n\n\n起因\n\n关于任务（Tasks）管理，实际上早在 2020 年的时候就已经给 SpaceVim 增加了 Tasks 支持，参考的是 Vscode Tasks Manager 的实现。\n最早的版本使用 Vim Script 实现的，大约在...",
-      "source_url": "https://wsdjeg.net/",
+      "title": "社交关系中的“主动降频”",
+      "link": "https://zhangke.space/%e7%a4%be%e4%ba%a4%e5%85%b3%e7%b3%bb%e4%b8%ad%e7%9a%84%e4%b8%bb%e5%8a%a8%e9%99%8d%e9%a2%91/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25a4%25be%25e4%25ba%25a4%25e5%2585%25b3%25e7%25b3%25bb%25e4%25b8%25ad%25e7%259a%2584%25e4%25b8%25bb%25e5%258a%25a8%25e9%2599%258d%25e9%25a2%2591",
+      "date": "2025-03-02 14:21",
+      "author": "张可的博客",
+      "timestamp": 1740896471.0,
+      "summary": "前段时间高中同学结婚，因为是周六，我也赶了回去，高铁单程三小时，早上出发晚上还能再回到家，中间在同学家里和一众 [&#8230;]\nThe post 社交关系中的“主动降频” first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
       "category": "Blog"
     },
     {
@@ -102,16 +142,6 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim 代码执行插件 code-runner.nvim",
-      "link": "https://wsdjeg.net/neovim-code-runner/",
-      "date": "2025-02-28 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1740700800.0,
-      "summary": "安装及配置\n\n\n\n\nVscode 有一个非常出名的插件，叫做 Code Runner，我曾经也给 SpaceVim 添加了这么一个功能。\n\n现在将这一功能剥离出来形成一个单独独立的 neovim 插件：code-runner.nvim\n\n安装及配置\n\n可以使用任意插件管理器进行安装，这里以 nvim...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "全程使用 AI 从 0 到 1 写了个小工具",
       "link": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
       "date": "2025-02-28 01:26",
@@ -129,6 +159,16 @@
       "timestamp": 1740614400.0,
       "summary": "大概半年前，我开始接触 AI 编程助手，例如 Cursor 和 GitHub Copilot。简单试用后，感觉不太顺手，就暂时搁置了。当时我的感受是：\n\nCursor 的存在感太强了，用起来不太习惯，还是更喜欢 VSCode。\n\n但随着 AIDE 和 AI 编程插件越来越多地出现在视野中，我隐隐意识...",
       "source_url": "https://limboy.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "Emacs 中配置 .authinfo.gpg",
+      "link": "https://taxodium.ink/config-authinfo-with-emacs.html",
+      "date": "2025-02-27 00:00",
+      "author": "Taxodium",
+      "timestamp": 1740585600.0,
+      "summary": "Emacs 中配置 .authinfo.gpg",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -152,6 +192,16 @@
       "category": "Blog"
     },
     {
+      "title": "注释是你的好朋友",
+      "link": "https://taxodium.ink/valuing-comments.html",
+      "date": "2025-02-26 00:00",
+      "author": "Taxodium",
+      "timestamp": 1740499200.0,
+      "summary": "注释是你的好朋友",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "哪吒之魔童闹海",
       "link": "https://imzm.im/nezha2/",
       "date": "2025-02-25 23:52",
@@ -159,6 +209,16 @@
       "timestamp": 1740498763.0,
       "summary": "五年磨一剑，那句“我命由我不由天”还在耳畔回响，没想到转眼到了今年春节，马上就能看到第二部《哪吒之魔童闹海》。 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#26",
+      "link": "https://taxodium.ink/26.html",
+      "date": "2025-02-24 00:00",
+      "author": "Taxodium",
+      "timestamp": 1740326400.0,
+      "summary": "Weekly#26",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -229,6 +289,56 @@
       "timestamp": 1740097071.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n图片\n\n\n\n重庆巫山的悬崖上，有一座民宿，可以俯瞰三峡，图片是民宿的后院。（via）\n\n重新思考 6G\n\n上周，国际电气电子工...",
       "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "pacakge.json 中依赖版本的记忆技巧",
+      "link": "https://taxodium.ink/package-json-version-remember-trick.html",
+      "date": "2025-02-21 00:00",
+      "author": "Taxodium",
+      "timestamp": 1740067200.0,
+      "summary": "pacakge.json 中依赖版本的记忆技巧",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "我的骑行十年-环海南岛&上海&江苏",
+      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e7%8e%af%e6%b5%b7%e5%8d%97%e5%b2%9b%e4%b8%8a%e6%b5%b7%e6%b1%9f%e8%8b%8f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e7%258e%25af%25e6%25b5%25b7%25e5%258d%2597%25e5%25b2%259b%25e4%25b8%258a%25e6%25b5%25b7%25e6%25b1%259f%25e8%258b%258f",
+      "date": "2025-02-20 13:10",
+      "author": "张可的博客",
+      "timestamp": 1740028215.0,
+      "summary": "海南岛 2019年元旦节，我请了几天假期，凑了一周左右的时间去骑行海南岛，不过由于时间限制，加上我也不想太累， [&#8230;]\nThe post 我的骑行十年-环海南岛&上海&江苏 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
+      "title": "我的骑行十年-环青海湖",
+      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e7%8e%af%e9%9d%92%e6%b5%b7%e6%b9%96/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e7%258e%25af%25e9%259d%2592%25e6%25b5%25b7%25e6%25b9%2596",
+      "date": "2025-02-18 22:05",
+      "author": "张可的博客",
+      "timestamp": 1739887501.0,
+      "summary": "大学毕业前有个同样喜欢骑行的朋友来找我，问我想不想趁着有时间去 318，大概需要一个月的时间，花销也不少。当时 [&#8230;]\nThe post 我的骑行十年-环青海湖 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
+      "title": "我的骑行十年-浙江",
+      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%aa%91%e8%a1%8c%e5%8d%81%e5%b9%b4-%e6%b5%99%e6%b1%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%25aa%2591%25e8%25a1%258c%25e5%258d%2581%25e5%25b9%25b4-%25e6%25b5%2599%25e6%25b1%259f",
+      "date": "2025-02-17 22:03",
+      "author": "张可的博客",
+      "timestamp": 1739800996.0,
+      "summary": "骑了十年的山地车，最近终于打算换公路车了，看了一圈最终锁定斯特拉 King 或者斯特拉 95，但问题是 Kin [&#8230;]\nThe post 我的骑行十年-浙江 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#25",
+      "link": "https://taxodium.ink/25.html",
+      "date": "2025-02-17 00:00",
+      "author": "Taxodium",
+      "timestamp": 1739721600.0,
+      "summary": "Weekly#25",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -442,16 +552,6 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim 插件管理器 nvim-plug",
-      "link": "https://wsdjeg.net/neovim-plugin-manager-nvim-plug/",
-      "date": "2025-02-09 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1739059200.0,
-      "summary": "为什么重写插件管理器\n  插件界面的选择\n\n\n\n\n这篇文章给大家介绍一下我开发的新的 Neovim 插件管理器 nvim-plug。\n\n\n\n不管是 Neovim 还是 Vim，已经有太多太多的插件管理器了，\n最早期时候刚接触 Vim 的时候，从刚开始编辑 vimrc 时候开始，\n只是简单的 set ...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "2.7 闪击济南记录",
       "link": "https://blog.tonyding.net/archives/29/",
       "date": "2025-02-08 23:26",
@@ -519,6 +619,16 @@
       "timestamp": 1738616450.0,
       "summary": "本月事件\n\n万万没想到新年第一天的第一件事竟然是 陪 Kei 酱做核磁共振 MRI。加拿大类似的检查是众所周知的慢，原本预约时间排到了四月，前两周临时通知有凌晨 4 点的空位，那也行吧，谁叫我们家是没什么外出活动的人呢。于是前一天 4 点多吃了晚饭早早上床，做核磁共振的地方和急诊室在一起，过程倒是挺...",
       "source_url": "https://thirdshire.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#24",
+      "link": "https://taxodium.ink/24.html",
+      "date": "2025-02-04 00:00",
+      "author": "Taxodium",
+      "timestamp": 1738598400.0,
+      "summary": "Weekly#24",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -612,16 +722,6 @@
       "category": "Blog"
     },
     {
-      "title": "从 VimScipt 切换至 Lua",
-      "link": "https://wsdjeg.net/from-vimscript-to-lua/",
-      "date": "2025-02-01 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1738368000.0,
-      "summary": "为什么选择 Lua    \n      学习 Lua\n    \n  \n  配置文件结构    \n      初始化文件\n      ftplugin\n    \n  \n  Options\n  事件自动命令\n  用户自定义命令\n  设置快捷键\n  变量类型转换\n\n\n\n\nLua 在 Neovim 中已经被...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "黎明：写在《论反对日本帝国主义的策略》前",
       "link": "https://wangyurui.com/posts/qi-fu-zhi-jian-a8d9d844",
       "date": "2025-01-27 22:08",
@@ -692,16 +792,6 @@
       "category": "Blog"
     },
     {
-      "title": "启用 Git Commit 签名",
-      "link": "https://wsdjeg.net/enable-git-commit-signing/",
-      "date": "2025-01-24 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1737676800.0,
-      "summary": "起因\n  Git Commit 签名\n  Windows 安装 GPG\n  生成 GPG 密钥\n  设置 Git 签名程序\n\n\n\n\n起因\n\n无意间阅读到一篇文章 《震惊！竟然有人在 GitHub 上冒充我的身份！》, 大致看了下 Github 网站对于 Commit 的归属的判断规则。\n只需要 Co...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
       "link": "https://www.owenyoung.com/blog/ai-expert-guidance/",
       "date": "2025-01-24 05:28",
@@ -719,16 +809,6 @@
       "timestamp": 1737610680.0,
       "summary": "隐约记得几年前写过一篇类似题材的博客「值得花钱/不值得花钱的事物」，随手从 backlog 里提出来没想到又在 patreon 投票中平票，但因为有高级糖妈投这个选项所以胜出了。也好，反正消费主义升级换代快，外加我都搬两次家了日常习惯也不一样，四年多过去了又有一些新“值得升级”，刚好就来写一写。",
       "source_url": "https://blog.douchi.space/",
-      "category": "Blog"
-    },
-    {
-      "title": "从零开始制作实时搜索插件",
-      "link": "https://wsdjeg.net/create-a-searching-plugin-from-scratch/",
-      "date": "2025-01-23 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1737590400.0,
-      "summary": "窗口界面\n  输入响应\n  按键映射\n  窗口内颜色高亮\n  输入框美化\n\n\n\n\n当初，Neovim 刚刚推出异步 job 特性的时候，我就使用 Vim Script 写过一个实时检索的插件 FlyGrep.vim。\n最开始的实现是使用 :split 命令分屏展示搜索结果，使用 :echo 命令配合...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -762,6 +842,16 @@
       "category": "Blog"
     },
     {
+      "title": "大卫•休谟：科学真的存在吗？",
+      "link": "https://zhangke.space/%e5%a4%a7%e5%8d%ab%e4%bc%91%e8%b0%9f%ef%bc%9a%e7%a7%91%e5%ad%a6%e7%9c%9f%e7%9a%84%e5%ad%98%e5%9c%a8%e5%90%97%ef%bc%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25a4%25a7%25e5%258d%25ab%25e4%25bc%2591%25e8%25b0%259f%25ef%25bc%259a%25e7%25a7%2591%25e5%25ad%25a6%25e7%259c%259f%25e7%259a%2584%25e5%25ad%2598%25e5%259c%25a8%25e5%2590%2597%25ef%25bc%259f",
+      "date": "2025-01-20 22:30",
+      "author": "张可的博客",
+      "timestamp": 1737383411.0,
+      "summary": "今天来聊一下大卫•休谟的哲学思想，休谟的哲学思想一般被称为怀疑主义，作为在笛卡尔和牛顿哲学思想之后紧跟着的哲学 [&#8230;]\nThe post 大卫•休谟：科学真的存在吗？ first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
       "title": "My App Defaults 2024",
       "link": "https://imzm.im/my-app-defaults-2024/",
       "date": "2025-01-20 19:14",
@@ -792,6 +882,26 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#23",
+      "link": "https://taxodium.ink/23.html",
+      "date": "2025-01-20 00:00",
+      "author": "Taxodium",
+      "timestamp": 1737302400.0,
+      "summary": "Weekly#23",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "KRouter 现已支持 Kotlin Multiplatform SPI 机制",
+      "link": "https://zhangke.space/krouter-%e7%8e%b0%e5%b7%b2%e6%94%af%e6%8c%81-kotlin-multiplatform-spi-%e6%9c%ba%e5%88%b6/?utm_source=rss&utm_medium=rss&utm_campaign=krouter-%25e7%258e%25b0%25e5%25b7%25b2%25e6%2594%25af%25e6%258c%2581-kotlin-multiplatform-spi-%25e6%259c%25ba%25e5%2588%25b6",
+      "date": "2025-01-19 19:14",
+      "author": "张可的博客",
+      "timestamp": 1737285272.0,
+      "summary": "KRouter 在前几天发布的新版 1.2.1 已经支持了 Kotlin Multiplatform SPI  [&#8230;]\nThe post KRouter 现已支持 Kotlin Multiplatform SPI 机制 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
       "title": "猫鱼周刊 vol. 054 Connecting The Dots",
       "link": "https://ameow.xyz/archives/weekly-054",
       "date": "2025-01-19 16:50",
@@ -799,16 +909,6 @@
       "timestamp": 1737276636.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 55 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n春节临近，接下来两周不一定会更新，在这里...",
       "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
-      "title": "Neovim extmarks 功能介绍",
-      "link": "https://wsdjeg.net/neovim-extmarks/",
-      "date": "2025-01-19 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1737244800.0,
-      "summary": "什么是 extmark\n  相关函数    \n      nvim_buf_set_extmark        \n          id\n          end_row 和 end_col\n          hi_group\n          hl_eol\n          virt_...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -832,16 +932,6 @@
       "category": "Blog"
     },
     {
-      "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
-      "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html",
-      "date": "2025-01-17 08:17",
-      "author": "阮一峰的网络日志",
-      "timestamp": 1737073072.0,
-      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n武汉光谷是今年春节晚会的分会场，将表演灯光秀，非常有科幻感。（via）\n\n年终笔记四则\n\n下面是过去的笔记，我读...",
-      "source_url": "http://www.ruanyifeng.com/blog/",
-      "category": "Blog"
-    },
-    {
       "title": "2024年微信公众号收到赞赏6487.50¥",
       "link": "https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share.html",
       "date": "2025-01-16 23:28",
@@ -862,6 +952,16 @@
       "category": "Blog"
     },
     {
+      "title": "Translation In Emacs",
+      "link": "https://taxodium.ink/translation-in-emacs.html",
+      "date": "2025-01-16 00:00",
+      "author": "Taxodium",
+      "timestamp": 1736956800.0,
+      "summary": "Translation In Emacs",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "胖东来是非学不可了",
       "link": "https://1q43.blog/post/10851/",
       "date": "2025-01-14 16:47",
@@ -869,16 +969,6 @@
       "timestamp": 1736844423.0,
       "summary": "去杠杆时代的最优解，在加杠杆时代诞生。",
       "source_url": "https://1q43.blog",
-      "category": "Blog"
-    },
-    {
-      "title": "Neovim winbar 设置",
-      "link": "https://wsdjeg.net/neovim-winbar/",
-      "date": "2025-01-14 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1736812800.0,
-      "summary": "什么是 winbar\n  使用 lua 设置 winbar\n  redraw_winbar 函数实现\n  存在的一些问题\n\n\n\n\n什么是 winbar\n\nNeovim 0.8.0 就增加了 'winbar' 这一选项。winbar 实际上类似于状态栏（statusline），只不过 winbar 是...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -899,6 +989,16 @@
       "timestamp": 1736731928.0,
       "summary": "2024 我都在干什么\n在生活琐事之外的时间，我都干了些什么：\n\n\n创造输出：其中近七成贡献给了织毛线，大部分时间耳朵也没闲着，不是在听有声书就是看轻喜剧，时间黑洞本体\n打工挣钱：嗯…… 能看出来我今年有多闲了，确实是没啥事干，轻松的同时也衍生出了无数的问题，暂且不表\n摸鱼发呆：比去年的平均时长高，...",
       "source_url": "https://thirdshire.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#22",
+      "link": "https://taxodium.ink/22.html",
+      "date": "2025-01-13 00:00",
+      "author": "Taxodium",
+      "timestamp": 1736697600.0,
+      "summary": "Weekly#22",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -942,16 +1042,6 @@
       "category": "Blog"
     },
     {
-      "title": "自定义 quickfix 窗口格式",
-      "link": "https://wsdjeg.net/custom-quickfix-format/",
-      "date": "2025-01-10 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1736467200.0,
-      "summary": "老旧方法\n  使用 quickfixtextfunc\n\n\n\n\n在 Neovim 或者 Vim 中，QuickFix 窗口内的内容默认的格式是：\n\n&lt;filename&gt;|&lt;lnum&gt; col &lt;col&gt;|&lt;text&gt;\n\n\n最近有需求修改 QuickFix...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "vivo X200 Pro 使用体验",
       "link": "https://imzm.im/vivo-x200-pro/",
       "date": "2025-01-08 23:59",
@@ -969,16 +1059,6 @@
       "timestamp": 1736323036.0,
       "summary": "知否，知否？应是绿肥红瘦",
       "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《误杀3》观后感",
-      "link": "https://wsdjeg.net/20250108/",
-      "date": "2025-01-08 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1736294400.0,
-      "summary": "关于剧情\n  剧中人物\n\n\n\n结束了一天的工作，晚饭后去酒店旁边的电影院看了《误杀3》。\n\n\n\n关于剧情\n\n看完重生，再来开这个确实觉得剧情太容易猜到剧情的发展了，看就没太大悬念了。不同于重生里面以毒品为话题，这部电影是以拐卖儿童这一敏感话题展开的，先不谈拍的好坏。起码让这个话题被更多的人关注到加以...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -1022,6 +1102,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#21",
+      "link": "https://taxodium.ink/21.html",
+      "date": "2025-01-06 00:00",
+      "author": "Taxodium",
+      "timestamp": 1736092800.0,
+      "summary": "Weekly#21",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "博客印象收集",
       "link": "https://blog.douchi.space/blog-impression-survey/",
       "date": "2025-01-05 08:12",
@@ -1042,13 +1132,13 @@
       "category": "Blog"
     },
     {
-      "title": "2024 年终总结",
-      "link": "https://blog.douchi.space/2024-in-review/",
-      "date": "2025-01-03 14:12",
-      "author": "椒盐豆豉",
-      "timestamp": 1735884720.0,
-      "summary": "写博客对我而言是再自然不过的一件事情，因此年年写年终总结也毫无阻力反而成为期待新年的动力之一。每年都会有“庸庸碌碌过了一年什么也没干“的感觉，但每年写完年终总结又会发现其实还是干了很多事情的。这大概也是年终总结，乃至生活博客的强行拔高意义之一吧——把虚无缥缈的记忆变成 tangible 的文字来对抗...",
-      "source_url": "https://blog.douchi.space/",
+      "title": "Mastodon&Bluesky 2024 年发展概况",
+      "link": "https://zhangke.space/mastodonbluesky-2024-%e5%b9%b4%e5%8f%91%e5%b1%95%e6%a6%82%e5%86%b5/?utm_source=rss&utm_medium=rss&utm_campaign=mastodonbluesky-2024-%25e5%25b9%25b4%25e5%258f%2591%25e5%25b1%2595%25e6%25a6%2582%25e5%2586%25b5",
+      "date": "2025-01-03 13:43",
+      "author": "张可的博客",
+      "timestamp": 1735883035.0,
+      "summary": "2024 年已经结束，今天来回顾一下 Fediverse 社区的发展情况。现在随着互联网逐渐走向封闭，越来越多 [&#8230;]\nThe post Mastodon&amp;Bluesky 2024 年发展概况 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
       "category": "Blog"
     },
     {
@@ -1132,16 +1222,6 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim quickfix 窗口内的一些快捷键",
-      "link": "https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/",
-      "date": "2024-12-30 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1735516800.0,
-      "summary": "删除单行或者多行\n  结果过滤（Filter）\n\n\n\n\nNeovim 的 quickfix 窗口还是比较常用的功能，在这里，我实现了一些 quickfix 窗口内常用的快捷键。\n\n删除单行或者多行\n\n在 quickfix 窗口内，默认情况下 Normal 模式下的 dd 和 Visual 模式下的 ...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "2024 年度总结",
       "link": "https://ameow.xyz/archives/2024-wrapup",
       "date": "2024-12-30 02:39",
@@ -1169,16 +1249,6 @@
       "timestamp": 1735445349.0,
       "summary": "深深拨，有些子",
       "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Vim/Neovim 中使用正则表达式",
-      "link": "https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/",
-      "date": "2024-12-29 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1735430400.0,
-      "summary": "元字符\n  替换变量\n  函数式\n  与 Perl 正则表达式的区别\n  贪婪模式和非贪婪模式\n  Neovim 中使用正则表达式\n\n\n\n\n2018 年 8 月 28 日，我在 CSDN 博客上面发表过一篇文章：《Vim 中使用正则表达式》。\n随着 CSDN 账号的注销，这篇文章已经无法在更新，于是...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -1222,16 +1292,6 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim 状态栏及标签栏点击事件",
-      "link": "https://wsdjeg.net/neovim-tabline-statusline-click-events/",
-      "date": "2024-12-28 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1735344000.0,
-      "summary": "什么是 tablineat\n  测试标签栏点击事件\n  多次点击存在的问题\n\n\n\n\n什么是 tablineat\n\n熟悉 Vim 或者 Neovim 的用户对于其状态栏（statusline）和标签栏（tabline）应该也不陌生，对于这两个 UI 组件上面的点击事件，\n早期是只有 tabline 上...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "2024，使用房车这一年",
       "link": "https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife.html",
       "date": "2024-12-27 17:52",
@@ -1262,16 +1322,6 @@
       "category": "Blog"
     },
     {
-      "title": "代码格式化插件 format.nvim",
-      "link": "https://wsdjeg.net/code-formatting-plugin-format-nvim/",
-      "date": "2024-12-25 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1735084800.0,
-      "summary": "前因\n  插件的安装\n  自定义 formatter\n  插件的使用\n  Markdown 代码块格式化\n\n\n\n\n前因\n\n最近，我在 Reddit\n上面分享了一个新的代码格式化的插件 format.nvim，\n回复大多是是在问为什么要做这个插件以及跟现有插件的区别。\n\n在 SpaceVim v2.3...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "AI 技术的停滞，是革命的开始",
       "link": "https://1q43.blog/post/10727/",
       "date": "2024-12-24 09:39",
@@ -1299,6 +1349,16 @@
       "timestamp": 1734963193.0,
       "summary": "A personal reflection on 2024, exploring significant life changes including immigration to Lisbon, shifts in information consumption, and the intersec...",
       "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#20",
+      "link": "https://taxodium.ink/20.html",
+      "date": "2024-12-23 00:00",
+      "author": "Taxodium",
+      "timestamp": 1734883200.0,
+      "summary": "Weekly#20",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -1349,6 +1409,16 @@
       "timestamp": 1734739200.0,
       "summary": "今年愚人节，我搞了个YuGPT，声称用我的资料训练了一个语言模型。当然，那就是一个js脚本，不论你问什么，答案都是固定的。其实我当时是真的计划做一个YuGPT当彩蛋的，但那段时间我过于繁忙（到处钓鱼），而现在外面都冻上了，所以我打算在冬至这天完成这个小项目。\n首先，我们现在所处的2024年末可以电子...",
       "source_url": "https://yufree.cn/cn/",
+      "category": "Blog"
+    },
+    {
+      "title": "给博客添加 dark mode",
+      "link": "https://taxodium.ink/setup-blog-color-scheme.html",
+      "date": "2024-12-21 00:00",
+      "author": "Taxodium",
+      "timestamp": 1734710400.0,
+      "summary": "给博客添加 dark mode",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -1502,16 +1572,6 @@
       "category": "Blog"
     },
     {
-      "title": "在 SpaceVim 中使用卢曼卡片盒笔记法做笔记",
-      "link": "https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/",
-      "date": "2024-12-11 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1733875200.0,
-      "summary": "起因\n  基于 Neovim 的 zettelkasten 插件    \n      基于 Tags 的 ZkBrowser\n      使用 Telescope 检索 Tags\n      使用 Telescope 检索标题\n      补全笔记 ID\n      笔记模板的筛选\n    \n  \n...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "周报 #80 - 关于求婚、爱情与婚姻",
       "link": "https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/",
       "date": "2024-12-10 23:59",
@@ -1519,6 +1579,26 @@
       "timestamp": 1733846340.0,
       "summary": "《Glimpse of Us》 前言 本篇是对 2024-11-29 到 2024-12-08 这周生活的记录与思考。 过去的这一周多做了件大事，求婚了，思考了很多婚姻与爱情；但由于筹备结婚相关事",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "近期看的几部电影",
+      "link": "https://zhangke.space/%e8%bf%91%e6%9c%9f%e7%9c%8b%e7%9a%84%e5%87%a0%e9%83%a8%e7%94%b5%e5%bd%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25e8%25bf%2591%25e6%259c%259f%25e7%259c%258b%25e7%259a%2584%25e5%2587%25a0%25e9%2583%25a8%25e7%2594%25b5%25e5%25bd%25b1",
+      "date": "2024-12-10 11:10",
+      "author": "张可的博客",
+      "timestamp": 1733800241.0,
+      "summary": "最近买了个 Apple TV 和 Emby 库之后看了不少电影和电视剧，下了班回家躺在沙发上看个电影还是挺舒服 [&#8230;]\nThe post 近期看的几部电影 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#19",
+      "link": "https://taxodium.ink/19.html",
+      "date": "2024-12-10 00:00",
+      "author": "Taxodium",
+      "timestamp": 1733760000.0,
+      "summary": "Weekly#19",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -1612,6 +1692,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#18",
+      "link": "https://taxodium.ink/18.html",
+      "date": "2024-12-02 00:00",
+      "author": "Taxodium",
+      "timestamp": 1733068800.0,
+      "summary": "Weekly#18",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "棱镜通讯 NO. 112 Jim Keller",
       "link": "https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24",
       "date": "2024-12-01 19:55",
@@ -1672,6 +1762,16 @@
       "category": "Blog"
     },
     {
+      "title": "Bluesky 的运行原理",
+      "link": "https://zhangke.space/bluesky-%e7%9a%84%e8%bf%90%e8%a1%8c%e5%8e%9f%e7%90%86/?utm_source=rss&utm_medium=rss&utm_campaign=bluesky-%25e7%259a%2584%25e8%25bf%2590%25e8%25a1%258c%25e5%258e%259f%25e7%2590%2586",
+      "date": "2024-11-28 22:45",
+      "author": "张可的博客",
+      "timestamp": 1732805157.0,
+      "summary": "2022 年，马斯克收购 Twitter 后采取了一些充满争议性的举动引起广大用户的不满，大量用户选择离开 T [&#8230;]\nThe post Bluesky 的运行原理 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 104 期",
       "link": "https://hellogithub.com/periodical/volume/104",
       "date": "2024-11-28 08:15",
@@ -1712,13 +1812,13 @@
       "category": "Blog"
     },
     {
-      "title": "《好东西》观后感",
-      "link": "https://wsdjeg.net/20241125/",
-      "date": "2024-11-25 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1732492800.0,
-      "summary": "关于“善意的谎言”\n  一些其他想法\n\n\n\n新的工作环境感觉不是想象中那么理想，但是也在努力去适应。\n最近感觉也比较压抑，本来周末想去看的一部电影，因为一些事情耽搁了，今晚抽空一个人去电影院看了。\n\n正如电影的名字一样，即便是生活很多时候不是很如意，但是有些人还是很善于发现身边的一些“好东西”。\n\n...",
-      "source_url": "https://wsdjeg.net/",
+      "title": "我的阅读观",
+      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%98%85%e8%af%bb%e8%a7%82/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%2598%2585%25e8%25af%25bb%25e8%25a7%2582",
+      "date": "2024-11-25 22:11",
+      "author": "张可的博客",
+      "timestamp": 1732543895.0,
+      "summary": "我之前思考过几个关于阅读的问题： 我最早开始阅读主要是从小说开始的，尤其是科幻类型的小说，从刘慈欣到阿西莫夫和 [&#8230;]\nThe post 我的阅读观 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
       "category": "Blog"
     },
     {
@@ -1792,6 +1892,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#17",
+      "link": "https://taxodium.ink/17.html",
+      "date": "2024-11-18 00:00",
+      "author": "Taxodium",
+      "timestamp": 1731859200.0,
+      "summary": "Weekly#17",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "猫鱼周刊 vol. 048 世界是个巨大的草台班子",
       "link": "https://ameow.xyz/archives/weekly-048",
       "date": "2024-11-17 17:45",
@@ -1812,6 +1922,16 @@
       "category": "Blog"
     },
     {
+      "title": "使用 pagefind 添加博客搜索功能",
+      "link": "https://taxodium.ink/use-pagefind-to-search-blog.html",
+      "date": "2024-11-16 00:00",
+      "author": "Taxodium",
+      "timestamp": 1731686400.0,
+      "summary": "使用 pagefind 添加博客搜索功能",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "如皋后记，一个本地人的详细游玩儿指南",
       "link": "https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment.html",
       "date": "2024-11-14 00:04",
@@ -1819,6 +1939,16 @@
       "timestamp": 1731513874.0,
       "summary": "经常被这些小事感动，让美好继续发生",
       "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#16",
+      "link": "https://taxodium.ink/16.html",
+      "date": "2024-11-12 00:00",
+      "author": "Taxodium",
+      "timestamp": 1731340800.0,
+      "summary": "Weekly#16",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -1962,6 +2092,16 @@
       "category": "Blog"
     },
     {
+      "title": "Answer: 博客作者呀，我想采访你这 9 个问题！",
+      "link": "https://taxodium.ink/answer-of-another-dayu-nine-question.html",
+      "date": "2024-11-05 00:00",
+      "author": "Taxodium",
+      "timestamp": 1730736000.0,
+      "summary": "Answer: 博客作者呀，我想采访你这 9 个问题！",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "Mac 小众软件推荐与工作流分享(2024)",
       "link": "https://blog.ursb.me/posts/mac-app-share-2024/",
       "date": "2024-11-04 15:54",
@@ -2019,6 +2159,16 @@
       "timestamp": 1730654705.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 47 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n新加坡政府身份认证体系调研\n原文链接\n\n ...",
       "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#15",
+      "link": "https://taxodium.ink/15.html",
+      "date": "2024-11-03 00:00",
+      "author": "Taxodium",
+      "timestamp": 1730563200.0,
+      "summary": "Weekly#15",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -2092,6 +2242,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#14",
+      "link": "https://taxodium.ink/14.html",
+      "date": "2024-10-28 00:00",
+      "author": "Taxodium",
+      "timestamp": 1730044800.0,
+      "summary": "Weekly#14",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "猫鱼周刊 vol. 045 技术无国界，但利益有",
       "link": "https://ameow.xyz/archives/weekly-045",
       "date": "2024-10-27 18:16",
@@ -2162,6 +2322,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#13",
+      "link": "https://taxodium.ink/13.html",
+      "date": "2024-10-21 00:00",
+      "author": "Taxodium",
+      "timestamp": 1729440000.0,
+      "summary": "Weekly#13",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "猫鱼周刊 vol. 044 独立博客自省问卷",
       "link": "https://ameow.xyz/archives/weekly-044",
       "date": "2024-10-20 18:02",
@@ -2179,6 +2349,26 @@
       "timestamp": 1729283549.0,
       "summary": "回答 dayu 的 Blogger 问卷。",
       "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "一次海外购物经历",
+      "link": "https://taxodium.ink/an-overseas-shopping-adventure.html",
+      "date": "2024-10-19 00:00",
+      "author": "Taxodium",
+      "timestamp": 1729267200.0,
+      "summary": "一次海外购物经历",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "我的键盘",
+      "link": "https://taxodium.ink/keyboards.html",
+      "date": "2024-10-19 00:00",
+      "author": "Taxodium",
+      "timestamp": 1729267200.0,
+      "summary": "我的键盘",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -2212,6 +2402,16 @@
       "category": "Blog"
     },
     {
+      "title": "胃镜检查",
+      "link": "https://taxodium.ink/gastroscopy.html",
+      "date": "2024-10-16 00:00",
+      "author": "Taxodium",
+      "timestamp": 1729008000.0,
+      "summary": "胃镜检查",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "独立博客自省问卷15题",
       "link": "https://imzm.im/15-questions-on-blogging/",
       "date": "2024-10-14 14:45",
@@ -2229,6 +2429,16 @@
       "timestamp": 1728777600.0,
       "summary": "最近看完了「别相信直觉」用数据思维获取你想要的生活这本小书，比较简单好读，基本上花一下午就可以看完，把生活中可能会遇到的婚恋、育儿、财富、创业、运气、外貌、快乐、痛苦都给讲了讲，把里面有一些有意思的观点记录到这里。\n\n\n\n婚恋\n\n\n  一个人如果单身的时就十分幸福，那么在他建立亲密关系后，他也会十分...",
       "source_url": "https://tw93.fun",
+      "category": "Blog"
+    },
+    {
+      "title": "Weekly#12",
+      "link": "https://taxodium.ink/12.html",
+      "date": "2024-10-13 00:00",
+      "author": "Taxodium",
+      "timestamp": 1728748800.0,
+      "summary": "Weekly#12",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -2302,6 +2512,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#11",
+      "link": "https://taxodium.ink/11.html",
+      "date": "2024-10-07 00:00",
+      "author": "Taxodium",
+      "timestamp": 1728230400.0,
+      "summary": "Weekly#11",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "2024 年，将网站部署到 Cloudflare Workers",
       "link": "https://blog.gxres.net/posts/deploy-website-to-cloudflare-workers-in-2024",
       "date": "2024-10-06 08:00",
@@ -2329,6 +2549,16 @@
       "timestamp": 1727971404.0,
       "summary": "这里是中国第一状元县",
       "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
+      "title": "香港迪士尼一日游",
+      "link": "https://taxodium.ink/hong-kong-disneyland.html",
+      "date": "2024-10-04 00:00",
+      "author": "Taxodium",
+      "timestamp": 1727971200.0,
+      "summary": "香港迪士尼一日游",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -2382,6 +2612,16 @@
       "category": "Blog"
     },
     {
+      "title": "Weekly#10",
+      "link": "https://taxodium.ink/10.html",
+      "date": "2024-09-28 00:00",
+      "author": "Taxodium",
+      "timestamp": 1727452800.0,
+      "summary": "Weekly#10",
+      "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 102 期",
       "link": "https://hellogithub.com/periodical/volume/102",
       "date": "2024-09-27 07:55",
@@ -2389,6 +2629,16 @@
       "timestamp": 1727394917.0,
       "summary": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "使用 org-publish 发布博客",
+      "link": "https://taxodium.ink/org-publish-blog.html",
+      "date": "2024-09-27 00:00",
+      "author": "Taxodium",
+      "timestamp": 1727366400.0,
+      "summary": "使用 org-publish 发布博客",
+      "source_url": "https://taxodium.ink",
       "category": "Blog"
     },
     {
@@ -2479,16 +2729,6 @@
       "timestamp": 1725770005.0,
       "summary": "通过引用《周易》和《易传》中的经典句子，作者探讨了积德行善与作恶多端对个人福报的影响，并强调了时间的重要性。",
       "source_url": "https://justgoidea.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《重生》：揭穿人性假面",
-      "link": "https://wsdjeg.net/movie-review-go-for-broke/",
-      "date": "2024-09-08 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1725753600.0,
-      "summary": "周末跟家人们去看了一部电影，小朋友们选了柯南，我就去看了张家辉主演的《重生》。\n\n\n\n\n  \n  \n    重生\n  \n  \n\n\n剧中角色:\n\n\n  安渡（阮经天 饰）\n\n\n安渡缉毒组小队长，被其舅舅安佩长期长期压抑不得势再加上自幼经历悲惨，造成了阴暗的性格，被权力、金钱迷失倒也正常。\n人性这种东西...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -2632,16 +2872,6 @@
       "category": "Blog"
     },
     {
-      "title": "删除 Telegram 账号",
-      "link": "https://wsdjeg.net/delete-telegram-account/",
-      "date": "2024-08-24 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1724457600.0,
-      "summary": "前不久，删除了用了很久的 Telegram 账号 @wsdjeg。\n\n为了避免非本人使用该用户名带来不必要的麻烦，原来的用户名转移给了一个无管理员的公共的 Channel。\n\n个人是非常抵触使用手机号注册和登录的软件，因为手机号实际上运营商是可以二次销售的。\n大学期间至今，前面大概有三个手机号已经停...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "莫奈的孤独",
       "link": "https://wangyurui.com/posts/shui-lian-6818149e",
       "date": "2024-08-21 20:29",
@@ -2652,26 +2882,6 @@
       "category": "Blog"
     },
     {
-      "title": "Vim Script 的新语法",
-      "link": "https://wsdjeg.net/new-syntax-for-vim-script/",
-      "date": "2024-08-21 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1724198400.0,
-      "summary": "字符串的连接符\n  函数的参数\n  闭包（closure）\n\n\n\n对于 Vim Script 的语法的认知似乎还停留在 《笨方法学 Vim Script》的年代，\n在接触 Neovim 以及使用 Lua 写插件之前一直都是使用 Vim Script。\n即使是现在部分插件为了兼容 Vim，任然会使用 ...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
-      "title": "龙迹之城散人玩家攻略",
-      "link": "https://wsdjeg.net/20240821/",
-      "date": "2024-08-21 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1724198400.0,
-      "summary": "定期活动    \n      第一天：开区\n      第八天：狂暴降临\n      第十五天：末日降临\n      第二十二天：秒杀直购\n      第二十九天：神罚套装\n      第三十六天：炎阳套装\n      周年庆活动\n    \n  \n  装备合成技巧\n  符文提升技巧\n  龙子提升技巧...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "周报 #69 - AI Coding 体验与学习的源动力",
       "link": "https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/",
       "date": "2024-08-19 05:30",
@@ -2679,16 +2889,6 @@
       "timestamp": 1724016600.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-08-12 到 2024-08-18 这周生活的记录与思考。 从 VS Code 转向 Cursor 写代码，聊聊 AI 加持下的编程体验；和学姐在一起 400",
       "source_url": "https://www.pseudoyu.com/zh/",
-      "category": "Blog"
-    },
-    {
-      "title": "再读毛选：《中国社会各阶级的分析》",
-      "link": "https://wangyurui.com/posts/du-mao-xuan-zhong-guo-she-hui-ge-jie-ji-de-fen-x-b450e52c",
-      "date": "2024-08-18 09:40",
-      "author": "太隐",
-      "timestamp": 1723945202.0,
-      "summary": "谁是我们的敌人，谁是我们的朋友？",
-      "source_url": "https://wangyurui.com/",
       "category": "Blog"
     },
     {
@@ -2732,36 +2932,6 @@
       "category": "Blog"
     },
     {
-      "title": "使用 GitHub 进行身份验证时要小心",
-      "link": "https://wsdjeg.net/be-careful-when-authenticating-with-github/",
-      "date": "2024-08-12 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1723420800.0,
-      "summary": "起因\n  授权登录时需要的权限\n  查看 Github 账户已授权网站\n  国内版 Github?\n\n\n\n起因\n\n很早以前，我注册过一个叫做“黑客派”的论坛，后来这个论坛改名为“链滴”。\n\n当时论坛提供了使用 Github 账号授权登录，由于早期并未注意过 GitHub 登录授权的权限问题。\n被站长...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
-      "title": "请停止复制我的个人网站",
-      "link": "https://wsdjeg.net/stop-copy-my-static-website/",
-      "date": "2024-08-11 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1723334400.0,
-      "summary": "今天使用 Google 搜索自己之前发过的一篇文章“停用 v2ex 账号”，\n发现搜索结果如下。奇怪的是，\n有一个域名为 jbwqfy.com 的网站居然是全站复制了我的个人博客。\n\n\n\n打开其首页，我今日刚发的文章他都有，基本上是实时同步了，目前无法查明原因。\n\n\n\nwhois 查询结果显示如下，...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
-      "title": "从 GitHub Page 切换至 Cloudflare Page",
-      "link": "https://wsdjeg.net/from-github-page-to-cloudflare-page/",
-      "date": "2024-08-11 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1723334400.0,
-      "summary": "新建 Cloudflare Page\n  使用最新版 Jekyll 及 插件\n  自定义域名\n\n\n\n大概是 2023 年 9 月份，将网站从 Github Page 服务切换到了 Cloudflare Page。\n一开始切换的原因是因为 Github 强制用户使用两步验证才能登录，失去了对 Gith...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "「代码艺术家」不会被 AI 取代",
       "link": "https://lutaonan.com/blog/code-artists",
       "date": "2024-08-10 08:00",
@@ -2769,16 +2939,6 @@
       "timestamp": 1723248000.0,
       "summary": "最近大量地使用 Cursor 替代了 VS Code, 开始习惯直接在编辑器里告诉 AI 我的需求，让它来代替我写出代码段。\n请注意，我用了「代码段」这个词，而不是「代码」，因为我想做一个区分 —— 按照我目前的经验来看，生成式 AI 非常擅长生成一段内聚的代码，而不是一整个应用程序。\n在没有 AI...",
       "source_url": "https://lutaonan.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Vim9Script 与 Lua 的速度比较",
-      "link": "https://wsdjeg.net/speed-comparison-between-vim9script-and-lua/",
-      "date": "2024-08-10 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1723248000.0,
-      "summary": "前面写过一篇Lua 与 VimL 速度比较的文章，\n里面对 Lua 与 VimL 脚本计算速度做了比较。随着 Vim 的更新并且推出了新的脚本语言 Vim9Script，\n也想看一下这个新的脚本语言写法及执行效率到底如何。\n\n任然参考上一篇文章中的比较方式，Vim9Script 实现的函数如下：\n\n...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -2809,16 +2969,6 @@
       "timestamp": 1723075200.0,
       "summary": "时间为 2024 年 5 月 7 日。思来想去这段旅程好像也挺特殊的，遂记下来。\n\n由于各种因素的影响与竞争，国内的宽体机航线长期集中于几个超大城市之间，这意味着要在长沙体验到宽体机，无异于天方夜谭。然而有一班 CZ6043，从广州出发经停长沙到达肯尼亚首都内罗毕，通常使用波音 787 执飞。前半程...",
       "source_url": "https://cyp0633.icu/",
-      "category": "Blog"
-    },
-    {
-      "title": "Neovim 和 Vim 插件管理器的实现逻辑",
-      "link": "https://wsdjeg.net/the-implementation-logic-of-plugin-manager/",
-      "date": "2024-08-08 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1723075200.0,
-      "summary": "插件的本质\n  目录结构及载入时机    \n      autoload/ 目录\n      plugin/ 目录\n      ftplugin/ 目录\n    \n  \n  懒加载的实现逻辑    \n      通过命令加载 on_cmd\n      根据函数加载 on_func\n      根据事...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -2862,16 +3012,6 @@
       "category": "Blog"
     },
     {
-      "title": "实时调整 Neovim 的颜色主题",
-      "link": "https://wsdjeg.net/patch-neovim-colorscheme-on-the-fly/",
-      "date": "2024-08-03 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1722643200.0,
-      "summary": "需求背景\n  早期功能实现    \n      在主题设定后方直接修改\n      使用 ColorScheme 事件调用覆写函数。\n    \n  \n  使用 cpicker.nvim 实时调色\n\n\n\n需求背景\n\n如果日常使用 Neovim 较多的话，选择一个喜欢的颜色主题还是非常不错的。Githu...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "周报 #66 - 10x 工程师、技术热情与个人工具箱",
       "link": "https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/",
       "date": "2024-07-30 20:30",
@@ -2882,16 +3022,6 @@
       "category": "Blog"
     },
     {
-      "title": "悬浮滚动条插件 scrollbar.vim",
-      "link": "https://wsdjeg.net/floating-scrollbar-for-vim-and-neovim/",
-      "date": "2024-07-30 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1722297600.0,
-      "summary": "插件简介\n  问题反馈\n  安装及使用\n\n\n\n插件简介\n\n今天给大家分享一下我的 “新” 插件: scrollbar.vim。\n\n\n\n这是一个支持 Neovim 和 Vim 的悬浮滚动条插件，\n使用的是 Neovim 的 floating windows 或者 Vim 的 popup windows...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
       "link": "https://1q43.blog/post/6060/",
       "date": "2024-07-29 10:20",
@@ -2899,16 +3029,6 @@
       "timestamp": 1722219622.0,
       "summary": "一起把 n8n 的中文社区炒热吧～",
       "source_url": "https://1q43.blog",
-      "category": "Blog"
-    },
-    {
-      "title": "关于 Neovim 插件开发的指南",
-      "link": "https://wsdjeg.net/about-the-nvim-plugin-dev-guide/",
-      "date": "2024-07-29 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1722211200.0,
-      "summary": "今天，在 Neovim 中文电报群有人分享了一个仓库 nvim-best-practices@24e835c，\n是关于 Neovim 插件开发的一些“指南”，或者可以说是“建议”，当然我也回复了我的想法，抱歉，语言有些过激。\n\n花花里胡巧的限制，我只看了开头就看不下去了，举例，命令要分成子命令，\n这...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -3022,16 +3142,6 @@
       "category": "Blog"
     },
     {
-      "title": "Neovim 调色板插件 cpicker.nvim",
-      "link": "https://wsdjeg.net/neovim-plugin-cpicker/",
-      "date": "2024-07-14 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1720915200.0,
-      "summary": "启用插件\n  操作界面\n  后续计划\n\n\n因为偶尔需要修改 Neovim 的高亮，涉及到颜色调整，以往使用的是外部工具，来回切换非常麻烦。也找了一些 Neovim/Vim 的插件，但是使用的感觉确实不尽如人意。\n因此，自己实现了一个简便版本的调色板插件 cpicker.nvim，该插件存储于 Spa...",
-      "source_url": "https://wsdjeg.net/",
-      "category": "Blog"
-    },
-    {
       "title": "展开讲讲独立创作者的工作节奏",
       "link": "https://limboy.me/posts/indie-creator-routine",
       "date": "2024-07-13 08:00",
@@ -3089,16 +3199,6 @@
       "timestamp": 1720532139.0,
       "summary": "很喜欢学マス的小偶像建模，遂解之",
       "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
-      "title": "Neovim 缓冲区（buffer）相关事件",
-      "link": "https://wsdjeg.net/neovim-buf-events/",
-      "date": "2024-07-07 08:00",
-      "author": "Eric's Blog",
-      "timestamp": 1720310400.0,
-      "summary": "起因\n  获取可用事件列表\n  事件的触发时机    \n      BufAdd\n      BufNew\n      BufNewFile\n    \n  \n  测试示例\n\n\n起因\n\n最近在使用 SpaceVim 的标签栏（tabline）时发现，对于新增的空内容的缓冲区（buffer），标签栏上方...",
-      "source_url": "https://wsdjeg.net/",
       "category": "Blog"
     },
     {
@@ -6927,9 +7027,59 @@
       "date": "1-01-01 08:06",
       "author": "Kowyo",
       "timestamp": -62135596800.0,
-      "summary": "2024 年\n看见喜欢的博主隐藏了「Stream」頁面，想起来前不久刷到了本版块的意义所在：\n\n每次马斯克发神经，就有几十万人逃离 X，结果发现每个社交 app 都一样疯狂，每个人都既自恋又从众\n忽然之间，简单分享、真实做自己的 microblog / 微博客 / 迷你个人网站，变成了新潮流",
+      "summary": "2025 年\n一\n\n\n我有所念人，隔在遠遠鄉。\n我有所感事，結在深深腸。\n鄉遠去不得，無日不瞻望。\n腸深解不得，無夕不思量。\n況此殘燈夜，獨宿在空堂。\n秋天殊未曉，風雨正蒼蒼。",
       "source_url": "https://kowyo.com/",
       "category": "Blog"
+    },
+    {
+      "title": "测试显示缺少ROP的RTX 5080性能损失并不低 分辨率越高性能损失越严重",
+      "link": "https://www.landiannews.com/archives/108147.html",
+      "date": "2025-03-03 15:49",
+      "author": "蓝点网",
+      "timestamp": 1740988159.0,
+      "summary": "#硬件设备 测试显示缺少 ROP 渲染单元的 RTX 5080 性能损失并不低，游戏分辨率越高性能损失越严重，不过平均确实在 3%~4% 之间。YouTube 创作者的测试表明真实游戏时只有个别游戏达到 12% 的差距，不过即便是 4% 玩家也应该联系显卡制造商进行换货。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌正在开发邮件盾(Shielded Email) 为用户生成随机邮箱注册账号隐藏真实邮箱",
+      "link": "https://www.landiannews.com/archives/108146.html",
+      "date": "2025-03-03 15:28",
+      "author": "蓝点网",
+      "timestamp": 1740986910.0,
+      "summary": "#软件资讯 谷歌正在开发邮件盾 (Shielded Email) 服务，为用户生成随机邮箱注册账号从而隐藏自己的真实邮箱。大家都知道邮箱泄露后可能会收到各种推销和骚扰邮件，借助该功能用户不必暴露真实邮箱，也可以随时停止这些随机邮箱。查看全文：https://ourl.co/108146",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "荣耀(Honor)宣布将为旗舰设备提供7年软件和安全更新 率先从欧洲市场开始",
+      "link": "https://www.landiannews.com/archives/108145.html",
+      "date": "2025-03-03 15:15",
+      "author": "蓝点网",
+      "timestamp": 1740986134.0,
+      "summary": "#手机数码 荣耀 (Honor) 宣布将为旗舰设备提供 7 年软件和安全更新，率先从欧洲市场开始。首先获得支持的设备是 Honor Magic 7 Pro，荣耀暂时未透露还有哪些设备可获得支持，但后续应该也会逐渐扩展支持的市场。查看全文：https://ourl.co/108145",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "高通骁龙X2芯片内核数增加50% 单颗芯片最高提供18个内核提高性能",
+      "link": "https://www.landiannews.com/archives/108144.html",
+      "date": "2025-03-03 15:01",
+      "author": "蓝点网",
+      "timestamp": 1740985287.0,
+      "summary": "#硬件设备 爆料称高通骁龙 X2 系列芯片将内核数增加 50%，从 X 的最高 12 核到 X2 最高的 18 核心。高通还将 RAM 集成到芯片里，例如在测试的 SC8480XP 将集成最高 48GB SK 海力士 RAM 和 1TB 的板载 SSD。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Meta Platforms计划也推出AI聊天应用 以Llama驱动为用户提供直接服务",
+      "link": "https://www.landiannews.com/archives/108143.html",
+      "date": "2025-03-03 13:54",
+      "author": "蓝点网",
+      "timestamp": 1740981243.0,
+      "summary": "#人工智能 Meta 计划也推出 AI 聊天应用以 Llama 开放模型为基础为用户提供直接服务，当然最重要的是推出付费订阅服务。目前 Meta AI 在 Facebook 等平台已经有 7 亿用户，Meta 希望通过独立应用到年底再扩展 3 亿用户，同时通过付费订阅服务获得更多收入。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
     },
     {
       "title": "联想推出概念版Yoga太阳能笔记本电脑 屏幕背面安装太阳能板可用来发电",
@@ -7078,56 +7228,6 @@
       "author": "蓝点网",
       "timestamp": 1740712832.0,
       "summary": "#科技资讯 谋智基金会回应火狐浏览器使用条款争议：但回应的内容也同样模棱两可，并没有解决开源社区的担忧。谋智基金会强调用户授权使用数据只是实现浏览器的基本功能，但开源社区依然希望谋智基金会能够撤回或修改条款。查看全文：https://ourl.co/108119",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "专注于超高杠杆的加密货币衍生品交易所BitMEX正在寻找买家准备出售",
-      "link": "https://www.landiannews.com/archives/108118.html",
-      "date": "2025-02-28 11:05",
-      "author": "蓝点网",
-      "timestamp": 1740711919.0,
-      "summary": "#加密货币 专注于超高杠杆的加密货币衍生品交易所 BitMEX 正在寻找买家准备出售，或许与业务增长停滞有关。BitMEX 专属于期货合约，提供最高 1000 倍的杠杆，通常其用户是专业交易员，当然也存在大量赌徒。查看全文：https://ourl.co/108118",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌正在为Chrome开发分屏功能 对于较小屏幕的用户应该可以提高效率",
-      "link": "https://www.landiannews.com/archives/108110.html",
-      "date": "2025-02-28 10:33",
-      "author": "蓝点网",
-      "timestamp": 1740710019.0,
-      "summary": "#软件资讯 谷歌正在为 Chrome 开发分屏功能，对于屏幕较小的用户来说借助分屏功能并排显示不同内容应该可以提高效率。目前该功能在金丝雀版中测试，用户可以调整不同选项卡大小，但还未实现 Edge 那种同时滚动。查看全文：https://ourl.co/108110",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[附解决方案] Microsoft 365安装程序不再包含Outlook经典版(即Win32版)",
-      "link": "https://www.landiannews.com/archives/108109.html",
-      "date": "2025-02-28 10:17",
-      "author": "蓝点网",
-      "timestamp": 1740709049.0,
-      "summary": "#技术教程 Microsoft 365 订阅版在线安装程序现在不再包含 Outlook Win32 经典版，微软希望用户使用新版 Outlook。如果用户讨厌新版 Outlook 而继续使用经典版，这里提供 3 种方式可以继续使用经典版 Outlook。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "DeepSeek AI开源周5/5：开源高性能分布式并行文件系统3FS优化大规模数据集处理",
-      "link": "https://www.landiannews.com/archives/108108.html",
-      "date": "2025-02-28 09:57",
-      "author": "蓝点网",
-      "timestamp": 1740707859.0,
-      "summary": "#人工智能 DeepSeek 开源周 5/5：最后发布的这个项目名为 3FS，是一种为 AI 高性能计算设计的分布式并行文件系统，可以优化大规模数据集的处理。3FS 系统在 DeepSeek R1 和 V3 模型中使用，帮助 DeepSeek 提升推理任务的性能。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenAI推出GPT-4.5模型 幻觉更少更适合写作、编程和解决实际问题等",
-      "link": "https://www.landiannews.com/archives/108107.html",
-      "date": "2025-02-28 09:45",
-      "author": "蓝点网",
-      "timestamp": 1740707109.0,
-      "summary": "#人工智能 OpenAI 推出 GPT-4.5 模型，幻觉更少更适合写作、编程和解决实际问题等。GPT-4.5 是 OpenAI 最后一款非思维链模型，但支持联网获取最新数据、上传文件、支持画布等，该模型与用户意图契合度更高、情绪也更高。查看全文：https://ourl.co/108107",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
