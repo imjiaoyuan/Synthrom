@@ -9,8 +9,8 @@ os.makedirs('test_data', exist_ok=True)
 # 设置测试环境变量 (以QQ邮箱为例)
 os.environ['SMTP_SERVER'] = 'smtp.qq.com'
 os.environ['SMTP_PORT'] = '465'
-os.environ['SENDER_EMAIL'] = '2963528562@qq.com'
-os.environ['SENDER_PASSWORD'] = 'wgudlzxewjcedfha'
+os.environ['SENDER_EMAIL'] = 'xxxxxxxx@qq.com'
+os.environ['SENDER_PASSWORD'] = 'xxxxxxxxxxxxxx'
 
 def test_smtp_connection():
     """测试SMTP连接"""

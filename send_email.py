@@ -5,7 +5,7 @@ import yaml
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.utils import formataddr
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 import ssl
 
@@ -15,20 +15,37 @@ def load_config():
         return yaml.safe_load(f)
 
 def get_today_articles():
-    """从feed.json中获取今天的文章"""
+    """从feed.json中获取今天早8点到昨天早8点的文章"""
     with open('feed.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    # 获取中国时区的今天日期
+    # 使用北京时间
     tz = pytz.timezone('Asia/Shanghai')
-    today = datetime.now(tz).strftime('%Y-%m-%d')
+    now = datetime.now(tz)
     
-    # 筛选今天的文章
-    today_articles = [
-        article for article in data['articles']
-        if article['date'].startswith(today)
-    ]
+    # 计算今天早上8点（北京时间）
+    today = now.strftime('%Y-%m-%d')
+    today_8am = f"{today} 08:00:00"
+    yesterday = (now - timedelta(days=1)).strftime('%Y-%m-%d')
+    yesterday_8am = f"{yesterday} 08:00:00"
     
+    print(f"筛选时间范围: {yesterday_8am} 到 {today_8am}")
+    
+    # 筛选时间窗口内的文章
+    today_articles = []
+    for article in data['articles']:
+        try:
+            article_date = article['date']
+            print(f"文章: {article['title']}, 时间: {article_date}")
+            
+            if yesterday_8am <= article_date < today_8am:
+                today_articles.append(article)
+                print(f"✓ 文章已添加: {article['title']}")
+        except (ValueError, TypeError) as e:
+            print(f"处理文章时间时出错: {e}")
+            continue
+    
+    print(f"共找到 {len(today_articles)} 篇文章")
     return today_articles
 
 def generate_email_content(articles):
@@ -226,13 +243,13 @@ def send_email():
         print("邮件通知未启用")
         return
     
-    print("开始获取今日文章...")
+    print("开始获取时间窗口内的文章...")
     articles = get_today_articles()
     if not articles:
-        print("今天没有新文章更新")
+        print("时间窗口内没有新文章")
         return
     
-    print(f"找到 {len(articles)} 篇今日文章")
+    print(f"找到 {len(articles)} 篇文章")
     print("开始生成邮件内容...")
     html_content = generate_email_content(articles)
     

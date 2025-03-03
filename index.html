@@ -26,10 +26,6 @@
                     <i class="mdi mdi-newspaper"></i>
                     <span>资讯</span>
                 </div>
-                <div class="category-item" data-category="Forums">
-                    <i class="mdi mdi-forum"></i>
-                    <span>论坛</span>
-                </div>
             </nav>
             <div class="update-time">
                 <i class="mdi mdi-clock-outline"></i>
@@ -46,10 +42,6 @@
         <div class="category-item" data-category="Information">
             <i class="mdi mdi-newspaper"></i>
             <span>资讯</span>
-        </div>
-        <div class="category-item" data-category="Forums">
-            <i class="mdi mdi-forum"></i>
-            <span>论坛</span>
         </div>
     </nav>
     <main class="articles" id="articles"></main>
@@ -378,6 +370,36 @@
             background: var(--header-bg);
             border-radius: 8px;
             margin-top: 20px;
+        }
+
+        /* 移除文章卡片的阴影动画和上浮效果 */
+        .article {
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: color 0.2s;  /* 仅保留颜色变化效果 */
+        }
+
+        .article:hover {
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transform: none;  /* 移除上浮效果 */
+        }
+
+        /* 移除导航项的动画效果，仅保留颜色变化 */
+        .category-item {
+            transition: color 0.2s;
+        }
+
+        /* 添加内容预加载样式，防止闪动 */
+        .articles {
+            min-height: 200px;  /* 设置最小高度 */
+        }
+
+        /* 移除按钮的动画效果，仅保留颜色变化 */
+        .meta-item {
+            transition: color 0.2s;
+        }
+
+        .meta-item:hover {
+            transform: none;
         }
     </style>
 </body>
