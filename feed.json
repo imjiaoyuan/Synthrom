@@ -52,16 +52,6 @@
       "category": "Blog"
     },
     {
-      "title": "折中与中庸",
-      "link": "https://wangyurui.com/posts/zhong-b37c21d4",
-      "date": "2025-03-03 12:10",
-      "author": "太隐",
-      "timestamp": 1740975011.0,
-      "summary": "1927年，鲁迅先生曾在《无声的中国》中写过这样一段著名的话，“中国人的性情总是调和的，折中的。譬如你说，这屋子太暗，须在这里开个窗，大家一定是不允许的。但如果你主张拆掉屋顶，他们就会来调和，愿意开窗的。”在那个急需民族觉醒崛起的时代，这句话是非常有道理的，但现在有不少人有意又或是无意那般，将那个“...",
-      "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
       "title": "十万封邮件",
       "link": "https://yufree.cn/cn/2025/03/03/100000-emails/",
       "date": "2025-03-03 08:00",
@@ -157,7 +147,7 @@
       "date": "2025-02-28 01:26",
       "author": "运维咖啡吧",
       "timestamp": 1740677188.0,
-      "summary": "全程借助 AI 工具 Trae，从 0 到 1 打造简易 RSS 阅读器，分享使用过程、工具特性、实操难题及使用经验",
+      "summary": "本文详细介绍了如何使用AI工具Trae从零开始创建一个简约的RSS阅读器，讨论了AI在编程领域的应用，工具的优缺点，以及在项目过程中遇到的问题和解决经验。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -247,7 +237,7 @@
       "date": "2025-02-23 23:09",
       "author": "运维咖啡吧",
       "timestamp": 1740323357.0,
-      "summary": "万字攻略，详细记录哈尔滨五天四万的深度旅行，小众游玩指南+私藏美食推荐",
+      "summary": "这篇文章详细介绍了哈尔滨的旅行攻略，包括冰雪大世界、中央大街、圣索菲亚大教堂等著名景点，以及铁锅炖、东北麻辣烫等特色美食，适合计划前往哈尔滨的游客参考。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -607,7 +597,7 @@
       "date": "2025-02-06 22:59",
       "author": "运维咖啡吧",
       "timestamp": 1738853942.0,
-      "summary": "你有梦想吗？你的梦想是什么？梦想还有机会实现吗？",
+      "summary": "本文讲述了一个环游世界的梦想，以及实现这个梦想的初步计划——先走遍中国。文章详细描述了作者如何通过记录游记来实现这个梦想，并分享了旅行过程中获得的乐趣和意义。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -847,7 +837,7 @@
       "date": "2025-01-21 00:22",
       "author": "运维咖啡吧",
       "timestamp": 1737390179.0,
-      "summary": "距离上海仅一个多小时车程的宝藏小城",
+      "summary": "在2024年的全年自驾旅行中，探索了海盐县及其周边小城，包括沈荡老街、沈荡谷仓、南北湖风景区等地，体验了丰富的文化历史和自然景观，全年旅行圆满结束，充满惊喜与回忆。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -947,7 +937,7 @@
       "date": "2025-01-16 23:28",
       "author": "运维咖啡吧",
       "timestamp": 1737041287.0,
-      "summary": "运维咖啡吧公众号2024年完整数据分享",
+      "summary": "这篇文章详细回顾了2024年微信公众号的创作历程，包括发表的文章数量、阅读量、用户互动等数据，并分享了个人创作的心得与体验，以及对未来的展望。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -957,7 +947,7 @@
       "date": "2025-01-16 02:59",
       "author": "运维咖啡吧",
       "timestamp": 1736967555.0,
-      "summary": "一个完善的运维自动化系统都包含哪些功能模块",
+      "summary": "本文详细介绍了一个较为完善的运维自动化平台所包含的系统及功能模块，包括资产管理、容器管理、监控告警、作业系统、任务系统、域名管理、备份系统、数据库服务、费用中心、审计中心、用户管理和系统配置等，解决了运维过程中的多种问题，提升了运维效率和管理水平。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -1307,7 +1297,7 @@
       "date": "2024-12-27 17:52",
       "author": "运维咖啡吧",
       "timestamp": 1735293152.0,
-      "summary": "12个月近20次旅行，足迹达4省18市，总行程2万余公里",
+      "summary": "2024年房车旅行总结，回顾全年在江浙周边及更多地方的房车探索，包括皖南自驾、老君山登顶、无锡惠山古镇、苏州西山岛、宁波象山、湖州莫干山、台州天台、南通如皋和嘉兴海宁等地的精彩旅程。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -1347,7 +1337,7 @@
       "date": "2024-12-23 23:50",
       "author": "运维咖啡吧",
       "timestamp": 1734969052.0,
-      "summary": "游戏运维管理规范",
+      "summary": "本文详细介绍了游戏运维管理的各项规范，包括沟通、部门职责、基本准则、安全、监控、备份、性能调优、文档化、容量规划、巡查制度、故障处理、应急机制、日志管理、架构、CDN、项目审核、上线前检查、项目下线、云主机注意事项、停服维护、台账相关、数据库操作、项目交接以及域名及SSL证书管理等。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -1567,7 +1557,7 @@
       "date": "2024-12-11 19:03",
       "author": "运维咖啡吧",
       "timestamp": 1733914981.0,
-      "summary": "嘉兴海宁，两天一晚旅行攻略",
+      "summary": "本文记录了一次从上海到海宁的周末旅行，详细介绍了海宁的文化景点如徐志摩故居、硖石灯彩，以及自然景点如鹃湖公园和神仙湖，展现了海宁丰富的历史文化和美丽的自然风光。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -1677,7 +1667,7 @@
       "date": "2024-12-03 23:33",
       "author": "运维咖啡吧",
       "timestamp": 1733240008.0,
-      "summary": "我们实现了任务流程从编排到执行的清晰可视化，提升了任务执行过程的透明度，使得流程执行过程更加直观，操作更加便捷易用",
+      "summary": "本文详细介绍了如何在运维自动化平台中重构任务系统，提高任务执行的可视化和用户交互体验，遵循BPMN规范并使用bpmn-js进行流程编排和执行。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -1937,7 +1927,7 @@
       "date": "2024-11-14 00:04",
       "author": "运维咖啡吧",
       "timestamp": 1731513874.0,
-      "summary": "经常被这些小事感动，让美好继续发生",
+      "summary": "这篇游记详细介绍了如皋这个小城的生活节奏和特色美食，包括水绘园、李昌钰刑侦技术博物馆等景点，以及如皋的特色小吃如蟹黄小笼、盘水面、烧饼和汤包等，适合对如皋感兴趣或计划前往旅行的朋友。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2057,7 +2047,7 @@
       "date": "2024-11-09 04:32",
       "author": "运维咖啡吧",
       "timestamp": 1731097961.0,
-      "summary": "带你探索那些不知名的烟火小城",
+      "summary": "本文记录了从上海到如皋的两天自驾游经历，探索了如皋的水绘园、定慧禅寺和李昌钰刑侦科学博物馆，体验了如皋的长寿文化和特色美食，感受了这座江苏省小城的历史与文化。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2087,7 +2077,7 @@
       "date": "2024-11-06 23:53",
       "author": "运维咖啡吧",
       "timestamp": 1730908408.0,
-      "summary": "浅谈资产管理系统CMDB如何自动纳管不同来源的资源",
+      "summary": "本文详细介绍了资产系统的三种资源管理方式：多云自动同步、Agent主动上报和手工添加，旨在实现多云与IDC资源的统一管理，提升资源管理的自动化和便捷性。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2377,7 +2367,7 @@
       "date": "2024-10-18 21:26",
       "author": "运维咖啡吧",
       "timestamp": 1729258007.0,
-      "summary": "总结去过的所有景点，把最好玩儿的推荐给你",
+      "summary": "总结皖南旅行中的景点推荐及花费情况，包括黟县、塔川、齐云山等地的详细介绍和旅行开销，为计划前往皖南的旅行者提供参考。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2447,7 +2437,7 @@
       "date": "2024-10-11 21:55",
       "author": "运维咖啡吧",
       "timestamp": 1728654959.0,
-      "summary": "一生痴绝处，无梦到徽州",
+      "summary": "这篇文章记录了皖南自驾游的第14天，游览了西溪南古村落、徽州古城和渔梁坝，体验了清晨的古村宁静、徽州古城的历史底蕴以及渔梁坝的水利工程奇迹，感受了徽州文化的深厚魅力。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2457,7 +2447,7 @@
       "date": "2024-10-10 23:53",
       "author": "运维咖啡吧",
       "timestamp": 1728575621.0,
-      "summary": "这里是现实版的绿野仙踪",
+      "summary": "本次皖南自驾之旅的第13天，文章详细记录了作者参观中国状元博物馆和探访西溪南古村落的经历，描述了古村落的自然美景和丰富的文化遗产，以及在当地的愉快体验和美食推荐。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2477,7 +2467,7 @@
       "date": "2024-10-09 19:14",
       "author": "运维咖啡吧",
       "timestamp": 1728472498.0,
-      "summary": "这里是皖南最美天空村落，云端之城",
+      "summary": "本文记录了从祖源到木梨硔的徒步旅行经历，介绍了木梨硔的历史背景、自然景观以及徒步路线，适合喜欢户外探险和自然风光的旅行者参考。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2497,7 +2487,7 @@
       "date": "2024-10-08 20:04",
       "author": "运维咖啡吧",
       "timestamp": 1728389045.0,
-      "summary": "皖南高山古村落，梦里乡村-祖源",
+      "summary": "在齐云山脚下的休宁县，探索祖源村的高山古韵与徒步古道，体验徽派古村的宁静与美丽。跟随我们的自驾游记，感受皖南的山色与文化，计划前往木梨硔的徒步之旅。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2507,7 +2497,7 @@
       "date": "2024-10-07 22:11",
       "author": "运维咖啡吧",
       "timestamp": 1728310266.0,
-      "summary": "这是一座被严重低估的皖南仙山",
+      "summary": "探索齐云山，这片皖南的仙山，体会其深厚的道教文化和美丽的自然风光。了解如何规划您的齐云山之旅，包括交通、门票信息和必看景点，以及独特的徒步体验。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2547,7 +2537,7 @@
       "date": "2024-10-04 00:03",
       "author": "运维咖啡吧",
       "timestamp": 1727971404.0,
-      "summary": "这里是中国第一状元县",
+      "summary": "本文记录了作者在皖南的第九天旅行，从塔川到齐云山的自驾行程，包括清晨游览塔川、宏村和卢村的见闻，以及在齐云山脚下的夜晚生活。文章还描述了沿途的自然景色和体验，如秋雨、薄雾、板栗采摘等，以及在休宁县的文化体验和美食享受。",
       "source_url": "https://blog.ops-coffee.cn",
       "category": "Blog"
     },
@@ -2889,6 +2879,16 @@
       "timestamp": 1724016600.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-08-12 到 2024-08-18 这周生活的记录与思考。 从 VS Code 转向 Cursor 写代码，聊聊 AI 加持下的编程体验；和学姐在一起 400",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "再读毛选：《中国社会各阶级的分析》",
+      "link": "https://wangyurui.com/posts/du-mao-xuan-zhong-guo-she-hui-ge-jie-ji-de-fen-x-b450e52c",
+      "date": "2024-08-18 09:40",
+      "author": "太隐",
+      "timestamp": 1723945202.0,
+      "summary": "谁是我们的敌人，谁是我们的朋友？",
+      "source_url": "https://wangyurui.com/",
       "category": "Blog"
     },
     {
@@ -7032,6 +7032,66 @@
       "category": "Blog"
     },
     {
+      "title": "[限时] 专业服务器运维工具1Panel Pro买断版促销 永久更新使用仅需698元",
+      "link": "https://www.landiannews.com/archives/108169.html",
+      "date": "2025-03-04 17:24",
+      "author": "蓝点网",
+      "timestamp": 1741080242.0,
+      "summary": "#软件资讯 专业服务器管理面板 1Panel Pro 买断版正在促销，原价 1200 元现价 698 元，买断版支持小版本永久更新。买断版还在开源版基础上提供诸多功能，例如 WAF 防火墙、短信告警、App 端操作、网站监控报表、工单支持等。购买地址：https://ourl.co/108169",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "特朗普命令美国国防部停止对俄罗斯发起网络攻击 不再将俄罗斯黑客视为威胁",
+      "link": "https://www.landiannews.com/archives/108168.html",
+      "date": "2025-03-04 16:32",
+      "author": "蓝点网",
+      "timestamp": 1741077177.0,
+      "summary": "#安全资讯 特朗普命令美国国防部停止对俄罗斯发起网络攻击，同时也不再将俄罗斯黑客视为威胁。据称该决定是在特朗普与泽连斯基会面前就下达的，因此并非因为会面争吵后临时做的决定，但为何会做这种决定就让人非常好奇了。查看全文：https://ourl.co/108168",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "哔哩哔哩视频下载器Bilidown因非法售卖和版权问题停止开发 [附旧版下载]",
+      "link": "https://www.landiannews.com/archives/108167.html",
+      "date": "2025-03-04 16:14",
+      "author": "蓝点网",
+      "timestamp": 1741076078.0,
+      "summary": "#软件资讯 哔哩哔哩视频解析下载工具 Bilidown 已在 1 月 13 日停止维护，旧版本仍然可用但任何问题都需用户自行解决。开发者称考虑到有人在电商网站售卖 Bilidown 以及潜在的版权问题和出于对原创内容的尊重，停止维护该工具。查看全文：https://ourl.co/108167",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "币安宣布在欧盟下架USTD/UST/TUSD/USDP/DAI等多种加密货币稳定币",
+      "link": "https://www.landiannews.com/archives/108166.html",
+      "date": "2025-03-04 15:50",
+      "author": "蓝点网",
+      "timestamp": 1741074622.0,
+      "summary": "#加密货币 加密货币交易所币安在欧盟下架 USDT/UST/FDUSD/TUSD/USDP/DAI/AEUR/USTC/PAXG 等多种加密货币稳定币。这些稳定币不符合欧盟加密资产市场监管条例 MiCA，在 3 月 31 日后用户仍然可以存入或提取这些稳定币，但只能用于兑换其他稳定币，不得买卖其他加...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软将DeepSeek-R1 7B和14B版引入Copilot AI PC 使用NPU单元在本地运行",
+      "link": "https://www.landiannews.com/archives/108165.html",
+      "date": "2025-03-04 15:28",
+      "author": "蓝点网",
+      "timestamp": 1741073336.0,
+      "summary": "#人工智能 微软将 DeepSeek-R1 7B 和 14B 版引入 Copilot+PC，让用户可以通过本地 NPU 单元运行 AI 模型，无需联网和调用 API。不过现阶段这些模式本地运行速度还是很慢的，1.5B 能 40tokens / 秒，而 14B 版速度仅为 8tokens / 秒。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌广告业务(AdSense/AdMob)现已支持将收入提现到PayPal账户",
+      "link": "https://www.landiannews.com/archives/108164.html",
+      "date": "2025-03-04 15:17",
+      "author": "蓝点网",
+      "timestamp": 1741072642.0,
+      "summary": "#科技资讯 谷歌广告业务 Google AdSense、AdMob 和 YouTube AdSense 新增 PayPal 收款，用户可以绑定 PayPal 旗下 HyperWallet 收取谷歌款项。在 Reddit 论坛有不少用户并不待见 PayPal，主要是 PayPal 经常因为风控或其他原...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "AMD RX 9000系列GPU必须使用UEFI 若采用旧版BIOS或CSM可能无法启动",
       "link": "https://www.landiannews.com/archives/108163.html",
       "date": "2025-03-04 11:19",
@@ -7168,66 +7228,6 @@
       "author": "蓝点网",
       "timestamp": 1740968617.0,
       "summary": "#系统资讯 微软重新在 Windows 11 支持页面添加英特尔第 8/9/10 代 CPU 并添加了澄清说明。微软承认之前删除 8/9/10 代处理器是个错误，删除后引起了不少用户的误解，现在更新后用户可以查看完整的满足 Windows 11 硬件要求的英特尔 CPU。查看全文：https://o...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软发布博客解释Windows 11新增的USB4设置 包括不同选项的说明和含义",
-      "link": "https://www.landiannews.com/archives/108129.html",
-      "date": "2025-03-03 10:12",
-      "author": "蓝点网",
-      "timestamp": 1740967931.0,
-      "summary": "#系统资讯 微软发布博客介绍 Windows 11 新增的 USB4 设置选项，包括不同设置选项的介绍和含义等。例如充电速度慢提醒、连接提醒、省电模式等，不过关于 USB4 相关的选项仅在支持 USB4 协议的设备上显示，如果 PC 不支持 USB4 协议，那么用户购买 USB4 外围设备也无法使用...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软建议用户在Windows 11和Server 2025中使用AES算法 而DES算法将被删除",
-      "link": "https://www.landiannews.com/archives/108128.html",
-      "date": "2025-03-03 09:56",
-      "author": "蓝点网",
-      "timestamp": 1740966984.0,
-      "summary": "#系统资讯 微软宣布弃用不再安全的 DES 算法，自 9 月 9 日起 Windows 11 24H2 和 Server 2025 将删除该算法的支持。微软推荐用户使用现代、更安全的 AES 加密算法，但微软不会在旧版 Windows NT 中删除该算法。查看全文：https://ourl.co/1...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "朝鲜黑客集团快速清洗盗取的14亿美元以太坊 34.3万个通过跨链桥被洗白",
-      "link": "https://www.landiannews.com/archives/108127.html",
-      "date": "2025-03-02 16:31",
-      "author": "蓝点网",
-      "timestamp": 1740904271.0,
-      "summary": "#加密货币 朝鲜黑客集团 Lazarus Group 正在快速清洗从 Bybit 盗取的 14 亿美元以太坊，目前已经有 34.3 万个以太坊通过跨链桥洗白。有匿名分析师预计剩下的 15.65 万个以太坊会在未来 3 天完成清洗，被跨链桥兑换的加密货币难以追踪，因此更容易转入交易所变现。查看全文：h...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谋智基金会(Mozilla)旗下开源社区/论坛因拖欠托管费用被设置为只读模式",
-      "link": "https://www.landiannews.com/archives/108126.html",
-      "date": "2025-03-02 16:12",
-      "author": "蓝点网",
-      "timestamp": 1740903139.0,
-      "summary": "#网站应用 谋智基金会旗下开源社区 / 论坛因拖欠托管费用被设置为只读模式，只能查看不能回复、点赞和进行其他操作。托官方是 Discourse，OpenAI 开发者社区也托管这里，但按理说谋智基金会应该不至于拖欠 5000 美元的托管费吧，所以现在具体什么情况还不清楚。查看全文：https://ou...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Windows 10 Mobile商店似乎已经凉凉 启动后白屏或灰屏无法下载应用",
-      "link": "https://www.landiannews.com/archives/108125.html",
-      "date": "2025-03-02 15:53",
-      "author": "蓝点网",
-      "timestamp": 1740902023.0,
-      "summary": "#系统资讯 Microsoft Store for Windows 10 Mobile 商店似乎已经彻底凉凉，启动后出现白屏或灰屏无法下载应用。这并非普遍情况，部分用户仍然可以安装应用但无法访问已购买应用，估计是微软工程师不再积极维护服务器导致的。查看全文：https://ourl.co/10812...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "引起争议后谋智基金会修改Firefox使用条款措辞 但仍然可能用于商业性目的",
-      "link": "https://www.landiannews.com/archives/108124.html",
-      "date": "2025-03-01 12:06",
-      "author": "蓝点网",
-      "timestamp": 1740801976.0,
-      "summary": "#科技资讯 引起争议后 Mozilla 修改 Firefox 使用条款措辞：强调通过 Firefox 上传和输入的数据仍然赋予非独占免版税许可，但不赋予 Mozilla 对该内容的任何所有权。不过这里强调的是所有权而非使用权，所以理论上说 Mozilla 仍然可以使用这些信息用于商业用途。查看全文：...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -7672,16 +7672,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -7808,6 +7798,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
