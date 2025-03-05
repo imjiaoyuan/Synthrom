@@ -2,6 +2,36 @@
   "update_time": "2025-03-05",
   "articles": [
     {
+      "title": "AI 实践｜零成本生成SEO友好的TDK落地方案",
+      "link": "https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html",
+      "date": "2025-03-05 23:01",
+      "author": "运维咖啡吧",
+      "timestamp": 1741186883.0,
+      "summary": "本文介绍如何利用AI自动生成博客SEO友好的TDK信息，包括标题、描述和关键词。通过调用AI模型的API，可以实现文章内容到SEO友好信息的自动化转换，提高博客的搜索引擎排名。",
+      "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
+      "title": "在 Linux 上使用微软套件的最好办法，就是没有办法",
+      "link": "https://cyp0633.icu/post/microsoft-suite-linux/",
+      "date": "2025-03-05 16:49",
+      "author": "cyp0633's Blog",
+      "timestamp": 1741164583.0,
+      "summary": "大半年前，在工位的电脑上装了 EndeavourOS，从此开始了无 Windows 的学习生活尝试。在 Linux 上打大部分游戏都有完善方案的现在，用 Linux 办公仍然是个难题，很神奇吧？拜微软所赐，Linux 上现在还没有我习惯的原生版 MS Office，更没有 OneDrive 和 Of...",
+      "source_url": "https://cyp0633.icu/",
+      "category": "Blog"
+    },
+    {
+      "title": "惊蛰 | 2025 年 2 月小结",
+      "link": "https://thirdshire.com/february-recap-2025/",
+      "date": "2025-03-05 11:00",
+      "author": "第三夏尔 | Third Shire",
+      "timestamp": 1741143601.0,
+      "summary": "本月事件\n\n\n整个二月在不停地下雪，但漫长的冬天终于有了一点点回暖的迹象。我的身体好像也跟万物一起苏醒，逐渐从赖床不起恢复到早睡早起的作息。最近还在适应新的工作节奏，在社交媒体吐槽工作的内容也越来越多了，果然脱离 boreout\n 之后状态就很正常，也算是好事吧。缺点是变忙后我还没完全适应，导致好几...",
+      "source_url": "https://thirdshire.com/",
+      "category": "Blog"
+    },
+    {
       "title": "感觉与社会有种隔离感怎么办？",
       "link": "http://m.wufazhuce.com/question/4308",
       "date": "2025-03-05 06:25",
@@ -2532,16 +2562,6 @@
       "category": "Blog"
     },
     {
-      "title": "毕业旅行｜皖南自驾DAY9 - 休宁",
-      "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day9-yixian-xiuning.html",
-      "date": "2024-10-04 00:03",
-      "author": "运维咖啡吧",
-      "timestamp": 1727971404.0,
-      "summary": "本文记录了作者在皖南的第九天旅行，从塔川到齐云山的自驾行程，包括清晨游览塔川、宏村和卢村的见闻，以及在齐云山脚下的夜晚生活。文章还描述了沿途的自然景色和体验，如秋雨、薄雾、板栗采摘等，以及在休宁县的文化体验和美食享受。",
-      "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
       "title": "香港迪士尼一日游",
       "link": "https://taxodium.ink/hong-kong-disneyland.html",
       "date": "2024-10-04 00:00",
@@ -4992,16 +5012,6 @@
       "category": "Blog"
     },
     {
-      "title": "开始学习织毛线Knitting吧",
-      "link": "https://thirdshire.com/getting-started-knitting/",
-      "date": "2023-10-13 10:00",
-      "author": "第三夏尔 | Third Shire",
-      "timestamp": 1697162400.0,
-      "summary": "注：本文出现的所有中文术语都是我临时查的，如有出入请以英文为准\n为什么喜欢织毛线？\n\n放松大脑。织毛线重复性的动作能帮助大脑放空，让人平静、专注。我是一个时刻绷紧很难放松的人，但专心织毛线时可以达到类似冥想的状态。\n创造性的输出型活动。织毛线是种输出型爱好，从手里一步步制造出东西会很有成就感。而且作...",
-      "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
       "title": "记一次抑郁诊断和开药用药记录",
       "link": "https://blog.stv.lol/article/depression-diagnosis",
       "date": "2023-10-13 08:00",
@@ -5079,16 +5089,6 @@
       "timestamp": 1695859924.0,
       "summary": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (5)，CSS 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (2)，Sw...",
       "source_url": "https://hellogithub.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Armbian + R2S 番外篇：透明代理",
-      "link": "https://cyp0633.icu/post/armbian-r2s-tproxy/",
-      "date": "2023-09-17 20:46",
-      "author": "cyp0633's Blog",
-      "timestamp": 1694954760.0,
-      "summary": "透明代理这个东西说起来很容易理解，就是设备感知不到有的流量被代理，却有开了代理的效果。这个东西对于学习境外内容的体验提升很大，因为部分应用并不遵循系统代理设置，或设置很麻烦。避免将代理配置文件存放在电脑上，也可以防止电脑上的应用窃取代理信息。\n透明代理本身在中文互联网已经是聊烂了的话题，但使用 Nf...",
-      "source_url": "https://cyp0633.icu/",
       "category": "Blog"
     },
     {
@@ -7032,6 +7032,56 @@
       "category": "Blog"
     },
     {
+      "title": "微软推出Copilot AI第五次重大改版 放弃WebView采用原生技术进行开发",
+      "link": "https://www.landiannews.com/archives/108191.html",
+      "date": "2025-03-05 14:24",
+      "author": "蓝点网",
+      "timestamp": 1741155865.0,
+      "summary": "#人工智能 微软推出 Copilot AI 第五次重大更新，终于放弃 WebView 采用 XAML 和 WinUI 开发了原生版。新的原生版响应速度更快、占用的内存更低、支持本机控件等，那现在 Copilot 都放弃了 WebView，Outlook 什么时候才会推到重做呢？查看全文：https:...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "兄弟(Brother)打印机推送新固件禁止使用第三方墨盒 删除旧固件防止用户降级",
+      "link": "https://www.landiannews.com/archives/108193.html",
+      "date": "2025-03-05 14:21",
+      "author": "蓝点网",
+      "timestamp": 1741155699.0,
+      "summary": "#硬件设备 日本打印机制造商兄弟也开始学习惠普和佳能，通过推送固件更新禁止用户使用便宜的第三方墨盒。兄弟打印机还在官网将旧版固件删除，阻止用户尝试下载旧固件进行降级而重新使用第三方墨盒。查看全文：https://ourl.co/108193",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "朝鲜黑客花费10天将价值14亿美元以太坊洗白 约2.8亿美元已经彻底无法追踪",
+      "link": "https://www.landiannews.com/archives/108192.html",
+      "date": "2025-03-05 14:05",
+      "author": "蓝点网",
+      "timestamp": 1741154731.0,
+      "summary": "#加密货币 Bybit 被盗的 14 亿美元以太坊目前已经 100% 洗白，朝鲜黑客集团花费了 10 天通过跨链桥和混币器进行兑换和清洗。链上数据显示当前约有 77% 的资金还可以追踪，价值约 2.8 亿美元的资金通过混币器混淆后目前已经无法再进行追查。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "因需求疲软NAND(闪存)市场在24Q4营收出现下滑 预计在25Q1将大降20%",
+      "link": "https://www.landiannews.com/archives/108190.html",
+      "date": "2025-03-05 13:20",
+      "author": "蓝点网",
+      "timestamp": 1741152059.0,
+      "summary": "#行业资讯 市场调查机构集邦资讯发布的报告显示，因消费者需求疲软 NAND 市场在 2024Q4 营收出现下滑，预计 2025Q1 将大降 20%。集邦咨询称去年年底手机制造商被迫清理库存导致 NAND 价格轻微下滑，但疲软的需求还会延续到 2025Q1 并带来更大的损失。目前 NAND 制造商正在...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "X/Twitter算法推荐新增多种不同的选项 包括按日/周/月/年进行热门排序",
+      "link": "https://www.landiannews.com/archives/108189.html",
+      "date": "2025-03-05 11:49",
+      "author": "蓝点网",
+      "timestamp": 1741146558.0,
+      "summary": "#科技资讯 X/Twitter 算法推荐新增多种不同的选项，让用户可以按照日、周、月、年等进行热门排序。这种类似 Reddit 的推荐模式，让用户快速了解某个特定时间段内的热门信息。查看全文：https://ourl.co/108189",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "[下载] Mozilla Firefox v136.0正式版发布 终于带来垂直选项卡功能",
       "link": "https://www.landiannews.com/archives/108188.html",
       "date": "2025-03-05 11:19",
@@ -7178,56 +7228,6 @@
       "author": "蓝点网",
       "timestamp": 1741056043.0,
       "summary": "#安全资讯 必应搜索出现字节跳动 AI 代码编辑器 Trae 山寨站点，排名第一，各位开发者下载时请仔细辨别。该山寨站点疑似 AI 编辑器类导航，但托管的安装包并非来自字节，如果后续投毒可能会再次引发类似 XcodeGhost 这类事件。查看全文：https://ourl.co/108150",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "日本最高法判决成人视频网站FC2侵犯NicoNico弹幕专利成立",
-      "link": "https://www.landiannews.com/archives/108149.html",
-      "date": "2025-03-04 10:18",
-      "author": "蓝点网",
-      "timestamp": 1741054707.0,
-      "summary": "#行业资讯 日本最高法院判决 FC2 侵犯 NicoNico 弹幕专利成立，即便服务器在海外也可以追溯。各位熟知的 FC2 其实是美国公司，不过主要也是向日本用户提供服务，FC2 也使用视频弹幕功能因而侵犯了 NicoNico 的专利。查看全文：https://ourl.co/108149",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "高通宣布骁龙X85 5G调制解调器 提供更快的速率和高拥堵区域的可靠性",
-      "link": "https://www.landiannews.com/archives/108148.html",
-      "date": "2025-03-04 09:58",
-      "author": "蓝点网",
-      "timestamp": 1741053526.0,
-      "summary": "#科技资讯 高通宣布骁龙 X85/X82 5G 调制解调器，提供更快的速率和在高拥堵区域提供可靠性。X85 是面向 Android 旗舰智能手机推出的，X82 则是面向其他设备例如 PC，不过高通现在也已经同时提供 X85/X82 的 M.2 接口和 LGA 设计图，后续可以集成到无线网卡里。查看全...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "测试显示缺少ROP的RTX 5080性能损失并不低 分辨率越高性能损失越严重",
-      "link": "https://www.landiannews.com/archives/108147.html",
-      "date": "2025-03-03 15:49",
-      "author": "蓝点网",
-      "timestamp": 1740988159.0,
-      "summary": "#硬件设备 测试显示缺少 ROP 渲染单元的 RTX 5080 性能损失并不低，游戏分辨率越高性能损失越严重，不过平均确实在 3%~4% 之间。YouTube 创作者的测试表明真实游戏时只有个别游戏达到 12% 的差距，不过即便是 4% 玩家也应该联系显卡制造商进行换货。查看全文：https://o...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌正在开发邮件盾(Shielded Email) 为用户生成随机邮箱注册账号隐藏真实邮箱",
-      "link": "https://www.landiannews.com/archives/108146.html",
-      "date": "2025-03-03 15:28",
-      "author": "蓝点网",
-      "timestamp": 1740986910.0,
-      "summary": "#软件资讯 谷歌正在开发邮件盾 (Shielded Email) 服务，为用户生成随机邮箱注册账号从而隐藏自己的真实邮箱。大家都知道邮箱泄露后可能会收到各种推销和骚扰邮件，借助该功能用户不必暴露真实邮箱，也可以随时停止这些随机邮箱。查看全文：https://ourl.co/108146",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "荣耀(Honor)宣布将为旗舰设备提供7年软件和安全更新 率先从欧洲市场开始",
-      "link": "https://www.landiannews.com/archives/108145.html",
-      "date": "2025-03-03 15:15",
-      "author": "蓝点网",
-      "timestamp": 1740986134.0,
-      "summary": "#手机数码 荣耀 (Honor) 宣布将为旗舰设备提供 7 年软件和安全更新，率先从欧洲市场开始。首先获得支持的设备是 Honor Magic 7 Pro，荣耀暂时未透露还有哪些设备可获得支持，但后续应该也会逐渐扩展支持的市场。查看全文：https://ourl.co/108145",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
