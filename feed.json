@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-05",
+  "update_time": "2025-03-06",
   "articles": [
     {
       "title": "AI 实践｜零成本生成SEO友好的TDK落地方案",
@@ -9,6 +9,16 @@
       "timestamp": 1741186883.0,
       "summary": "本文介绍如何利用AI自动生成博客SEO友好的TDK信息，包括标题、描述和关键词。通过调用AI模型的API，可以实现文章内容到SEO友好信息的自动化转换，提高博客的搜索引擎排名。",
       "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
+      "title": "中国的分税制改革与土地财政",
+      "link": "https://zhangke.space/%e4%b8%ad%e5%9b%bd%e7%9a%84%e5%88%86%e7%a8%8e%e5%88%b6%e6%94%b9%e9%9d%a9%e4%b8%8e%e5%9c%9f%e5%9c%b0%e8%b4%a2%e6%94%bf/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25b8%25ad%25e5%259b%25bd%25e7%259a%2584%25e5%2588%2586%25e7%25a8%258e%25e5%2588%25b6%25e6%2594%25b9%25e9%259d%25a9%25e4%25b8%258e%25e5%259c%259f%25e5%259c%25b0%25e8%25b4%25a2%25e6%2594%25bf",
+      "date": "2025-03-05 20:40",
+      "author": "张可的博客",
+      "timestamp": 1741178401.0,
+      "summary": "前段时间看了置身事内这本书，今天就来盘一下税改和土地财政这个与我们息息相关的话题。 QuickView 199 [&#8230;]\nThe post 中国的分税制改革与土地财政 first appeared on 张可的博客.",
+      "source_url": "https://zhangke.space",
       "category": "Blog"
     },
     {
@@ -1839,16 +1849,6 @@
       "timestamp": 1732647659.0,
       "summary": "中文播客的前世今生\nRSS 20年 小宇宙负责人 Kyth 在20年写的文章。\n\n播客客户端Overcast的开发者Marco Arment非常享受播客行业的现状，并对Spotify这些new money嗤之以鼻。他向来的观点就是：播客这个花园之所以实现了一定程度上的长尾、繁荣、大家自得其乐，就是因...",
       "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
-      "title": "我的阅读观",
-      "link": "https://zhangke.space/%e6%88%91%e7%9a%84%e9%98%85%e8%af%bb%e8%a7%82/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2588%2591%25e7%259a%2584%25e9%2598%2585%25e8%25af%25bb%25e8%25a7%2582",
-      "date": "2024-11-25 22:11",
-      "author": "张可的博客",
-      "timestamp": 1732543895.0,
-      "summary": "我之前思考过几个关于阅读的问题： 我最早开始阅读主要是从小说开始的，尤其是科幻类型的小说，从刘慈欣到阿西莫夫和 [&#8230;]\nThe post 我的阅读观 first appeared on 张可的博客.",
-      "source_url": "https://zhangke.space",
       "category": "Blog"
     },
     {
