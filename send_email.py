@@ -8,11 +8,30 @@ from email.utils import formataddr
 from datetime import datetime, timedelta
 import pytz
 import ssl
+import argparse
 
 def load_config():
     """加载邮件配置"""
     with open('config/email.yml', 'r', encoding='utf-8') as f:
         return yaml.safe_load(f)
+
+def get_beijing_time_window():
+    beijing_tz = pytz.timezone('Asia/Shanghai')
+    now = datetime.datetime.now(beijing_tz)
+    
+    # 获取今天的早上8点
+    today_8am = now.replace(hour=8, minute=0, second=0, microsecond=0)
+    
+    # 如果现在还不到早上8点，就用昨天早上8点到今天早上8点
+    # 如果已经过了早上8点，就用今天早上8点到明天早上8点
+    if now.hour < 8:
+        end_time = today_8am
+        start_time = end_time - datetime.timedelta(days=1)
+    else:
+        start_time = today_8am
+        end_time = start_time + datetime.timedelta(days=1)
+    
+    return start_time, end_time
 
 def get_today_articles():
     """从feed.json中获取今天早8点到昨天早8点的文章"""
@@ -306,5 +325,27 @@ def send_email():
         print(f"邮件发送失败: {str(e)}")
         raise
 
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--beijing-time', action='store_true', 
+                       help='使用北京时间计算时间窗口（早8点到早8点）')
+    parser.add_argument('--time-window', type=int, 
+                       help='过去N小时的时间窗口')
+    args = parser.parse_args()
+    
+    if args.beijing_time:
+        start_time, end_time = get_beijing_time_window()
+    else:
+        # 保持原有的时间窗口逻辑
+        end_time = datetime.datetime.now(pytz.UTC)
+        start_time = end_time - datetime.timedelta(hours=args.time_window or 24)
+    
+    # 获取在时间窗口内的所有文章
+    articles = get_articles_in_timewindow(start_time, end_time)
+    
+    # 如果有文章才发送邮件
+    if articles:
+        send_email(articles)
+
 if __name__ == '__main__':
-    send_email() 
+    main() 
