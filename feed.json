@@ -2,6 +2,36 @@
   "update_time": "2025-03-06",
   "articles": [
     {
+      "title": "对你来说，什么是浪漫？",
+      "link": "http://m.wufazhuce.com/question/4309",
+      "date": "2025-03-06 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1741213502.0,
+      "summary": "6  Mar. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            ONE一个工作室问\n        \n        \n        对你来说，什么是浪漫？\n    \n\n    \n\n            \n            朱德...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "血色河流",
+      "link": "http://m.wufazhuce.com/article/6715",
+      "date": "2025-03-06 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1741213502.0,
+      "summary": "6  Mar. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／末梢\n\t\n\t&nbsp;疾病与关于疾病的想象，回忆与关于回忆的想象，在我的身体里生长出来，它们真切且实际。*那件事发生以后，我买来了HIV测试纸。我用刮眉刀割开纸壳子中央的黄色胶带，将测纸，稀释液，采血针，酒精棉一件件取出来，...",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
+      "title": "VOL.4534",
+      "link": "http://m.wufazhuce.com/one/4684",
+      "date": "2025-03-06 06:25",
+      "author": "ONE · 一个",
+      "timestamp": 1741213502.0,
+      "summary": "6  Mar. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4534摄影 | Karina Vorozheeva\n\t6\n\tMar. 2025\n\t\n\t人变老，只是一种身体上外表的现象，丝毫不能改变我们内心深处的、经历了几十年仍始终保持不变的愚蠢的自我。\t\n\n\n\n\n &nbsp;",
+      "source_url": "http://wufazhuce.com",
+      "category": "Blog"
+    },
+    {
       "title": "AI 实践｜零成本生成SEO友好的TDK落地方案",
       "link": "https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html",
       "date": "2025-03-05 23:01",
@@ -39,36 +69,6 @@
       "timestamp": 1741143601.0,
       "summary": "本月事件\n\n\n整个二月在不停地下雪，但漫长的冬天终于有了一点点回暖的迹象。我的身体好像也跟万物一起苏醒，逐渐从赖床不起恢复到早睡早起的作息。最近还在适应新的工作节奏，在社交媒体吐槽工作的内容也越来越多了，果然脱离 boreout\n 之后状态就很正常，也算是好事吧。缺点是变忙后我还没完全适应，导致好几...",
       "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "感觉与社会有种隔离感怎么办？",
-      "link": "http://m.wufazhuce.com/question/4308",
-      "date": "2025-03-05 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1741127103.0,
-      "summary": "5  Mar. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            好奇地问\n        \n        \n        感觉与社会有种隔离感怎么办？\n    \n\n    \n\n            \n            西小麦答...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "离心分离",
-      "link": "http://m.wufazhuce.com/article/6714",
-      "date": "2025-03-05 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1741127103.0,
-      "summary": "5  Mar. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／姚杰懿\n\t\n\t&nbsp;万事万物但凡与&ldquo;最后一次&rdquo;有了关联，多少会带上一些感伤的色彩。成年人的时间就是金钱。谈恋爱的时候没发现，爱情长跑十来年，到了工作后，越来越感觉到，没时间。更要命的是，也没金钱。...",
-      "source_url": "http://wufazhuce.com",
-      "category": "Blog"
-    },
-    {
-      "title": "VOL.4533",
-      "link": "http://m.wufazhuce.com/one/4683",
-      "date": "2025-03-05 06:25",
-      "author": "ONE · 一个",
-      "timestamp": 1741127103.0,
-      "summary": "5  Mar. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4533摄影 | Brawny\n\t5\n\tMar. 2025\n\t\n\t就算跌倒受伤，但过段时间痊愈后就必须重新站起来，这就是人类。\t\n\n\n\n\n &nbsp;",
-      "source_url": "http://wufazhuce.com",
       "category": "Blog"
     },
     {
@@ -7032,6 +7032,76 @@
       "category": "Blog"
     },
     {
+      "title": "阿里通义千问团队开源QwQ-32B模型 规模更小但性能媲美DeepSeek-R1-671B",
+      "link": "https://www.landiannews.com/archives/108211.html",
+      "date": "2025-03-06 11:11",
+      "author": "蓝点网",
+      "timestamp": 1741230688.0,
+      "summary": "#人工智能 阿里通义千问团队开源 QwQ-32B 模型，规模更小但性能媲美 DeepSeek-R1-671B 模型。该模型通过 RL 强化学习进行训练并提高模型的推理能力，同时也集成相关代理能够让模型利用工具的同时进行批判性思考。查看全文：https://ourl.co/108211",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "欺诈者利用安卓版Telegram漏洞推送恶意软件 用户应当谨慎点击未知来源信息",
+      "link": "https://www.landiannews.com/archives/108210.html",
+      "date": "2025-03-06 10:55",
+      "author": "蓝点网",
+      "timestamp": 1741229708.0,
+      "summary": "#安全资讯 欺诈者正在利用 Telegram for Android 的漏洞推送恶意软件，该漏洞与去年 6 月自动下载漏洞类似。欺诈者将特制的 htm 文件发送给用户后会显示为嵌入式视频，用户点击时会提示无法播放需要跳转外部浏览器，然后做个 Google Play 钓鱼页面诱导用户安装恶意 APK。...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌搜索开始测试AI模式 提问时可以手动切换AI模式获得人工智能生成的回答",
+      "link": "https://www.landiannews.com/archives/108209.html",
+      "date": "2025-03-06 10:36",
+      "author": "蓝点网",
+      "timestamp": 1741228565.0,
+      "summary": "#人工智能 谷歌搜索测试新的 AI 模式，在搜索栏顶部点击 AI 模式后即可进入对话式页面，这里提问由 AI 生成结果不再提供传统搜索结果链接。谷歌称 AI 生成回答的时间是传统谷歌搜索的两倍，但用户只需要花费传统搜索结果 1/4 的时间就可以解决问题因此还是可以大幅度提高效率。查看全文：https...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软发布支持文档公布Microsoft Store出现0x80131500等错误代码的解决办法",
+      "link": "https://www.landiannews.com/archives/108208.html",
+      "date": "2025-03-06 10:12",
+      "author": "蓝点网",
+      "timestamp": 1741227157.0,
+      "summary": "#技术教程 微软发布支持文档公布微软商店出现 0x80131500 等错误代码的解决方案，和蓝点网 6 年前发布的解决方案相同。引起该问题的根源其实是 Internet 选项中的 TLS 协议被篡改，6 年前蓝点网花费大量时间进行排查才发现这个问题，是某些第三方软件例如部分银行的安全助手篡改的。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌向美国司法部提交声明称强制拆分Chrome将造成安全和经济问题",
+      "link": "https://www.landiannews.com/archives/108207.html",
+      "date": "2025-03-06 09:50",
+      "author": "蓝点网",
+      "timestamp": 1741225825.0,
+      "summary": "#科技资讯 谷歌向美国司法部提交声明称强制拆分 Chrome 将造成安全和经济问题，希望通过其他方式解决监管机构的担忧。此前美国司法部计划强制拆分 Chrome 甚至是 Android 系统以解决谷歌搜索的垄断问题，如果真拆分对谷歌来说算是伤筋动骨了，谷歌非常不希望核心业务被拆分出去。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "兄弟打印机回应更新固件禁止使用第三方墨盒：啊？有这种事？我们怎么不知道",
+      "link": "https://www.landiannews.com/archives/108195.html",
+      "date": "2025-03-06 09:36",
+      "author": "蓝点网",
+      "timestamp": 1741224993.0,
+      "summary": "#科技资讯 兄弟打印机就固件更新限制第三方墨盒发布回应，但回应更糟糕简直就是公然说谎。兄弟打印机称固件更新不会限制使用第三方墨盒，用户遇到的问题可能是故障排除步骤中产生的误解。查看全文：https://ourl.co/108195",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软发布新文档介绍Windows 11智能活动功能 帮助用户减少随机更新重启",
+      "link": "https://www.landiannews.com/archives/108194.html",
+      "date": "2025-03-06 09:18",
+      "author": "蓝点网",
+      "timestamp": 1741223886.0,
+      "summary": "#系统资讯 微软发布新文档介绍 Windows 11 智能活动功能，帮助用户减少随机更新重启问题。目前 Windows 10/11 都是自动下载安装更新，因此有时候会自动重启系统完成更新，智能活动并非新功能但可以学习用户日常使用时间，在使用时间外重启安装更新。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软推出Copilot AI第五次重大改版 放弃WebView采用原生技术进行开发",
       "link": "https://www.landiannews.com/archives/108191.html",
       "date": "2025-03-05 14:24",
@@ -7158,76 +7228,6 @@
       "author": "蓝点网",
       "timestamp": 1741077177.0,
       "summary": "#安全资讯 特朗普命令美国国防部停止对俄罗斯发起网络攻击，同时也不再将俄罗斯黑客视为威胁。据称该决定是在特朗普与泽连斯基会面前就下达的，因此并非因为会面争吵后临时做的决定，但为何会做这种决定就让人非常好奇了。查看全文：https://ourl.co/108168",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "哔哩哔哩视频下载器Bilidown因非法售卖和版权问题停止开发 [附旧版下载]",
-      "link": "https://www.landiannews.com/archives/108167.html",
-      "date": "2025-03-04 16:14",
-      "author": "蓝点网",
-      "timestamp": 1741076078.0,
-      "summary": "#软件资讯 哔哩哔哩视频解析下载工具 Bilidown 已在 1 月 13 日停止维护，旧版本仍然可用但任何问题都需用户自行解决。开发者称考虑到有人在电商网站售卖 Bilidown 以及潜在的版权问题和出于对原创内容的尊重，停止维护该工具。查看全文：https://ourl.co/108167",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "币安宣布在欧盟下架USTD/UST/TUSD/USDP/DAI等多种加密货币稳定币",
-      "link": "https://www.landiannews.com/archives/108166.html",
-      "date": "2025-03-04 15:50",
-      "author": "蓝点网",
-      "timestamp": 1741074622.0,
-      "summary": "#加密货币 加密货币交易所币安在欧盟下架 USDT/UST/FDUSD/TUSD/USDP/DAI/AEUR/USTC/PAXG 等多种加密货币稳定币。这些稳定币不符合欧盟加密资产市场监管条例 MiCA，在 3 月 31 日后用户仍然可以存入或提取这些稳定币，但只能用于兑换其他稳定币，不得买卖其他加...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软将DeepSeek-R1 7B和14B版引入Copilot AI PC 使用NPU单元在本地运行",
-      "link": "https://www.landiannews.com/archives/108165.html",
-      "date": "2025-03-04 15:28",
-      "author": "蓝点网",
-      "timestamp": 1741073336.0,
-      "summary": "#人工智能 微软将 DeepSeek-R1 7B 和 14B 版引入 Copilot+PC，让用户可以通过本地 NPU 单元运行 AI 模型，无需联网和调用 API。不过现阶段这些模式本地运行速度还是很慢的，1.5B 能 40tokens / 秒，而 14B 版速度仅为 8tokens / 秒。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌广告业务(AdSense/AdMob)现已支持将收入提现到PayPal账户",
-      "link": "https://www.landiannews.com/archives/108164.html",
-      "date": "2025-03-04 15:17",
-      "author": "蓝点网",
-      "timestamp": 1741072642.0,
-      "summary": "#科技资讯 谷歌广告业务 Google AdSense、AdMob 和 YouTube AdSense 新增 PayPal 收款，用户可以绑定 PayPal 旗下 HyperWallet 收取谷歌款项。在 Reddit 论坛有不少用户并不待见 PayPal，主要是 PayPal 经常因为风控或其他原...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "AMD RX 9000系列GPU必须使用UEFI 若采用旧版BIOS或CSM可能无法启动",
-      "link": "https://www.landiannews.com/archives/108163.html",
-      "date": "2025-03-04 11:19",
-      "author": "蓝点网",
-      "timestamp": 1741058382.0,
-      "summary": "#硬件设备 AMD 新发布的支持文档宣布 RDNA 4 开始所有显卡仅支持 UEFI 模式，例如最新推出的 RX 9000 系列可能无法在旧版 BIOS 或 CSM 模式下启动。AMD 称如果用户设备没有 UEFI 或安全启动支持，则应该购买新电脑以发挥 RX 9000 最佳性能。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌开始自动禁用Chrome中安装的基于V2的uBlock Origin广告拦截扩展程序",
-      "link": "https://www.landiannews.com/archives/108151.html",
-      "date": "2025-03-04 10:53",
-      "author": "蓝点网",
-      "timestamp": 1741056818.0,
-      "summary": "#软件资讯 谷歌开始自动禁用 Chrome 中安装的基于 V2 的 uBlock Origin 广告拦截程序，禁用后无任何通知。用户仍然可以转到扩展页面再次启用，但这种情况持续到 6 月份就会被强制禁用，到时候用户只能安装拦截效果稍微差些的 uBlock Origin Lite 版。查看全文：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "必应搜索出现字节跳动AI代码编辑器Trae山寨网站 排名第一下载时请仔细辨别",
-      "link": "https://www.landiannews.com/archives/108150.html",
-      "date": "2025-03-04 10:40",
-      "author": "蓝点网",
-      "timestamp": 1741056043.0,
-      "summary": "#安全资讯 必应搜索出现字节跳动 AI 代码编辑器 Trae 山寨站点，排名第一，各位开发者下载时请仔细辨别。该山寨站点疑似 AI 编辑器类导航，但托管的安装包并非来自字节，如果后续投毒可能会再次引发类似 XcodeGhost 这类事件。查看全文：https://ourl.co/108150",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -7672,16 +7672,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 将在越南开设研发中心以推动 AI 发展",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development/",
-      "date": "2024-12-05 16:19",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 发布 2025 财年第三季度财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-third-quarter-fiscal-2025/",
       "date": "2024-11-20 14:31",
@@ -7808,6 +7798,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724721386.0,
       "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布适用于 OpenUSD 语言、几何体、物理学和材质的生成式 AI 模型与 NIM 微服务",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd/",
+      "date": "2024-07-29 23:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1722265200.0,
+      "summary": "丹佛—SIGGRAPH—当地时间 2024 年 7 月 29 日——NVIDIA 于今日发布通用场景描述 (O",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
