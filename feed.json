@@ -2,6 +2,16 @@
   "update_time": "2025-03-07",
   "articles": [
     {
+      "title": "科技爱好者周刊（第 340 期）：技术炒作三十年",
+      "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html",
+      "date": "2025-03-07 08:11",
+      "author": "阮一峰的网络日志",
+      "timestamp": 1741306296.0,
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n成都建筑师刘家琨，本周获得号称\"建筑界诺贝尔奖\"的普利兹克奖，上图是他的作品苏州御窑金砖博物馆。（via）\n\n技...",
+      "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
       "title": "一周的心情｜本周小记精选",
       "link": "http://m.wufazhuce.com/question/4310",
       "date": "2025-03-07 06:25",
@@ -829,16 +839,6 @@
       "timestamp": 1737786602.0,
       "summary": "作为开放互联网的拥趸，当初我是秉承着互联网分享精神，觉得二次分发也未尝不可，所以除了生活小结型的博文有标明 “禁止转载”，其他干货分享型博文均应用了 CC-BY-NC-SA 协议\n\n\n\n\n。",
       "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
-      "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html",
-      "date": "2025-01-24 08:06",
-      "author": "阮一峰的网络日志",
-      "timestamp": 1737677174.0,
-      "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周春节假期，周刊休息。）\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n香港历史建筑\"和昌大押\"，布置了一条盘旋两层楼的金蛇，迎接蛇年。（via）...",
-      "source_url": "http://www.ruanyifeng.com/blog/",
       "category": "Blog"
     },
     {
@@ -3992,6 +3992,16 @@
       "category": "Blog"
     },
     {
+      "title": "一个六岁开源项目的崩溃与新生",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
+      "date": "2024-03-11 03:29",
+      "author": "Hi, DIYgod",
+      "timestamp": 1710098945.0,
+      "summary": "我有一个维护了六年的开源项目—— RSSHub，它正在面临崩溃\n\n表面上，它有接近 30k Stars、900 多 Contributors、每月 3 亿多次请求和数不清的用户、每月几十刀的赞助、有源源不断的 issue 和 pr、代码几乎每天更新，非常健康和充满活力",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "2024 香港银行开户指北",
       "link": "https://kowyo.com/post/my-first-master-card/",
       "date": "2024-03-10 22:07",
@@ -4139,6 +4149,16 @@
       "timestamp": 1708397520.0,
       "summary": "根据官方教程 Tracing 一章写成。原示例代码1和文中代码均以 GPLv2 发布。\n大家都知道仿真的目的是得到有价值的输出以进行分析，但对特定的分析目的来说，不同的输出方式可能分析效率不同。比如使用日志输出，其粒度仅为源代码文件和日志等级，对于更细的控制则略显不足，且日志输出的稳定性不作保证，可...",
       "source_url": "https://cyp0633.icu/",
+      "category": "Blog"
+    },
+    {
+      "title": "和帕鲁生活在一起的两周",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
+      "date": "2024-02-19 03:20",
+      "author": "Hi, DIYgod",
+      "timestamp": 1708284033.0,
+      "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -4332,6 +4352,16 @@
       "category": "Blog"
     },
     {
+      "title": "Twitter 对开源项目发起 DDoS 攻击",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
+      "date": "2024-01-28 18:24",
+      "author": "Hi, DIYgod",
+      "timestamp": 1706437493.0,
+      "summary": "背景 Twitter 被马斯克收购后，从去年 8 月开始，他们对开源第三方集成和第三方客户端进行了一系列明里暗里的打压和攻击，这样做是为了阻止用户通过非官方客户端访问和使用 Twitter，来增加公司的广告和会员营收\n\n而开源社区中以 Nitter 和 RSSHub…",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "也来谈谈这次的 Bulma + UnoCSS 界面重写",
       "link": "https://blog.gxres.net/posts/talk-about-rebuild-with-bulma-and-unocss",
       "date": "2024-01-28 08:00",
@@ -4402,6 +4432,16 @@
       "category": "Blog"
     },
     {
+      "title": "如何优雅编译一个 Markdown 文档",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
+      "date": "2024-01-18 20:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1705582237.0,
+      "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "凡所有相，皆是虚妄",
       "link": "https://hutusi.com/articles/awareness-2023-review",
       "date": "2024-01-14 20:05",
@@ -4459,6 +4499,16 @@
       "timestamp": 1704803673.0,
       "summary": "算不上卡粉，也不想能开尽开，只是希望能够有个真的能够用得上的境外账户。而作为学生，本次记录应该也可作为零开参考。",
       "source_url": "https://blog.ichr.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "2023 平稳过渡",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
+      "date": "2024-01-08 22:23",
+      "author": "Hi, DIYgod",
+      "timestamp": 1704723798.0,
+      "summary": "发小觉得今年经历了巨大的变化，从苏格兰搬到新加坡，从未婚到已婚，从一家两口变成了一家三口，但我觉得都在预料之中，所以感觉还算很平稳",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -4639,6 +4689,16 @@
       "timestamp": 1702824003.0,
       "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
       "source_url": "https://www.ntiy.com",
+      "category": "Blog"
+    },
+    {
+      "title": "轻松创建一万个 Twitter 账号",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2292",
+      "date": "2023-12-15 18:14",
+      "author": "Hi, DIYgod",
+      "timestamp": 1702635286.0,
+      "summary": "Twitter 在 8 月决定了全面限制公开访问和 API 接口，导致第三方集成均无法再正常工作。开放用户数据被绑架成私人敛财工具，曾经的 Open Web 标杆 Twitter 竟沦落到这种境地，数字奴隶制在最不应该的地方出现，令人唏嘘",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -5132,6 +5192,16 @@
       "category": "Blog"
     },
     {
+      "title": "优雅使用 Cloudflare WARP 应对  RSSHub 反爬难题",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2022",
+      "date": "2023-08-18 06:01",
+      "author": "Hi, DIYgod",
+      "timestamp": 1692309711.0,
+      "summary": "🕊️ 本文送给更开放的互联网 起因是看到 @geekbb 介绍 Warp 的推文。尽管 Warp 已经发布了很长时间，就保护 IP 隐私而言，它并没有 iCloud Private Relay 好用，我也没有魔法上网的需求。但是我突然意识到，我还是有隐藏 IP 的需求。\n\n在开…",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "月刊（第22期）：当下的快乐",
       "link": "https://blog.ursb.me/posts/weekly-22/",
       "date": "2023-08-13 15:55",
@@ -5139,6 +5209,16 @@
       "timestamp": 1691913336.0,
       "summary": "本篇是对二〇二三年五月至八月生活的记录与思考。\n最近周末比较忙导致断更了，感谢催更同学的关注：\n💐 当下的快乐\n本文标题来源于莪默·伽亚谟《鲁拜集》——“享受当下的快乐，因为这一刻正是你的人生。”\n\nPS. 我一直把月刊中的文章定位为“自我对话”，只有对话结果满意的文章我才会拿出来修整一番重新在博客...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "在博客融入一个跨平台作品集",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1957",
+      "date": "2023-08-08 06:34",
+      "author": "Hi, DIYgod",
+      "timestamp": 1691447658.0,
+      "summary": "长久以来# 我一直将个人博客视为一个理想的展示个人 IP 的 “个人网站”，而不仅仅是发布文章的平台。我曾在 2014 年初学编程时使用 WordPress 建站 《世界，你好！》；入了前端坑后，在 2017 年我转向了 Hexo 《做了一点微小的改动》；Web3 飞升后…",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -5219,6 +5299,16 @@
       "timestamp": 1689582747.0,
       "summary": "期待已久的碟中谍7终于上映，按照顶配 IMAX 观影。时长163分钟是系列最长，观影结束后最大的问题也出现在这 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blog"
+    },
+    {
+      "title": "对 Newsletter 说不",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1825",
+      "date": "2023-07-13 02:31",
+      "author": "Hi, DIYgod",
+      "timestamp": 1689186673.0,
+      "summary": "衰退无处不在，这是很正常的现象。人们自然而然地更倾向于短平快的消费方式。然而，我一直无法忍受的一种奇怪趋势是，在一些地方，人们将 RSS 抛弃，转而使用 Newsletter。 本质上，电子邮件是一种私密的双向通信机制，而 RSS 是一种开放的单向通信机制…",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -5392,6 +5482,16 @@
       "category": "Blog"
     },
     {
+      "title": "4 月新番太好看了！吹爆！",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1614",
+      "date": "2023-05-25 07:32",
+      "author": "Hi, DIYgod",
+      "timestamp": 1684971149.0,
+      "summary": "今年从 1 月就一直没什么好看的作品，到了 4 月突然爆发，让我非常激动。现在播出过半了，是时候好好说说感受了 以下当然不能囊括 4 月所有的好作品，因为实在太多了，只是说一说符合我口味的几部，按我个人的喜爱程度来排序\n\n以下会包含大量剧透，还没看的小伙伴请酌情观看\n\n鬼灭之刃刀匠…",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "MacOS 窗口管理器 yabai 玩耍笔记",
       "link": "https://thiscute.world/posts/macos-window-manager-yabai-usage/?utm_source=atom_feed",
       "date": "2023-05-22 12:24",
@@ -5502,6 +5602,16 @@
       "category": "Blog"
     },
     {
+      "title": "我得了软件更新强迫症",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=914",
+      "date": "2023-04-09 07:00",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680994800.0,
+      "summary": "我必须让身边所有软件都保持最新版本，就像走路不能踩到地砖缝缝一样，没有意义，但也危害不大，所以我放任它发展",
+      "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
       "title": "月刊（第20期）：重启人生",
       "link": "https://blog.ursb.me/posts/weekly-20/",
       "date": "2023-04-02 21:53",
@@ -5509,6 +5619,16 @@
       "timestamp": 1680443630.0,
       "summary": "本篇是对二〇二三年三月生活的记录与思考。\n🎬 本月书影音\n\n在读：小说 |《德米安》 | ★★★★★\n在读：小说 |《少年巴比伦》| ★★★★★\n在读：文学 |《西方文学史》| ★★★★☆\n看完：日剧 |《重启人生》| ★★★★★★\n看完：韩剧 |《黑暗荣耀》 | ★★★★★\n看完：美剧 |《最后生...",
       "source_url": "https://blog.ursb.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "令我痛心的三部反乌托邦动漫",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=764",
+      "date": "2023-04-02 12:50",
+      "author": "Hi, DIYgod",
+      "timestamp": 1680411000.0,
+      "summary": "四月对我而言是一个充满悲伤的月份。尽管《四月是你的谎言》已经过去了很多年，但每当看到「四月」这两个字，仍会立刻触发我的 PTSD，再加上今天我刚读完一本反乌托邦题材的小说《来自新世界》。多种思绪糅杂在一起，让我不禁回想起了那些令我痛心的「重量级」反乌托邦动漫",
+      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -6912,6 +7032,56 @@
       "category": "Blog"
     },
     {
+      "title": "AMD RX 9070系列显卡难以维持建议零售价 这些显卡将在首发后溢价销售",
+      "link": "https://www.landiannews.com/archives/108216.html",
+      "date": "2025-03-07 11:25",
+      "author": "蓝点网",
+      "timestamp": 1741317934.0,
+      "summary": "#硬件设备 AMD RX 9070 系列显卡难以维持建议零售价，有消息称 AMD 向零售商提供了额外的首发折扣，一旦首发库存结束后零售商就会涨价。尽管 AMD 称新显卡的库存较为充足，但实际情况就是需求量非常大，零售商仍然可以加价卖出这些显卡。查看全文：https://ourl.co/108216",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "有传闻称RTX50系移动版显卡也缺少渲染单元 英伟达否认并要求合作伙伴调查",
+      "link": "https://www.landiannews.com/archives/108215.html",
+      "date": "2025-03-07 10:56",
+      "author": "蓝点网",
+      "timestamp": 1741316184.0,
+      "summary": "#硬件资讯 有报告称 RTX50 系移动版也存在缺少渲染单元的问题，英伟达否认该从传闻并要求合作伙伴进行检查。英伟达称 RTX50 系移动版不受缺少 ROP 的影响，但英伟达也联系了报告此问题的德国媒体希望获得详细的反馈信息。查看全文：https://ourl.co/108215",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "美光推出基于PCIe 6.x协议的首款固态硬盘原型产品 顺序读取速度27GB/秒",
+      "link": "https://www.landiannews.com/archives/108214.html",
+      "date": "2025-03-07 10:38",
+      "author": "蓝点网",
+      "timestamp": 1741315136.0,
+      "summary": "#硬件设备 美光推出基于 PCIe 6.x 协议的首款固态硬盘，顺序读取速度达到 27.14GB / 秒，不过这只是原型产品。这些固态硬盘会率先用于数据中心领域为 AI 训练和推理助力，消费级市场估计还要再等 2~3 年吧。查看全文：https://ourl.co/108214",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌开发的安卓原生Linux终端应用现已发布 运行虚拟机为开发者提供Linux环境",
+      "link": "https://www.landiannews.com/archives/108213.html",
+      "date": "2025-03-07 10:21",
+      "author": "蓝点网",
+      "timestamp": 1741314114.0,
+      "summary": "#系统资讯 谷歌开发的安卓原生的 Linux 终端应用现已发布，通过运行虚拟机为专业用户提供 Linux 环境。该应用目前仅支持 Pixel 系列设备，首次使用时需要下载 Debian 系统，启动后用户即可在虚拟机里执行各类命令，后续也将能够运行 Linux GUI 软件。查看全文：https://...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "西部数据退出固态硬盘市场专注机械硬盘 NAND和SSD业务转移至闪迪",
+      "link": "https://www.landiannews.com/archives/108212.html",
+      "date": "2025-03-07 10:05",
+      "author": "蓝点网",
+      "timestamp": 1741313146.0,
+      "summary": "#科技资讯 西部数据宣布完全退出固态硬盘市场，后续不再生产 NAND、SSD 和销售 SSD。接下来西部数据 NAND 和 SSD 业务都将由闪迪接手，西部数据将专注于自己的机械硬盘市场，闪迪负责运营 NAND 工厂和开拓 SSD 市场。查看全文：https://ourl.co/108212",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "阿里通义千问团队开源QwQ-32B模型 规模更小但性能媲美DeepSeek-R1-671B",
       "link": "https://www.landiannews.com/archives/108211.html",
       "date": "2025-03-06 11:11",
@@ -7058,56 +7228,6 @@
       "author": "蓝点网",
       "timestamp": 1741142702.0,
       "summary": "#软件资讯 微软正式推出具有人工智能支持的新版记事本应用，提供 AI 重写功能可以帮助用户修改文本段落、格式、语气、缩短或扩充文本。该功能需要订阅 Microsoft 365 或 Copilot Pro 后才能使用，但不订阅也不影响正常使用记事本，只是不能使用 AI 功能。查看全文：https://...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "日监管机构批准USDC美元稳定币 USDC成为首个可在日本使用的美元稳定币",
-      "link": "https://www.landiannews.com/archives/108172.html",
-      "date": "2025-03-05 10:30",
-      "author": "蓝点网",
-      "timestamp": 1741141800.0,
-      "summary": "#加密货币 日本监管机构批准 USDC 美元稳定币在日本范围内合法使用，USDC 成为全球首个可以合法在日本使用的美元稳定币。USDC 在合规性方面做得远比 USDT 要好，所以在全球不少市场 USDC 都可以合法使用的。查看全文：https://ourl.co/108172",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌正式为Android系统带来基于AI的诈骗检测 自动检测来电对话是否为诈骗",
-      "link": "https://www.landiannews.com/archives/108171.html",
-      "date": "2025-03-05 10:15",
-      "author": "蓝点网",
-      "timestamp": 1741140947.0,
-      "summary": "#系统资讯 谷歌正式为 Android 系统推出诈骗检测功能，由 Google Gemini Nano 模型驱动，通话开始时自动检测对话所说的内容判断是否为诈骗电话。考虑到隐私问题，该功能仅在本地运行 AI 模型且不会保存任何数据，因此只有算力能够支撑 AI 模型运行的智能手机才可以使用此功能。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "博通发布安全公告透露VMware等多款产品安全漏洞 有证据表明漏洞已遭到黑客利用",
-      "link": "https://www.landiannews.com/archives/108170.html",
-      "date": "2025-03-05 09:39",
-      "author": "蓝点网",
-      "timestamp": 1741138747.0,
-      "summary": "#安全资讯 博通发布安全公告透露 VMware 等多款产品中存在的高危安全漏洞，有证据表明这些漏洞已经遭到黑客利用属于 0day 范畴。借助漏洞攻击者可以穿透虚拟机进入宿主机的虚拟机管理程序，进而可以访问这台宿主机上的所有虚拟机，甚至还可以借助内部网络攻击其他服务器。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[限时] 专业服务器运维工具1Panel Pro买断版促销 永久更新使用仅需698元",
-      "link": "https://www.landiannews.com/archives/108169.html",
-      "date": "2025-03-04 17:24",
-      "author": "蓝点网",
-      "timestamp": 1741080242.0,
-      "summary": "#软件资讯 专业服务器管理面板 1Panel Pro 买断版正在促销，原价 1200 元现价 698 元，买断版支持小版本永久更新。买断版还在开源版基础上提供诸多功能，例如 WAF 防火墙、短信告警、App 端操作、网站监控报表、工单支持等。购买地址：https://ourl.co/108169",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "特朗普命令美国国防部停止对俄罗斯发起网络攻击 不再将俄罗斯黑客视为威胁",
-      "link": "https://www.landiannews.com/archives/108168.html",
-      "date": "2025-03-04 16:32",
-      "author": "蓝点网",
-      "timestamp": 1741077177.0,
-      "summary": "#安全资讯 特朗普命令美国国防部停止对俄罗斯发起网络攻击，同时也不再将俄罗斯黑客视为威胁。据称该决定是在特朗普与泽连斯基会面前就下达的，因此并非因为会面争吵后临时做的决定，但为何会做这种决定就让人非常好奇了。查看全文：https://ourl.co/108168",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
