@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 import pytz
 import ssl
 import argparse
+import time
 
 def load_config():
     """加载邮件配置"""
@@ -38,33 +39,24 @@ def get_today_articles():
     with open('feed.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    # 使用北京时间
     tz = pytz.timezone('Asia/Shanghai')
     now = datetime.now(tz)
     
-    # 计算今天早上8点（北京时间）
     today = now.strftime('%Y-%m-%d')
     today_8am = f"{today} 08:00:00"
     yesterday = (now - timedelta(days=1)).strftime('%Y-%m-%d')
     yesterday_8am = f"{yesterday} 08:00:00"
     
-    print(f"筛选时间范围: {yesterday_8am} 到 {today_8am}")
-    
-    # 筛选时间窗口内的文章
     today_articles = []
     for article in data['articles']:
         try:
             article_date = article['date']
-            print(f"文章: {article['title']}, 时间: {article_date}")
-            
             if yesterday_8am <= article_date < today_8am:
                 today_articles.append(article)
-                print(f"✓ 文章已添加: {article['title']}")
         except (ValueError, TypeError) as e:
-            print(f"处理文章时间时出错: {e}")
+            print(f"错误: 处理文章时间出错 - {e}")
             continue
     
-    print(f"共找到 {len(today_articles)} 篇文章")
     return today_articles
 
 def generate_email_content(articles):
@@ -256,96 +248,76 @@ def generate_email_content(articles):
 
 def send_email():
     """发送邮件"""
-    print("开始加载邮件配置...")
     config = load_config()
     if not config['email']['enabled']:
-        print("邮件通知未启用")
         return
     
-    print("开始获取时间窗口内的文章...")
     articles = get_today_articles()
     if not articles:
-        print("时间窗口内没有新文章")
         return
     
-    print(f"找到 {len(articles)} 篇文章")
-    print("开始生成邮件内容...")
     html_content = generate_email_content(articles)
     
-    # 获取环境变量中的SMTP配置
     smtp_server = os.environ.get('SMTP_SERVER')
     smtp_port = os.environ.get('SMTP_PORT')
     sender_email = os.environ.get('SENDER_EMAIL')
     sender_password = os.environ.get('SENDER_PASSWORD')
     
     if not all([smtp_server, smtp_port, sender_email, sender_password]):
-        raise ValueError("缺少SMTP配置信息")
+        raise ValueError("错误: 缺少SMTP配置信息")
     
-    print(f"SMTP配置: {smtp_server}:{smtp_port}")
-    print(f"发件人: {sender_email}")
-    
-    # 创建邮件
     msg = MIMEMultipart('alternative')
     msg['Subject'] = '今日RSS更新'
-    msg['From'] = formataddr(('RSS Reader', sender_email))  # 添加发件人名称
+    msg['From'] = formataddr(('RSS Reader', sender_email))
     msg['To'] = ', '.join(config['email']['recipients'])
     
-    # 添加纯文本版本
     text_content = "请使用支持HTML的邮件客户端查看此邮件。"
     msg.attach(MIMEText(text_content, 'plain', 'utf-8'))
-    
-    # 添加HTML版本
     msg.attach(MIMEText(html_content, 'html', 'utf-8'))
     
-    # 发送邮件
     try:
-        print("开始连接SMTP服务器...")
-        context = ssl.create_default_context()
+        server = smtplib.SMTP_SSL(smtp_server, smtp_port)
+        server.login(sender_email, sender_password)
+        server.send_message(msg)
+        print("✓ 邮件发送成功")
+        return True
         
-        # 直接使用SSL连接（端口465）
-        print("使用SSL连接...")
-        server = smtplib.SMTP_SSL(smtp_server, 465, context=context)
+    except smtplib.SMTPException as e:
+        print(f"✗ 邮件发送失败: {str(e)}")
+        return False
         
-        try:
-            print("开始登录...")
-            server.login(sender_email, sender_password)
-            print("登录成功")
-            
-            print("开始发送邮件...")
-            server.send_message(msg)
-            print("邮件发送成功")
-        except Exception as e:
-            print(f"操作失败: {str(e)}")
-            raise
-        finally:
-            print("关闭连接...")
-            server.quit()
-            
     except Exception as e:
-        print(f"邮件发送失败: {str(e)}")
-        raise
+        print(f"✗ 发生错误: {str(e)}")
+        return False
+        
+    finally:
+        try:
+            server.quit()
+        except:
+            pass
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--beijing-time', action='store_true', 
-                       help='使用北京时间计算时间窗口（早8点到早8点）')
-    parser.add_argument('--time-window', type=int, 
-                       help='过去N小时的时间窗口')
+    parser.add_argument('--beijing-time', action='store_true')
+    parser.add_argument('--time-window', type=int)
     args = parser.parse_args()
     
     if args.beijing_time:
         start_time, end_time = get_beijing_time_window()
     else:
-        # 保持原有的时间窗口逻辑
         end_time = datetime.datetime.now(pytz.UTC)
         start_time = end_time - datetime.timedelta(hours=args.time_window or 24)
     
-    # 获取在时间窗口内的所有文章
     articles = get_articles_in_timewindow(start_time, end_time)
     
-    # 如果有文章才发送邮件
     if articles:
-        send_email(articles)
+        max_retries = 3
+        for i in range(max_retries):
+            if send_email():
+                break
+            if i < max_retries - 1:
+                print(f"✗ 第{i+1}次尝试失败,5秒后重试...")
+                time.sleep(5)
 
 if __name__ == '__main__':
     main() 
