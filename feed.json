@@ -1292,6 +1292,16 @@
       "category": "Blog"
     },
     {
+      "title": "时间与人生——我的 2024 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
+      "date": "2024-12-29 18:07",
+      "author": "旅行者的随想",
+      "timestamp": 1735466825.0,
+      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -3552,6 +3562,16 @@
       "category": "Blog"
     },
     {
+      "title": "Next SSR 开发与实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
+      "date": "2024-05-05 00:24",
+      "author": "旅行者的随想",
+      "timestamp": 1714839840.0,
+      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "从最小二乘法到正态分布：高斯是如何找到失踪的谷神星的？",
       "link": "https://www.longluo.me/blog/least-squares-and-normal-distribution/",
       "date": "2024-05-02 10:35",
@@ -3779,6 +3799,16 @@
       "timestamp": 1712361600.0,
       "summary": "一天夜晚里我正在刷推文，刷到了一个我关注的 dalao 发的推文，源头是「DNSPod 创始人奶罩把一个抽象员工开了」。然后我在那里留下了我的疑惑，成功被扣上了我自认为的「帽子」。嗯，故事就是这么开始的。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
+      "date": "2024-04-03 11:43",
+      "author": "旅行者的随想",
+      "timestamp": 1712115780.0,
+      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -4602,6 +4632,16 @@
       "category": "Blog"
     },
     {
+      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
+      "date": "2023-12-19 23:55",
+      "author": "旅行者的随想",
+      "timestamp": 1703001300.0,
+      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "cody waite",
       "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
@@ -5082,6 +5122,16 @@
       "category": "Blog"
     },
     {
+      "title": "嗯学英语核心业务设计实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
+      "date": "2023-08-31 16:12",
+      "author": "旅行者的随想",
+      "timestamp": 1693469520.0,
+      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 89 期",
       "link": "https://hellogithub.com/periodical/volume/89",
       "date": "2023-08-28 08:07",
@@ -5382,6 +5432,16 @@
       "category": "Blog"
     },
     {
+      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
+      "date": "2023-05-19 08:30",
+      "author": "旅行者的随想",
+      "timestamp": 1684456200.0,
+      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "我的笔记管理法",
       "link": "https://lutaonan.com/blog/how-do-i-take-note",
       "date": "2023-05-13 08:00",
@@ -5439,6 +5499,16 @@
       "timestamp": 1682641232.0,
       "summary": "本期共有 45 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "时间与人生——我的第一个开源产品经历",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
+      "date": "2023-04-26 17:07",
+      "author": "旅行者的随想",
+      "timestamp": 1682500020.0,
+      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -5512,6 +5582,16 @@
       "category": "Blog"
     },
     {
+      "title": "时间与人生——编码的意义",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
+      "date": "2023-03-20 11:38",
+      "author": "旅行者的随想",
+      "timestamp": 1679283480.0,
+      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "近期使用电脑的一些习惯改变",
       "link": "https://imzm.im/how-i-change-about-using-pc/",
       "date": "2023-03-14 15:33",
@@ -5559,6 +5639,16 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "时间与人生——网络、生活",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
+      "date": "2023-02-27 15:40",
+      "author": "旅行者的随想",
+      "timestamp": 1677483600.0,
+      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -5672,6 +5762,16 @@
       "category": "Blog"
     },
     {
+      "title": "珍珠之歌——我的 2022 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
+      "date": "2022-12-31 10:00",
+      "author": "旅行者的随想",
+      "timestamp": 1672452001.0,
+      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -5739,6 +5839,16 @@
       "timestamp": 1669559883.0,
       "summary": "本文介绍我使用 PVE 的一些心得（不保证正确 emmmm），可能需要一定使用经验才能顺畅阅读。\n\n前言我在去年的文章 「QEMU/KVM 虚拟化环境的搭建与使用」 中介绍了如何使用\nQEMU/KVM 作为桌面虚拟化软件，其功能对标开源免费的Oracle VM VirtualBox 以及收费但是用户...",
       "source_url": "https://thiscute.world/",
+      "category": "Blog"
+    },
+    {
+      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
+      "date": "2022-11-17 16:08",
+      "author": "旅行者的随想",
+      "timestamp": 1668672531.0,
+      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -5829,6 +5939,16 @@
       "timestamp": 1664723100.0,
       "summary": "看完张宏杰的《饥饿的盛世》，对乾隆的认识加深了些。历史学家说清朝的没落是从乾隆开始的，而这有西方崛起东方衰落的历史趋势，但也跟乾隆的性格有很大关系。乾隆治下，中国的人口首次突破三亿，实际控制的领土面积也达到了历史的巅峰。而另一方面，闭关锁国、奴性臣民也达到了历史的巅峰。说清史，不得不说乾隆。",
       "source_url": "https://hutusi.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Dynamic k8s 集群实现方案",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
+      "date": "2022-09-29 09:43",
+      "author": "旅行者的随想",
+      "timestamp": 1664415832.0,
+      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -6812,6 +6932,36 @@
       "category": "Blog"
     },
     {
+      "title": "微软改进Windows 11资源管理器和开始菜单 想要找到新文件终于更容易了",
+      "link": "https://www.landiannews.com/archives/108237.html",
+      "date": "2025-03-08 12:35",
+      "author": "蓝点网",
+      "timestamp": 1741408553.0,
+      "summary": "#系统资讯 微软改进 Windows 11 资源管理器主页和开始菜单，资源管理器主页现在顶部会轮播最近变动的文件例如下载的文件或修改的文件。开始菜单则会猜测用户要打开哪些应用，比如用户经常用 Word 和 Excel，则会将这俩折叠在一起，点击时会同时打开这两个应用。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "LastPass被黑后续：瑞波币联合创始人数据被爆破后被盗取2400万美元加密货币",
+      "link": "https://www.landiannews.com/archives/108235.html",
+      "date": "2025-03-08 12:04",
+      "author": "蓝点网",
+      "timestamp": 1741406669.0,
+      "summary": "#安全资讯 密码管理器 LastPass 数据泄露后续：瑞波币 (XRP) 联合创始人被盗 2400 万美元 (目前已经扣押应该可以返还)。黑客通过暴力破解 LastPass 用户主密码从而解开数据库找到了钱包恢复密钥，研究人员还指责 LastPass 非常业务且不负责任，现在的安全机制仍然存在漏洞...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "55岁程序员被裁员前在项目里预留死人开关 一旦自己账号被停用就启动恶意代码",
+      "link": "https://www.landiannews.com/archives/108234.html",
+      "date": "2025-03-08 11:41",
+      "author": "蓝点网",
+      "timestamp": 1741405316.0,
+      "summary": "#行业资讯 55 岁的美国程序员在被裁员前在项目代码里预留死人开关，一旦自己的账号被停用就启动恶意代码让公司服务器崩溃。这段代码主要监视他的公司 AAD 账户是否为启用状态，当检测到停用后就循环创建进程把服务器资源耗尽直到崩溃。查看全文：https://ourl.co/108234",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "美国司法部重申谷歌应拆分Chrome浏览器解决垄断问题 但不再要求拆分安卓系统",
       "link": "https://www.landiannews.com/archives/108233.html",
       "date": "2025-03-08 11:14",
@@ -6992,36 +7142,6 @@
       "category": "News"
     },
     {
-      "title": "谷歌向美国司法部提交声明称强制拆分Chrome将造成安全和经济问题",
-      "link": "https://www.landiannews.com/archives/108207.html",
-      "date": "2025-03-06 09:50",
-      "author": "蓝点网",
-      "timestamp": 1741225825.0,
-      "summary": "#科技资讯 谷歌向美国司法部提交声明称强制拆分 Chrome 将造成安全和经济问题，希望通过其他方式解决监管机构的担忧。此前美国司法部计划强制拆分 Chrome 甚至是 Android 系统以解决谷歌搜索的垄断问题，如果真拆分对谷歌来说算是伤筋动骨了，谷歌非常不希望核心业务被拆分出去。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "兄弟打印机回应更新固件禁止使用第三方墨盒：啊？有这种事？我们怎么不知道",
-      "link": "https://www.landiannews.com/archives/108195.html",
-      "date": "2025-03-06 09:36",
-      "author": "蓝点网",
-      "timestamp": 1741224993.0,
-      "summary": "#科技资讯 兄弟打印机就固件更新限制第三方墨盒发布回应，但回应更糟糕简直就是公然说谎。兄弟打印机称固件更新不会限制使用第三方墨盒，用户遇到的问题可能是故障排除步骤中产生的误解。查看全文：https://ourl.co/108195",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软发布新文档介绍Windows 11智能活动功能 帮助用户减少随机更新重启",
-      "link": "https://www.landiannews.com/archives/108194.html",
-      "date": "2025-03-06 09:18",
-      "author": "蓝点网",
-      "timestamp": 1741223886.0,
-      "summary": "#系统资讯 微软发布新文档介绍 Windows 11 智能活动功能，帮助用户减少随机更新重启问题。目前 Windows 10/11 都是自动下载安装更新，因此有时候会自动重启系统完成更新，智能活动并非新功能但可以学习用户日常使用时间，在使用时间外重启安装更新。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "在 NVIDIA GTC 2025 大会上探索 RTX AI PC 和工作站如何强效助力 AI 开发",
       "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-gtc-2025-sessions/",
       "date": "2025-02-27 23:35",
@@ -7049,16 +7169,6 @@
       "timestamp": 1740578400.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
-      "date": "2025-02-26 22:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1740578400.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -7467,7 +7577,7 @@
       "date": "2024-12-05 16:19",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -7588,6 +7698,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724846989.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
+      "date": "2024-08-27 09:16",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724721386.0,
+      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
