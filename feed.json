@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-09",
+  "update_time": "2025-03-10",
   "articles": [
     {
       "title": "猫鱼周刊 vol. 059 可拷的代码",
@@ -2092,16 +2092,6 @@
       "category": "Blog"
     },
     {
-      "title": "Hackergame 2024 思路小结",
-      "link": "https://blog.stv.lol/article/hackergame-2024",
-      "date": "2024-11-09 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1731110400.0,
-      "summary": "本文总结了作者在Hackergame 2024 CTF比赛中通过多种技巧和工具解决各类难题的经验。",
-      "source_url": "https://blog.stv.lol/",
-      "category": "Blog"
-    },
-    {
       "title": "游记｜常来长寿，如皋如歌。这一站南通如皋",
       "link": "https://blog.ops-coffee.cn/r/city-china-jiangsu-nantong-rugao.html",
       "date": "2024-11-09 04:32",
@@ -2179,26 +2169,6 @@
       "timestamp": 1730680920.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-10-29 到 2024-11-03 这周生活的记录与思考。 最近不知怎的又久违地开始折腾开发环境和设备了。 在 Ares 的技术支",
       "source_url": "https://www.pseudoyu.com/zh/",
-      "category": "Blog"
-    },
-    {
-      "title": "黑客松、日本、入职：我的2024下半年的总结",
-      "link": "https://blog.stv.lol/article/hackathon-japan-onboarding-2024-h2-summary",
-      "date": "2024-11-04 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1730678400.0,
-      "summary": "作者在下半年经历了充实的生活，参与了杭州Adventure X黑客松并获得了两个赛道的三等奖，期间结识了许多志同道合的朋友。随后，作者计划并实现了去日本的旅行，参观了Dify在东京的活动，并在此期间考虑了加入Dify的可能性。回国后，作者成功入职Dify，体验了开放的工作环境，并反思了传统教育体系的...",
-      "source_url": "https://blog.stv.lol/",
-      "category": "Blog"
-    },
-    {
-      "title": "NotionNext：基于Notion和NextJS的开源博客",
-      "link": "https://blog.stv.lol/article/notionnext",
-      "date": "2024-11-04 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1730678400.0,
-      "summary": "作者之前使用树莓派4B托管博客，但因忘记SSH密码和Typecho系统性能问题，决定迁移至Notion平台。选择Notion因其专注于写作且支持AI辅助，适合记录和分享内容。通过NotionNext项目，作者实现了自定义域名的博客搭建，并使用Cloudflare Pages进行部署，利用其全球加速节...",
-      "source_url": "https://blog.stv.lol/",
       "category": "Blog"
     },
     {
@@ -5012,16 +4982,6 @@
       "category": "Blog"
     },
     {
-      "title": "记一次抑郁诊断和开药用药记录",
-      "link": "https://blog.stv.lol/article/depression-diagnosis",
-      "date": "2023-10-13 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1697155200.0,
-      "summary": "记录了一次抑郁症的诊断和用药经历，描述了长期的焦虑抑郁状态及其症状，包括注意力下降和健忘。经过医院咨询后，医生诊断为焦虑抑郁状态，并开了盐酸文拉法辛作为治疗药物。用药初期出现了一些副作用，但也带来了注意力的改善。作者强调了社会对心理健康的忽视，并呼吁关注心理健康，及时就医。",
-      "source_url": "https://blog.stv.lol/",
-      "category": "Blog"
-    },
-    {
       "title": "2023 国庆观影记录",
       "link": "https://imzm.im/oct-2023-watched-movies/",
       "date": "2023-10-07 15:39",
@@ -5812,16 +5772,6 @@
       "category": "Blog"
     },
     {
-      "title": "记录雅思考试经历与一点学习心得",
-      "link": "https://blog.stv.lol/article/ielts-test-review",
-      "date": "2023-01-06 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1672963200.0,
-      "summary": "本文作者分享了两次雅思考试的经历和心得。第一次考试因准备不足和身体不适导致成绩不理想，主要问题在于口语。第二次考试前，作者通过参加口语课程和刷题等方式进行了充分准备，成绩有所提升，但口语仍需加强。作者认为，明确学习目的和目标、注重语法和表达、多练习口语是提高雅思成绩的关键。此外，作者还讨论了机考与笔...",
-      "source_url": "https://blog.stv.lol/",
-      "category": "Blog"
-    },
-    {
       "title": "2022，平安喜乐",
       "link": "https://blog.ursb.me/posts/summary-2022/",
       "date": "2023-01-02 23:44",
@@ -5859,16 +5809,6 @@
       "timestamp": 1672185956.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (4)，C# 项目 (2)，C++ 项目 (3)，CSS 项目 (2)，Go 项目 (5)，Java 项目 (4)，JavaScript 项目 (5)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能...",
       "source_url": "https://hellogithub.com",
-      "category": "Blog"
-    },
-    {
-      "title": "我的2022年终小结",
-      "link": "https://blog.stv.lol/article/2022-yearly-review",
-      "date": "2022-12-26 08:00",
-      "author": "Steven Lynn’s Blog",
-      "timestamp": 1672012800.0,
-      "summary": "2022年对作者来说是充满挑战和失望的一年。年初购买了Nintendo Switch OLED，但很快失去了兴趣。专业分流时未能转专业，导致后续的后悔。经济上，由于美联储加息和币圈熊市，作者在投资中损失惨重。情感上，经历了一段短暂且无实质的网络恋情。学业和学生会工作也未能带来满足感。年末，面对国内经...",
-      "source_url": "https://blog.stv.lol/",
       "category": "Blog"
     },
     {
@@ -7272,6 +7212,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
+      "date": "2025-02-26 22:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1740578400.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "图像和视频理解的视觉语言模型提示工程实践指南",
       "link": "https://developer.nvidia.com/zh-cn/blog/vision-language-model-prompt-engineering-guide-for-image-and-video-understanding/",
       "date": "2025-02-26 14:49",
@@ -7612,22 +7562,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
       "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -7677,7 +7627,7 @@
       "date": "2024-12-05 16:19",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1733386798.0,
-      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现 公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政",
+      "summary": "NVIDIA 宣布将在越南开设首个研发中心，展现公司对越南 AI 发展前景的信心。 NVIDIA 正与越南政府",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
@@ -7798,16 +7748,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1724846989.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 携手全球合作伙伴推出 NIM Agent Blueprint，助力企业打造属于自己的 AI",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai/",
-      "date": "2024-08-27 09:16",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1724721386.0,
-      "summary": "加利福尼亚州圣克拉拉—2024 年 8 月 27 日—NVIDIA 于今日发布预训练、可定制 AI 工作流目录",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
