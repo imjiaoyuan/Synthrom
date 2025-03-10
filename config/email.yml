@@ -1,5 +1,0 @@
-# 邮件通知配置
-email:
-  enabled: true                # 是否启用邮件通知
-  recipients:                  # 收件人列表
-    - imjiaoyuan@gmail.com

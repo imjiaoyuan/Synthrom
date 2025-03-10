@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RSS Reader</title>
+    <title>Synthrom</title>
     <link rel="icon" href="static/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="static/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="static/style.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 </head>
 <body>
     <header class="header">
         <div class="header-main">
-            <div class="site-title">
+            <div class="site-title" style="cursor: pointer;" onclick="reloadPage()">
                 <i class="mdi mdi-rss-box"></i>
-                <span>RSS</span>
+                <span>Synthrom</span>
             </div>
             <nav class="nav-items">
                 <div class="category-item active" data-category="Blog">
@@ -46,6 +46,16 @@
     </nav>
     <main class="articles" id="articles"></main>
     <script>
+        // 重载页面函数
+        function reloadPage() {
+            // 重置当前分类
+            currentCategory = 'Blog';
+            // 更新导航状态
+            updateActiveCategory(currentCategory);
+            // 重新加载文章
+            loadArticles(currentCategory);
+        }
+
         const GITHUB_REPO = 'imjiaoyuan/RSS';
 
         function escapeString(str) {
@@ -375,12 +385,23 @@
         /* 移除文章卡片的阴影动画和上浮效果 */
         .article {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: color 0.2s;  /* 仅保留颜色变化效果 */
+            transition: none;  /* 移除所有过渡效果 */
         }
 
         .article:hover {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             transform: none;  /* 移除上浮效果 */
+        }
+
+        /* 已读文章的样式 */
+        .article.read {
+            opacity: 0.7;
+            transition: none;  /* 移除过渡效果 */
+        }
+
+        .article.read:hover {
+            opacity: 1;
+            transition: opacity 0.2s;  /* 只在hover时添加透明度过渡 */
         }
 
         /* 移除导航项的动画效果，仅保留颜色变化 */

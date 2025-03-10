@@ -21,6 +21,7 @@ def get_feed_category(feed_url, feed_list_content):
     return 'Blog'  # 默认分类为 Blog
 
 def fetch_feeds():
+    """抓取所有订阅源并生成feed.json"""
     # 加载标签配置
     with open('config/labels.yml', 'r', encoding='utf-8') as f:
         label_config = yaml.safe_load(f)
@@ -37,6 +38,7 @@ def fetch_feeds():
     
     for feed_url in feeds:
         try:
+            print(f"正在抓取: {feed_url}")
             feed = feedparser.parse(feed_url)
             category = get_feed_category(feed_url, feed_list_content)
             
@@ -51,13 +53,13 @@ def fetch_feeds():
             for entry in entries:
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 if published:
-                    dt = datetime(*published[:6])
-                    dt = pytz.UTC.localize(dt)
-                    beijing_tz = pytz.timezone('Asia/Shanghai')
-                    dt = dt.astimezone(beijing_tz)
-                    published_str = dt.strftime('%Y-%m-%d %H:%M')
+                    # 直接从struct_time创建datetime对象
+                    dt = datetime(
+                        *published[:6],  # 解包年月日时分秒
+                        tzinfo=pytz.UTC  # 设置为UTC时区
+                    ).astimezone(pytz.timezone('Asia/Shanghai'))  # 转换为北京时区
                 else:
-                    published_str = ''
+                    dt = datetime.now(pytz.timezone('Asia/Shanghai'))
                 
                 summary = ''
                 if 'summary' in entry:
@@ -70,16 +72,16 @@ def fetch_feeds():
                 article = {
                     'title': entry.title,
                     'link': entry.link,
-                    'date': published_str,
+                    'date': dt.strftime('%Y-%m-%d %H:%M'),
                     'author': feed.feed.title,
-                    'timestamp': dt.timestamp() if published else 0,
+                    'timestamp': dt.timestamp(),
                     'summary': summary or '无摘要',
                     'source_url': feed.feed.link or feed_url,
                     'category': category
                 }
                 articles_by_category[category].append(article)
         except Exception as e:
-            print(f"Error fetching {feed_url}: {str(e)}")
+            print(f"抓取 {feed_url} 失败: {str(e)}")
             continue
     
     # 对每个分类的文章进行排序
@@ -96,10 +98,7 @@ def fetch_feeds():
         news_articles = articles_by_category['News']
         news_articles.sort(key=lambda x: x['timestamp'], reverse=True)
         all_articles.extend(news_articles)
-    
-    # 不需要最终排序，保持Blog在前News在后的顺序
-    # all_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-    
+
     data = {
         'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d'),
         'articles': all_articles
@@ -131,61 +130,5 @@ def load_feed_config():
     
     return {'feeds': feeds}
 
-def fetch_all_feeds():
-    """抓取所有订阅源的文章"""
-    config = load_feed_config()
-    
-    # 确保posts目录存在
-    posts_dir = Path('posts')
-    posts_dir.mkdir(exist_ok=True)
-    
-    # 获取中国时区
-    tz = pytz.timezone('Asia/Shanghai')
-    today = datetime.now(tz).date()
-    
-    for feed in config['feeds']:
-        try:
-            print(f"正在抓取: {feed['url']}")
-            parsed = feedparser.parse(feed['url'])
-            
-            # 使用真实的源标题
-            feed_title = parsed.feed.get('title', feed['url'])
-            
-            for entry in parsed.entries[:10]:  # 每个源最多取10篇
-                # 解析发布时间
-                published = entry.get('published_parsed') or entry.get('updated_parsed')
-                if published:
-                    date = datetime.fromtimestamp(
-                        datetime.fromtimestamp(
-                            datetime.fromtimestamp(published).timestamp()
-                        ).timestamp(), 
-                        tz
-                    )
-                else:
-                    date = datetime.now(tz)
-                
-                # 只保存今天的文章
-                if date.date() == today:
-                    post = {
-                        'title': entry.title,
-                        'link': entry.link,
-                        'date': date.isoformat(),
-                        'source': feed_title,
-                        'category': feed['category'],
-                        'summary': entry.get('summary', '暂无描述')
-                    }
-                    
-                    # 使用文章标题作为文件名(过滤非法字符)
-                    safe_title = "".join(c for c in entry.title if c.isalnum() or c in (' ', '-', '_'))
-                    filename = f"{safe_title[:50]}.yml"
-                    
-                    with open(posts_dir / filename, 'w', encoding='utf-8') as f:
-                        yaml.dump(post, f, allow_unicode=True)
-                        
-        except Exception as e:
-            print(f"抓取 {feed['url']} 失败: {str(e)}")
-            continue
-
 if __name__ == '__main__':
     fetch_feeds()
-    fetch_all_feeds() 

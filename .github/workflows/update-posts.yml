@@ -1,12 +1,9 @@
 name: Update RSS Feeds
 on:
   schedule:
-    # RSS抓取：UTC 22:00, 03:00, 12:00 (北京时间 06:00, 11:00, 20:00)
     - cron: '0 22 * * *'
     - cron: '0 3 * * *'
     - cron: '0 12 * * *'
-    # 邮件发送：UTC 00:00 (北京时间 08:00)
-    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-feeds:
@@ -32,18 +29,6 @@ jobs:
     - name: Get current hour (UTC)
       id: current-hour
       run: echo "hour=$(date -u '+%H')" >> $GITHUB_OUTPUT
-    
-    - name: Send email notification
-      if: steps.current-hour.outputs.hour == '00' || (github.event_name == 'workflow_dispatch' && contains(github.event.inputs.action, 'email'))
-      env:
-        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
-        SMTP_PORT: ${{ secrets.SMTP_PORT }}
-        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-        SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
-      run: |
-        # 使用北京时间计算时间窗口
-        # 从前一天早上8点到当天早上8点的文章
-        python3 send_email.py --beijing-time
     
     - name: Deploy
       run: |
