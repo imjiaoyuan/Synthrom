@@ -1,6 +1,26 @@
 {
-  "update_time": "2025-03-10",
+  "update_time": "2025-03-11",
   "articles": [
+    {
+      "title": "使用 Cursor 进行 Code Review（简易版）",
+      "link": "https://ameow.xyz/archives/simple-code-review-with-cursor",
+      "date": "2025-03-10 23:21",
+      "author": "阿猫的博客",
+      "timestamp": 1741620105.0,
+      "summary": "前言\n周刊介绍了未来已来？-- 基于 cursor 的 ai code review这篇文章，马上仿照文章的方式给项目配了一个 mdc（之前的 .cursorrule），效果还不错，快马加鞭分享一下。\n配置\n首先是按 Cmd + Shift + P 呼出命令面板，输入 rule ，选择 File: ...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
+      "title": "诗心剑胆：陆游的烽火人生",
+      "link": "https://wangyurui.com/posts/lu-you-de-ren-sheng-2ad7617f",
+      "date": "2025-03-10 23:10",
+      "author": "太隐",
+      "timestamp": 1741619416.0,
+      "summary": "朔风卷起檐角残雪，案头烛火在铜雀灯台间摇曳出斑驳暗影。八十五载光阴如枯叶簌簌坠落，陆游倚在越州老宅的病榻上，分明听见汴梁城的铁马踏碎了江南残梦。浑浊的瞳孔里，靖康之变的烽烟仍在燃烧，沈园的桃花飘落成血色，南郑的角弓犹在铮鸣。他颤抖着推开侍儿递来的汤药，枯枝般的手指攥紧狼毫——这支笔写过《平戎策》的锋...",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
     {
       "title": "你觉得自己享受过时代红利吗？",
       "link": "http://m.wufazhuce.com/question/4312",
@@ -2272,16 +2292,6 @@
       "category": "Blog"
     },
     {
-      "title": "猫鱼周刊 vol. 045 技术无国界，但利益有",
-      "link": "https://ameow.xyz/archives/weekly-045",
-      "date": "2024-10-27 18:16",
-      "author": "阿猫的博客",
-      "timestamp": 1730024215.0,
-      "summary": "关于本刊\n\n 这是猫鱼周刊的第 46 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n更优雅的 RSS 使用指南\n原文链接\n最近...",
-      "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
       "title": "开源的心情：杂志、画画与创业公司",
       "link": "https://kowyo.com/post/openauto-and-opensource/",
       "date": "2024-10-26 13:25",
@@ -2889,16 +2899,6 @@
       "timestamp": 1724016600.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-08-12 到 2024-08-18 这周生活的记录与思考。 从 VS Code 转向 Cursor 写代码，聊聊 AI 加持下的编程体验；和学姐在一起 400",
       "source_url": "https://www.pseudoyu.com/zh/",
-      "category": "Blog"
-    },
-    {
-      "title": "再读毛选：《中国社会各阶级的分析》",
-      "link": "https://wangyurui.com/posts/du-mao-xuan-zhong-guo-she-hui-ge-jie-ji-de-fen-x-b450e52c",
-      "date": "2024-08-18 09:40",
-      "author": "太隐",
-      "timestamp": 1723945202.0,
-      "summary": "谁是我们的敌人，谁是我们的朋友？",
-      "source_url": "https://wangyurui.com/",
       "category": "Blog"
     },
     {
