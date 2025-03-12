@@ -6972,6 +6972,36 @@
       "category": "Blog"
     },
     {
+      "title": "运气爆棚！某比特币矿工使用袖珍矿机(仅158美元)挖出区块获得26.3万美元奖励",
+      "link": "https://www.landiannews.com/archives/108292.html",
+      "date": "2025-03-12 18:51",
+      "author": "蓝点网",
+      "timestamp": 1741776672.0,
+      "summary": "#加密货币 真是运气爆棚！某比特币矿工使用袖珍矿机单独挖出比特币区块 887,212 获得约 26.3 万美元的比特币奖励。其使用的矿机是售价 158 美元的 Bitaxe 601，由于算力极低正常情况下连续一年挖矿收益只有 3 美元左右，任何一天单独挖出区块的概率为 1/460 万。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "AMD已修复X3D处理器在启用VBS后L3缓存报告错误 但无法解决VBS性能问题",
+      "link": "https://www.landiannews.com/archives/108291.html",
+      "date": "2025-03-12 18:30",
+      "author": "蓝点网",
+      "timestamp": 1741775456.0,
+      "summary": "#硬件设备 AMD 透露已修复 X3D 处理器在启用 VBS 后的 L3 缓存报告问题，但无法解决 VBS 造成的性能下降问题。VBS 即基于虚拟化的安全性，在 Windows 10 上启用 VBS 后 X3D 处理器 L3 缓存报告不正常的错误已经被修复，开启 VBS 后会造成整体性能下降，这个用...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "AMD新芯片组驱动支持自动检测更换CPU而无需重装Windows 10/11系统",
+      "link": "https://www.landiannews.com/archives/108290.html",
+      "date": "2025-03-12 18:09",
+      "author": "蓝点网",
+      "timestamp": 1741774186.0,
+      "summary": "#硬件设备 AMD 新芯片组驱动程序支持自动检测更换 CPU 而无需重装 Windows 10/11 系统，以前更换 AMD CPU 后必须重装系统才能完整匹配 CCD 芯片。新的更新配置包则会在系统启动时自动检测，如果检测到 CPU 更换则会自动更改配置包，让用户更换 CPU 后不需要重装系统。查...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "谷歌2024年向660名研究人员支付1200万美元的漏洞赏金 平均每位获得1.8万美元",
       "link": "https://www.landiannews.com/archives/108289.html",
       "date": "2025-03-12 11:24",
@@ -7142,36 +7172,6 @@
       "category": "News"
     },
     {
-      "title": "惠普更新打印机固件导致墨盒无法使用 即便HP自家墨盒也会出现错误代码11",
-      "link": "https://www.landiannews.com/archives/108255.html",
-      "date": "2025-03-11 11:28",
-      "author": "蓝点网",
-      "timestamp": 1741663707.0,
-      "summary": "#硬件设备 这就离谱了：惠普更新打印机固件导致墨盒无法使用，即便是惠普自家的原装墨盒也会出现错误代码 11 而无法正常打印。此次受影响的主要是 HP LaserJet M232-M237 系列设备，惠普称已经知晓该问题正在调查，受影响的客户可以联系惠普打印机支持团队。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果可能已经违反欧盟数字市场法案 欧盟计划对苹果进行小额处罚算是警告",
-      "link": "https://www.landiannews.com/archives/108254.html",
-      "date": "2025-03-11 11:13",
-      "author": "蓝点网",
-      "timestamp": 1741662815.0,
-      "summary": "#科技资讯 苹果可能已经违反欧盟数字市场法案，欧盟计划对苹果进行小额处罚算是警告。路透社称违反 DMA 法案的包括苹果和 Meta，但欧盟只准备进行温和的处罚，不知道是违规行为比较轻还是迫于特朗普此前的威胁。查看全文：https://ourl.co/108254",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "期待！开源电子邮件客户端Thunderbird雷鸟将在今年晚些时候推出iOS版",
-      "link": "https://www.landiannews.com/archives/108253.html",
-      "date": "2025-03-11 10:56",
-      "author": "蓝点网",
-      "timestamp": 1741661798.0,
-      "summary": "#软件资讯 期待！开源电子邮件客户端 Thunderbird 雷鸟将在今年晚些时候推出 iOS 版，目前正在研究架构方面的问题。Thunderbird 计划年底推出 iOS Alpha 版，提供基本的邮件显示和发送功能，后续再慢慢更迭增加更多新功能。查看全文：https://ourl.co/1082...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "优化 CUDA C++ 编译时间",
       "link": "https://developer.nvidia.com/zh-cn/blog/optimizing-compile-times-for-cuda-c/",
       "date": "2025-03-10 16:58",
@@ -7192,12 +7192,122 @@
       "category": "News"
     },
     {
+      "title": "在 NVIDIA DGX 云上确保模型训练可靠性",
+      "link": "https://developer.nvidia.com/zh-cn/blog/ensuring-reliable-model-training-on-nvidia-dgx-cloud/",
+      "date": "2025-03-10 13:00",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741582858.0,
+      "summary": "在大型 GPU 集群上训练 AI 模型给模型构建者带来了重大挑战。随着作业规模的增加，人工干预变得不切实际，因 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "基于 1F1B 的 MoE A2A 通信计算 Overlap",
       "link": "https://developer.nvidia.com/zh-cn/blog/1f1b-moe-a2a-computing-overlap/",
       "date": "2025-03-07 17:10",
       "author": "NVIDIA 技术博客",
       "timestamp": 1741338613.0,
       "summary": "背景 在 MoE 模型的训练过程中，EP rank 之间的 A2A 通信在端到端时间中占据了相当大比重，对训练 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用重排序微服务提升信息检索准确性和降低成本",
+      "link": "https://developer.nvidia.com/zh-cn/blog/how-using-a-reranking-microservice-can-improve-accuracy-and-costs-of-information-retrieval/",
+      "date": "2025-03-06 13:36",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741239413.0,
+      "summary": "需要高性能信息检索的应用涉及各个领域，包括搜索引擎、知识管理系统、AI 代理和 AI 助手。这些系统需要准确且 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "在 NVIDIA GPU 上无需更改代码即可加速 Apache Spark ML",
+      "link": "https://developer.nvidia.com/zh-cn/blog/accelerate-apache-spark-ml-on-nvidia-gpus-with-zero-code-change/",
+      "date": "2025-03-06 13:26",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741238783.0,
+      "summary": "适用于 Apache Spark 软件插件的 NVIDIA RAPIDS 加速器 开创了零代码更改用户体验 ( &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA Omniverse 将 AR 体验串流到 Apple iPad",
+      "link": "https://developer.nvidia.com/zh-cn/blog/stream-ar-experiences-to-the-apple-ipad-with-nvidia-omniverse/",
+      "date": "2025-03-05 13:49",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741153772.0,
+      "summary": "最近在 MWC 巴塞罗那宣布 ，开发者现在可以将使用 NVIDIA Omniverse 构建的增强现实（AR） &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA NIM 和 NVIDIA Holoscan for Media 增强直播媒体工作流程效率",
+      "link": "https://developer.nvidia.com/zh-cn/blog/supercharging-live-media-workflows-with-nvidia-nim-and-nvidia-holoscan-for-media/",
+      "date": "2025-03-05 13:44",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741153484.0,
+      "summary": "NVIDIA Holoscan for Media 是一个 NVIDIA 加速平台，专为多供应商实时制作和 A &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 Numba 将 GPU 加速的算法交易模拟提高 100 多倍",
+      "link": "https://developer.nvidia.com/zh-cn/blog/gpu-accelerate-algorithmic-trading-simulations-by-over-100x-with-numba/",
+      "date": "2025-03-04 13:53",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1741067620.0,
+      "summary": "量化开发者需要运行回测模拟，以便从损益（P&#38;L）的角度了解金融算法的表现。统计技术对于根据可能的损益路 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "衡量 AI Guardrails 在生成式 AI 应用中的有效性和性能",
+      "link": "https://developer.nvidia.com/zh-cn/blog/measuring-the-effectiveness-and-performance-of-ai-guardrails-in-generative-ai-applications/",
+      "date": "2025-03-03 14:18",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740982686.0,
+      "summary": "保护 AI 智能体和其他对话式 AI 应用，以确保安全、品牌和可靠的行为，这对企业至关重要。 NVIDIA N &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "AI 模型为环保人士提供大规模保护渔业和野生动物的新工具",
+      "link": "https://developer.nvidia.com/zh-cn/blog/ai-model-offers-conservationists-new-tools-to-protect-fisheries-wildlife-at-scale/",
+      "date": "2025-03-03 14:06",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740982014.0,
+      "summary": "为了遏制非法捕捞，研究人员发布了一个新的开源 AI 模型，该模型可以准确识别世界上几乎所有的航海船只的行为，包 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "聚焦：NAVER Place 利用 NVIDIA TensorRT-LLM 优化 SLM 基础的垂直服务",
+      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-naver-place-optimizes-slm-based-vertical-services-with-nvidia-tensorrt-llm/",
+      "date": "2025-02-28 14:40",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740724809.0,
+      "summary": "NAVER 是一家韩国热门搜索引擎公司，提供 Naver Place ，这是一项基于地理的服务，可提供有关韩国 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 Databricks Pixels 2.0 和 MONAI 加速医学影像 AI 运营",
+      "link": "https://developer.nvidia.com/zh-cn/blog/accelerate-medical-imaging-ai-operations-with-databricks-pixels-2-0-and-monai/",
+      "date": "2025-02-28 14:32",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740724351.0,
+      "summary": "根据世界卫生组织（WHO）的数据，全球每年都会进行 36 亿次医学影像检查，以诊断、监测和治疗各种疾病。大多数 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "使用 DeepSeek-R1 NIM 构建具有专家推理功能的 AI 智能体",
+      "link": "https://developer.nvidia.com/zh-cn/blog/build-ai-agents-with-expert-reasoning-capabilities-using-deepseek-r1-nim/",
+      "date": "2025-02-28 14:27",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1740724068.0,
+      "summary": "AI 智能体 正在通过实现流程自动化、优化决策制定和简化操作来改变业务运营。其有效性取决于专家推理，从而实现更 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
@@ -7242,106 +7352,6 @@
       "category": "News"
     },
     {
-      "title": "图像和视频理解的视觉语言模型提示工程实践指南",
-      "link": "https://developer.nvidia.com/zh-cn/blog/vision-language-model-prompt-engineering-guide-for-image-and-video-understanding/",
-      "date": "2025-02-26 14:49",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740552565.0,
-      "summary": "视觉语言模型 (VLMs) 正在以极快的速度发展。2020 年，首批 VLMs 通过使用视觉编码器将视觉理解引 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "借助适用于 LLM 的 NVIDIA NIM 微服务加速科学文献审查",
-      "link": "https://developer.nvidia.com/zh-cn/blog/accelerating-scientific-literature-reviews-with-nvidia-nim-microservices-for-llms/",
-      "date": "2025-02-26 14:44",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740552267.0,
-      "summary": "精心设计的系统审查通常是研究人员探索科学领域的第一步。对于刚刚接触该领域的科学家，它提供了该领域的结构化概述。 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "使用 NVIDIA NIM 构建基于 VLM 的简单多模态信息检索系统",
-      "link": "https://developer.nvidia.com/zh-cn/blog/building-a-simple-vlm-based-multimodal-information-retrieval-system-with-nvidia-nim/",
-      "date": "2025-02-26 14:30",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740551418.0,
-      "summary": "在当今数据驱动的世界中，即使是从少量数据中检索准确信息的能力，对于寻求精简、有效的快速部署、原型设计或实验解决 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA GPU 上训练的 Microsoft Phi SLM 的多模态最新进展",
-      "link": "https://developer.nvidia.com/zh-cn/blog/latest-multimodal-addition-to-microsoft-phi-slms-trained-on-nvidia-gpus/",
-      "date": "2025-02-26 14:19",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740550798.0,
-      "summary": "大语言模型（LLMs）已渗透到各行各业，并改变了技术潜力。但是，由于规模庞大，它们对于许多公司目前面临的资源限 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA cuDSS 提高工程和科学计算中的求解器技术",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-cudss-advances-solver-technologies-for-engineering-and-scientific-computing/",
-      "date": "2025-02-25 16:54",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740473648.0,
-      "summary": "NVIDIA cuDSS 是第一代稀疏直接求解器库，旨在加速工程和科学计算。cuDSS 正越来越多地应用于数据 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "代理自主级别与安全性",
-      "link": "https://developer.nvidia.com/zh-cn/blog/agentic-autonomy-levels-and-security/",
-      "date": "2025-02-25 15:08",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740467284.0,
-      "summary": "智能体工作流是 AI 赋能工具的下一次演进。它们使开发者能够将多个 AI 模型关联在一起以执行复杂的活动，使  &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "定义 LLM 红色团队",
-      "link": "https://developer.nvidia.com/zh-cn/blog/defining-llm-red-teaming/",
-      "date": "2025-02-25 15:04",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740467069.0,
-      "summary": "在一项活动中，人们为生成式 AI 技术 (例如大语言模型 (LLMs)) 提供输入，以确定输出是否会偏离可接受 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "基于 Marco 多 AI 智能体框架的可配置图形任务求解在芯片设计中的应用",
-      "link": "https://developer.nvidia.com/zh-cn/blog/configurable-graph-based-task-solving-with-the-marco-multi-ai-agent-framework-for-chip-design/",
-      "date": "2025-02-25 14:55",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740466504.0,
-      "summary": "芯片和硬件设计因其复杂性和先进的技术而面临众多挑战。这些挑战导致在合成、验证、物理设计和可靠性循环期间优化性能 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA 视频编解码器 SDK 13.0 中使用 MV-HEVC 启用立体和 3D 视图",
-      "link": "https://developer.nvidia.com/zh-cn/blog/enabling-stereoscopic-and-3d-views-using-mv-hevc-in-nvidia-video-codec-sdk-13-0/",
-      "date": "2025-02-24 17:08",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740388082.0,
-      "summary": "NVIDIA 宣布在最新的 NVIDIA 视频编解码器 SDK 版本 13.0 中实施多视图高效视频编码 (M &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 视频编解码器 SDK 13.0 由 NVIDIA Blackwell 驱动",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-video-codec-sdk-13-0-powered-by-nvidia-blackwell/",
-      "date": "2025-02-24 16:59",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740387583.0,
-      "summary": "NVIDIA Video Codec SDK 13.0 的发布标志着重大升级，增加了对新一代 NVIDIA B &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
       "title": "GeForce RTX 5070 Ti GPU 加速生成式 AI 以及视频编辑、3D 等领域的内容创作",
       "link": "https://blogs.nvidia.cn/blog/studio-ai-geforce-rtx-5070-ti-gpu-dlss/",
       "date": "2025-02-20 22:00",
@@ -7349,16 +7359,6 @@
       "timestamp": 1740060000.0,
       "summary": "基于 NVIDIA Blackwell 架构打造的 NVIDIA GeForce RTX 5070 Ti GP",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "聚焦：东京大学使用 NVIDIA Grace Hopper 进行开创性的节能地震研究",
-      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-university-of-tokyo-uses-nvidia-grace-hopper-for-groundbreaking-energy-efficient-seismic-research/",
-      "date": "2025-02-20 12:36",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740026164.0,
-      "summary": "超级计算机是推动突破性发现的引擎。从预测极端天气到推进疾病研究，以及设计更安全、更高效的基础设施，这些机器可以 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
