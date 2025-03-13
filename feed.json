@@ -8822,6 +8822,36 @@
       "category": "Blog"
     },
     {
+      "title": "澳大利亚监管机构透露Pixel 4a有电池过热风险 这也是谷歌发布固件限制的原因",
+      "link": "https://www.landiannews.com/archives/108311.html",
+      "date": "2025-03-13 11:47",
+      "author": "蓝点网",
+      "timestamp": 1741837662.0,
+      "summary": "#手机数码 澳大利亚监管机构透露 Pixel 4a 有电池过热风险，这也是谷歌发布固件限制电池性能导致手机几乎无法使用的原因。年初谷歌向 Pixel 4a 发布固件说是优化电池性能，但用户更新后发现电池容量大幅度下降几个小时就需要充电，谷歌此前并未透露是因为电池有过热起火爆炸风险。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "火狐浏览器旧版根证书到期将自动禁用所有扩展程序 用户必须更新到新版本",
+      "link": "https://www.landiannews.com/archives/108310.html",
+      "date": "2025-03-13 11:20",
+      "author": "蓝点网",
+      "timestamp": 1741836044.0,
+      "summary": "#软件资讯 火狐浏览器因旧版根证书到期将自动禁用所有扩展程序、无法播放 DRM 内容、无法更新证书库 (可能导致 HTTPS 访问失败)、无法自动更新。用户需在 3 月 14 日前更新到 Firefox v128.0 + 或 v115.3 ESR+，之后可能必须手动下载火狐浏览器新版本手动安装，因为...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "传iPhone 17 Pro系列将采用液体散热技术 确保在高负载时芯片也不会降频",
+      "link": "https://www.landiannews.com/archives/108297.html",
+      "date": "2025-03-13 11:08",
+      "author": "蓝点网",
+      "timestamp": 1741835333.0,
+      "summary": "#手机数码 消息称 iPhone 17 Pro 和 Pro Max 机型都将采用蒸汽腔散热技术 (即均热板)，确保在高负载时芯片也不会降频。均热板内部封装液体，由液体负责吸收热量然后气化并传到到高导热材料例如铜上，让芯片保持更低的温度避免因降频导致性能下降。查看全文：https://ourl.co/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "长江存储推出PCIe 5.0企业级固态硬盘PE511 单盘最高容量达到32TB",
       "link": "https://www.landiannews.com/archives/108296.html",
       "date": "2025-03-13 10:51",
@@ -8988,36 +9018,6 @@
       "author": "蓝点网",
       "timestamp": 1741679374.0,
       "summary": "#软件资讯 微软将在 5 月 27 日从商店中删除微软远程桌面 (MRD，红色图标)，用户需要使用新的 Windows App 连接远程桌面。非常割裂的是 Windows App PC 版仅支持工作和学校账户不能使用个人账户，所以未来用户只能使用系统内置的 RDC，而在 iOS 上 MRD 被 Wi...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "财报显示博通提高VMware产品价格并捆绑销售订阅许可证后营收大幅度增长",
-      "link": "https://www.landiannews.com/archives/108272.html",
-      "date": "2025-03-11 15:11",
-      "author": "蓝点网",
-      "timestamp": 1741677077.0,
-      "summary": "# 科技资讯 财报数据显示博通收购 VMware 并通过涨价和捆绑许可证后营收大幅度增长，VMware 单个季度的营收增长就高达 10 亿美元。博通还透露前 1 万名客户中 70% 已经转向新的 VCF 订阅套餐，该套餐价格非常高但对于多数原本使用 VMware 的企业来说也没有什么更好的替代品。查...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "开曼群岛发布新法规要求加密货币托管和交易公司必须申报并获得许可",
-      "link": "https://www.landiannews.com/archives/108271.html",
-      "date": "2025-03-11 14:47",
-      "author": "蓝点网",
-      "timestamp": 1741675666.0,
-      "summary": "#加密货币 开曼群岛发布新法规要求加密货币托管和交易公司必须申报并获得许可才能开展业务。新条例于 4 月 1 日实施，相关公司要在 6 月 29 日前提交申报，披露托管的加密货币类型和数量、安全存储等方面的工作。查看全文：https://ourl.co/108271",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微策略(MSTR)趁着比特币价格下跌增发210亿美元优先股用来抄底比特币",
-      "link": "https://www.landiannews.com/archives/108270.html",
-      "date": "2025-03-11 14:17",
-      "author": "蓝点网",
-      "timestamp": 1741673874.0,
-      "summary": "#加密货币 微策略 (MSTR) 趁着比特币价格下跌再次增发 210 亿美元优先股 STRK 用于收购比特币，微策略的说明很清楚，就是为了筹集资金增持比特币。目前微策略持有 49.9 万枚比特币，合计约 331 亿美元，平均购买价格为 6.6 万美元。查看全文：https://ourl.co/108...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
