@@ -2,6 +2,16 @@
   "update_time": "2025-03-13",
   "articles": [
     {
+      "title": "易，变也|NOTE",
+      "link": "https://hp-l.github.io/2025/03/13/091315/",
+      "date": "2025-03-13 09:13",
+      "author": "子書承宇",
+      "timestamp": 1741828395.0,
+      "summary": "无摘要",
+      "source_url": "https://hp-l.github.io/",
+      "category": "Blog"
+    },
+    {
       "title": "身体和灵魂，你会优先满足哪一个？",
       "link": "http://m.wufazhuce.com/question/4316",
       "date": "2025-03-13 06:25",
@@ -3239,16 +3249,6 @@
       "timestamp": 1730654705.0,
       "summary": "关于本刊\n\n 这是猫鱼周刊的第 47 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n新加坡政府身份认证体系调研\n原文链接\n\n ...",
       "source_url": "https://ameow.xyz",
-      "category": "Blog"
-    },
-    {
-      "title": "独立博客自省问卷15题",
-      "link": "https://hp-l.github.io/2024/11/03/215207/",
-      "date": "2024-11-03 21:52",
-      "author": "子書承宇",
-      "timestamp": 1730641927.0,
-      "summary": "无摘要",
-      "source_url": "https://hp-l.github.io/",
       "category": "Blog"
     },
     {
@@ -8822,6 +8822,36 @@
       "category": "Blog"
     },
     {
+      "title": "俄罗斯加密货币交易所Garantex创始人在印度度假被捕 将被引渡至美国受审",
+      "link": "https://www.landiannews.com/archives/108314.html",
+      "date": "2025-03-13 12:59",
+      "author": "蓝点网",
+      "timestamp": 1741841995.0,
+      "summary": "#加密货币 俄罗斯加密货币交易所 Garantex 联合创始人在印度独家时被逮捕，该交易所因为帮助勒索软件乃至朝鲜黑客洗钱上周刚被查封。美国政府向印度提交了相关逮捕令并得到响应，这名联合创始人准备跑路前被逮捕，后续将被引渡至美国受审。查看全文：https://ourl.co/108314",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软修复自2023年3月以来就被利用的Windows NT内核漏洞 主要用于提权",
+      "link": "https://www.landiannews.com/archives/108313.html",
+      "date": "2025-03-13 12:46",
+      "author": "蓝点网",
+      "timestamp": 1741841167.0,
+      "summary": "#安全资讯 微软修复自 2023 年 3 月以来就被利用的 Windows NT 内核子系统安全漏洞，该漏洞被 PipeMagic 后门程序部署用于提升权限进行数据窃取。该漏洞仅影响 Windows 10 v1809 和 Windows 10 Server 2019 及更老的版本，之后的新版本包括 ...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "佰维存储推出针对AMD的192GB DDR5-6000/6400内存帮助开发者运行AI模型",
+      "link": "https://www.landiannews.com/archives/108312.html",
+      "date": "2025-03-13 12:28",
+      "author": "蓝点网",
+      "timestamp": 1741840099.0,
+      "summary": "#硬件设备 深圳佰维存储针对 AMD 平台推出 192GB 的 DDR5-6000/6400 内存套装，由 4 根 48GB 内存条组成，还附带 RGB 灯效。这种大内存套装主要面向 AI 开发者和企业，例如 AI 模型计算、生成式 AI 或者边缘计算等，售价方面预计式 849 美元。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "澳大利亚监管机构透露Pixel 4a有电池过热风险 这也是谷歌发布固件限制的原因",
       "link": "https://www.landiannews.com/archives/108311.html",
       "date": "2025-03-13 11:47",
@@ -8988,36 +9018,6 @@
       "author": "蓝点网",
       "timestamp": 1741742199.0,
       "summary": "#科技资讯 在 PayPal Honey 扩展程序劫持用户流量添加返利链接后，谷歌更新 Chrome 扩展程序规则禁止此类行为。Honey 扩展程序会在用户结算时添加或修改返利链接为自己获得收益，这损害了推广者和广告主的利益。查看全文：https://ourl.co/108282",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "希捷二手盘冒充新盘事件还在继续：欺诈者找到方法篡改FARM数据阻止检测",
-      "link": "https://www.landiannews.com/archives/108275.html",
-      "date": "2025-03-12 09:03",
-      "author": "蓝点网",
-      "timestamp": 1741741404.0,
-      "summary": "#硬件设备 希捷二手硬盘事件还在继续中，欺诈者现在会删除硬盘的 FARM 数据阻止用户查看硬盘的真实运行时间。原本通过 FARM 判断是比较容易的，现在这部分数据被删除或篡改后用户只能通过验证生产日期和正面序列号等进行判断。查看全文：https://ourl.co/108275",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "欧盟监管机构正在调查OKX涉嫌帮助朝鲜黑客洗钱Bybit被盗的加密货币",
-      "link": "https://www.landiannews.com/archives/108274.html",
-      "date": "2025-03-12 08:47",
-      "author": "蓝点网",
-      "timestamp": 1741740472.0,
-      "summary": "#加密货币 欧盟监管机构正在调查 OKX 涉嫌帮助朝鲜黑客洗钱 Bybit 被盗的加密货币，Bybit 称 OKX Web3 代理平台 (去中心化钱包) 洗钱近 1 亿美元。不过 OKX 否认正在欧盟调查以及称 Bybit 在传播错误信息，该公司并未参与此类洗钱。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软将从5月27日起删除商店中的远程桌面应用 用户需使用Windows App连接",
-      "link": "https://www.landiannews.com/archives/108273.html",
-      "date": "2025-03-11 15:49",
-      "author": "蓝点网",
-      "timestamp": 1741679374.0,
-      "summary": "#软件资讯 微软将在 5 月 27 日从商店中删除微软远程桌面 (MRD，红色图标)，用户需要使用新的 Windows App 连接远程桌面。非常割裂的是 Windows App PC 版仅支持工作和学校账户不能使用个人账户，所以未来用户只能使用系统内置的 RDC，而在 iOS 上 MRD 被 Wi...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
