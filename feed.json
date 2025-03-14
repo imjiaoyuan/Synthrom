@@ -8822,6 +8822,16 @@
       "category": "Blog"
     },
     {
+      "title": "多个风扇控制或硬件监控程序被微软检测到威胁 但这次还真不是误报",
+      "link": "https://www.landiannews.com/archives/108331.html",
+      "date": "2025-03-14 12:19",
+      "author": "蓝点网",
+      "timestamp": 1741925988.0,
+      "summary": "#安全资讯 多个风扇控制或硬件监控程序被微软检测到威胁，但这次还真不是误报。被标记的是开源硬件监控项目的内核驱动程序 WinRing0x64.sys，实际上开发者和微软都早就知道这个驱动存在漏洞，但因为各种原因无法修复，微软也拖了几年才决定彻底封禁这个驱动程序。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "Google Play Games PC版即将正式上线 让用户可以在PC上玩安卓游戏",
       "link": "https://www.landiannews.com/archives/108330.html",
       "date": "2025-03-14 11:26",
@@ -9008,16 +9018,6 @@
       "author": "蓝点网",
       "timestamp": 1741833035.0,
       "summary": "#系统资讯 谷歌更新 Play Protect 保护机制，允许用户临时暂停扫描并在次日自动恢复扫描。Play Protect 会在用户安装应用时执行扫描并在遇到恶意软件时执行拦截，可能是为了方便用户侧载安装 APK 文件，谷歌新增了暂停功能，当然除非必要否则用户不应该禁用这个选项。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软的工作确实非常糟糕：终于开始修复OneDrive共享文件夹变成快捷方式问题",
-      "link": "https://www.landiannews.com/archives/108294.html",
-      "date": "2025-03-13 10:18",
-      "author": "蓝点网",
-      "timestamp": 1741832336.0,
-      "summary": "#软件资讯 微软正在修复 OneDrive 共享文件夹变成快捷方式导致无法访问的问题，这个问题已经持续快一年。微软透露这是因为 OneDrive 在后端迁移用户导致的问题，但这也可以看出来微软的工作是多么糟糕，好歹也是用户量过亿的应用迁移前都没仔细评估潜在的问题。查看全文：https://ourl....",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
