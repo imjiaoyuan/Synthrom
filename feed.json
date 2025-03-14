@@ -1992,6 +1992,16 @@
       "category": "Blog"
     },
     {
+      "title": "时间与人生——我的 2024 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
+      "date": "2024-12-29 18:07",
+      "author": "旅行者的随想",
+      "timestamp": 1735466825.0,
+      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -3902,6 +3912,16 @@
       "category": "Blog"
     },
     {
+      "title": "记录一次 Apple Vision Pro 体验",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
+      "date": "2024-09-09 02:42",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1725820950.0,
+      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/",
       "date": "2024-09-08 16:00",
@@ -4169,6 +4189,16 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "随便聊聊最近买的物件",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
+      "date": "2024-08-15 15:29",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1723706959.0,
+      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -4529,6 +4559,16 @@
       "timestamp": 1720569600.0,
       "summary": "好不容易再次充满干劲，趁着这个机会把 Sliver Complex 的登陆页给重写一下，顺便尝试一下之前就想试一试的 Svelte 与 SvelteKit。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "记录一次学マス角色模型解包",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
+      "date": "2024-07-09 21:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1720532139.0,
+      "summary": "很喜欢学マス的小偶像建模，遂解之",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -4902,6 +4942,16 @@
       "category": "Blog"
     },
     {
+      "title": "Next SSR 开发与实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
+      "date": "2024-05-05 00:24",
+      "author": "旅行者的随想",
+      "timestamp": 1714839840.0,
+      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "为什么是日本",
       "link": "https://darmau.co/zh/article/why-japan",
       "date": "2024-05-02 11:09",
@@ -5179,6 +5229,16 @@
       "timestamp": 1712253873.0,
       "summary": "写写最近一周的大瓜 xz-backdoor，该事件可能成为开源供应链安全的一个分水岭，从技术角度看，这里面的社工和混淆也是精彩。\n简单介绍一下背景，xz 是一个开源的无损压缩工具，在出事之前可能很少有人注意到这个压缩库使用如此之广，几乎任何一个 Unix-Li",
       "source_url": "http://catcoding.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
+      "date": "2024-04-03 11:43",
+      "author": "旅行者的随想",
+      "timestamp": 1712115780.0,
+      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -6062,6 +6122,16 @@
       "category": "Blog"
     },
     {
+      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
+      "date": "2023-12-19 23:55",
+      "author": "旅行者的随想",
+      "timestamp": 1703001300.0,
+      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "cody waite",
       "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
@@ -6582,6 +6652,16 @@
       "category": "Blog"
     },
     {
+      "title": "嗯学英语核心业务设计实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
+      "date": "2023-08-31 16:12",
+      "author": "旅行者的随想",
+      "timestamp": 1693469520.0,
+      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 89 期",
       "link": "https://hellogithub.com/periodical/volume/89",
       "date": "2023-08-28 08:07",
@@ -6699,6 +6779,26 @@
       "timestamp": 1690502967.0,
       "summary": "本期共有 39 个项目，包含 C 项目 (4)，C# 项目 (2)，C++ 项目 (2)，CSS 项目 (1)，Go 项目 (4)，Java 项目 (1)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "TinHiFi T4 - 净",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
+      "date": "2023-07-20 11:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689824148.0,
+      "summary": "干净且均衡。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "百元内卷终点？——水月雨 竹2",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
+      "date": "2023-07-20 10:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689821885.0,
+      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -6842,6 +6942,36 @@
       "category": "Blog"
     },
     {
+      "title": "为网页添加FontAwesome支持",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
+      "date": "2023-06-09 21:23",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686317012.0,
+      "summary": "🤔",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "SBC-XQ 蓝牙编码的音频质量",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
+      "date": "2023-06-09 20:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686315520.0,
+      "summary": "翻译了一篇关于SBC-XQ的文章。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "Linux运行游戏问题及解决方案汇总",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
+      "date": "2023-06-09 20:49",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686314985.0,
+      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "CORDIC算法：一种高效计算三角函数值的方法",
       "link": "https://www.longluo.me/blog/cordic/",
       "date": "2023-06-07 17:11",
@@ -6912,6 +7042,16 @@
       "category": "Blog"
     },
     {
+      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
+      "date": "2023-05-19 08:30",
+      "author": "旅行者的随想",
+      "timestamp": 1684456200.0,
+      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "我的笔记管理法",
       "link": "https://lutaonan.com/blog/how-do-i-take-note",
       "date": "2023-05-13 08:00",
@@ -6969,6 +7109,16 @@
       "timestamp": 1682641232.0,
       "summary": "本期共有 45 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "时间与人生——我的第一个开源产品经历",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
+      "date": "2023-04-26 17:07",
+      "author": "旅行者的随想",
+      "timestamp": 1682500020.0,
+      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -7052,6 +7202,16 @@
       "category": "Blog"
     },
     {
+      "title": "时间与人生——编码的意义",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
+      "date": "2023-03-20 11:38",
+      "author": "旅行者的随想",
+      "timestamp": 1679283480.0,
+      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "近期使用电脑的一些习惯改变",
       "link": "https://imzm.im/how-i-change-about-using-pc/",
       "date": "2023-03-14 15:33",
@@ -7099,6 +7259,16 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "时间与人生——网络、生活",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
+      "date": "2023-02-27 15:40",
+      "author": "旅行者的随想",
+      "timestamp": 1677483600.0,
+      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -7212,6 +7382,16 @@
       "category": "Blog"
     },
     {
+      "title": "珍珠之歌——我的 2022 总结",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
+      "date": "2022-12-31 10:00",
+      "author": "旅行者的随想",
+      "timestamp": 1672452001.0,
+      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -7269,6 +7449,16 @@
       "timestamp": 1669559883.0,
       "summary": "本文介绍我使用 PVE 的一些心得（不保证正确 emmmm），可能需要一定使用经验才能顺畅阅读。\n\n前言我在去年的文章 「QEMU/KVM 虚拟化环境的搭建与使用」 中介绍了如何使用\nQEMU/KVM 作为桌面虚拟化软件，其功能对标开源免费的Oracle VM VirtualBox 以及收费但是用户...",
       "source_url": "https://thiscute.world/",
+      "category": "Blog"
+    },
+    {
+      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
+      "date": "2022-11-17 16:08",
+      "author": "旅行者的随想",
+      "timestamp": 1668672531.0,
+      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
+      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -7382,6 +7572,16 @@
       "category": "Blog"
     },
     {
+      "title": "Dynamic k8s 集群实现方案",
+      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
+      "date": "2022-09-29 09:43",
+      "author": "旅行者的随想",
+      "timestamp": 1664415832.0,
+      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
+      "source_url": "https://besscroft.com",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 78 期",
       "link": "https://hellogithub.com/periodical/volume/78",
       "date": "2022-09-28 08:10",
@@ -7439,6 +7639,16 @@
       "timestamp": 1660953600.0,
       "summary": "倪爽 在 Twitter 推荐了这本书，对于喜欢写作的我来说很吸引，花了很短时间就把这本书读完了。在这里推荐给大家。这本书主要给认为写不出来文章的人提供一些指南，书的前半部分是方法论，后半部分是写作套路(或者说写作框架)。\n九宫格指的是在写作之前，从文章的中心，可以扩散出 8 个方格，填写和这个中心...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
+      "date": "2022-08-14 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1660406400.0,
+      "summary": "一篇普通的晓尾巴测评。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -7649,6 +7859,16 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Fedora 折騰日記 ver 1.0",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
+      "date": "2022-04-04 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1649001600.0,
+      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -8482,6 +8702,66 @@
       "category": "Blog"
     },
     {
+      "title": "这不是故意的么？微软称新版Outlook再点击返回到旧版时将崩溃 目前正在调查",
+      "link": "https://www.landiannews.com/archives/108323.html",
+      "date": "2025-03-14 10:47",
+      "author": "蓝点网",
+      "timestamp": 1741920445.0,
+      "summary": "#软件资讯 这不是故意的么？微软称新版 Outlook 在点击返回到旧版时会崩溃且不会下载经典版 Outlook，目前微软正在调查中。作为替代方案用户需要手动下载 Win32 版 Outlook，要不是微软发布支持文档我们还以为这是微软故意的呢。查看全文：https://ourl.co/108323",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谋智基金会称禁止谷歌搜索分成将损害独立浏览器和导致开放网络死亡",
+      "link": "https://www.landiannews.com/archives/108322.html",
+      "date": "2025-03-14 10:35",
+      "author": "蓝点网",
+      "timestamp": 1741919748.0,
+      "summary": "#行业资讯 谋智基金会再次发文回应美国司法部拟议的谷歌搜索反垄断案补救措施，禁止谷歌与独立浏览器的搜索交易将损害独立浏览器利益并导致开放网络死亡。谋智基金会称目前市场上只有 Blink、WebKit 和 Gecko 内核，WebKit 只有苹果使用，因此如果没有收入继续开发 Gecko 则市场上就失...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软正在将控制面板鼠标属性全部迁移到设置中 最终目的就是彻底删除控制面板",
+      "link": "https://www.landiannews.com/archives/108321.html",
+      "date": "2025-03-14 10:15",
+      "author": "蓝点网",
+      "timestamp": 1741918512.0,
+      "summary": "#系统资讯 微软正在将控制面板中的鼠标属性迁移到设置应用中，Windows Server vNEXT 测试版设置中已经提供鼠标指针轨迹、指针阴影和指针自定义图像等。既然已经迁移那控制面板里自然也不会继续保留相同的选项，直到所有功能都迁移到设置后微软就可以彻底删除控制面板。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "不少用户碰到iPhone 16e蓝牙音频定时中断问题 联系苹果换机后依然如此",
+      "link": "https://www.landiannews.com/archives/108320.html",
+      "date": "2025-03-14 10:02",
+      "author": "蓝点网",
+      "timestamp": 1741917773.0,
+      "summary": "#手机数码 不少用户碰到 iPhone 16e 蓝牙音频定时中断问题，联系苹果售后换新机后还是出现同样的情况。具体来说播放蓝牙音频时会中断 1 秒钟后自动恢复，目前苹果还未就此问题发布声明，不过后续可能会通过 iOS 更新进行修复。查看全文：https://ourl.co/108320",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "安卓版Microsoft Edge稳定版现已支持扩展程序 首批包括暴力猴等22款扩展",
+      "link": "https://www.landiannews.com/archives/108319.html",
+      "date": "2025-03-14 09:53",
+      "author": "蓝点网",
+      "timestamp": 1741917186.0,
+      "summary": "#软件资讯 Microsoft Edge for Android 现已正式支持扩展程序，用户升级到最新稳定版后即可安装 22 款不同类型的扩展程序，包括暴力猴脚本工具等。最初微软在 2024 年年初测试安卓版 Edge 扩展程序，现在算是正式上线了，虽然支持的扩展数量还不算多但好歹也是能用了。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "终于调查清楚：微软承认被下架的VSCode主题不存在恶意代码 已恢复上架",
+      "link": "https://www.landiannews.com/archives/108318.html",
+      "date": "2025-03-14 09:40",
+      "author": "蓝点网",
+      "timestamp": 1741916419.0,
+      "summary": "#安全资讯 终于调查清楚：微软承认被下架的 Material Theme 和 Material Theme Icons 主题不存在恶意代码，目前已经恢复上架。微软向开发者致歉并更新混淆代码政策和扫描程序，避免未来再次出现类似的情况。查看全文：https://ourl.co/108318",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "宝可梦GO开发商Niantic将其游戏业务以35亿美元卖给沙特主权财富基金",
       "link": "https://www.landiannews.com/archives/108317.html",
       "date": "2025-03-13 15:44",
@@ -8618,66 +8898,6 @@
       "author": "蓝点网",
       "timestamp": 1741776672.0,
       "summary": "#加密货币 真是运气爆棚！某比特币矿工使用袖珍矿机单独挖出比特币区块 887,212 获得约 26.3 万美元的比特币奖励。其使用的矿机是售价 158 美元的 Bitaxe 601，由于算力极低正常情况下连续一年挖矿收益只有 3 美元左右，任何一天单独挖出区块的概率为 1/460 万。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "AMD已修复X3D处理器在启用VBS后L3缓存报告错误 但无法解决VBS性能问题",
-      "link": "https://www.landiannews.com/archives/108291.html",
-      "date": "2025-03-12 18:30",
-      "author": "蓝点网",
-      "timestamp": 1741775456.0,
-      "summary": "#硬件设备 AMD 透露已修复 X3D 处理器在启用 VBS 后的 L3 缓存报告问题，但无法解决 VBS 造成的性能下降问题。VBS 即基于虚拟化的安全性，在 Windows 10 上启用 VBS 后 X3D 处理器 L3 缓存报告不正常的错误已经被修复，开启 VBS 后会造成整体性能下降，这个用...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "AMD新芯片组驱动支持自动检测更换CPU而无需重装Windows 10/11系统",
-      "link": "https://www.landiannews.com/archives/108290.html",
-      "date": "2025-03-12 18:09",
-      "author": "蓝点网",
-      "timestamp": 1741774186.0,
-      "summary": "#硬件设备 AMD 新芯片组驱动程序支持自动检测更换 CPU 而无需重装 Windows 10/11 系统，以前更换 AMD CPU 后必须重装系统才能完整匹配 CCD 芯片。新的更新配置包则会在系统启动时自动检测，如果检测到 CPU 更换则会自动更改配置包，让用户更换 CPU 后不需要重装系统。查...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌2024年向660名研究人员支付1200万美元的漏洞赏金 平均每位获得1.8万美元",
-      "link": "https://www.landiannews.com/archives/108289.html",
-      "date": "2025-03-12 11:24",
-      "author": "蓝点网",
-      "timestamp": 1741749864.0,
-      "summary": "#安全资讯 谷歌在 2024 年向 660 名安全研究人员支付高达 1,200 万美元的漏洞赏金，平均每位研究人员获得 1.8 万美元。自 2010 年推出漏洞赏金计划以来谷歌累计支付 6,500 万美元，今年也是该计划成立 15 周年，谷歌称将继续于安全社区合作提高谷歌产品和服务的安全态势。查看全...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "暗黑风暴黑客团伙继续对X/Twitter发起DDoS攻击 并开始推销DDoS服务",
-      "link": "https://www.landiannews.com/archives/108288.html",
-      "date": "2025-03-12 11:08",
-      "author": "蓝点网",
-      "timestamp": 1741748884.0,
-      "summary": "#安全资讯 暗黑风暴黑客团伙继续对 X/Twitter 发起攻击 DDoS 攻击，并开始在自己的订阅频道里推销 DDoS 付费服务。昨天夜里黑客对 X 安卓和 iOS 版发起攻击，今天攻击的是网页版，不过 X 已经启用 Cloudflare 进行防御，所以不太可能再出现长时间和大范围的中断。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软为Copilot AI设计全新的展厅式广告样式 吸引广告商接触更多用户",
-      "link": "https://www.landiannews.com/archives/108287.html",
-      "date": "2025-03-12 10:51",
-      "author": "蓝点网",
-      "timestamp": 1741747880.0,
-      "summary": "#人工智能 微软在 Copilot AI 中增加新广告功能，当用户查询内容时可能会出现大尺寸广告图片和详细介绍。微软还为广告商开发动态过滤器，该功能会根据用户查询进行个性化定制搜索结果突出显示用户感兴趣的内容。查看全文：https://ourl.co/108287",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "西部数据推出26TB WD Red Pro NAS专用红盘 售价569.99美元提供5年质保",
-      "link": "https://www.landiannews.com/archives/108286.html",
-      "date": "2025-03-12 10:29",
-      "author": "蓝点网",
-      "timestamp": 1741746588.0,
-      "summary": "#硬件设备 西部数据推出 26TB WD Red Pro NAS 专用红盘，型号为 WD260KFGX，采用西部数据 11 盘片氦气封装平台。这款应用采用 CMR 技术，速度为 272MB / 秒，缓存为 512MB，专为企业级 NAS 设计，内置多种传感器提高应对 7x24 小时震动并提高可靠性。...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
