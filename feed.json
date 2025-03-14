@@ -8822,6 +8822,16 @@
       "category": "Blog"
     },
     {
+      "title": "[正版软件] 微软OfficePLUS办公文档智能设计插件促销 券后价仅68元/年",
+      "link": "https://www.landiannews.com/archives/108338.html",
+      "date": "2025-03-14 18:35",
+      "author": "蓝点网",
+      "timestamp": 1741948556.0,
+      "summary": "#正版软件 微软 OfficePLUS 办公软件智能设计插件正版促销，官方原价 88 元 / 年，蓝点网券后价 68 元 / 年。OfficePLUS 支持 Word、Excel 和 PowerPoint，支持海量模板可以下载后修改使用，内置多种工具可以帮助用户缩短办公文档包括分析表格和演示文档的制...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "[指南] 群晖NAS断电重启后主目录被禁用或部分共享文件夹消失的解决办法",
       "link": "https://www.landiannews.com/archives/108337.html",
       "date": "2025-03-14 18:03",
@@ -9008,16 +9018,6 @@
       "author": "蓝点网",
       "timestamp": 1741841995.0,
       "summary": "#加密货币 俄罗斯加密货币交易所 Garantex 联合创始人在印度独家时被逮捕，该交易所因为帮助勒索软件乃至朝鲜黑客洗钱上周刚被查封。美国政府向印度提交了相关逮捕令并得到响应，这名联合创始人准备跑路前被逮捕，后续将被引渡至美国受审。查看全文：https://ourl.co/108314",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软修复自2023年3月以来就被利用的Windows NT内核漏洞 主要用于提权",
-      "link": "https://www.landiannews.com/archives/108313.html",
-      "date": "2025-03-13 12:46",
-      "author": "蓝点网",
-      "timestamp": 1741841167.0,
-      "summary": "#安全资讯 微软修复自 2023 年 3 月以来就被利用的 Windows NT 内核子系统安全漏洞，该漏洞被 PipeMagic 后门程序部署用于提升权限进行数据窃取。该漏洞仅影响 Windows 10 v1809 和 Windows 10 Server 2019 及更老的版本，之后的新版本包括 ...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -9412,22 +9412,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
