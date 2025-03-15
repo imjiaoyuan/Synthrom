@@ -8822,6 +8822,16 @@
       "category": "Blog"
     },
     {
+      "title": "白帽黑客通过大量GPU枚举4500万亿个偏移值帮助客户暴力破解勒索软件恢复数据",
+      "link": "https://www.landiannews.com/archives/108354.html",
+      "date": "2025-03-15 12:31",
+      "author": "蓝点网",
+      "timestamp": 1742013070.0,
+      "summary": "#安全资讯 白帽黑客通过租赁大量 GPU 算力并枚举 4500 万亿个偏移值帮助客户暴力破解勒索软件并成功恢复数据。这个客户是数据中心，该数据中心被 Akira 变体版本感染并导致大量 Linux/ESXi 系统被加密，白帽黑客在研究过程中发现该勒索软件变体有缺陷，最终花费约 20 天破解出恢复密钥...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "游戏系统SteamOS正式版即将发布 理论上说可以在任何设备上安装和使用",
       "link": "https://www.landiannews.com/archives/108342.html",
       "date": "2025-03-15 11:59",
@@ -9008,16 +9018,6 @@
       "author": "蓝点网",
       "timestamp": 1741917186.0,
       "summary": "#软件资讯 Microsoft Edge for Android 现已正式支持扩展程序，用户升级到最新稳定版后即可安装 22 款不同类型的扩展程序，包括暴力猴脚本工具等。最初微软在 2024 年年初测试安卓版 Edge 扩展程序，现在算是正式上线了，虽然支持的扩展数量还不算多但好歹也是能用了。查看全...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "终于调查清楚：微软承认被下架的VSCode主题不存在恶意代码 已恢复上架",
-      "link": "https://www.landiannews.com/archives/108318.html",
-      "date": "2025-03-14 09:40",
-      "author": "蓝点网",
-      "timestamp": 1741916419.0,
-      "summary": "#安全资讯 终于调查清楚：微软承认被下架的 Material Theme 和 Material Theme Icons 主题不存在恶意代码，目前已经恢复上架。微软向开发者致歉并更新混淆代码政策和扫描程序，避免未来再次出现类似的情况。查看全文：https://ourl.co/108318",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
