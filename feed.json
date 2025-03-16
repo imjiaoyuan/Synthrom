@@ -1547,7 +1547,7 @@
       "date": "2025-01-20 09:30",
       "author": "第三夏尔 | Third Shire",
       "timestamp": 1737336611.0,
-      "summary": "前篇：\nHugo Stack主题装修笔记\n\nHugo Stack主题装修笔记Part 2\n\nNeodb 自动化短评卡片\n\n2025-01-20 更新：优化了一下代码，现在根据书影音类别和评分状态会显示出对应文字，如“在玩”、“不看了”。唯一的使用要求是neodb链接的条目是要被你标注过的，如果没有的...",
+      "summary": "前篇：\nHugo Stack 主题装修笔记\n\nHugo Stack 主题装修笔记 Part 2\n\nNeodb 自动化短评卡片\n\n2025-01-20 更新：优化了一下代码，之前只会显示“读过”，现在根据书影音类别和评分状态会显示出对应文字，如“在玩”、“不看了”。唯一的使用要求是 neodb 链接的...",
       "source_url": "https://thirdshire.com/",
       "category": "Blog"
     },
