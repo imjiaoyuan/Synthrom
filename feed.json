@@ -2022,6 +2022,16 @@
       "category": "Blog"
     },
     {
+      "title": "热机的效率上限在哪里？解析卡诺循环（Carnot Cycle）",
+      "link": "https://www.longluo.me/blog/carnot-cycle/",
+      "date": "2025-01-05 19:36",
+      "author": "Long Luo's Life Notes",
+      "timestamp": 1736077016.0,
+      "summary": "By Long Luo\n水轮机\n把手放进流动的水中，我们可以明显感觉到水流的冲击力，水流越大越快，冲击力也就越大。人类很早就意识到了流水中蕴藏的能量，并用流水来驱动水车，用于灌溉、磨坊等，下图\n1\n所示为位于比利时一家磨坊的水车。水车虽好，但需要稳定的水流，旱季时水力不足，运转乏力甚至无法运行，如何...",
+      "source_url": "https://www.longluo.me/",
+      "category": "Blog"
+    },
+    {
       "title": "Mastodon&Bluesky 2024 年发展概况",
       "link": "https://zhangke.space/mastodonbluesky-2024-%e5%b9%b4%e5%8f%91%e5%b1%95%e6%a6%82%e5%86%b5/?utm_source=rss&utm_medium=rss&utm_campaign=mastodonbluesky-2024-%25e5%25b9%25b4%25e5%258f%2591%25e5%25b1%2595%25e6%25a6%2582%25e5%2586%25b5",
       "date": "2025-01-03 13:43",
@@ -7619,16 +7629,6 @@
       "timestamp": 1683107684.0,
       "summary": "本篇是对二〇二三年四月生活的记录与思考。\n🚀 快节奏时代下的短视频\n关于周刊选题我有一个 LogSeq 的白板，当我发现某个选题的素材准备的差不多时就会拿出来写写分享一下，也算作话题的总结。写了一个题目就在白板里划掉一个选题，剩余的选题储备长期维持在 5 个左右。\n而短视频这个话题在我的选题白板里已...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "解密卡尔曼滤波(Kalman Filter)算法：深入解析卡尔曼滤波算法原理与在线可视化实例",
-      "link": "https://www.longluo.me/blog/kalman-filter/",
-      "date": "2023-04-29 22:36",
-      "author": "Long Luo's Life Notes",
-      "timestamp": 1682779005.0,
-      "summary": "By Long Luo\nKalman Filter1 是贝叶斯滤波器的一种特殊实现。\nKalman Filter 1D |\n一维卡尔曼滤波器\n一维卡尔曼滤波器如下图所示：\n\n\nKalman Filter 1D\n\n在线动画展示：http://www.longluo.me/projects/kalman...",
-      "source_url": "https://www.longluo.me/",
       "category": "Blog"
     },
     {
