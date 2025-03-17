@@ -9312,6 +9312,16 @@
       "category": "Blog"
     },
     {
+      "title": "苹果将支持RCS富媒体通信协议3.0 为iOS和安卓跨设备提供端到端加密功能",
+      "link": "https://www.landiannews.com/archives/108362.html",
+      "date": "2025-03-17 18:16",
+      "author": "蓝点网",
+      "timestamp": 1742206605.0,
+      "summary": "#科技资讯 GSMA 协会推出 RCS 富媒体消息协议 3.0 版，苹果和谷歌都承诺将支持该协议，从而实现跨平台的 RCS 消息端到端加密。目前 iOS 18 支持的是 RCS 旧版本因此跨设备传递消息时并未端到端加密，苹果将在未来的软件更新中带来 RCS 3.0 协议的支持，谷歌也表示会尽快将新版...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "AMD高管称RX 9070/9070 XT需求史无前例 当前补货是首要任务",
       "link": "https://www.landiannews.com/archives/108361.html",
       "date": "2025-03-17 12:22",
@@ -9498,16 +9508,6 @@
       "author": "蓝点网",
       "timestamp": 1741941649.0,
       "summary": "#安全资讯 开源字体渲染库 FreeType 出现高危安全漏洞，据称已经有黑客利用漏洞发起攻击。该漏洞其实在 2023 年就已经修复，Facebook 考虑到其严重性到现在才披露漏洞，但直到现在仍然有大量项目还在使用 FreeType 两年前的旧版本。查看全文：https://ourl.co/108...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "多个风扇控制或硬件监控程序被微软检测到威胁 但这次还真不是误报",
-      "link": "https://www.landiannews.com/archives/108331.html",
-      "date": "2025-03-14 12:19",
-      "author": "蓝点网",
-      "timestamp": 1741925988.0,
-      "summary": "#安全资讯 多个风扇控制或硬件监控程序被微软检测到威胁，但这次还真不是误报。被标记的是开源硬件监控项目的内核驱动程序 WinRing0x64.sys，实际上开发者和微软都早就知道这个驱动存在漏洞，但因为各种原因无法修复，微软也拖了几年才决定彻底封禁这个驱动程序。查看全文：https://ourl.c...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
