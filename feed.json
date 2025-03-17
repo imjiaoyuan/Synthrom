@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-17",
+  "update_time": "2025-03-18",
   "articles": [
     {
       "title": "隐说 No.6  姥姥的大米粥",
@@ -9312,6 +9312,16 @@
       "category": "Blog"
     },
     {
+      "title": "[正版软件] 数据不上云的高安全跨平台密码管理器Sticky Password 终身版198元",
+      "link": "https://www.landiannews.com/archives/108363.html",
+      "date": "2025-03-17 22:38",
+      "author": "蓝点网",
+      "timestamp": 1742222287.0,
+      "summary": "#优惠信息 不上云的高安全密码管理器 Sticky Password 正版促销，终身授权仅 198 元，支持终身大小版本更新。该密码管理器的特点在于可选数据不上云，只在本地局域网中自动同步，只要不上云那泄露的概率就非常低，即便开发商被黑客入侵也和你没关系。购买地址：https://ourl.co/1...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "苹果将支持RCS富媒体通信协议3.0 为iOS和安卓跨设备提供端到端加密功能",
       "link": "https://www.landiannews.com/archives/108362.html",
       "date": "2025-03-17 18:16",
@@ -9498,16 +9508,6 @@
       "author": "蓝点网",
       "timestamp": 1741942470.0,
       "summary": "#系统资讯 微软发布 Windows 10/11 预览版更新修复连接打印机后，打印机随机打印内容问题。此更新为发布预览通道因此暂时还没补丁可以下载，估计过几天微软应该就会向正式版发布可选更新进行修复。查看全文：https://ourl.co/108333",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "开源字体渲染库FreeType出现高危安全漏洞 据称已经有黑客利用漏洞发起攻击",
-      "link": "https://www.landiannews.com/archives/108332.html",
-      "date": "2025-03-14 16:40",
-      "author": "蓝点网",
-      "timestamp": 1741941649.0,
-      "summary": "#安全资讯 开源字体渲染库 FreeType 出现高危安全漏洞，据称已经有黑客利用漏洞发起攻击。该漏洞其实在 2023 年就已经修复，Facebook 考虑到其严重性到现在才披露漏洞，但直到现在仍然有大量项目还在使用 FreeType 两年前的旧版本。查看全文：https://ourl.co/108...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
