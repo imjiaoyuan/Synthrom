@@ -2,6 +2,16 @@
   "update_time": "2025-03-17",
   "articles": [
     {
+      "title": "隐说 No.6  姥姥的大米粥",
+      "link": "https://wangyurui.com/posts/yin-shuo-no-6-xie-zuo-shi-zui-xiao-dan-wei-de-zi-c0bc69ef",
+      "date": "2025-03-17 21:05",
+      "author": "太隐",
+      "timestamp": 1742216721.0,
+      "summary": "孩儿，不怕，再黑的天到头了也得亮",
+      "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
       "title": "如何判断一个人在对你说谎？",
       "link": "http://m.wufazhuce.com/question/4317",
       "date": "2025-03-17 06:25",
@@ -2037,7 +2047,7 @@
       "date": "2025-01-05 19:36",
       "author": "Long Luo's Life Notes",
       "timestamp": 1736077016.0,
-      "summary": "By Long Luo\n水轮机\n把手放进流动的水中，我们可以明显感觉到水流的冲击力，水流越大越快，冲击力也就越大。人类很早就意识到了流水中蕴藏的能量，并用流水来驱动水车，用于灌溉、磨坊等，下图\n1\n所示为位于比利时一家磨坊的水车。水车虽好，但需要稳定的水流，旱季时水力不足，运转乏力甚至无法运行，如何...",
+      "summary": "By Long Luo\n目前汽车上的汽油发动机热效率为 \\(30\\%\\) 左右，柴油机热效率要高点，可以达到\n\\(40\\%\\) ，而电动机的效率可以达到 \\(90\\%\\) ，部分甚至可以达到 \\(95\\%\\)\n。为什么燃油发动机会比电动机效率低这么多呢？原因有很多方面，主要是因为电动机直接将电能直接...",
       "source_url": "https://www.longluo.me/",
       "category": "Blog"
     },
@@ -4419,16 +4429,6 @@
       "timestamp": 1724494200.0,
       "summary": "基于meilisearch的，支持关键词和语义搜索的简易搜索模块",
       "source_url": "https://darmau.co/zh",
-      "category": "Blog"
-    },
-    {
-      "title": "莫奈的孤独",
-      "link": "https://wangyurui.com/posts/shui-lian-6818149e",
-      "date": "2024-08-21 20:29",
-      "author": "太隐",
-      "timestamp": 1724243388.0,
-      "summary": "严伯钧老师在《对立之美》[1]中曾有一句经典的话，“假如你看到一幅画，像是莫奈的，但又没有莫奈优秀，那么大概率就是毕沙罗或西斯莱的作品”，看到此句我忍不住笑了出来，虽然我也喜欢西斯莱的作品，但这句话真不是什么贬义，因为莫奈他作为印象派的创始人之一、宗师级人物，真的强的离谱，他对于光的追逐到达了一种癫...",
-      "source_url": "https://wangyurui.com/",
       "category": "Blog"
     },
     {
@@ -9902,22 +9902,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
       "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
