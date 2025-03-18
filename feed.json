@@ -9312,6 +9312,36 @@
       "category": "Blog"
     },
     {
+      "title": "姗姗来迟：火狐浏览器终于要支持PWA渐进式Web应用 当前还在早期开发阶段",
+      "link": "https://www.landiannews.com/archives/108386.html",
+      "date": "2025-03-18 11:41",
+      "author": "蓝点网",
+      "timestamp": 1742269302.0,
+      "summary": "#软件资讯 姗姗来迟：火狐浏览器终于准备支持 PWA 渐进式 Web 应用，这些是 Chromium 系浏览器已经支持多年的功能。目前火狐浏览器每夜构建版开始出现 PWA 的相关选项，但暂时还不能使用，可能还需要后续继续开发更迭。查看全文：https://ourl.co/108386",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "被指控帮助朝鲜黑客洗钱后OKX暂停其去中心化交易所聚合器OKX Web3的运营",
+      "link": "https://www.landiannews.com/archives/108385.html",
+      "date": "2025-03-18 11:26",
+      "author": "蓝点网",
+      "timestamp": 1742268376.0,
+      "summary": "#加密货币 被指控帮助朝鲜黑客洗钱后 OKX 暂停其去中心化交易所聚合器 OKX Web3 平台的运营，OKX 称将实施额外的升级防止滥用。OKX 此前否认涉及 Bybit 被盗 14 亿美元的洗钱，该交易所称 OKX Web3 只是聚合器，并非交易实际提供方，简单来说就是黑客不应该自己背。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "服务器软件Apache Tomcat漏洞在被公开披露30小时后就被黑客用来展开攻击",
+      "link": "https://www.landiannews.com/archives/108368.html",
+      "date": "2025-03-18 11:06",
+      "author": "蓝点网",
+      "timestamp": 1742267216.0,
+      "summary": "#安全资讯 服务器软件 Apache Tomcat 漏洞被在被公开披露仅 30 小时后就被黑客用来展开攻击，使用 Tomcat 的企业务必立即升级。该漏洞涉及到反系列化问题，极端情况下黑客可以远程执行任意代码，随后可以植入后门窃取数据甚至部署勒索脚本等。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "GitHub Actions出现大规模供应链攻击 超过23,000家企业使用的Actions被投毒",
       "link": "https://www.landiannews.com/archives/108367.html",
       "date": "2025-03-18 10:51",
@@ -9478,36 +9508,6 @@
       "author": "蓝点网",
       "timestamp": 1742009307.0,
       "summary": "#硬件设备 三星向回音壁产品 HW-Q990D 发送的固件更新导致设备变砖，新版固件为 1020.7，该固件似乎是面向全球用户的因此在大量市场都造成麻烦。目前三星并未回应该问题，但有用户联系客服后客服要求用户将其送到售后服务中心进行维修。查看全文：https://ourl.co/108340",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "顶级域名.CV正在开放注册中 使用蓝点网专属优惠券可获得50%注册价折扣",
-      "link": "https://www.landiannews.com/archives/108339.html",
-      "date": "2025-03-14 21:28",
-      "author": "蓝点网",
-      "timestamp": 1741958895.0,
-      "summary": "#域名注册 顶级域名.CV 正在开放注册中，使用蓝点网专属优惠券可以获得 50% 的注册价折扣。蓝点网与 CV 域名注册商 Ola CV 达成合作为域名爱好者带来专属折扣，该折扣码主要用于溢价的优质域名，例如 url.cv 注册价 2007.5 美元使用优惠码后仅需 1003.75 美元，续费时就是...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[正版软件] 微软OfficePLUS办公文档智能设计插件促销 券后价仅68元/年",
-      "link": "https://www.landiannews.com/archives/108338.html",
-      "date": "2025-03-14 18:35",
-      "author": "蓝点网",
-      "timestamp": 1741948556.0,
-      "summary": "#正版软件 微软 OfficePLUS 办公软件智能设计插件正版促销，官方原价 88 元 / 年，蓝点网券后价 68 元 / 年。OfficePLUS 支持 Word、Excel 和 PowerPoint，支持海量模板可以下载后修改使用，内置多种工具可以帮助用户缩短办公文档包括分析表格和演示文档的制...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "[指南] 群晖NAS断电重启后主目录被禁用或部分共享文件夹消失的解决办法",
-      "link": "https://www.landiannews.com/archives/108337.html",
-      "date": "2025-03-14 18:03",
-      "author": "蓝点网",
-      "timestamp": 1741946599.0,
-      "summary": "#技术教程 群晖 NAS 断电重启后主目录被禁用或部分共享文件夹消失的解决办法。默认情况下群晖 DSM 创建共享文件夹不会加密，但如果用户选择加密则每次重启都需要手动输入密码或密钥重新挂载，在未解密挂载的情况下文件夹就会消失，这就会导致多个套件无法正常工作。查看全文：https://ourl.co/...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
