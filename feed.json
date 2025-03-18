@@ -2222,16 +2222,6 @@
       "category": "Blog"
     },
     {
-      "title": "时间与人生——我的 2024 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=53",
-      "date": "2024-12-29 18:07",
-      "author": "旅行者的随想",
-      "timestamp": 1735466825.0,
-      "summary": "人生本就是无法回头的旅程，放心大胆地向前走就好。 题记\n\n转眼间已经又一年过去啦！能平安度过真是可喜可贺可喜可贺呀！还在看我博客的朋友们，跟着我一起，回顾今年的足迹吧！\n\n回顾\n关于博客\n\n之前博客框架一直用的 Hugo，然后部署在 Vercel 的，前段时间全部迁移到 xLog 上来…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -5252,16 +5242,6 @@
       "category": "Blog"
     },
     {
-      "title": "Next SSR 开发与实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=1",
-      "date": "2024-05-05 00:24",
-      "author": "旅行者的随想",
-      "timestamp": 1714839840.0,
-      "summary": "前言 五一假期期间，我发布了 PicImpact 的第一个公开版本，是 Kamera 的下一代产品，使用 Next.js 开发，而 kamera 是用的 Nuxt3 开发的。前端的 SSR 框架，并不像后端的框架那么好用，后端的各种中间件、开发模型、面向切面编程（AOP…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "为什么是日本",
       "link": "https://darmau.co/zh/article/why-japan",
       "date": "2024-05-02 11:09",
@@ -5539,16 +5519,6 @@
       "timestamp": 1712253873.0,
       "summary": "写写最近一周的大瓜 xz-backdoor，该事件可能成为开源供应链安全的一个分水岭，从技术角度看，这里面的社工和混淆也是精彩。\n简单介绍一下背景，xz 是一个开源的无损压缩工具，在出事之前可能很少有人注意到这个压缩库使用如此之广，几乎任何一个 Unix-Li",
       "source_url": "http://catcoding.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "GitHub - besscroft/PicImpact: PicImpact，分享你和世界！",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=8",
-      "date": "2024-04-03 11:43",
-      "author": "旅行者的随想",
-      "timestamp": 1712115780.0,
-      "summary": "PicImpact，分享你和世界！. Contribute to besscroft/PicImpact development by creating an account on GitHub.",
-      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -6562,16 +6532,6 @@
       "category": "Blog"
     },
     {
-      "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
-      "date": "2023-12-19 23:55",
-      "author": "旅行者的随想",
-      "timestamp": 1703001300.0,
-      "summary": "前言 自从白嫖了 Oracle Cloud 的云服务之后，一直使用的 24 G 大内存云服务器跑的 Kubernetes，也有 2 年多了吧？（记不清了）上一版本的方案，可以看我这篇文章👉Dynamic k8s 集群实现方案\n\n至于为啥我要更换方式呢？主要还是要部署的东西日渐增加…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "cody waite",
       "link": "https://www.longluo.me/blog/cody-waite/",
       "date": "2023-12-19 20:10",
@@ -7142,16 +7102,6 @@
       "category": "Blog"
     },
     {
-      "title": "嗯学英语核心业务设计实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=48",
-      "date": "2023-08-31 16:12",
-      "author": "旅行者的随想",
-      "timestamp": 1693469520.0,
-      "summary": "前言 最近在设计开发嗯学英语项目，今天想简单讲点儿故事，一个关于英语学习软件背后复杂的技术设计思考，以及我打算如何实践，让它以何种方式运作。\n\n摸索\n\n英语类学习软件我用过不少，使用时间最长的，那自然是多邻国了。你看你学了这么久英语了哈，如果现在要你来做一款英语学习软件，你要如何设计…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "2023.7-8 精神食粮",
       "link": "https://owlswims.com/2023-7-8-mentalfood/",
       "date": "2023-08-31 00:23",
@@ -7582,16 +7532,6 @@
       "category": "Blog"
     },
     {
-      "title": "如何使用 Cloudflare 保护云服务——扫盲“WAF”及其它招数",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=47",
-      "date": "2023-05-19 08:30",
-      "author": "旅行者的随想",
-      "timestamp": 1684456200.0,
-      "summary": "前言 五一前后抽时间维护了一下个人云服务，把集群全部重构了一部分。那几天访问的朋友们应该能看到一个简单的 “维护页面”。新的个人云架构，这里就不多讲了，毕竟不是本篇的内容，感兴趣的朋友可以看我之前文章（老架构）。这次改进了之前的诸多不合理的地方，顺便把 IP 和证书全部更换了一遍…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "我的笔记管理法",
       "link": "https://lutaonan.com/blog/how-do-i-take-note",
       "date": "2023-05-13 08:00",
@@ -7639,16 +7579,6 @@
       "timestamp": 1682641232.0,
       "summary": "本期共有 45 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blog"
-    },
-    {
-      "title": "时间与人生——我的第一个开源产品经历",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=46",
-      "date": "2023-04-26 17:07",
-      "author": "旅行者的随想",
-      "timestamp": 1682500020.0,
-      "summary": "前言 前几天发布了 DiyFile v0.5.0 版本，算是做出了一个不算好看但基本能用的版本，今天就来聊一聊整个过程吧。\n\n项目准备\n为什么我想做它？\n\n这个原因也很简单，当你学会一个新技术之后，把它用起来，最好的方法就是写一个项目。我也挺想开一个工作室，虽然不知道能不能走出这一步…",
-      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -7752,16 +7682,6 @@
       "category": "Blog"
     },
     {
-      "title": "时间与人生——编码的意义",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=45",
-      "date": "2023-03-20 11:38",
-      "author": "旅行者的随想",
-      "timestamp": 1679283480.0,
-      "summary": "其实这篇文章我本打算用 “开源的意义” 为标题的，但本质上现阶段开源对于我来说，核心就是编码。本文我从一个普通从业者的视角，来聊一聊我的经历、想法与思考。 由来\n兴趣\n\n第一次买编程书籍，是 2015 年的时候了，当时还在读高二。我记得是数学选修二还是哪本书来着…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "近期使用电脑的一些习惯改变",
       "link": "https://imzm.im/how-i-change-about-using-pc/",
       "date": "2023-03-14 15:33",
@@ -7819,16 +7739,6 @@
       "timestamp": 1677543091.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (3)，C++ 项目 (4)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (2)，其它 ...",
       "source_url": "https://hellogithub.com",
-      "category": "Blog"
-    },
-    {
-      "title": "时间与人生——网络、生活",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=44",
-      "date": "2023-02-27 15:40",
-      "author": "旅行者的随想",
-      "timestamp": 1677483600.0,
-      "summary": "好像挺久没有写下文字了，不知道是因为大脑想休息，还是单纯的懒。 赛博社交\n\n这个月解散了一个 6 年的 QQ 群，虽然基本上算是个死群了，但是有时候屁事儿也多，实在是没精力去维护，干脆解散了。群里面大多数的人，实际上我根本就不认识，实际上这个群的成立本身就没有很强的目的性…",
-      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -7942,16 +7852,6 @@
       "category": "Blog"
     },
     {
-      "title": "珍珠之歌——我的 2022 总结",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=43",
-      "date": "2022-12-31 10:00",
-      "author": "旅行者的随想",
-      "timestamp": 1672452001.0,
-      "summary": "这便是你长路的纪行，这便是你们的珍珠之歌。 题记\n\n这篇年终总结是 2022 年的，当你看到这篇文章的时候，说明 2022 年已经过去了。今年真的过的挺快的，并且放开后还是第一批阳的，在我写这篇总结的时候，我的咳嗽仍然还没好。\n\n原本标题应该叫做《时间与人生 —— 我的 2022…",
-      "source_url": "https://besscroft.com",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 81 期",
       "link": "https://hellogithub.com/periodical/volume/81",
       "date": "2022-12-28 08:05",
@@ -8009,16 +7909,6 @@
       "timestamp": 1669559883.0,
       "summary": "本文介绍我使用 PVE 的一些心得（不保证正确 emmmm），可能需要一定使用经验才能顺畅阅读。\n\n前言我在去年的文章 「QEMU/KVM 虚拟化环境的搭建与使用」 中介绍了如何使用\nQEMU/KVM 作为桌面虚拟化软件，其功能对标开源免费的Oracle VM VirtualBox 以及收费但是用户...",
       "source_url": "https://thiscute.world/",
-      "category": "Blog"
-    },
-    {
-      "title": "基于 Kubernetes 和 SkyWalking 的 Spring 微服务监控实践",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=42",
-      "date": "2022-11-17 16:08",
-      "author": "旅行者的随想",
-      "timestamp": 1668672531.0,
-      "summary": "前言 最近在哔哩哔哩做了一期直播技术分享，算是人生中第一次吧🙂内容是基于 Kubernetes 和 Skywalking 的 Spring 微服务监控实践，实现 Spring 云原生可观测性。自己排练的时候，准备了一个多小时的内容，结果直播时太紧张，半个多小时就讲完了😂\n\nht…",
-      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -8129,16 +8019,6 @@
       "timestamp": 1664723100.0,
       "summary": "看完张宏杰的《饥饿的盛世》，对乾隆的认识加深了些。历史学家说清朝的没落是从乾隆开始的，而这有西方崛起东方衰落的历史趋势，但也跟乾隆的性格有很大关系。乾隆治下，中国的人口首次突破三亿，实际控制的领土面积也达到了历史的巅峰。而另一方面，闭关锁国、奴性臣民也达到了历史的巅峰。说清史，不得不说乾隆。",
       "source_url": "https://hutusi.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Dynamic k8s 集群实现方案",
-      "link": "https://xlog.app/api/redirection?characterId=73858&noteId=41",
-      "date": "2022-09-29 09:43",
-      "author": "旅行者的随想",
-      "timestamp": 1664415832.0,
-      "summary": "前言 本文要探讨的，是一种极低成本，但是可用度较高的 K8S 集群方案，提供多种实现思路，以及部分可实现方案。我踩过一些坑，在现有资源下，其实有很多种玩法，但如果有小伙伴问：你怎么不用 xxx 家的 xx 服务啊？怎么不用 xxx 方式啊？\n\n说到底，如果你是为了 “生产级…",
-      "source_url": "https://besscroft.com",
       "category": "Blog"
     },
     {
@@ -9312,6 +9192,46 @@
       "category": "Blog"
     },
     {
+      "title": "请停止你的违规行为：谷歌似乎在暗示如果屏蔽YouTube广告可能会被封号",
+      "link": "https://www.landiannews.com/archives/108390.html",
+      "date": "2025-03-18 15:46",
+      "author": "蓝点网",
+      "timestamp": 1742284018.0,
+      "summary": "#科技资讯 请停止你的违规行为：现在 YouTube 在检测到用户屏蔽广告时会弹出违反 TOS 协议的警告，这或许是暗示谷歌可能会对用户封号。谷歌在通知中并未提到封号，但根据 YouTube TOS，若用户严重违规或屡次违规则可能会被封号，谷歌似乎是在向用户发出警告，让用户不要拦截广告。查看全文：h...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Cloudflare在其欧洲总部增加新的熵系统 由大量波浪机组成确保生成随机数",
+      "link": "https://www.landiannews.com/archives/108389.html",
+      "date": "2025-03-18 15:32",
+      "author": "蓝点网",
+      "timestamp": 1742283163.0,
+      "summary": "#科技资讯 Cloudflare 在其欧洲总部增加新的熵系统，由 50 台波浪机制作的熵墙，利用现实世界种的混乱运动随机性产生随机数作为 TLS 加密系统的种子。新的熵墙构建的画面不可能完全相同，因此拍摄的照片哈希值也不能相同，用这个哈希值作为种子生成随机数确保 TLS 请求的安全性。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果最新推出的iOS 18.3.2版似乎导致iCloud邮件无法自动推送到自带的邮箱中",
+      "link": "https://www.landiannews.com/archives/108388.html",
+      "date": "2025-03-18 14:45",
+      "author": "蓝点网",
+      "timestamp": 1742280306.0,
+      "summary": "#软件资讯 苹果最新推出的 iOS 18.3.2 版似乎导致 iCloud 邮件无法自动推送到自带的邮箱中，原本有新邮件会收到推送通知，现在则需要打开邮件应用手动刷新。该问题仅影响 iCloud 邮箱，使用 iOS 自带邮件应用搭配 Outlook 和 Gmail 的组合是可以正常收到推送的。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "广发证券分析师称iPhone 17全系列都将采用苹果自研Wi-Fi 7芯片而非博通芯片",
+      "link": "https://www.landiannews.com/archives/108387.html",
+      "date": "2025-03-18 14:30",
+      "author": "蓝点网",
+      "timestamp": 1742279413.0,
+      "summary": "#手机数码 广发证券分析师称 iPhone 17 全系列都将采用苹果自研的 Wi-Fi 7 芯片不再继续使用博通提供的 Wi-Fi 和蓝牙芯片。早前已经有传闻称苹果也在研发 Wi-Fi 芯片，但没想到苹果的速度还挺快，不像 C1 基带芯片那样循序渐进推广而是直接全系列都采用，说明苹果对自己的芯片应该...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "姗姗来迟：火狐浏览器终于要支持PWA渐进式Web应用 当前还在早期开发阶段",
       "link": "https://www.landiannews.com/archives/108386.html",
       "date": "2025-03-18 11:41",
@@ -9468,46 +9388,6 @@
       "author": "蓝点网",
       "timestamp": 1742179772.0,
       "summary": "#手机数码 苹果继续考虑推出完全没有接口的 iPhone，但 iPhone 17 Air 仍然会配备 USB-C 接口。彭博社马克古尔曼称苹果原计划在 iPhone 17 Air 中删除 USB-C 接口，但由于欧盟法律问题暂时还得继续保留 USB-C。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "白帽黑客通过大量GPU枚举4500万亿个偏移值帮助客户暴力破解勒索软件恢复数据",
-      "link": "https://www.landiannews.com/archives/108354.html",
-      "date": "2025-03-15 12:31",
-      "author": "蓝点网",
-      "timestamp": 1742013070.0,
-      "summary": "#安全资讯 白帽黑客通过租赁大量 GPU 算力并枚举 4500 万亿个偏移值帮助客户暴力破解勒索软件并成功恢复数据。这个客户是数据中心，该数据中心被 Akira 变体版本感染并导致大量 Linux/ESXi 系统被加密，白帽黑客在研究过程中发现该勒索软件变体有缺陷，最终花费约 20 天破解出恢复密钥...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "游戏系统SteamOS正式版即将发布 理论上说可以在任何设备上安装和使用",
-      "link": "https://www.landiannews.com/archives/108342.html",
-      "date": "2025-03-15 11:59",
-      "author": "蓝点网",
-      "timestamp": 1742011177.0,
-      "summary": "#游戏资讯 游戏系统 SteamOS 正式版即将发布，理论上说可以在任何设备上安装和使用。SteamOS 基于 Linux 构建因此兼容性非常好，在 X 上有网友分享 SteamOS 启动截图并表示它即将到来。查看全文：https://ourl.co/108342",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果高管在内部会议中猛烈批评AI功能的延迟 针对Siri的升级何时推出还是未知数",
-      "link": "https://www.landiannews.com/archives/108341.html",
-      "date": "2025-03-15 11:46",
-      "author": "蓝点网",
-      "timestamp": 1742010363.0,
-      "summary": "#人工智能 苹果高管在内部会议中猛烈批评 AI 功能的延迟，针对 Siri 的 AI 升级何时推出还是个未知数。Robby Walker 是苹果 Siri 和智能信息高级总监，彭博社获得的内部会议记录显示，Walker 称苹果智能的延迟推出是丑陋和令人尴尬的，不过苹果正准备调派更多管理人员协助扭转困...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "三星向回音壁HW-Q990D等产品发送的固件导致设备变砖 影响全球大量用户",
-      "link": "https://www.landiannews.com/archives/108340.html",
-      "date": "2025-03-15 11:28",
-      "author": "蓝点网",
-      "timestamp": 1742009307.0,
-      "summary": "#硬件设备 三星向回音壁产品 HW-Q990D 发送的固件更新导致设备变砖，新版固件为 1020.7，该固件似乎是面向全球用户的因此在大量市场都造成麻烦。目前三星并未回应该问题，但有用户联系客服后客服要求用户将其送到售后服务中心进行维修。查看全文：https://ourl.co/108340",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
