@@ -9422,6 +9422,26 @@
       "category": "News"
     },
     {
+      "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
+      "date": "2025-03-18 06:05",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742249142.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell 加速计算机辅助工程软件实现实时数字孪生性能数量级提升",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-accelerates-computer-aided-engineering-software-by-orders-of-magnitude-for-real-time-digital-twins/",
+      "date": "2025-03-18 05:45",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742247909.0,
+      "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "[正版软件] 数据不上云的高安全跨平台密码管理器Sticky Password 终身版198元",
       "link": "https://www.landiannews.com/archives/108363.html",
       "date": "2025-03-17 22:38",
@@ -9865,30 +9885,10 @@
       "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
       "date": "2025-01-10 22:09",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736518152.0,
-      "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布用于开发 AI 零售购物助手的蓝图",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-blueprint-for-ai-retail-shopping-assistants/",
-      "date": "2025-01-10 22:09",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736518152.0,
       "summary": "NRF——NVIDIA 于近日发布了用于开发零售购物助手的 NVIDIA AI Blueprint，这个生成式",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "AI 零售成为现实：NVIDIA 最新调研发现，十分之九的零售商正在使用或试点 AI",
-      "link": "https://blogs.nvidia.cn/blog/ai-in-retail-cpg-survey-2025/",
-      "date": "2025-01-10 21:45",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1736516758.0,
-      "summary": "人工智能 (AI) 正在迅速地成为零售和快速消费品行业创新的基石。 富有远见的公司正在使用 AI 来重新设计整",
-      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
