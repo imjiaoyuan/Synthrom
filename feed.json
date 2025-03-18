@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-18",
+  "update_time": "2025-03-19",
   "articles": [
     {
       "title": "东钱湖｜观雨露营全记录，解锁治愈系周末",
@@ -9,6 +9,16 @@
       "timestamp": 1742326502.0,
       "summary": "从哈尔滨归来后，内心充满不踏实与茫然，决定前往宁波东钱湖进行一场心灵的旅行。文章详细记录了在东钱湖畔的静坐观雨、湖边泊车、自驾环湖的行程，以及在韩岭老街和韩岭美术馆的探索，体验湖光山色与自然宁静带来的心灵抚慰。",
       "source_url": "https://blog.ops-coffee.cn",
+      "category": "Blog"
+    },
+    {
+      "title": "博客两周年：答博客作者问卷",
+      "link": "https://thirdshire.com/blogger-survey/",
+      "date": "2025-03-18 22:30",
+      "author": "第三夏尔 | Third Shire",
+      "timestamp": 1742308213.0,
+      "summary": "写「第三夏尔」博客不知不觉居然也有两年时间，现在回看建站之初写的 《博客之旅：找回初心》\n，很高兴地说我当初想达到的目的都实现了。时至今日再也不至于提笔（键盘）无从下手，就算内容写得不多、文笔也依旧拙朴，能坚持每月更新就是胜利。",
+      "source_url": "https://thirdshire.com/",
       "category": "Blog"
     },
     {
@@ -6922,16 +6932,6 @@
       "category": "Blog"
     },
     {
-      "title": "角宿一｜2023年10月小结",
-      "link": "https://thirdshire.com/october-2023-recap/",
-      "date": "2023-10-31 19:22",
-      "author": "第三夏尔 | Third Shire",
-      "timestamp": 1698751362.0,
-      "summary": "记录时间：9.16 – 10.30\n太阳经过星座：室女座｜Virgo\n最亮恒星：角宿一｜Spica\n\n\n\n\n\n写这篇的时候在听：\n🍃🌿Harutya 春茶 🍃🌿 Collection 2023 - Best Cover Of Harutya 春茶 - Best Japanese Songs 2023...",
-      "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
       "title": "关于笔记软件的一些想法",
       "link": "https://www.ntiy.com/2019.html",
       "date": "2023-10-31 14:30",
@@ -9310,6 +9310,206 @@
       "summary": "斋主人 # 与君同醒复同醉，仰看青士冠剑长。 悲观的理想主义者 拖延的兴趣多动症 想去霍格沃茲学点魔法 也想去青云门修仙成道 不务正业想转行还没成功的建筑",
       "source_url": "http://bamboobone9.com/",
       "category": "Blog"
+    },
+    {
+      "title": "请停止你的违规行为：谷歌似乎在暗示如果屏蔽YouTube广告可能会被封号",
+      "link": "https://www.landiannews.com/archives/108390.html",
+      "date": "2025-03-18 15:46",
+      "author": "蓝点网",
+      "timestamp": 1742284018.0,
+      "summary": "#科技资讯 请停止你的违规行为：现在 YouTube 在检测到用户屏蔽广告时会弹出违反 TOS 协议的警告，这或许是暗示谷歌可能会对用户封号。谷歌在通知中并未提到封号，但根据 YouTube TOS，若用户严重违规或屡次违规则可能会被封号，谷歌似乎是在向用户发出警告，让用户不要拦截广告。查看全文：h...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Cloudflare在其欧洲总部增加新的熵系统 由大量波浪机组成确保生成随机数",
+      "link": "https://www.landiannews.com/archives/108389.html",
+      "date": "2025-03-18 15:32",
+      "author": "蓝点网",
+      "timestamp": 1742283163.0,
+      "summary": "#科技资讯 Cloudflare 在其欧洲总部增加新的熵系统，由 50 台波浪机制作的熵墙，利用现实世界种的混乱运动随机性产生随机数作为 TLS 加密系统的种子。新的熵墙构建的画面不可能完全相同，因此拍摄的照片哈希值也不能相同，用这个哈希值作为种子生成随机数确保 TLS 请求的安全性。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果最新推出的iOS 18.3.2版似乎导致iCloud邮件无法自动推送到自带的邮箱中",
+      "link": "https://www.landiannews.com/archives/108388.html",
+      "date": "2025-03-18 14:45",
+      "author": "蓝点网",
+      "timestamp": 1742280306.0,
+      "summary": "#软件资讯 苹果最新推出的 iOS 18.3.2 版似乎导致 iCloud 邮件无法自动推送到自带的邮箱中，原本有新邮件会收到推送通知，现在则需要打开邮件应用手动刷新。该问题仅影响 iCloud 邮箱，使用 iOS 自带邮件应用搭配 Outlook 和 Gmail 的组合是可以正常收到推送的。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "广发证券分析师称iPhone 17全系列都将采用苹果自研Wi-Fi 7芯片而非博通芯片",
+      "link": "https://www.landiannews.com/archives/108387.html",
+      "date": "2025-03-18 14:30",
+      "author": "蓝点网",
+      "timestamp": 1742279413.0,
+      "summary": "#手机数码 广发证券分析师称 iPhone 17 全系列都将采用苹果自研的 Wi-Fi 7 芯片不再继续使用博通提供的 Wi-Fi 和蓝牙芯片。早前已经有传闻称苹果也在研发 Wi-Fi 芯片，但没想到苹果的速度还挺快，不像 C1 基带芯片那样循序渐进推广而是直接全系列都采用，说明苹果对自己的芯片应该...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "姗姗来迟：火狐浏览器终于要支持PWA渐进式Web应用 当前还在早期开发阶段",
+      "link": "https://www.landiannews.com/archives/108386.html",
+      "date": "2025-03-18 11:41",
+      "author": "蓝点网",
+      "timestamp": 1742269302.0,
+      "summary": "#软件资讯 姗姗来迟：火狐浏览器终于准备支持 PWA 渐进式 Web 应用，这些是 Chromium 系浏览器已经支持多年的功能。目前火狐浏览器每夜构建版开始出现 PWA 的相关选项，但暂时还不能使用，可能还需要后续继续开发更迭。查看全文：https://ourl.co/108386",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "被指控帮助朝鲜黑客洗钱后OKX暂停其去中心化交易所聚合器OKX Web3的运营",
+      "link": "https://www.landiannews.com/archives/108385.html",
+      "date": "2025-03-18 11:26",
+      "author": "蓝点网",
+      "timestamp": 1742268376.0,
+      "summary": "#加密货币 被指控帮助朝鲜黑客洗钱后 OKX 暂停其去中心化交易所聚合器 OKX Web3 平台的运营，OKX 称将实施额外的升级防止滥用。OKX 此前否认涉及 Bybit 被盗 14 亿美元的洗钱，该交易所称 OKX Web3 只是聚合器，并非交易实际提供方，简单来说就是黑客不应该自己背。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "服务器软件Apache Tomcat漏洞在被公开披露30小时后就被黑客用来展开攻击",
+      "link": "https://www.landiannews.com/archives/108368.html",
+      "date": "2025-03-18 11:06",
+      "author": "蓝点网",
+      "timestamp": 1742267216.0,
+      "summary": "#安全资讯 服务器软件 Apache Tomcat 漏洞被在被公开披露仅 30 小时后就被黑客用来展开攻击，使用 Tomcat 的企业务必立即升级。该漏洞涉及到反系列化问题，极端情况下黑客可以远程执行任意代码，随后可以植入后门窃取数据甚至部署勒索脚本等。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "GitHub Actions出现大规模供应链攻击 超过23,000家企业使用的Actions被投毒",
+      "link": "https://www.landiannews.com/archives/108367.html",
+      "date": "2025-03-18 10:51",
+      "author": "蓝点网",
+      "timestamp": 1742266294.0,
+      "summary": "#安全资讯 GitHub Actions 出现大规模供应链攻击，非常流行的 tj-actions 遭到黑客投毒，该 Actions 被 23,000 多家企业使用。目前已经有数十家企业受到影响，暴露了各种访问令牌和密钥，但估计受影响的企业应该还会更多。查看全文：https://ourl.co/108...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "高通针对安卓游戏掌机推出3款骁龙G系列芯片 帮助OEM带来大屏安卓游戏体验",
+      "link": "https://www.landiannews.com/archives/108366.html",
+      "date": "2025-03-18 10:24",
+      "author": "蓝点网",
+      "timestamp": 1742264662.0,
+      "summary": "#硬件设备 高通针对安卓游戏掌机推出 3 款骁龙 G 系列芯片，OEM 将在本季度推出搭载这些芯片的安卓游戏掌机。与 SteamDeck 等不同的是，这些掌机主要运行安卓系统，可以用来运行安卓游戏，而不像其他游戏掌机主要通过安装 Steam 玩 PC 游戏。查看全文：https://ourl.co/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌员工解释安卓新增的终端应用 方便用户运行Linux软件但不会提供默认桌面",
+      "link": "https://www.landiannews.com/archives/108365.html",
+      "date": "2025-03-18 10:07",
+      "author": "蓝点网",
+      "timestamp": 1742263638.0,
+      "summary": "#系统资讯 谷歌员工解释安卓新增的终端应用，主要是为了方便用户运行更多 Linux 软件，但不会提供默认桌面。谷歌无意在新的 Debian 虚拟机中提供诸如 GNOME 的桌面环境，但考虑到安卓是开源的系统，说不好后续会有其他 OEM 或 ROM 提供商直接提供 Linux 桌面环境供用户使用。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "心动的感觉！希捷联合米哈游推出定制版限量原神移动硬盘 采用1TB固态硬盘",
+      "link": "https://www.landiannews.com/archives/108364.html",
+      "date": "2025-03-18 09:48",
+      "author": "蓝点网",
+      "timestamp": 1742262489.0,
+      "summary": "#硬件设备 心动的感觉！希捷联合米哈游推出定制版限量原神移动硬盘，采用 1TB 固态硬盘和 USB 3.2 协议，兼容大多数系统和设备。这款固态硬盘正面印有原神虚拟角色赛诺，底部还有支持 Windows 11 动态照明的 LED 指示灯，售价 139.99 美元。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[正版软件] 数据不上云的高安全跨平台密码管理器Sticky Password 终身版198元",
+      "link": "https://www.landiannews.com/archives/108363.html",
+      "date": "2025-03-17 22:38",
+      "author": "蓝点网",
+      "timestamp": 1742222287.0,
+      "summary": "#优惠信息 不上云的高安全密码管理器 Sticky Password 正版促销，终身授权仅 198 元，支持终身大小版本更新。该密码管理器的特点在于可选数据不上云，只在本地局域网中自动同步，只要不上云那泄露的概率就非常低，即便开发商被黑客入侵也和你没关系。购买地址：https://ourl.co/1...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果将支持RCS富媒体通信协议3.0 为iOS和安卓跨设备提供端到端加密功能",
+      "link": "https://www.landiannews.com/archives/108362.html",
+      "date": "2025-03-17 18:16",
+      "author": "蓝点网",
+      "timestamp": 1742206605.0,
+      "summary": "#科技资讯 GSMA 协会推出 RCS 富媒体消息协议 3.0 版，苹果和谷歌都承诺将支持该协议，从而实现跨平台的 RCS 消息端到端加密。目前 iOS 18 支持的是 RCS 旧版本因此跨设备传递消息时并未端到端加密，苹果将在未来的软件更新中带来 RCS 3.0 协议的支持，谷歌也表示会尽快将新版...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "AMD高管称RX 9070/9070 XT需求史无前例 当前补货是首要任务",
+      "link": "https://www.landiannews.com/archives/108361.html",
+      "date": "2025-03-17 12:22",
+      "author": "蓝点网",
+      "timestamp": 1742185370.0,
+      "summary": "#硬件设备 AMD 高管称 RX 9070/9070 XT 需求史无前例，当前的首要任务就是增加市场供应量。目前 AMD 的这些新显卡难以购买且经销商基本都在以较高的溢价销售，虽然 AMD 承诺正在增加供应量，不过市场需求缓解可能还需要一段时间。查看全文：https://ourl.co/108361",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "iPhone 17系列模型曝光 传iPhone 17 Air将不再提供实体SIM卡托版本",
+      "link": "https://www.landiannews.com/archives/108360.html",
+      "date": "2025-03-17 12:06",
+      "author": "蓝点网",
+      "timestamp": 1742184408.0,
+      "summary": "#手机数码 虽然距离发布还早不过 iPhone 17 系列模型和 iPhone 17 Air 配置 / 价格已经曝光，模型主要展示 iPhone 17 不同机型的背面摄像头排布，这些样式与此前传闻及 CAD 渲染图基本相符。iPhone 17 Air 似乎要完全放弃 SIM 实体卡，但如果放弃 SI...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "不说BUG我还以为是特性：微软3月更新自动删除Copilot并从任务栏取消固定",
+      "link": "https://www.landiannews.com/archives/108359.html",
+      "date": "2025-03-17 11:49",
+      "author": "蓝点网",
+      "timestamp": 1742183381.0,
+      "summary": "#人工智能 真是草台行为啊！不说 BUG 我还以为这是特性：微软 3 月更新自动删除了 Copilot 并从任务栏取消固定。Copilot 是微软重点推广的产品，此前通过静默推送安装给 Windows 10/11 用户，虽说这对大多数用户来说都没影响，但不得不说这更新质量有多差才能把自家主推产品都给...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "US.KG免费域名基本上已经凉凉 提供商已注册ORG新域名继续提供免费子域名",
+      "link": "https://www.landiannews.com/archives/108358.html",
+      "date": "2025-03-17 11:39",
+      "author": "蓝点网",
+      "timestamp": 1742182749.0,
+      "summary": "#域名资讯 US.KG 免费域名基本上已经凉凉，提供商已注册 DPDNS ORG 新域名继续提供免费子域名。目前新域名还在准备阶段，完成后将可以自动迁移，而 KG 域名注册局称如果再收到投诉将立即暂停解析 US KG 域名，所以提供商暂时主动禁用了该域名的解析。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软应用商店腾讯应用宝专区全量上线 所有用户均可在Win11上运行安卓应用/游戏",
+      "link": "https://www.landiannews.com/archives/108357.html",
+      "date": "2025-03-17 11:22",
+      "author": "蓝点网",
+      "timestamp": 1742181733.0,
+      "summary": "#软件资讯 微软应用商店腾讯应用宝专区全量上线，现在 Windows 10/11 都可以访问商店下载腾讯应用宝 PC 版并下载和使用安卓应用或游戏。腾讯应用宝 PC 版也是个虚拟化的安卓系统，在微软放弃 WSA 后微软中国与腾讯合作为用户继续提供类似 WSA 的体验。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "ChatGPT测试版现已支持设置为安卓默认数字助理 可以通过多种快捷方式启动",
+      "link": "https://www.landiannews.com/archives/108356.html",
+      "date": "2025-03-17 11:05",
+      "author": "蓝点网",
+      "timestamp": 1742180736.0,
+      "summary": "#系统资讯 ChatGPT 现已支持设置为安卓默认数字助理，用户需要更新到 ChatGPT for Android 测试版后转到设置里进行操作。设置为默认数字助理后，包括长按主页按钮、手势导航或者长按电源按钮都将默认启动 ChatGPT，但目前不支持使用自定义热词激活。查看全文：https://ou...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果继续考虑推出完全没有接口的iPhone 但iPhone 17 Air仍然配备USB-C",
+      "link": "https://www.landiannews.com/archives/108355.html",
+      "date": "2025-03-17 10:49",
+      "author": "蓝点网",
+      "timestamp": 1742179772.0,
+      "summary": "#手机数码 苹果继续考虑推出完全没有接口的 iPhone，但 iPhone 17 Air 仍然会配备 USB-C 接口。彭博社马克古尔曼称苹果原计划在 iPhone 17 Air 中删除 USB-C 接口，但由于欧盟法律问题暂时还得继续保留 USB-C。查看全文：https://ourl.co/10...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
     },
     {
       "title": "优化 CUDA C++ 编译时间",
