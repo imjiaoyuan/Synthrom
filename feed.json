@@ -9312,6 +9312,16 @@
       "category": "Blog"
     },
     {
+      "title": "具有俄罗斯和以色列双重国籍的勒索软件LockBit开发者被引渡至美国审判",
+      "link": "https://www.landiannews.com/archives/108396.html",
+      "date": "2025-03-19 14:27",
+      "author": "蓝点网",
+      "timestamp": 1742365673.0,
+      "summary": "#安全资讯 具有俄罗斯和以色列双重国籍的勒索软件 LockBit 开发者被引渡至美国审判，帕内夫算是 LockBit 的核心成员，主要职责包括开发代码和为 LockBit 其他成员提供指导。他在 2019 年～2024 年 2 月期间 “供职” 于 LockBit，在 2022 年 6 月到 202...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "eSIM虚拟卡提供商5ber的安卓应用无法下载 疑似是阿里云OSS欠费导致",
       "link": "https://www.landiannews.com/archives/108395.html",
       "date": "2025-03-19 13:58",
@@ -9372,6 +9382,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 宣布推出 Cosmos 世界基础模型和物理 AI 数据工具的重大更新",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-major-release-of-cosmos-world-foundation-models-and-physical-ai-data-tools/",
+      "date": "2025-03-18 16:05",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742285131.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——NVIDIA 今日宣",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "请停止你的违规行为：谷歌似乎在暗示如果屏蔽YouTube广告可能会被封号",
       "link": "https://www.landiannews.com/archives/108390.html",
       "date": "2025-03-18 15:46",
@@ -9379,6 +9399,16 @@
       "timestamp": 1742284018.0,
       "summary": "#科技资讯 请停止你的违规行为：现在 YouTube 在检测到用户屏蔽广告时会弹出违反 TOS 协议的警告，这或许是暗示谷歌可能会对用户封号。谷歌在通知中并未提到封号，但根据 YouTube TOS，若用户严重违规或屡次违规则可能会被封号，谷歌似乎是在向用户发出警告，让用户不要拦截广告。查看全文：h...",
       "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Omniverse 物理 AI 操作系统扩展至更多行业和伙伴",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-omniverse-physical-ai-operating-system-expands-to-more-industries-and-partners/",
+      "date": "2025-03-18 15:39",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742283579.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——NVIDIA 今日宣",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -9652,16 +9682,6 @@
       "category": "News"
     },
     {
-      "title": "iPhone 17系列模型曝光 传iPhone 17 Air将不再提供实体SIM卡托版本",
-      "link": "https://www.landiannews.com/archives/108360.html",
-      "date": "2025-03-17 12:06",
-      "author": "蓝点网",
-      "timestamp": 1742184408.0,
-      "summary": "#手机数码 虽然距离发布还早不过 iPhone 17 系列模型和 iPhone 17 Air 配置 / 价格已经曝光，模型主要展示 iPhone 17 不同机型的背面摄像头排布，这些样式与此前传闻及 CAD 渲染图基本相符。iPhone 17 Air 似乎要完全放弃 SIM 实体卡，但如果放弃 SI...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "优化 CUDA C++ 编译时间",
       "link": "https://developer.nvidia.com/zh-cn/blog/optimizing-compile-times-for-cuda-c/",
       "date": "2025-03-10 16:58",
@@ -9825,30 +9845,10 @@
       "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
       "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
       "date": "2025-02-26 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1740578400.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布 2025 财年第四季度及全年财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025/",
-      "date": "2025-02-26 22:00",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1740578400.0,
       "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2025年 1 月 26 日的第四季度收入为 393",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "GeForce RTX 5070 Ti GPU 加速生成式 AI 以及视频编辑、3D 等领域的内容创作",
-      "link": "https://blogs.nvidia.cn/blog/studio-ai-geforce-rtx-5070-ti-gpu-dlss/",
-      "date": "2025-02-20 22:00",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1740060000.0,
-      "summary": "基于 NVIDIA Blackwell 架构打造的 NVIDIA GeForce RTX 5070 Ti GP",
-      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
