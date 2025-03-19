@@ -4232,6 +4232,16 @@
       "category": "Blog"
     },
     {
+      "title": "记录一次 Apple Vision Pro 体验",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
+      "date": "2024-09-09 02:42",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1725820950.0,
+      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/",
       "date": "2024-09-08 16:00",
@@ -4499,6 +4509,16 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "随便聊聊最近买的物件",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
+      "date": "2024-08-15 15:29",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1723706959.0,
+      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -4859,6 +4879,16 @@
       "timestamp": 1720569600.0,
       "summary": "好不容易再次充满干劲，趁着这个机会把 Sliver Complex 的登陆页给重写一下，顺便尝试一下之前就想试一试的 Svelte 与 SvelteKit。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "记录一次学マス角色模型解包",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
+      "date": "2024-07-09 21:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1720532139.0,
+      "summary": "很喜欢学マス的小偶像建模，遂解之",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -7272,6 +7302,26 @@
       "category": "Blog"
     },
     {
+      "title": "TinHiFi T4 - 净",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
+      "date": "2023-07-20 11:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689824148.0,
+      "summary": "干净且均衡。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "百元内卷终点？——水月雨 竹2",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
+      "date": "2023-07-20 10:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689821885.0,
+      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -7419,6 +7469,36 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "为网页添加FontAwesome支持",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
+      "date": "2023-06-09 21:23",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686317012.0,
+      "summary": "🤔",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "SBC-XQ 蓝牙编码的音频质量",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
+      "date": "2023-06-09 20:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686315520.0,
+      "summary": "翻译了一篇关于SBC-XQ的文章。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "Linux运行游戏问题及解决方案汇总",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
+      "date": "2023-06-09 20:49",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686314985.0,
+      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -8132,6 +8212,16 @@
       "category": "Blog"
     },
     {
+      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
+      "date": "2022-08-14 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1660406400.0,
+      "summary": "一篇普通的晓尾巴测评。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "分布式数据库的一致性问题与共识算法",
       "link": "https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed",
       "date": "2022-08-07 04:11",
@@ -8339,6 +8429,16 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Fedora 折騰日記 ver 1.0",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
+      "date": "2022-04-04 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1649001600.0,
+      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -9212,6 +9312,36 @@
       "category": "Blog"
     },
     {
+      "title": "eSIM虚拟卡提供商5ber的安卓应用无法下载 疑似是阿里云OSS欠费导致",
+      "link": "https://www.landiannews.com/archives/108395.html",
+      "date": "2025-03-19 13:58",
+      "author": "蓝点网",
+      "timestamp": 1742363903.0,
+      "summary": "#软件资讯 eSIM 虚拟卡提供商 5ber 的安卓写卡应用已经无法下载，疑似是阿里云 OSS 欠费导致被暂停。此前蓝点网已经提到过 5ber 母公司出现运营问题导致各种项目动荡，5ber 目前也停止销售并且 APK 无法正常下载，但现有用户应该还能继续写卡。下载地址：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "甲骨文推出Java 24正式版 在语言功能/库/安全性/运行时性能方面带来显著改进",
+      "link": "https://www.landiannews.com/archives/108394.html",
+      "date": "2025-03-19 13:33",
+      "author": "蓝点网",
+      "timestamp": 1742362396.0,
+      "summary": "#软件资讯 甲骨文推出 Java 24 正式版，在语言功能、库、安全性、Runtime 性能方面带来显著改进。Java 24 恰好包含 24 个 JEP 增强提案，同时还包含大约 3500 个额外的修复和改进等。查看全文：https://ourl.co/108394",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "英伟达推出RTX Pro 6000 Blackwell系列高性能显卡 最高提供96GB GDDR7显存",
+      "link": "https://www.landiannews.com/archives/108393.html",
+      "date": "2025-03-19 13:14",
+      "author": "蓝点网",
+      "timestamp": 1742361254.0,
+      "summary": "#硬件设备 英伟达推出 RTX Pro 6000 Blackwell 系列高性能显卡，最高提供 96GB GDDR7 显存，专为工作站等高性能设备而设计。英伟达还将推出适用于台式机、笔记本电脑和服务器的 RTX Pro 系列显卡，满足设计师、开发者、数据科学家和创意工作者等用户群的需求。查看全文：h...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软向使用Windows 10系统的用户群发邮件提醒 建议用户将旧PC卖掉",
       "link": "https://www.landiannews.com/archives/108392.html",
       "date": "2025-03-19 11:20",
@@ -9432,16 +9562,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 发布全球首个开源人形机器人基础模型 Isaac GR00T N1——并推出加速机器人开发的仿真框架",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks/",
-      "date": "2025-03-18 08:46",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742258801.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
       "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
       "date": "2025-03-18 08:27",
@@ -9449,16 +9569,6 @@
       "timestamp": 1742257660.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
-      "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
-      "date": "2025-03-18 08:27",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742257660.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -9472,16 +9582,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出开放推理 AI 模型系列，助力开发者和企业构建代理式 AI 平台",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-family-of-open-reasoning-ai-models-for-developers-and-enterprises-to-build-agentic-ai-platforms/",
-      "date": "2025-03-18 08:11",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742256698.0,
-      "summary": "美国加利福尼亚州圣何塞 ——&#160; GTC —— 2025 年 3 月 18 日 —— &#160;NV",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "通用汽车和 NVIDIA 合作开发 AI，提升下一代汽车体验和 AI 制造业",
       "link": "https://blogs.nvidia.cn/blog/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing/",
       "date": "2025-03-18 07:25",
@@ -9489,16 +9589,6 @@
       "timestamp": 1742253940.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——通用汽车和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "通用汽车和 NVIDIA 合作开发 AI，提升下一代汽车体验和 AI 制造业",
-      "link": "https://blogs.nvidia.cn/blog/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing/",
-      "date": "2025-03-18 07:25",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742253940.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——通用汽车和 NVID",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -9512,16 +9602,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Dynamo 开源库加速并扩展 AI 推理模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models/",
-      "date": "2025-03-18 06:59",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742252392.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 —— NVIDIA 今",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
       "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
       "date": "2025-03-18 06:05",
@@ -9529,16 +9609,6 @@
       "timestamp": 1742249142.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
-      "date": "2025-03-18 06:05",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742249142.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -9549,16 +9619,6 @@
       "timestamp": 1742247909.0,
       "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell 加速计算机辅助工程软件实现实时数字孪生性能数量级提升",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-accelerates-computer-aided-engineering-software-by-orders-of-magnitude-for-real-time-digital-twins/",
-      "date": "2025-03-18 05:45",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742247909.0,
-      "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -9598,36 +9658,6 @@
       "author": "蓝点网",
       "timestamp": 1742184408.0,
       "summary": "#手机数码 虽然距离发布还早不过 iPhone 17 系列模型和 iPhone 17 Air 配置 / 价格已经曝光，模型主要展示 iPhone 17 不同机型的背面摄像头排布，这些样式与此前传闻及 CAD 渲染图基本相符。iPhone 17 Air 似乎要完全放弃 SIM 实体卡，但如果放弃 SI...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "不说BUG我还以为是特性：微软3月更新自动删除Copilot并从任务栏取消固定",
-      "link": "https://www.landiannews.com/archives/108359.html",
-      "date": "2025-03-17 11:49",
-      "author": "蓝点网",
-      "timestamp": 1742183381.0,
-      "summary": "#人工智能 真是草台行为啊！不说 BUG 我还以为这是特性：微软 3 月更新自动删除了 Copilot 并从任务栏取消固定。Copilot 是微软重点推广的产品，此前通过静默推送安装给 Windows 10/11 用户，虽说这对大多数用户来说都没影响，但不得不说这更新质量有多差才能把自家主推产品都给...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "US.KG免费域名基本上已经凉凉 提供商已注册ORG新域名继续提供免费子域名",
-      "link": "https://www.landiannews.com/archives/108358.html",
-      "date": "2025-03-17 11:39",
-      "author": "蓝点网",
-      "timestamp": 1742182749.0,
-      "summary": "#域名资讯 US.KG 免费域名基本上已经凉凉，提供商已注册 DPDNS ORG 新域名继续提供免费子域名。目前新域名还在准备阶段，完成后将可以自动迁移，而 KG 域名注册局称如果再收到投诉将立即暂停解析 US KG 域名，所以提供商暂时主动禁用了该域名的解析。查看全文：https://ourl.c...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软应用商店腾讯应用宝专区全量上线 所有用户均可在Win11上运行安卓应用/游戏",
-      "link": "https://www.landiannews.com/archives/108357.html",
-      "date": "2025-03-17 11:22",
-      "author": "蓝点网",
-      "timestamp": 1742181733.0,
-      "summary": "#软件资讯 微软应用商店腾讯应用宝专区全量上线，现在 Windows 10/11 都可以访问商店下载腾讯应用宝 PC 版并下载和使用安卓应用或游戏。腾讯应用宝 PC 版也是个虚拟化的安卓系统，在微软放弃 WSA 后微软中国与腾讯合作为用户继续提供类似 WSA 的体验。查看全文：https://our...",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
@@ -9972,6 +10002,66 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 助力谷歌量子 AI 通过量子器件物理学模拟加快处理器设计",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-supercharges-google-quantum-processor-design-with-simulation-of-quantum-device-physics/",
+      "date": "2024-11-18 13:56",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731909412.0,
+      "summary": "SC24 — NVIDIA 于今日宣布正在与谷歌量子 AI 合作，使用 NVIDIA CUDA-Q™ 平台进行",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 宣布与行业软件领先者推出 Omniverse 实时物理数字孪生产品",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders/",
+      "date": "2024-11-18 13:02",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731906166.0,
+      "summary": "SC24 — NVIDIA 今日宣布推出 NVIDIA Omniverse™ Blueprint。借助该蓝图，",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与软银集团助力日本迈向全球 AI 前沿阵列",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-softbank-accelerate-japans-journey-to-global-ai-powerhouse/",
+      "date": "2024-11-12 22:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731420000.0,
+      "summary": "NVIDIA AI Summit Japan – NVIDIA 今日宣布与软银集团开展一系列合作，旨在加速日本",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 以太网加速 xAI 构建的全球最大 AI 超级计算机",
+      "link": "https://blogs.nvidia.cn/blog/spectrum-x-ethernet-networking-xai-colossus/",
+      "date": "2024-10-28 20:37",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1730119079.0,
+      "summary": "2024 年 10 月 28 日—NVIDIA 宣布，xAI 位于田纳西州孟菲斯市的 Colossus 超级计",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 向开放硬件生态系统捐赠 Blackwell 平台设计，加速 AI 基础设施创新",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-contributes-blackwell-platform-design-to-open-hardware-ecosystem-accelerating-ai-infrastructure-innovation/",
+      "date": "2024-10-15 09:34",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728956048.0,
+      "summary": "10 月 16 日，在美国加利福尼亚州举行的 OCP 全球峰会上，NVIDIA 宣布已把 NVIDIA Bla",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "众多技术领导者利用 NVIDIA AI 软件改变全球各行各业",
+      "link": "https://blogs.nvidia.cn/blog/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries/",
+      "date": "2024-10-08 22:22",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728397326.0,
+      "summary": "技术领导者利用 NVIDIA AI 软件来改变全球各行各业。 NVIDIA AI 峰会 – NVIDIA 近日",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "pacman 7.0.0 更新，本地仓库需要手动干预",
       "link": "https://www.archlinuxcn.org/manual-intervention-for-pacman-700-and-local-repositories-required/",
       "date": "2024-09-14 20:00",
@@ -9989,6 +10079,16 @@
       "timestamp": 1725943544.0,
       "summary": "2024-09-14更新：该问题已经通过更新 gcc 到包含修复的提交的方式得到解决。Arch Linux 的 [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布 2025 财年第二季度财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-second-quarter-fiscal-2025/",
+      "date": "2024-08-28 20:09",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724846989.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
