@@ -42,6 +42,16 @@
       "category": "Blog"
     },
     {
+      "title": "在线实时多人一起扫雷 | minesweeperpro",
+      "link": "https://1link.fun/rss/jTARByUhehw",
+      "date": "2025-03-19 00:05",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742313929.0,
+      "summary": "和随机网友一起玩扫雷游戏，看看谁获得的分数更高。玩法很简单，进入网站之后，无需登录，系统会给你分配一个随机的昵称并且根据你的 IP 地址展示对应的国旗标志。然后点击开始键开始游戏，系统会给你匹配多位对手（注意，是多位，不只是2位玩家），你的目标就是尽可能的得到更多的金币，拿金币的规则也很简单：正确标...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
       "title": "博客两周年：答博客作者问卷",
       "link": "https://thirdshire.com/blogger-survey/",
       "date": "2025-03-18 22:30",
@@ -72,6 +82,26 @@
       "category": "Blog"
     },
     {
+      "title": "400 行 C 代码, 从 0 实现强化学习 | antirez ttt-rl",
+      "link": "https://1link.fun/rss/_ZwtO2W2KrD",
+      "date": "2025-03-18 08:25",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742257536.0,
+      "summary": "Redis 作者 antirez 新开源了一个厉害的项目, 用不到 400 行的 C 代码, 不使用任何依赖, 从头实现了一个强化学习 (Reinforcement learning)的 Tic Tac Toe 游戏.现在你能搜到的绝大部分强化学习的例子都是通过 PyTorch 之类的 ML 框架实...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
+      "title": "P 站算法 bug | hongkongdoll",
+      "link": "https://1link.fun/rss/JPY5egzhdEi",
+      "date": "2025-03-17 21:15",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742217320.0,
+      "summary": "今天刷到一个非常有意思的帖子, 经常自我学习的读者朋友应该听说过 HongKongDoll, 今天她在推上发了一个帖子, 讲了一个很有意思的事情.2021 年, 她发现 P 站的推荐算法有一个 bug, “只要下架视频再重新上架, 那么这个视频在推荐池里的关于上架时间的权重就会重新计算, 但观看量点...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
       "title": "隐说 No.6  姥姥的大米粥",
       "link": "https://wangyurui.com/posts/yin-shuo-no-6-xie-zuo-shi-zui-xiao-dan-wei-de-zi-c0bc69ef",
       "date": "2025-03-17 21:05",
@@ -79,6 +109,16 @@
       "timestamp": 1742216721.0,
       "summary": "孩儿，不怕，再黑的天到头了也得亮",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "让我们推倒社交媒体的花园围墙 | Tim Berners-Lee：Let’s knock down social media’s walled gardens",
+      "link": "https://1link.fun/rss/5A2eQhSfmjI",
+      "date": "2025-03-17 13:44",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742190269.0,
+      "summary": "万维网的发明者 Tim Berners-Lee 发文，说人们有时候会问我【在你发明万维网 35 年之后，如何评价现在的互联网？】回答就是：现在的互联网一部分功能失调，但也不是完全无药可救，还有一些尚未实现的目标，但是实现这些目标面临挑战。第一大挑战就是社交媒体，现在的社交媒体让所有人更加两极分化，社...",
+      "source_url": "https://1link.fun",
       "category": "Blog"
     },
     {
@@ -112,6 +152,16 @@
       "category": "Blog"
     },
     {
+      "title": "个性花鸟艺术字生成 | yishuzi",
+      "link": "https://1link.fun/i/or-yishuzi-XHrQ9s1JdFs/",
+      "date": "2025-03-16 09:03",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742087027.0,
+      "summary": "这个网站可以在线生成花鸟艺术字, 输入 5 个字(含)的中文, 点击生成, 即可看到效果.80, 90后的应该都见过这样的艺术字, 小时候还花钱专门让人用花鸟写自己的名字然后贴在墙上.(不过好像小时候的花钱买的字颜色更鲜艳一些)用来玩一玩还是不错的.这是这个工具出来的图片质量不太高, 可以随便搜一个...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
       "title": "关我辟事 Vol.36：春天来到前的雨季",
       "link": "https://blog.douchi.space/spark-joy-digest-2025-3a/",
       "date": "2025-03-16 04:44",
@@ -119,6 +169,16 @@
       "timestamp": 1742071440.0,
       "summary": "整个三月的上半月仿佛弹指一挥间毫无记忆地就过去了。从 Vegas 回来没几天又在西雅图看了演唱会，又没几天我就生病了，养病了大半周这才刚好起来就半个月结束了，觉得过得特别匆忙但实际上什么也没干，应该是最简洁的一期半月刊。\n本半月摘要：\n\n超多 Adulting 大项 check off\n时隔多年我又...",
       "source_url": "https://blog.douchi.space/",
+      "category": "Blog"
+    },
+    {
+      "title": "用英式英语写 CSS | britcss",
+      "link": "https://1link.fun/rss/kHKztziajk2",
+      "date": "2025-03-15 13:34",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742016876.0,
+      "summary": "这个 JS 库可以让你用传统的英式英语写 CSS, 比如美式英语中背景颜色的属性写成 background-color, 这个 JS 库可以让你写成 background-colour, 再比如 center (美式英语) 可以用 centre (英式英语) 来代替.🫘: https://ouo.i...",
+      "source_url": "https://1link.fun",
       "category": "Blog"
     },
     {
@@ -139,6 +199,16 @@
       "timestamp": 1741910924.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n成都出现了花田火锅，火锅店开在盛开的油菜花地里，运营期两个月。（via）\n\n低代码编程，恐怕不会成功\n\n这十几年...",
       "source_url": "http://www.ruanyifeng.com/blog/",
+      "category": "Blog"
+    },
+    {
+      "title": "每天只开放 3 个小时的社交媒体 | seven39",
+      "link": "https://1link.fun/rss/KD82QT8vXoG",
+      "date": "2025-03-14 08:05",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1741910700.0,
+      "summary": "别的社交媒体恨不得用户每天花 25 个小时在上面, 这个社交媒体别具一格, 每天只开放 3 个小时, 从晚上 7:39 到 10: 39 , 其他时间不能登陆.这么做的原因很简单, 因为它认为: 只有当我们都在线的时候, 社交媒体才更好玩.需要说明的是, 这个时间以 EST (美东) 时间为准, 和...",
+      "source_url": "https://1link.fun",
       "category": "Blog"
     },
     {
@@ -182,6 +252,16 @@
       "category": "Blog"
     },
     {
+      "title": "Hammperspoon 真乃神器也",
+      "link": "https://www.gaojinan.com/hammerspoon.html",
+      "date": "2025-03-12 10:05",
+      "author": "搞机男",
+      "timestamp": 1741745100.0,
+      "summary": "Hammerspoon 是一个 macOS 上的自动化脚本工具，它将 macOS 系统的底层操作封装成了一堆接口，而且原生支持 lua 脚本，通过编码能实现很多牛逼/好玩的功能。下面是几个我目前...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "卡牌构筑类桌游核心规则之五",
       "link": "https://blog.codingnow.com/2025/03/dbg_rules_5.html",
       "date": "2025-03-12 09:30",
@@ -189,6 +269,16 @@
       "timestamp": 1741743012.0,
       "summary": "最近的兴趣重心转移，没怎么研究桌游。不过前几个月的笔记还有一点，今天继续整理一下。继续谈谈 PvE 向的卡牌构筑类桌游。 Aeon's End (2016) 末日决战是一款偏传统卡牌对战规则的游戏：一开始手牌中只有水晶 (gem) 和基础法术 (spell) 卡。游戏过程中，在一个固定市场（9 种）...",
       "source_url": "https://blog.codingnow.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "DeepSeek + Dify 搭建本地知识库",
+      "link": "https://www.mengke.me/blog/202503/DeepSeek_Dify_Builds_Knowledge_Base",
+      "date": "2025-03-12 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1741737600.0,
+      "summary": "详细介绍如何在本地部署 DeepSeek 模型，包括 Ollama 安装、模型部署、UI 界面配置以及使用 Dify 搭建知识库的完整教程...",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -1172,6 +1262,16 @@
       "category": "Blog"
     },
     {
+      "title": "An elegant solution for implementing optional property types using TypeScript",
+      "link": "https://www.mengke.me/blog/typescript-optional",
+      "date": "2025-02-09 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1739059200.0,
+      "summary": "How to use TypeScript type tools to implement interface definitions with some optional properties to improve code maintainability and flexibility.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "用 AI 写了一个属于自己的 AI Deep Search。",
       "link": "https://xiaowenz.com/blog/2025/02/deep-research-dev-by-python/",
       "date": "2025-02-09 06:00",
@@ -1612,6 +1712,16 @@
       "category": "Blog"
     },
     {
+      "title": "在Astro项目中集成RSS.Beauty样式优化指南",
+      "link": "https://blog.illsky.com/posts/blog-rss-feed-style/",
+      "date": "2025-01-20 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1737331200.0,
+      "summary": "本教程介绍如何在Astro项目中优化RSS订阅源样式，使用RSS.Beauty工具生成XSL文件，并通过修改rss.xml.js文件集成美化样式，提升RSS阅读体验。",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "周报 #83 - 年初收纳（房间、设备、服务、软件）",
       "link": "https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/",
       "date": "2025-01-20 06:48",
@@ -1752,6 +1862,16 @@
       "category": "Blog"
     },
     {
+      "title": "2024 年终总结",
+      "link": "https://www.mengke.me/blog/202501/2024_Year_Summary",
+      "date": "2025-01-16 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1736985600.0,
+      "summary": "2024年是忙碌的一年，不仅完成了重要的旅行和技术成长，还在健康和家庭方面做出了积极努力，尽管有些目标未达成，但通过反思和调整，准备迎接2025年的新挑战...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "Shape Up 阅读笔记（4）- Betting: 决策最重要的是发生在正确的层级",
       "link": "https://xiaowenz.com/blog/2025/01/shape-up-methodology-4/",
       "date": "2025-01-16 06:00",
@@ -1789,6 +1909,16 @@
       "timestamp": 1736941129.0,
       "summary": "无摘要",
       "source_url": "https://hp-l.github.io/",
+      "category": "Blog"
+    },
+    {
+      "title": "使用 Cloudflare email worker 实现的临时电子邮件服务",
+      "link": "https://blog.illsky.com/posts/blog-cloudflare-email-worker/",
+      "date": "2025-01-15 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1736899200.0,
+      "summary": "无需服务器，10分钟搭建隐私友好的临时邮箱！基于Cloudflare Worker和Turso数据库，轻松实现邮件接收与存储，保护隐私从此无忧。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -2079,6 +2209,16 @@
       "timestamp": 1736077016.0,
       "summary": "By Long Luo\n目前汽车上的汽油发动机热效率为 \\(30\\%\\) 左右，柴油机热效率要高点，可以达到\n\\(40\\%\\) ，而电动机的效率可以达到 \\(90\\%\\) ，部分甚至可以达到 \\(95\\%\\)\n。为什么燃油发动机会比电动机效率低这么多呢？原因有很多方面，主要是因为电动机直接将电能直接...",
       "source_url": "https://www.longluo.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱",
+      "link": "https://blog.illsky.com/posts/blog-gmail-resend-email/",
+      "date": "2025-01-04 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1735948800.0,
+      "summary": "利用Cloudflare、Gmail和Resend快速搭建免费的企业邮箱。通过Cloudflare的电子邮件路由功能接收邮件并转发至Gmail，再结合Resend的API实现邮件发送，最终在Gmail中添加自定义邮箱，轻松实现专业的企业邮箱服务。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -2592,6 +2732,16 @@
       "category": "Blog"
     },
     {
+      "title": "图床方案迭代记录（Cloudflare R2 + PicGo）",
+      "link": "https://blog.illsky.com/posts/blog-optimizing-img/",
+      "date": "2024-12-15 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1734220800.0,
+      "summary": "介绍从直接在博客资源目录存储图片，到使用图床服务的转变过程。通过配置Cloudflare R2和PicGo，作者搭建了一个免费、稳定且无需备案的图床系统，提高了图片管理效率和博客加载速度。",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "你考不上，关我屁事",
       "link": "https://www.ntiy.com/2249.html",
       "date": "2024-12-14 12:25",
@@ -2959,6 +3109,16 @@
       "timestamp": 1732843200.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-11-04 到 2024-11-28 这几周生活的记录与思考。 10 月底又独自回到了清迈开启了两周的旅居生活；后又去曼谷参",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "Quickly Create a Fullscreen WebView with Autoplay Support for Testing",
+      "link": "https://www.mengke.me/blog/iOS-fullscreen-WebView",
+      "date": "2024-11-29 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1732838400.0,
+      "summary": "Learn how to create a fullscreen WebView in iOS that allows autoplay videos, perfect for debugging and testing web pages.",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -3642,6 +3802,16 @@
       "category": "Blog"
     },
     {
+      "title": "三年期腾讯云轻量服务器要到期了",
+      "link": "https://www.gaojinan.com/tencent-lighthouse-3years.html",
+      "date": "2024-10-28 11:13",
+      "author": "搞机男",
+      "timestamp": 1730085180.0,
+      "summary": "三年期的腾讯云轻量服务器要到期了刚看了一下 uptime，900天，万万没想到这么久没重启，下一次重启居然是因为自己要过期了哈哈",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "从亲密关系中学到的",
       "link": "https://thirdshire.com/relationship/",
       "date": "2024-10-28 10:00",
@@ -3729,6 +3899,16 @@
       "timestamp": 1729696800.0,
       "summary": "《Photograph - Ed Sheeran》 前言 本篇是对 2024-10-14 到 2024-10-20 这周生活的记录与思考。 这周从清迈回到了杭州，但是由于项目发版而忙碌了整整一周，几",
       "source_url": "https://www.pseudoyu.com/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "以数字开头的 ID 在 querySelector 中的处理",
+      "link": "https://www.mengke.me/blog/202410/Handle_Numeric_IDs_in_querySelector",
+      "date": "2024-10-23 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729641600.0,
+      "summary": "虽然HTML5允许使用数字作为ID，但在使用 querySelector 时，由于CSS规范的限制，需要采取额外步骤来正确选择这些元素 ...",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -3822,6 +4002,106 @@
       "category": "Blog"
     },
     {
+      "title": "String casing utilities in JavaScript",
+      "link": "https://www.mengke.me/blog/casing-utils",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "A various ready-to-use string casing utilities in Typescript.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Check if a string is a valid color",
+      "link": "https://www.mengke.me/blog/color-validator",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Validate strings to ensure they represent valid colors in various formats (hex, RGB, and named colors).",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Simple Event-Emitter/PubSub pattern",
+      "link": "https://www.mengke.me/blog/event-emitter",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "A lightweight pub/sub mechanism to handle custom events without adding a full-blown library.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Find which process is running on a certain port and kill it",
+      "link": "https://www.mengke.me/blog/find-and-kill-process-on-given-port-in-macos",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Identify and terminate processes running on a specific port in your dev environment.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Markdown Code block's basic and advanced syntaxes",
+      "link": "https://www.mengke.me/blog/markdown-code-block-syntax",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "A detailed overview of Markdown code block syntaxes, covering both basic and advanced use cases.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Common npm commands to use locally",
+      "link": "https://www.mengke.me/blog/npm-commands",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Essential npm commands for local development, covering package installation, version control, and script management.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Pnpm aliases",
+      "link": "https://www.mengke.me/blog/pnpm-aliases",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "How to install and update pnpm, create a shell alias for it, and upgrade project dependencies efficiently.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "How to safely rename a case sensitive file/directory in a git repo?",
+      "link": "https://www.mengke.me/blog/rename-a-case-sensitive-file-in-a-git-repo",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Safely rename case-sensitive files or directories in a Git repository to avoid conflicts or case inconsistencies.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "A custom hooks to use an async effect",
+      "link": "https://www.mengke.me/blog/use-async",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Build a custom React hook to use asynchronous effects inside functional components.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "A custom hooks to use local storage state",
+      "link": "https://www.mengke.me/blog/use-local-storage-state",
+      "date": "2024-10-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1729209600.0,
+      "summary": "Utilize a custom hook that syncs state with local storage, allowing for persistent state between sessions.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "杂文记。",
       "link": "https://xiaowenz.com/blog/2024/10/%E6%9D%82%E6%96%87%E8%AE%B0/",
       "date": "2024-10-18 06:00",
@@ -3839,6 +4119,16 @@
       "timestamp": 1729162740.0,
       "summary": "其实读这篇文章的时候，我首先想到了一个故事，秋收起义时毛泽东到达宁冈古城的时候，毛泽东曾风趣的对旁边战友说道，“《水浒传》里有个梁山泊，皇帝老子的千军万马也拿他们没办法，你们知道吗，这个井冈山啊也有两个绿林朋友，一个叫袁文才，一个叫王佐，反动派就是奈何不了他们，井冈山地势险要，我们可以关了东面打西面...",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "转眼高中毕业十年了，总结了篇文章解决大学生学习编程的所有迷茫",
+      "link": "https://blog.illsky.com/posts/work-10-year-doubt/",
+      "date": "2024-10-17 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1729123200.0,
+      "summary": "结合亲身经历，告诉你编程到底能做什么、学校会教什么、以及课外还能做哪些事情。无论是算法比赛、应用开发，还是科研项目，都有详细的建议和资源推荐，帮助你找到适合自己的学习方向。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -4122,6 +4412,16 @@
       "category": "Blog"
     },
     {
+      "title": "缓存双写一致性问题与分布式锁解决方案",
+      "link": "https://blog.illsky.com/posts/work-redis/",
+      "date": "2024-09-27 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1727395200.0,
+      "summary": "在使用缓存的场景中，缓存与数据库双写不一致问题经常会发生。特别是当我们对缓存和数据库执行更新操作时，往往会遇到以下问题",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 102 期",
       "link": "https://hellogithub.com/periodical/volume/102",
       "date": "2024-09-27 07:55",
@@ -4169,6 +4469,16 @@
       "timestamp": 1727081239.0,
       "summary": "这个月没有写什么程序。月初停下手头的开发工作，花了一周时间，作为 Indieplay 评委试玩了 200 多个参选游戏中的 100 多个。这个工作暂停之后，我就对前两个月对自己想做的游戏产生了许多疑惑。虽然写了不少代码，但仅限于基础玩法的外在功能：我实现了一整套类似边缘世界和缺氧里的工人系统，让小人...",
       "source_url": "https://blog.codingnow.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Emby 公益服初体验及劝退指南",
+      "link": "https://blog.illsky.com/posts/life-emby/",
+      "date": "2024-09-22 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1726963200.0,
+      "summary": "Emby 公益服让你免去自己购买 NAS 或服务器来下载、整理、刮削影片等诸多麻烦的流程，只需要用 Emby 客户端连上 Emby 公益服务器即可在各种设备上观影。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -4229,6 +4539,16 @@
       "timestamp": 1725840000.0,
       "summary": "最近在团队的一个分享，基于自己对 AI、投资、下一代技术的一些理解，结合网络上的 ark 报告、资料、论文、财报等梳理了下，假如有不懂的名词可以问 GPT，希望你开心，但不要在不懂市场的情况下基于此去投资，风险会很高，分享的 PDF 文件以及参考资料在文章结尾可以找到。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
       "source_url": "https://tw93.fun",
+      "category": "Blog"
+    },
+    {
+      "title": "Infuse + alist + 115，打造影音海报墙",
+      "link": "https://blog.illsky.com/posts/life-infuse-alist-115/",
+      "date": "2024-09-09 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1725840000.0,
+      "summary": "本文分享了一个无需 NAS 的私人影视库搭建方案，结合 115网盘、AList 和 Infuse，通过云端存储和灵活挂载，实现随时随地观看影视资源的便捷体验。文章详细介绍了 Alist 的安装步骤、115 网盘的配置方法以及 Infuse 的使用技巧，帮助读者打造出高效美观的影音海报墙。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -4502,6 +4822,16 @@
       "category": "Blog"
     },
     {
+      "title": "2024 青岛，记录一次换工作感受",
+      "link": "https://blog.illsky.com/posts/work-job-change-apperception/",
+      "date": "2024-08-16 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1723766400.0,
+      "summary": "记录和分享我从旧岗位到新工作的转变过程和感受。通过详细描述我的离职原因、准备工作、面试经历、新公司的适应过程，以及租房和环境适应等方面的经验，希望能够为正在经历类似情况的人提供一些参考和帮助",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "土地财政的深远影响",
       "link": "https://darmau.co/zh/article/the-impact-of-land-finance",
       "date": "2024-08-15 22:15",
@@ -4682,6 +5012,16 @@
       "category": "Blog"
     },
     {
+      "title": "IDEA 设置类注释模板作者、日期、描述等信息",
+      "link": "https://blog.illsky.com/posts/work-class-template/",
+      "date": "2024-08-03 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1722643200.0,
+      "summary": "IDEA 设置类注释模板作者、日期、描述等信息。每次换电脑或者新同事入职都要统一修改，找了网上好多教程都写的乱七八糟的啥都有，为方便统一就自己写一个操作方法，方便大家的开发配置，同时也为自己以后配置留一份记录",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "周报 #66 - 10x 工程师、技术热情与个人工具箱",
       "link": "https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/",
       "date": "2024-07-30 20:30",
@@ -4699,6 +5039,16 @@
       "timestamp": 1722341880.0,
       "summary": "无论从理论还是现实，一个国家的经济动力都是青壮年",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "🤩 Mengke'blog 上线的这一年",
+      "link": "https://www.mengke.me/blog/202407/Blog_Timeline",
+      "date": "2024-07-30 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1722297600.0,
+      "summary": "好久没有打开我的老博客了，今天突然发现访问量突破了一百万，借此机会聊聊我的代码人生 …",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -4802,6 +5152,16 @@
       "category": "Blog"
     },
     {
+      "title": "土耳其苹果iCloud服务保姆级教程",
+      "link": "https://blog.illsky.com/posts/weixin-icloud/",
+      "date": "2024-07-21 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1721520000.0,
+      "summary": "完成了土区iCloud 账号的注册，购买土耳其 AppStore 礼品卡，订阅土耳其 iCloud+计划，创建一个跨国家庭，并共享 iCloud+ 的存储空间",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "iPad 7 面向生产力的大学四年摸索",
       "link": "https://cyp0633.icu/post/ipad-7/",
       "date": "2024-07-17 08:00",
@@ -4849,6 +5209,16 @@
       "timestamp": 1720757340.0,
       "summary": "面对 Heptabase 使用中的混乱，我在工作流中引入了新的笔记工具：Tana 负责快速记录和表层思考，Heptabase 专注深度分析和知识管理。这种协同方法不仅解决了功能局限，还实现了「简 → 繁 → 简」循环，培养了元认知能力。通过优化使用习惯和工具协同作战，我成功应对了笔记管理中的挑战，提...",
       "source_url": "https://justgoidea.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Linux 查看当前文件目录文件夹大小",
+      "link": "https://blog.illsky.com/posts/tool-linux-ll/",
+      "date": "2024-07-12 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1720742400.0,
+      "summary": "介绍使用 du 命令来查看文件和目录的大小。du（Disk Usage）是一个Linux/Unix系统中的命令，用于显示目录或文件所占用的磁盘空间。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -4912,6 +5282,16 @@
       "category": "Blog"
     },
     {
+      "title": "聊一聊 Google 云盘的无限空间！",
+      "link": "https://blog.illsky.com/posts/weixin-google-cloud-drive/",
+      "date": "2024-07-06 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1720224000.0,
+      "summary": "如何在使用Google云盘扩展存储空间时，选择不同方式的利弊和安全性。作者分享了通过直接购买存储、获取教育号或企业号等方式来获得无限空间的方法。",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "2024 上半年电子报内容精选",
       "link": "https://justgoidea.com/posts/2024-019/",
       "date": "2024-07-02 16:43",
@@ -4952,6 +5332,16 @@
       "category": "Blog"
     },
     {
+      "title": "Z-Library，无限图书计划",
+      "link": "https://blog.illsky.com/posts/weixin-z-library/",
+      "date": "2024-06-29 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1719619200.0,
+      "summary": "Z-Library，一个提供电子书和期刊文章下载的平台，被称为全球最大的数字图书馆。提供了注册流程、使用限制（每天下载限制为10本书）、文件格式支持（如PDF、TXT、MOBI）、在线转换功能以及与Kindle设备的兼容性。",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 99 期",
       "link": "https://hellogithub.com/periodical/volume/99",
       "date": "2024-06-28 08:11",
@@ -4969,6 +5359,16 @@
       "timestamp": 1719459577.0,
       "summary": "前言\nChromium Embedded Framework(CEF)是一个开源框架，开发者可以将Chromium引擎嵌入至他们的应用程序中。尽管CEF被广泛应用于诸如微信和Epic Games Launcher等流行软件中，但对其安全性的研究却甚少。在本文中，我们将以Steam客户端浏览器（一款基...",
       "source_url": "https://www.darknavy.org/zh/",
+      "category": "Blog"
+    },
+    {
+      "title": "Newletter 和 GPT",
+      "link": "https://blog.illsky.com/posts/weixin-newletter-gpt/",
+      "date": "2024-06-22 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1719014400.0,
+      "summary": "传统的信息获取方式和内容消费模式正在被AI技术和算法推动的新模式所取代，这种新模式强调快速吸引和持续保持用户注意力，但却可能牺牲了信息的深度和质量。原创独立博客和Newsletter等传统的内容传递方式显得愈发珍贵。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -4999,6 +5399,16 @@
       "timestamp": 1718496000.0,
       "summary": "为实现延时跳转，一些站点使用了 JavaScript 的 setTimeOut() 和 window.open() 调用方法。但访客会在这一个地方收到浏览器的提示：已拦截弹出式窗口。这是为什么呢？",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "我是如何写小程序的",
+      "link": "https://blog.illsky.com/posts/weixin-how-to-write-program/",
+      "date": "2024-06-15 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1718409600.0,
+      "summary": "主要介绍了如何注册和开发微信小程序的详细流程。从注册账号、完善信息，到使用开发者工具创建页面和添加交互功能，最后上传并发布小程序。文章还涵盖了注册注意事项、配置开发环境以及简要的开发示例。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -5042,13 +5452,13 @@
       "category": "Blog"
     },
     {
-      "title": "昼事夜思劳形骸，常有拨云散雾",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2024-06-04.html",
-      "date": "2024-06-04 20:20",
-      "author": "DrPika's Blog",
-      "timestamp": 1717503615.0,
-      "summary": "日复一日的机械工作中，时常还是会有一些小确幸。",
-      "source_url": "https://blog.drpika.com/",
+      "title": "微信公众号每日早安推送，给对象的浪漫礼物",
+      "link": "https://blog.illsky.com/posts/weixin-daily-good-morning-feed/",
+      "date": "2024-06-05 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1717545600.0,
+      "summary": "如何通过服务器版和免服务器版来实现向对象发送浪漫的微信模板消息。还提到了如何使用GitHub Actions实现免服务器版的定时任务推送，使得即使不懂编程的人也可以轻松实现定时发送功能。",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -5072,6 +5482,26 @@
       "category": "Blog"
     },
     {
+      "title": "🗼 五月底去了一趟日本，记录一下我的游记和攻略",
+      "link": "https://www.mengke.me/blog/202405/Travels_In_Japan",
+      "date": "2024-05-31 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1717113600.0,
+      "summary": "年初制定的目标中有一项是「带老婆出国旅行」，现在已经完成了。五月底我们去了一趟日本。我在这里记录一下我们的游记，也分享一些攻略 …",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "程序员的写作环境",
+      "link": "https://blog.illsky.com/posts/weixin-writing-environment-for-programmers/",
+      "date": "2024-05-31 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1717113600.0,
+      "summary": "使用本地 markdown 文件和坚果云同步，通过 Typora 管理笔记目录，并定期备份到 GitHub，确保数据安全和易访问性。",
+      "source_url": "https://blog.illsky.com/",
+      "category": "Blog"
+    },
+    {
       "title": "佛法的终极奥义",
       "link": "https://justgoidea.com/posts/2024-017/",
       "date": "2024-05-30 15:34",
@@ -5089,6 +5519,16 @@
       "timestamp": 1716999602.0,
       "summary": "房价见底了吗？\n我希望成为贵公司的常驻艺术家\n\n在驻校期间，我将投入时间思考贵公司、文化和产品，并采用跨学科方法进行创作。\n我希望你们不要抱有任何期望。这样，如果没有任何具体结果，您也不会失望。我还希望，只有在支付我的时间不会给贵公司带来挫折的情况下，你们才会考虑这件事。\n同样重要的是，我不会为贵公...",
       "source_url": "https://www.owenyoung.com",
+      "category": "Blog"
+    },
+    {
+      "title": "A post of Markdown elements",
+      "link": "https://blog.illsky.com/posts/markdown-elements/",
+      "date": "2024-05-29 08:00",
+      "author": "云端的杂货铺",
+      "timestamp": 1716940800.0,
+      "summary": "This post is for testing and listing a number of different markdown elements",
+      "source_url": "https://blog.illsky.com/",
       "category": "Blog"
     },
     {
@@ -5512,6 +5952,16 @@
       "category": "Blog"
     },
     {
+      "title": "网站性能优化：如何高效预加载大型静态资源",
+      "link": "https://www.mengke.me/blog/202404/Static_Resource_Prefetch",
+      "date": "2024-04-07 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1712448000.0,
+      "summary": "对于网页中体积较大的静态资源如何进行预加载？在 Chrome 中可以使用 prefetch， 而在 Safari 中可以使用 Worker 新起一个线程进行加载 …",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "两个故事和一个社会实践。",
       "link": "https://xiaowenz.com/blog/2024/04/2-stories-and-2-projects/",
       "date": "2024-04-07 06:00",
@@ -5862,6 +6312,16 @@
       "category": "Blog"
     },
     {
+      "title": "闰年之约 - 2024年2月29日",
+      "link": "https://www.mengke.me/blog/202402/LeapDay_20240229",
+      "date": "2024-02-29 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1709164800.0,
+      "summary": "写一些话在这里，下一个 2 月 29 号来看（2028.02.29）...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "2025-03-02",
       "link": "http://bamboobone9.com/posts/thoughts/2025-03-02-thoughts/",
       "date": "2024-02-28 14:54",
@@ -6019,6 +6479,16 @@
       "timestamp": 1708284033.0,
       "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
       "source_url": "https://diygod.cc",
+      "category": "Blog"
+    },
+    {
+      "title": "A collection of some useful websites",
+      "link": "https://www.mengke.me/blog/202402/LearningWebsites",
+      "date": "2024-02-18 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1708214400.0,
+      "summary": "Collected some useful or interesting websites...",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -6452,6 +6922,16 @@
       "category": "Blog"
     },
     {
+      "title": "2023 年终总结",
+      "link": "https://www.mengke.me/blog/202401/2023_Year_Summary",
+      "date": "2024-01-04 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1704326400.0,
+      "summary": "稍纵即逝的一年即将结束。今年我也顺应潮流，记录年终总结。过去，我对「年终总结」不屑一顾，认为人生就是不断前行，有欢笑有泪水，一切都将过去。年纪稍长，渐渐明白，一些事情漫不经心就可能被遗忘，需要人为地留下痕迹...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "填补盾牌的裂缝：堆分配器中的MTE",
       "link": "https://www.darknavy.org/zh/blog/strengthening_the_shield_mte_in_memory_allocators/",
       "date": "2024-01-03 16:14",
@@ -6572,6 +7052,16 @@
       "category": "Blog"
     },
     {
+      "title": "WebGL 学习笔记（一）基础概念与实践",
+      "link": "https://www.mengke.me/blog/202312/WebGL_Notes_1",
+      "date": "2023-12-20 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1703030400.0,
+      "summary": "WebGL 学习笔记（一），WebGL 的基础概念及 HelloWorld ...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "基于 K3s + Kilo 的跨云 Kubernetes 集群",
       "link": "https://xlog.app/api/redirection?characterId=73858&noteId=49",
       "date": "2023-12-19 23:55",
@@ -6619,6 +7109,16 @@
       "timestamp": 1701918960.0,
       "summary": "记忆不再是碎片，从此有了连续性",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "Android Webview <video> 标签去除默认播放按钮图",
+      "link": "https://www.mengke.me/blog/202312/Remove_Android_WebView_video_poster",
+      "date": "2023-12-05 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1701734400.0,
+      "summary": "去除安卓 WebView 中视频默认的超丑的播放按钮...",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -6962,6 +7462,16 @@
       "category": "Blog"
     },
     {
+      "title": "📷 纯前端也可以实现「用户无感知录屏」？",
+      "link": "https://www.mengke.me/blog/202310/Non_Perceptual_Screen_Recording",
+      "date": "2023-10-25 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1698192000.0,
+      "summary": "如果真正做到无感知，那我们就不能借助浏览器或者系统系统的能力了。我们能做的就只能是通过js去操作了。要在页面内直接录制视频似乎并不容易，没有现成的开源库以使用，也没有很好的想法。那我们换一个思路...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "ADV换踏板，我不想要远方了",
       "link": "https://darmau.co/zh/article/adv-to-scooter",
       "date": "2023-10-14 11:16",
@@ -7042,6 +7552,16 @@
       "category": "Blog"
     },
     {
+      "title": "Getting Spotify token to display now playing track on your website",
+      "link": "https://www.mengke.me/blog/getting-spotify-token-to-display-nowplaying-tracks-on-your-site",
+      "date": "2023-09-30 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1696032000.0,
+      "summary": "Retrieve a Spotify access token to display the currently playing track on your website or application.",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "HelloGitHub 第 90 期",
       "link": "https://hellogithub.com/periodical/volume/90",
       "date": "2023-09-28 08:12",
@@ -7049,6 +7569,16 @@
       "timestamp": 1695859924.0,
       "summary": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (5)，CSS 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (2)，Sw...",
       "source_url": "https://hellogithub.com",
+      "category": "Blog"
+    },
+    {
+      "title": "AVP - Web 端特效视频播放器",
+      "link": "https://www.mengke.me/blog/202309/AVP_Introduction",
+      "date": "2023-09-28 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1695859200.0,
+      "summary": "在 Web 端实现特效视频播放功能，使用 WebGL 和 Canvas 实现视频播放和特效渲染。",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -7112,16 +7642,6 @@
       "category": "Blog"
     },
     {
-      "title": "杂谈医疗反腐风暴，医改将改向何方？",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2023-09-03.html",
-      "date": "2023-09-03 23:20",
-      "author": "DrPika's Blog",
-      "timestamp": 1693754415.0,
-      "summary": "医方、患方、药企、医保四个人打麻将，主打一个零和博弈，纪委监委斩不断腐败的根，得换谁来？本文仅代表个人不成熟的观点。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "奥本海默",
       "link": "https://imzm.im/oppenheimer/",
       "date": "2023-09-03 21:47",
@@ -7159,6 +7679,16 @@
       "timestamp": 1693412633.0,
       "summary": "战争虽然在几十年前就结束了，但阴霾依然没有消散。\nThe post 2023.7-8 精神食粮 appeared first on To the Lighthouse.",
       "source_url": "https://owlswims.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "IndexedDB 基础入门",
+      "link": "https://www.mengke.me/blog/202308/IndexedDB_Quick_Start",
+      "date": "2023-08-29 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1693267200.0,
+      "summary": "IndexedDB 是一种浏览器数据库，主要用于在客户端存储大量数据。",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -7352,6 +7882,16 @@
       "category": "Blog"
     },
     {
+      "title": "直接下载网易云音乐中歌曲MP3格式的方法",
+      "link": "https://www.mengke.me/blog/202307/neteasy_cloud_music_download_mp3",
+      "date": "2023-07-11 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1689033600.0,
+      "summary": "直接下载网易云音乐中歌曲MP3",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "为了不忘记：我的疫情记忆",
       "link": "https://darmau.co/zh/article/my-covid-memories",
       "date": "2023-07-07 17:40",
@@ -7359,6 +7899,16 @@
       "timestamp": 1688722800.0,
       "summary": "遗忘历史是对自身以及国家的背叛",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "什么！一个项目给了8个字体包？？？",
+      "link": "https://www.mengke.me/blog/202307/1-project-8-font",
+      "date": "2023-07-04 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1688428800.0,
+      "summary": "了解如何使用 font-family 样式的各种属性来组合需要的字体包。可以按照字体粗细、unicode 等信息来自动选择相应的字体包。",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -7519,6 +8069,16 @@
       "timestamp": 1685967815.0,
       "summary": "自我开始写文字起，就会遵循某一种特定的规则。这个规则时有变化，最开始的版本和现今版本已经不尽相同。 不算读书时 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blog"
+    },
+    {
+      "title": "flex 布局中 start/end 和 flex-start/flex-end 的区别",
+      "link": "https://www.mengke.me/blog/202306/start_end_flex-start_flex-end",
+      "date": "2023-06-05 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1685923200.0,
+      "summary": "flex 布局中 start/end 和 flex-start/flex-end 的区别",
+      "source_url": "https://www.mengke.me/blog",
       "category": "Blog"
     },
     {
@@ -7849,6 +8409,16 @@
       "timestamp": 1676464249.0,
       "summary": "在文章将 Yeelight",
       "source_url": "https://zhangshuqiao.org/",
+      "category": "Blog"
+    },
+    {
+      "title": "华为悦盒 EC6108V9C 海纳思系统 Linux 刷机 安装 WIFI 驱动",
+      "link": "https://www.gaojinan.com/huawei-tvbox-ec6108-v9c.html",
+      "date": "2023-02-10 12:10",
+      "author": "搞机男",
+      "timestamp": 1676002200.0,
+      "summary": "按照 https://www.ecoo.top/usbflash/usbflash.html 教程把1001版本的固件刷好，重启。下载附件，解压缩后用 scp 或者 sftp 或者 xshell...",
+      "source_url": "https://www.gaojinan.com/",
       "category": "Blog"
     },
     {
@@ -8372,16 +8942,6 @@
       "category": "Blog"
     },
     {
-      "title": "流水账：记一位患肝癌的大叔",
-      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2022-05-07.html",
-      "date": "2022-05-07 13:17",
-      "author": "DrPika's Blog",
-      "timestamp": 1651900631.0,
-      "summary": "因为疾病而不得不拖累亲人并最终与相爱之人们的分离实在是太令人伤痛的事情。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "分布式状态机共识协议 Copilot——论文阅读：Tolerating Slowdowns in Replicated State Machines using Copilots",
       "link": "https://www.eaimty.com/2022/tolerating-slowdowns-in-replicated-state-machines-using-copilots/",
       "date": "2022-05-07 08:00",
@@ -8542,16 +9102,6 @@
       "category": "Blog"
     },
     {
-      "title": "做自己的英雄",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2022-02-16.html",
-      "date": "2022-02-16 00:12",
-      "author": "DrPika's Blog",
-      "timestamp": 1644941548.0,
-      "summary": "我们的痛苦源于欲望与能力的不符。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "刘慈欣与电子诗人",
       "link": "https://zhangshuqiao.org/2021-12/%E5%88%98%E6%85%88%E6%AC%A3%E4%B8%8E%E7%94%B5%E5%AD%90%E8%AF%97%E4%BA%BA/",
       "date": "2021-12-20 12:54",
@@ -8572,6 +9122,16 @@
       "category": "Blog"
     },
     {
+      "title": "大玩具入手~Tesla Model Y 标续",
+      "link": "https://www.gaojinan.com/tesla-model-y.html",
+      "date": "2021-12-12 20:59",
+      "author": "搞机男",
+      "timestamp": 1639313940.0,
+      "summary": "今天入手了一台大玩具哈哈~Tesla Model Y 标续版，零百5.6。等我开一段时间再水一篇和媳妇的 Q5 的对比测评~ 虽然咱不是专业测车的，水一水总是可以的吧hh陆续更新一下晒太阳挂牌啦...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "Certbot 申请泛域名证书",
       "link": "https://zhangshuqiao.org/2021-12/Certbot%E7%94%B3%E8%AF%B7%E6%B3%9B%E5%9F%9F%E5%90%8D%E8%AF%81%E4%B9%A6/",
       "date": "2021-12-01 10:35",
@@ -8589,16 +9149,6 @@
       "timestamp": 1637552495.0,
       "summary": "签到题目内容是一个 pdf 文件，用 Adobe Acrobat 打开，看到其中包含一些特殊符号。\n\n\n在编辑模式下，查看得到其字体为 Wingdings，这是一个装饰字体，文本内容其实是 ASCII 码。文本范围是超出页面的，resize 之后复制出其内容，给出了两行文字：\n12fa{aeAGet...",
       "source_url": "https://zhangshuqiao.org/",
-      "category": "Blog"
-    },
-    {
-      "title": "从十二个愤怒的男人说起",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2021-11-22.html",
-      "date": "2021-11-22 02:38",
-      "author": "DrPika's Blog",
-      "timestamp": 1637519881.0,
-      "summary": "关于独立思考与舆论。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8662,16 +9212,6 @@
       "category": "Blog"
     },
     {
-      "title": "动心忍性，热血转凉",
-      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2021-08-24.html",
-      "date": "2021-08-24 01:32",
-      "author": "DrPika's Blog",
-      "timestamp": 1629739975.0,
-      "summary": "罗翔说：“许多法律学的好的同学，学着学着已经丧失人性了。” 医学僧又何尝不是如此。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "用 Rust 写一个用于 OCR 的 Telegram Bot",
       "link": "https://www.eaimty.com/2021/create-a-telegram-bot-for-ocr-in-rust/",
       "date": "2021-08-09 08:00",
@@ -8722,6 +9262,26 @@
       "category": "Blog"
     },
     {
+      "title": "红米(小米) AirDots 蓝牙配对机制解密",
+      "link": "https://www.gaojinan.com/redmi-airdots-bluetooth-pair.html",
+      "date": "2021-04-07 14:20",
+      "author": "搞机男",
+      "timestamp": 1617776400.0,
+      "summary": "红米在 2019 年发布的这个 AirDots 一代虽然真的是白菜价，但是俗话说得好，一分价钱一分货，这东西便宜归便宜，用也是真的难用。我上上个月花了 36 块钱从 PDD 上搞了一台，刚拿到手...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "通过 UEFI Shell 添加引导的正确姿势",
+      "link": "https://www.gaojinan.com/uefi-shell-add-entry-for-windows-opencore.html",
+      "date": "2021-03-26 10:38",
+      "author": "搞机男",
+      "timestamp": 1616726280.0,
+      "summary": "最简单的插入姿势是：进入UEFI Shell，查看 EFI 文件所在的 fsV假如你的是 fs0，那么如何判断 fs0 目录下面就是 EFI 呢，可以这样验证：Shell&gt; ls fs0:...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "读《蒂姆·库克传》",
       "link": "https://lutaonan.com/blog/reading-tim-cook",
       "date": "2021-03-14 08:00",
@@ -8742,6 +9302,16 @@
       "category": "Blog"
     },
     {
+      "title": "macOS Big Sur 下安装 pip2 (pip)",
+      "link": "https://www.gaojinan.com/macos-big-sur-python2-pip.html",
+      "date": "2021-03-01 14:16",
+      "author": "搞机男",
+      "timestamp": 1614579360.0,
+      "summary": "macOS Big Sur 默认调用的 Python 版本是 2.7.16，而非 Python3，但是比较奇怪的是，这个系统自带的 pip 版本又是 pip3，没有 pip2，这就导致有些情况下...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "牛年伊始，自我总结",
       "link": "https://www.eaimty.com/2021/summary-of-2020/",
       "date": "2021-02-13 08:00",
@@ -8749,16 +9319,6 @@
       "timestamp": 1613174400.0,
       "summary": "又是整整一年过去，是时候该总结一下之前的一年了。\n过去的一年我干了什么？无非只是吃饭、睡觉、摸鱼、应付考试而已。有时候心血来潮会学习或写一些新东西，可惜都是三天打鱼两天晒网，没有向哪个方向深入就停下了。深知自己没什么技术，可是却一直提不起干劲。\n由于大流行，去年有近9个月的时间都是在家中度过的，经常...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "“被浪漫”的那些日子",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2021-02-03.html",
-      "date": "2021-02-03 03:15",
-      "author": "DrPika's Blog",
-      "timestamp": 1612293305.0,
-      "summary": "你的动态很久没有提到过宇宙、银河、梦想和文学了。怎么，是不是和我一样去搬砖了？",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8782,6 +9342,16 @@
       "category": "Blog"
     },
     {
+      "title": "Android 11 刷入 Magisk 模块后无法开机的解决方法",
+      "link": "https://www.gaojinan.com/android-11-magisk-cant-boot-solve.html",
+      "date": "2020-12-31 09:53",
+      "author": "搞机男",
+      "timestamp": 1609379580.0,
+      "summary": "我的机器是 OnePlus 8 Pro, 这几天刷了一加刚出的 Android 11，刷了之后其他的都还好，只是 TWRP 没有能用的了，官方没有发布，XDA 上有一个开发者修改的，可惜还不支持...",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "从 Pixel 2 XL 换到 Pixel 4",
       "link": "https://www.eaimty.com/2020/pixel-4/",
       "date": "2020-12-03 08:00",
@@ -8789,16 +9359,6 @@
       "timestamp": 1606953600.0,
       "summary": "在服役几乎整整两年后，我的 Pixel 2 XL 终于迎来了退休。\n\n为什么要换 Pixel 4？\nGoogle 在 2020 年的发布会彻底搅乱了整个 Pixel 产品线。\n不以“a”结尾的 Pixel 系列向来都是旗舰，代表 Android 阵营的最高水平。就算 Pixel 5 在除了 Soc ...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "科普短篇：肺结节诊断里的爱恨纠葛",
-      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2020-11-06.html",
-      "date": "2020-11-06 01:25",
-      "author": "DrPika's Blog",
-      "timestamp": 1604597110.0,
-      "summary": "借 “常熟银行群体肺结节事件” 谈谈为什么我更推荐体检时选择做CT而不是X线检查。注意：本文内容仅代表个人看法，不构成任何医疗建议。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8812,23 +9372,13 @@
       "category": "Blog"
     },
     {
-      "title": "留恋吗，所有的旧时光",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-10-25.html",
-      "date": "2020-10-25 11:55",
-      "author": "DrPika's Blog",
-      "timestamp": 1603598109.0,
-      "summary": "最是遗憾，惹人心弦——《风犬少年的天空》观后碎念",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "零基础使用新版Coding搭建自动化部署的极速访问静态博客",
-      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2020-10-20.html",
-      "date": "2020-10-20 02:05",
-      "author": "DrPika's Blog",
-      "timestamp": 1603130709.0,
-      "summary": "Serverless 概念初探，腾云扣钉的差异化转型之路",
-      "source_url": "https://blog.drpika.com/",
+      "title": "Filco 87 双模忍者圣手二代蓝牙连接正确方法",
+      "link": "https://www.gaojinan.com/filco-87-bluetooth.html",
+      "date": "2020-09-23 17:35",
+      "author": "搞机男",
+      "timestamp": 1600853700.0,
+      "summary": "PS：万年不更的我又更了！！！这键盘买了三年多了，一直没有搞懂这个谜一样的蓝牙连接逻辑，今天终于在知乎上看到一篇相关的操作教程，试了一下很靠谱，所以就更一篇博客记录一下。",
+      "source_url": "https://www.gaojinan.com/",
       "category": "Blog"
     },
     {
@@ -8852,26 +9402,6 @@
       "category": "Blog"
     },
     {
-      "title": "被网警约谈了",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-31.html",
-      "date": "2020-08-31 21:40",
-      "author": "DrPika's Blog",
-      "timestamp": 1598881229.0,
-      "summary": "我以为这事只存在于网络奇谈轶事中，没想到自己真的碰到了。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "期待IPV6的普及",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-08-30.html",
-      "date": "2020-08-30 22:31",
-      "author": "DrPika's Blog",
-      "timestamp": 1598797889.0,
-      "summary": "买了一台（黑）群晖，好用，开心。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "网页自适应系统暗色模式的 W3C 新规范：prefers-color-scheme",
       "link": "https://www.eaimty.com/2020/prefers-color-scheme/",
       "date": "2020-08-02 08:00",
@@ -8879,16 +9409,6 @@
       "timestamp": 1596326400.0,
       "summary": "近几年，各个主流操作系统都逐渐开始重视暗色模式，从而改善用户在环境光亮低时的阅读体验。随着水果在 iOS 13 与 macOS Mojave 中添加了暗色模式，除了 Linux 以外所有的主流操作系统都已经实现了系统层级的暗色模式。Linux 由于 DE、WM 的种类繁杂暂时没有统一的标准，但目前可...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "南山必胜客与社会主义法治",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2020-07-11.html",
-      "date": "2020-07-11 23:43",
-      "author": "DrPika's Blog",
-      "timestamp": 1594482212.0,
-      "summary": "马克思告诫人们，不要低估资本无孔不入的侵蚀性。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8919,16 +9439,6 @@
       "timestamp": 1589328000.0,
       "summary": "争论框架是个无聊的事情，有一天在开车的时候我突然想到选框架和选车是一样的。\nReact 就像手动挡，Vue 就像自动挡。你不能因为你会开手动挡就看不起开自动挡的，我想正常的驾驶员在城市代步都会选择开自动挡。我只想代个步，为什么不把复杂的事情交给变速箱呢。\n当你要下赛道，你可能要选择手动档。因为你相信...",
       "source_url": "https://lutaonan.com",
-      "category": "Blog"
-    },
-    {
-      "title": "友情、爱情与孤独",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2020-04-18.html",
-      "date": "2020-04-18 22:20",
-      "author": "DrPika's Blog",
-      "timestamp": 1587219615.0,
-      "summary": "我的室友说，感情经历一张白纸的人，都是直男，当你不直了，你就变渣了。这么一想，直男也没什么不好。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -8982,6 +9492,16 @@
       "category": "Blog"
     },
     {
+      "title": "ArchLinux Manjaro Xfce 首装配置",
+      "link": "https://www.gaojinan.com/archlinux-manjaro-xfce-post-first-install.html",
+      "date": "2020-02-14 14:33",
+      "author": "搞机男",
+      "timestamp": 1581661980.0,
+      "summary": "昨天给家里那台老 X220 装了个 Manjaro 的 XFCE 版， 这里记录一下安装完成之后的配置过程。",
+      "source_url": "https://www.gaojinan.com/",
+      "category": "Blog"
+    },
+    {
       "title": "进入二十年代后的第一篇文章",
       "link": "https://www.eaimty.com/2020/20s/",
       "date": "2020-01-28 08:00",
@@ -9002,16 +9522,6 @@
       "category": "Blog"
     },
     {
-      "title": "关于民航总医院恶性伤医事件的一点引申思考",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-12-30.html",
-      "date": "2019-12-30 22:43",
-      "author": "DrPika's Blog",
-      "timestamp": 1577717012.0,
-      "summary": "当医务人员把患者放在了对立面，医患关系永无宁日。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "将 Atom 改造为一个简单的 C/C++ IDE",
       "link": "https://www.eaimty.com/2019/atom-c-ide/",
       "date": "2019-10-06 08:00",
@@ -9019,16 +9529,6 @@
       "timestamp": 1570320000.0,
       "summary": "如果你符合以下这些特点，这篇文章会很有用：\n\n单纯喜欢 Atom 的人\n单纯觉得 VS 难用的人\n有洁癖，不愿使用闭源软件的人\n讨厌微软的人\n喜欢折腾的人（其实折腾 Atom 也不是非常难）\n\n当然，即使你不属于上面这几类人，也应该体验一下使用 Atom 的感觉，因为只有对比过后才能知道哪个更适合自...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "“一只巴掌拍不响”的医患关系",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-09-23.html",
-      "date": "2019-09-23 20:43",
-      "author": "DrPika's Blog",
-      "timestamp": 1569242612.0,
-      "summary": "患者没信任，医者无担当，医生每一次做临床决策时都掺杂进大量避险的杂念，是每一个医生和患者的悲哀。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9042,16 +9542,6 @@
       "category": "Blog"
     },
     {
-      "title": "三十年迷思：历史的记忆",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2019-04-20.html",
-      "date": "2019-04-20 00:43",
-      "author": "DrPika's Blog",
-      "timestamp": 1555692212.0,
-      "summary": "近段时间，华为P系列称王背后的那个男人——徕卡的一支概念宣传片悄然传播在大陆互联网中，我才意识到，距离那场令国人三缄其口的风波，在今年迎来了三十周年的“纪念日”。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "2019",
       "link": "https://www.eaimty.com/2019/2019/",
       "date": "2019-02-09 08:00",
@@ -9059,16 +9549,6 @@
       "timestamp": 1549670400.0,
       "summary": "这篇文章本应 1 月初就发出来，结果...😂就像 Win10 的“10 月更新”一样，不说了\n自开博到现在也已经有 3 年了，去年摸了一整年鱼，加起来只发了 7 篇文章...\n学校那边也越来越忙，今年上半年过去后可能就会好些吧。\n那么，这一年我到底干了些什么呢？\n\n摸鱼\n摸鱼\n摸鱼\n\n仔细想来，这一...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "支持中国工人阶级大幅涨薪是“曲线卖国”？",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-12-16.html",
-      "date": "2018-12-16 13:38",
-      "author": "DrPika's Blog",
-      "timestamp": 1544938709.0,
-      "summary": "有理有据，令人信服",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9082,46 +9562,6 @@
       "category": "Blog"
     },
     {
-      "title": "从“游戏严管”、“网游限量”谈起",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-09-04.html",
-      "date": "2018-09-04 19:07",
-      "author": "DrPika's Blog",
-      "timestamp": 1536059252.0,
-      "summary": "在这个无论做什么都要先通过考试的社会，却有一门对社会发展影响极其深远的职业是不需要任何资格认证的，这怎么能不令人毛骨悚然呢？",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“人到中年”",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-09-01.html",
-      "date": "2018-09-01 23:07",
-      "author": "DrPika's Blog",
-      "timestamp": 1535814452.0,
-      "summary": "记一个中年人的生活。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "季夏的普通一天",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-08-12.html",
-      "date": "2018-08-12 23:07",
-      "author": "DrPika's Blog",
-      "timestamp": 1534086452.0,
-      "summary": "小布尔乔亚者的深夜反思。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2018年7月10日晚 《药神》观后一周有感",
-      "link": "https://blog.drpika.com/%E5%8C%BB%E8%B7%AF/2018-07-10.html",
-      "date": "2018-07-10 19:35",
-      "author": "DrPika's Blog",
-      "timestamp": 1531222511.0,
-      "summary": "实习了一个半月，见了不少人间百态。近一周上映的电影《我不是药神》虚构改编的现实甚至还不如在我在医院经历的现实那样沉重。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
       "title": "搞一台Acer C720 Chromebook玩玩",
       "link": "https://www.eaimty.com/2018/chromebook/",
       "date": "2018-07-07 08:00",
@@ -9129,26 +9569,6 @@
       "timestamp": 1530921600.0,
       "summary": "这篇文章的草稿已经躺在数据库里近一个半月了，今天终于又想起了它的存在，于是写完了它。\n\n为什么要买这台机器\n之前组装自用台式机的时候，我有一个很严重的失误：把所有心思都花在了减小机器的体积上，完全没有考虑散热的问题...装好的机器的确很小，大约只有一本五三练习册那么大：\n\n（忽略我的灵魂走线）\n但同...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "拥有一个自己的博客有多难？",
-      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-07-03.html",
-      "date": "2018-07-03 22:13",
-      "author": "DrPika's Blog",
-      "timestamp": 1530627192.0,
-      "summary": "同样，像大多数游戏那样，取决于自己的水平与倾向，构建自己的网上公开博客也有不同方式、不同难度可选。本文是一篇献给小白的 Hexo 博客程序搭建教程。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "你来到了没有知识存在的荒原",
-      "link": "https://blog.drpika.com/%E6%8A%80%E6%9C%AF/2018-06-10.html",
-      "date": "2018-06-10 00:11",
-      "author": "DrPika's Blog",
-      "timestamp": 1528560695.0,
-      "summary": "<script src=\"/assets/js/APlayer.min.js\" cla",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9169,66 +9589,6 @@
       "timestamp": 1525305600.0,
       "summary": "之前的几年中，我一直使用网易云音乐作为音乐平台，在各平台上安装的也基本都是网易云音乐和一款本地播放器（foobar2000 或 phonograph）。\n最近的某日，我因为好奇新版本在 Android 上升级了今年年初发布的网易云音乐 5.0...\n5 秒后，我在 App info 界面中点击了 u...",
       "source_url": "https://www.eaimty.com",
-      "category": "Blog"
-    },
-    {
-      "title": "由忆引思：“田佳良事件”与“思想入党”",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-27.html",
-      "date": "2018-04-27 10:30",
-      "author": "DrPika's Blog",
-      "timestamp": 1524796219.0,
-      "summary": "还有十天大学期间最后一个理论学习的学期就要以考试的方式结束了，忆往昔三年学生会经历峥嵘有感；顺便就曾同为院学生会副主席和学生党员的田佳良的不良行为引发广泛讨论的事件谈谈对“思想入党”的个人见解。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "关于#鸿茅药酒案反转#的一点思考",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-17.html",
-      "date": "2018-04-17 19:10",
-      "author": "DrPika's Blog",
-      "timestamp": 1523963445.0,
-      "summary": "前几篇博文唱了很多赞歌，今天就唱唱“反调”。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "大国崛起与国家尊严",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-14.html",
-      "date": "2018-04-14 19:32",
-      "author": "DrPika's Blog",
-      "timestamp": 1523705546.0,
-      "summary": "昨天，川普伙同梅姨、马克龙一起绕过了国内议会直接宣布对叙利亚发动“精准打击”，比起上次侵略伊拉克还知道找个“证据”，这次连“洗衣粉”都懒得掏出来糊弄一下两院和联合国了。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "自我奋斗与历史的行程",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-05.html",
-      "date": "2018-04-05 01:35",
-      "author": "DrPika's Blog",
-      "timestamp": 1522863316.0,
-      "summary": "作为一个初级膜法师，浅谈一下我认知中的膜法与“他”。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《厉害了我的国》观后感",
-      "link": "https://blog.drpika.com/%E6%80%9D%E8%80%83/2018-04-02.html",
-      "date": "2018-04-02 12:03",
-      "author": "DrPika's Blog",
-      "timestamp": 1522641814.0,
-      "summary": "由于是党支部公费组织观看的，所以看之前就知道看完后肯定会有“政治任务”，为了避免一个观后感写两次，此篇观后感的立场也会偏红专（当然我本来就红专，只是会和谐掉一些根据党章规定不适合出现的文字）。",
-      "source_url": "https://blog.drpika.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2018年3月31日晚",
-      "link": "https://blog.drpika.com/%E6%97%A5%E8%AE%B0/2018-03-31.html",
-      "date": "2018-03-31 18:30",
-      "author": "DrPika's Blog",
-      "timestamp": 1522492245.0,
-      "summary": "在知道不用勉强也行以后，自己就会止步不前。",
-      "source_url": "https://blog.drpika.com/",
       "category": "Blog"
     },
     {
@@ -9378,6 +9738,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 将打造加速量子计算研究中心",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-to-build-accelerated-quantum-computing-research-center/",
+      "date": "2025-03-18 16:30",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742286609.0,
+      "summary": "NVIDIA 今日宣布正在波士顿建立一个研究中心，提供前沿技术，以推动量子计算发展。 NVIDIA 加速量子研",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布连接 AI 智能体的 AI-Q Blueprint，开启未来工作新范式",
+      "link": "https://blogs.nvidia.cn/blog/ai-agents-blueprint/",
+      "date": "2025-03-18 16:19",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742285961.0,
+      "summary": "AI 智能体作为新型的数字化劳动力，正在改变业务运营模式、自动执行复杂任务、释放全新效能。如今，借助协作能力，",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -9642,16 +10022,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Blackwell 加速计算机辅助工程软件  实现实时数字孪生性能数量级提升",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-accelerates-computer-aided-engineering-software-by-orders-of-magnitude-for-real-time-digital-twins/",
-      "date": "2025-03-18 05:45",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742247909.0,
-      "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "[正版软件] 数据不上云的高安全跨平台密码管理器Sticky Password 终身版198元",
       "link": "https://www.landiannews.com/archives/108363.html",
       "date": "2025-03-17 22:38",
@@ -9819,16 +10189,6 @@
       "timestamp": 1740724068.0,
       "summary": "AI 智能体 正在通过实现流程自动化、优化决策制定和简化操作来改变业务运营。其有效性取决于专家推理，从而实现更 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA GTC 2025 大会上探索 RTX AI PC 和工作站如何强效助力 AI 开发",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-gtc-2025-sessions/",
-      "date": "2025-02-27 23:35",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1740670531.0,
-      "summary": "生成式 AI 正在重新定义计算，为在 PC 和工作站上构建、训练和优化 AI 模型解锁了新途径。从内容创作、大",
-      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
