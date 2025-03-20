@@ -9972,6 +9972,36 @@
       "category": "Blog"
     },
     {
+      "title": "Plex重大变更：无论使用自己还是别人的媒体服务器远程播放都必须付费",
+      "link": "https://www.landiannews.com/archives/108420.html",
+      "date": "2025-03-20 11:24",
+      "author": "蓝点网",
+      "timestamp": 1742441068.0,
+      "summary": "#软件资讯 媒体服务器 Plex 进行重大变更：自 4 月 29 日起无论是自己搭建服务器还是使用别人服务器，只要涉及远程播放都必须付费开通订阅。唯一免费选项就是用户自己搭建服务器并在局域网中进行访问，同时 Plex for iOS/Android 客户端可以免费使用不需要再购买。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "OpenAI推出o1 Pro模型API 每百万输出600美元 相当于DeepSeek的500倍以上",
+      "link": "https://www.landiannews.com/archives/108419.html",
+      "date": "2025-03-20 11:12",
+      "author": "蓝点网",
+      "timestamp": 1742440332.0,
+      "summary": "#人工智能 OpenAI 推出 o1 Pro 模型 API 服务，每百万输出 600 美元，相当于 DeepSeek 的 500 倍以上。o1 Pro 模型具有更好的推理能力，百万输入 150 美元，支持 200K 上下文窗口、最多输出 100K、数据库截至时间是 2023 年 10 月。查看全文：...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "SpeedTest抽取大量数据对比iPhone 16/16e网络速度 苹果C1芯片整体表现不俗",
+      "link": "https://www.landiannews.com/archives/108418.html",
+      "date": "2025-03-20 10:58",
+      "author": "蓝点网",
+      "timestamp": 1742439494.0,
+      "summary": "#手机数码 知名测速网站 SpeedTest 对 iPhone 16e 真实网络数据进行分析，分析表明苹果 C1 芯片即便没有支持毫米波 5G 但整体表现不错。搭载高通骁龙基带芯片的 iPhone 16 下载速度较 iPhone 16e 高出 35%，不过上传速度 iPhone 16e 超过 iPh...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "很遗憾！微软已修复Windows 10/11安装更新后自动卸载Copilot AI的错误",
       "link": "https://www.landiannews.com/archives/108417.html",
       "date": "2025-03-20 10:47",
@@ -10192,26 +10222,6 @@
       "category": "News"
     },
     {
-      "title": "姗姗来迟：火狐浏览器终于要支持PWA渐进式Web应用 当前还在早期开发阶段",
-      "link": "https://www.landiannews.com/archives/108386.html",
-      "date": "2025-03-18 11:41",
-      "author": "蓝点网",
-      "timestamp": 1742269302.0,
-      "summary": "#软件资讯 姗姗来迟：火狐浏览器终于准备支持 PWA 渐进式 Web 应用，这些是 Chromium 系浏览器已经支持多年的功能。目前火狐浏览器每夜构建版开始出现 PWA 的相关选项，但暂时还不能使用，可能还需要后续继续开发更迭。查看全文：https://ourl.co/108386",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "被指控帮助朝鲜黑客洗钱后OKX暂停其去中心化交易所聚合器OKX Web3的运营",
-      "link": "https://www.landiannews.com/archives/108385.html",
-      "date": "2025-03-18 11:26",
-      "author": "蓝点网",
-      "timestamp": 1742268376.0,
-      "summary": "#加密货币 被指控帮助朝鲜黑客洗钱后 OKX 暂停其去中心化交易所聚合器 OKX Web3 平台的运营，OKX 称将实施额外的升级防止滥用。OKX 此前否认涉及 Bybit 被盗 14 亿美元的洗钱，该交易所称 OKX Web3 只是聚合器，并非交易实际提供方，简单来说就是黑客不应该自己背。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA、Alphabet 和谷歌携手开启代理式与物理 AI 的未来",
       "link": "https://blogs.nvidia.cn/blog/nvidia-alphabet-and-google-collaborate-on-the-future-of-agentic-and-physical-ai/",
       "date": "2025-03-18 11:26",
@@ -10219,16 +10229,6 @@
       "timestamp": 1742268372.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 2025 年 3 月 18 日 —— 具有长期合作伙伴关系的 NV",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "服务器软件Apache Tomcat漏洞在被公开披露30小时后就被黑客用来展开攻击",
-      "link": "https://www.landiannews.com/archives/108368.html",
-      "date": "2025-03-18 11:06",
-      "author": "蓝点网",
-      "timestamp": 1742267216.0,
-      "summary": "#安全资讯 服务器软件 Apache Tomcat 漏洞被在被公开披露仅 30 小时后就被黑客用来展开攻击，使用 Tomcat 的企业务必立即升级。该漏洞涉及到反系列化问题，极端情况下黑客可以远程执行任意代码，随后可以植入后门窃取数据甚至部署勒索脚本等。查看全文：https://ourl.co/10...",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -10562,22 +10562,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
