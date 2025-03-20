@@ -9972,12 +9972,222 @@
       "category": "Blog"
     },
     {
+      "title": "谷歌正在调查即便网络连接非常好YouTube也只会播放144P/360P视频的问题",
+      "link": "https://www.landiannews.com/archives/108440.html",
+      "date": "2025-03-20 16:19",
+      "author": "蓝点网",
+      "timestamp": 1742458793.0,
+      "summary": "#科技资讯 谷歌正在调查即便网络连接良好 YouTube 也只会以 144P/360P 分辨率播放视频，该问题影响非常广泛，包括网页版、iOS 版和电视版都受影响。目前安卓版似乎不受影响，其他版本即便手动切换高分辨率也会卡顿或者随后自动降到低分辨率。查看全文：https://ourl.co/1084...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "首发翻车！谷歌称Pixel 9a存在组件质量问题 推迟到4月份再上市",
+      "link": "https://www.landiannews.com/archives/108427.html",
+      "date": "2025-03-20 15:14",
+      "author": "蓝点网",
+      "timestamp": 1742454886.0,
+      "summary": "#智能手机 首发翻车！谷歌称 Pixel 9a 存在组件质量问题推迟到 4 月份某个时候再上市。像这种已经发布然后推迟上市的情况并不多见，不过这也比上市后发现问题再召回要好，谷歌未透露具体什么硬件组件存在问题。查看全文：https://ourl.co/108427",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "HuggingFace推出iOS应用 无需联网即可使用本地视觉模型描述用户周围的内容",
+      "link": "https://www.landiannews.com/archives/108426.html",
+      "date": "2025-03-20 15:01",
+      "author": "蓝点网",
+      "timestamp": 1742454083.0,
+      "summary": "#人工智能 HuggingFace 推出本地智能视觉 AI 应用 HuggingSnap，支持 iOS、macOS 和 visionOS，无需联网即可调用 iPhone 摄像头实时描述周围的内容。该应用最大的特点就是本地运行 smolvlm2 模型，既不需要联网也可以节省电量延长 iPhone 续航...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "150美元/月信用额度派上用途：xAI推出图片生成API 每张图片0.07美元",
+      "link": "https://www.landiannews.com/archives/108425.html",
+      "date": "2025-03-20 14:49",
+      "author": "蓝点网",
+      "timestamp": 1742453391.0,
+      "summary": "#人工智能 150 美元 / 月信用额度派上用场：xAI 推出图像生成 API 服务，每张图片 0.07 美元。新的 API 模型是 Grok-2-Image-1212，给定标题即可生成最多 10 张 JPG 图像，每张图片 0.07 美元，不过暂时还不支持调整图像质量、大小和样式。查看全文：htt...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果在iOS 18.4测试版中修复Safari暴露用户关键词搜索记录的隐私问题",
+      "link": "https://www.landiannews.com/archives/108423.html",
+      "date": "2025-03-20 14:34",
+      "author": "蓝点网",
+      "timestamp": 1742452487.0,
+      "summary": "#系统资讯 苹果在 iOS 18.4 最新测试版中修复 Safari 暴露用户关键词搜索记录的隐私问题，在 2 月份的测试版中苹果为 Safari 带来关键词搜索记录，点击地址栏就会显示。这个功能可能会暴露用户的搜索记录但苹果没有提供关闭选项，收到用户反馈后苹果在最新测试版中增加了关闭选项。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "埃隆马斯克的X/Twitter完成10亿美元新融资 估值回到收购时的440亿美元",
+      "link": "https://www.landiannews.com/archives/108424.html",
+      "date": "2025-03-20 14:34",
+      "author": "蓝点网",
+      "timestamp": 1742452457.0,
+      "summary": "#科技资讯 埃隆马斯克的 X/Twitter 完成 10 亿美元新融资，估值已经回到马斯克收购时的 440 亿美元。这类融资的估值实际上是 320 亿美元，但投资者还需要承认 X 当前剩余的 125 亿美元债务，相当于总估值来到了 435 亿美元，与当时收购的 440 亿美元相差无几。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "惠普打印机固件禁止非原装墨盒的集体诉讼和解 惠普不会向用户支付任何赔偿",
+      "link": "https://www.landiannews.com/archives/108422.html",
+      "date": "2025-03-20 13:07",
+      "author": "蓝点网",
+      "timestamp": 1742447223.0,
+      "summary": "#行业资讯 针对惠普打印机固件禁止使用非原装墨盒的集体诉讼最终达成和解，惠普既不会向用户支付任何赔偿金、也不会允许用户使用第三方墨盒。惠普唯一承诺就是 2016 年 12 月 1 日前生产的打印机可以拒绝所谓的动态安全更新，该更新会限制第三方墨盒，之后生产的打印机无法拒绝固件更新。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Kali Linux 2025.1a正式版发布 带来新工具、桌面更改和主题刷新",
+      "link": "https://www.landiannews.com/archives/108421.html",
+      "date": "2025-03-20 12:43",
+      "author": "蓝点网",
+      "timestamp": 1742445807.0,
+      "summary": "#系统资讯 Kali Linux 2025.1a 版发布，这是 2025 年的首个版本更新，带来新工具、刷新桌面主题和桌面用户界面更改等。此次更新其实重点是界面方面的，包括新壁纸和桌面样式的更改，使用 Kali Linux 的用户记得顺手更新到最新版看看变化。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Plex重大变更：无论使用自己还是别人的媒体服务器远程播放都必须付费",
+      "link": "https://www.landiannews.com/archives/108420.html",
+      "date": "2025-03-20 11:24",
+      "author": "蓝点网",
+      "timestamp": 1742441068.0,
+      "summary": "#软件资讯 媒体服务器 Plex 进行重大变更：自 4 月 29 日起无论是自己搭建服务器还是使用别人服务器，只要涉及远程播放都必须付费开通订阅。唯一免费选项就是用户自己搭建服务器并在局域网中进行访问，同时 Plex for iOS/Android 客户端可以免费使用不需要再购买。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "OpenAI推出o1 Pro模型API 每百万输出600美元 相当于DeepSeek的500倍以上",
+      "link": "https://www.landiannews.com/archives/108419.html",
+      "date": "2025-03-20 11:12",
+      "author": "蓝点网",
+      "timestamp": 1742440332.0,
+      "summary": "#人工智能 OpenAI 推出 o1 Pro 模型 API 服务，每百万输出 600 美元，相当于 DeepSeek 的 500 倍以上。o1 Pro 模型具有更好的推理能力，百万输入 150 美元，支持 200K 上下文窗口、最多输出 100K、数据库截至时间是 2023 年 10 月。查看全文：...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "SpeedTest抽取大量数据对比iPhone 16/16e网络速度 苹果C1芯片整体表现不俗",
+      "link": "https://www.landiannews.com/archives/108418.html",
+      "date": "2025-03-20 10:58",
+      "author": "蓝点网",
+      "timestamp": 1742439494.0,
+      "summary": "#手机数码 知名测速网站 SpeedTest 对 iPhone 16e 真实网络数据进行分析，分析表明苹果 C1 芯片即便没有支持毫米波 5G 但整体表现不错。搭载高通骁龙基带芯片的 iPhone 16 下载速度较 iPhone 16e 高出 35%，不过上传速度 iPhone 16e 超过 iPh...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "很遗憾！微软已修复Windows 10/11安装更新后自动卸载Copilot AI的错误",
+      "link": "https://www.landiannews.com/archives/108417.html",
+      "date": "2025-03-20 10:47",
+      "author": "蓝点网",
+      "timestamp": 1742438846.0,
+      "summary": "#人工智能 很遗憾！微软已经修复 Windows 10/11 安装更新后自动卸载 Copilot AI 的错误，现在该应用又会被自动安装。早前微软发现 3 月例行更新安装后会自动删除 Copilot，不得不说这真是个离谱的事情，毕竟该应用是微软正在重点推广的产品。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "欧盟宣布谷歌搜索和Google Play违反数字市场法案(DMA) 最高可罚款350亿美元",
+      "link": "https://www.landiannews.com/archives/108416.html",
+      "date": "2025-03-20 10:34",
+      "author": "蓝点网",
+      "timestamp": 1742438097.0,
+      "summary": "#科技资讯 欧盟宣布谷歌搜索和 Google Play 违反发垄断法和数字市场法案，最高可以罚款 350 亿美元。欧盟发布的初步裁决主要针对谷歌搜索偏袒自家服务和 Google Play 限制开发者将用户引导到商店外购买，谷歌可以在最终裁决发布前上诉。查看全文：https://ourl.co/108...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软在欧盟销售的Surface Pro 11不再附带充电器 用户需要单独购买充电器",
+      "link": "https://www.landiannews.com/archives/108415.html",
+      "date": "2025-03-20 10:24",
+      "author": "蓝点网",
+      "timestamp": 1742437455.0,
+      "summary": "#科技资讯 微软在欧盟销售的 Surface Pro 11 不再附带充电器，用户必须单独购买充电器或 Surface Connect 磁吸式充电器。微软当前提供了几乎半价的充电器，不过也得 90 欧元，如果用户自己有 60W 左右的充电器那也可以实现快速充电。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "欧盟确认智能手机可以采用无端口设计 苹果可以推出无USB-C的iPhone",
+      "link": "https://www.landiannews.com/archives/108414.html",
+      "date": "2025-03-20 10:15",
+      "author": "蓝点网",
+      "timestamp": 1742436907.0,
+      "summary": "#科技资讯 欧盟确认智能手机可以采用无端口设计，因此苹果可以推出没有 USB-C 接口的 iPhone。欧盟新闻官表示此类无线电设备 (指无端口的智能手机) 无法通过有线进行充电，因此无需采用协调有线充电解决方案。查看全文：https://ourl.co/108414",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "百度发布声明回应谢广军女儿开盒事件 百度称开盒信息并非来自百度",
+      "link": "https://www.landiannews.com/archives/108399.html",
+      "date": "2025-03-20 10:00",
+      "author": "蓝点网",
+      "timestamp": 1742436016.0,
+      "summary": "#科技资讯 百度发布声明回应谢广军女儿开盒事件，百度称开盒信息并非来自百度，而是当事人通过海外的社工库获得的数据。百度称大量文案高度雷同的造谣文案称当事人承认家长给她数据库，针对此类造谣内容百度已向公安机关报案。查看全文：https://ourl.co/108399",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "即时通讯工具Telegram每月活跃用户突破10亿整数关口 成为全球第二大通讯应用",
+      "link": "https://www.landiannews.com/archives/108398.html",
+      "date": "2025-03-19 23:10",
+      "author": "蓝点网",
+      "timestamp": 1742397057.0,
+      "summary": "#软件资讯 即时通讯工具 Telegram 每月活跃用户突破 10 亿整数关口，成为全球仅次于 WhatsApp 的第二大通讯工具 (排除微信)。平均每位用户每天打开 Telegram 21 次、每天花费的时间是 41 分钟，在 2024 年 Telegram 净利润达到 5.47 亿美元。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌推出售价499美元的Pixel 9 采用谷歌G4芯片搭载8GB内存支持AI功能",
+      "link": "https://www.landiannews.com/archives/108397.html",
+      "date": "2025-03-19 22:56",
+      "author": "蓝点网",
+      "timestamp": 1742396193.0,
+      "summary": "#手机数码 谷歌推出售价 499 美元的 Pixel 9a，采用 Google Tensor G4 芯片和 8GB 内存，支持 Gemimi Live 实时视频等功能。该机型提供 128/256GB 存储，采用 6.3 英寸 pOLED 屏幕，刷新率 120Hz，采用 48MP 摄像头，自发布日起提...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "具有俄罗斯和以色列双重国籍的勒索软件LockBit开发者被引渡至美国审判",
+      "link": "https://www.landiannews.com/archives/108396.html",
+      "date": "2025-03-19 14:27",
+      "author": "蓝点网",
+      "timestamp": 1742365673.0,
+      "summary": "#安全资讯 具有俄罗斯和以色列双重国籍的勒索软件 LockBit 开发者被引渡至美国审判，帕内夫算是 LockBit 的核心成员，主要职责包括开发代码和为 LockBit 其他成员提供指导。他在 2019 年～2024 年 2 月期间 “供职” 于 LockBit，在 2022 年 6 月到 202...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "eSIM虚拟卡提供商5ber的安卓应用无法下载 疑似是阿里云OSS欠费导致",
+      "link": "https://www.landiannews.com/archives/108395.html",
+      "date": "2025-03-19 13:58",
+      "author": "蓝点网",
+      "timestamp": 1742363903.0,
+      "summary": "#软件资讯 eSIM 虚拟卡提供商 5ber 的安卓写卡应用已经无法下载，疑似是阿里云 OSS 欠费导致被暂停。此前蓝点网已经提到过 5ber 母公司出现运营问题导致各种项目动荡，5ber 目前也停止销售并且 APK 无法正常下载，但现有用户应该还能继续写卡。下载地址：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10018,6 +10228,16 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742283579.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——NVIDIA 今日宣",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 开源 cuOpt 开启决策优化新时代",
+      "link": "https://blogs.nvidia.cn/blog/cuopt-open-source/",
+      "date": "2025-03-18 14:36",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742279802.0,
+      "summary": "全球企业每分每秒钟都在进行关键决策。物流公司决定货运卡车的调度方案，零售企业思考货架的最优配置，航空公司在暴风",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10128,26 +10348,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742253940.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——通用汽车和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Dynamo 开源库加速并扩展 AI 推理模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models/",
-      "date": "2025-03-18 06:59",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742252392.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 —— NVIDIA 今",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
-      "date": "2025-03-18 06:05",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742249142.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
