@@ -10172,6 +10172,16 @@
       "category": "News"
     },
     {
+      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10188,16 +10198,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10562,22 +10562,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
-      "date": "2025-01-06 22:30",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1736173800.0,
-      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell GeForce RTX 50 系列开启 AI 计算机图形新世界",
       "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics/",
       "date": "2025-01-06 22:30",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1736173800.0,
       "summary": "拉斯维加斯—CES—太平洋时间 2025 年 1 月 6 日— NVIDIA 宣布为游戏玩家、创作者和开发者推",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出面向 RTX AI PC 的 AI 基础模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs/",
+      "date": "2025-01-06 22:30",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1736173800.0,
+      "summary": "拉斯维加斯—CES—2025 年 1 月 6 日— NVIDIA 今日发布能在 NVIDIA RTX™ AI",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
