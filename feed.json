@@ -10172,6 +10172,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
@@ -10188,16 +10198,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日  ——  NVIDIA",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10342,16 +10342,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 发布全球首个开源人形机器人基础模型 Isaac GR00T N1——并推出加速机器人开发的仿真框架",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks/",
-      "date": "2025-03-18 08:46",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742258801.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
       "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
       "date": "2025-03-18 08:27",
@@ -10359,66 +10349,6 @@
       "timestamp": 1742257660.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
-      "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
-      "date": "2025-03-18 08:27",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742257660.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 推出开放推理 AI 模型系列，助力开发者和企业构建代理式 AI 平台",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-family-of-open-reasoning-ai-models-for-developers-and-enterprises-to-build-agentic-ai-platforms/",
-      "date": "2025-03-18 08:11",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742256698.0,
-      "summary": "美国加利福尼亚州圣何塞 ——&#160; GTC —— 2025 年 3 月 18 日 —— &#160;NV",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "通用汽车和 NVIDIA 合作开发 AI，提升下一代汽车体验和 AI 制造业",
-      "link": "https://blogs.nvidia.cn/blog/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing/",
-      "date": "2025-03-18 07:25",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742253940.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——通用汽车和 NVID",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Dynamo 开源库加速并扩展 AI 推理模型",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models/",
-      "date": "2025-03-18 06:59",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742252392.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 —— NVIDIA 今",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
-      "date": "2025-03-18 06:05",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742249142.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell 加速计算机辅助工程软件实现实时数字孪生性能数量级提升",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-accelerates-computer-aided-engineering-software-by-orders-of-magnitude-for-real-time-digital-twins/",
-      "date": "2025-03-18 05:45",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742247909.0,
-      "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -10732,6 +10662,66 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 助力谷歌量子 AI 通过量子器件物理学模拟加快处理器设计",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-supercharges-google-quantum-processor-design-with-simulation-of-quantum-device-physics/",
+      "date": "2024-11-18 13:56",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731909412.0,
+      "summary": "SC24 — NVIDIA 于今日宣布正在与谷歌量子 AI 合作，使用 NVIDIA CUDA-Q™ 平台进行",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 宣布与行业软件领先者推出 Omniverse 实时物理数字孪生产品",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders/",
+      "date": "2024-11-18 13:02",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731906166.0,
+      "summary": "SC24 — NVIDIA 今日宣布推出 NVIDIA Omniverse™ Blueprint。借助该蓝图，",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与软银集团助力日本迈向全球 AI 前沿阵列",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-softbank-accelerate-japans-journey-to-global-ai-powerhouse/",
+      "date": "2024-11-12 22:00",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1731420000.0,
+      "summary": "NVIDIA AI Summit Japan – NVIDIA 今日宣布与软银集团开展一系列合作，旨在加速日本",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 以太网加速 xAI 构建的全球最大 AI 超级计算机",
+      "link": "https://blogs.nvidia.cn/blog/spectrum-x-ethernet-networking-xai-colossus/",
+      "date": "2024-10-28 20:37",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1730119079.0,
+      "summary": "2024 年 10 月 28 日—NVIDIA 宣布，xAI 位于田纳西州孟菲斯市的 Colossus 超级计",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 向开放硬件生态系统捐赠 Blackwell 平台设计，加速 AI 基础设施创新",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-contributes-blackwell-platform-design-to-open-hardware-ecosystem-accelerating-ai-infrastructure-innovation/",
+      "date": "2024-10-15 09:34",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728956048.0,
+      "summary": "10 月 16 日，在美国加利福尼亚州举行的 OCP 全球峰会上，NVIDIA 宣布已把 NVIDIA Bla",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "众多技术领导者利用 NVIDIA AI 软件改变全球各行各业",
+      "link": "https://blogs.nvidia.cn/blog/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries/",
+      "date": "2024-10-08 22:22",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1728397326.0,
+      "summary": "技术领导者利用 NVIDIA AI 软件来改变全球各行各业。 NVIDIA AI 峰会 – NVIDIA 近日",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "pacman 7.0.0 更新，本地仓库需要手动干预",
       "link": "https://www.archlinuxcn.org/manual-intervention-for-pacman-700-and-local-repositories-required/",
       "date": "2024-09-14 20:00",
@@ -10749,6 +10739,16 @@
       "timestamp": 1725943544.0,
       "summary": "2024-09-14更新：该问题已经通过更新 gcc 到包含修复的提交的方式得到解决。Arch Linux 的 [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 发布 2025 财年第二季度财务报告",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-second-quarter-fiscal-2025/",
+      "date": "2024-08-28 20:09",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1724846989.0,
+      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
