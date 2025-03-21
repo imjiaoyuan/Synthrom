@@ -9972,6 +9972,26 @@
       "category": "Blog"
     },
     {
+      "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
+      "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
+      "date": "2025-03-21 17:13",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742548399.0,
+      "summary": "NVIDIA Parabricks 是一款可扩展的基因组学分析软件套件，通过加速计算和深度学习解决 omics &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "联想基于SteamOS系统的游戏掌机已经开始预购 内存更少价格更便宜",
+      "link": "https://www.landiannews.com/archives/108448.html",
+      "date": "2025-03-21 16:57",
+      "author": "蓝点网",
+      "timestamp": 1742547468.0,
+      "summary": "#游戏设备 联想基于 SteamOS 系统的游戏掌机已经在百思买上开始预购，内存更少、价格更便宜，但可能要到 5 月份才能发货。联想称 Linux 系统消耗的内存更少，所以起步提供了 16GB 版，让该掌机的售价进一步降低。查看全文：https://ourl.co/108448",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
       "link": "https://www.landiannews.com/archives/108447.html",
       "date": "2025-03-21 10:49",
@@ -10049,6 +10069,16 @@
       "timestamp": 1742518299.0,
       "summary": "#硬件设备 群晖 2025 年上半年新产品阵容曝光，全系列上 2.5GbE 网口，但怎么还是采用 Intel J4125 处理器。真不知道群晖囤了多少 J4125，即将推出的 DS625slim、425+、225 + 等仍然采用 J4125 处理器，好消息是群晖总算开始使用 2.5GbE 网口了。查...",
       "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "使用 NVIDIA Holoscan 3.0 中的动态流控制轻松构建边缘 AI 应用",
+      "link": "https://developer.nvidia.com/zh-cn/blog/easily-build-edge-ai-apps-with-dynamic-flow-control-in-nvidia-holoscan-3-0/",
+      "date": "2025-03-20 16:20",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742458815.0,
+      "summary": "NVIDIA 在 GTC 2025 上宣布推出实时 AI 传感器处理平台 NVIDIA Holoscan 3. &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
@@ -10202,13 +10232,73 @@
       "category": "News"
     },
     {
-      "title": "很遗憾！微软已修复Windows 10/11安装更新后自动卸载Copilot AI的错误",
-      "link": "https://www.landiannews.com/archives/108417.html",
-      "date": "2025-03-20 10:47",
-      "author": "蓝点网",
-      "timestamp": 1742438846.0,
-      "summary": "#人工智能 很遗憾！微软已经修复 Windows 10/11 安装更新后自动卸载 Copilot AI 的错误，现在该应用又会被自动安装。早前微软发现 3 月例行更新安装后会自动删除 Copilot，不得不说这真是个离谱的事情，毕竟该应用是微软正在重点推广的产品。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
+      "title": "利用 Oracles 和实验反馈指导生成式分子设计",
+      "link": "https://developer.nvidia.com/zh-cn/blog/guiding-generative-molecular-design-with-experimental-feedback-using-oracles/",
+      "date": "2025-03-19 16:56",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742374613.0,
+      "summary": "AI 生成化学有可能彻底改变科学家在药物研发、健康以及材料科学和工程领域的工作方式。研究人员无需借助“化学直觉 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "MONAI 集成先进的代理式架构，建立多模态医疗 AI 生态系统",
+      "link": "https://developer.nvidia.com/zh-cn/blog/monai-integrates-advanced-agentic-architectures-to-establish-multimodal-medical-ai-ecosystem/",
+      "date": "2025-03-19 16:50",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742374212.0,
+      "summary": "医疗数据的数量和复杂性不断增加，以及对早期疾病诊断和提高医疗效率的迫切需求，正在推动医疗 AI 取得前所未有的 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial Omniverse 数字孪生提升AI原生无线开发和灵活部署能力",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-aerial-omniverse-digital-twin-boosts-development-of-ai-native-wireless-and-deployment-flexibility/",
+      "date": "2025-03-19 16:43",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742373799.0,
+      "summary": "在 AI 与先进 5G 和即将推出的 6G 技术融合的推动下，无线行业正处于转型的边缘，这些技术可为数十亿 A &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Earth-2 为阿联酋的区域 AI 天气预报提供支持",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-earth-2-powers-regional-ai-weather-forecasting-in-the-united-arab-emirates/",
+      "date": "2025-03-19 16:39",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742373551.0,
+      "summary": "在阿联酋 (UAE) ，极端天气事件破坏日常生活、延误航班、危及交通并使城市规划复杂化。白天的高温限制了人类在 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "AI 推理时代的 NVIDIA Blackwell Ultra",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-blackwell-ultra-for-the-era-of-ai-reasoning/",
+      "date": "2025-03-19 16:34",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742373298.0,
+      "summary": "多年来，AI 的进步一直通过预训练扩展遵循清晰的轨迹：更大的模型、更多的数据和更丰富的计算资源带来了突破性的功 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 虚拟 GPU 18.0 可在每个虚拟化平台上实现适用于 AI 的 VDI",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-virtual-gpu-v18-0-enables-vdi-for-ai-on-every-virtualized-platform/",
+      "date": "2025-03-19 16:25",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742372718.0,
+      "summary": "NVIDIA 虚拟 GPU (vGPU) 技术可在虚拟桌面基础架构 (VDI) 中解锁 AI 功能，使其比以往 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -10232,12 +10322,12 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
+      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
       "date": "2025-03-18 23:55",
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10298,6 +10388,16 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742279802.0,
       "summary": "全球企业每分每秒钟都在进行关键决策。物流公司决定货运卡车的调度方案，零售企业思考货架的最优配置，航空公司在暴风",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出开源物理 AI 数据集，助力机器人及自动驾驶汽车技术发展",
+      "link": "https://blogs.nvidia.cn/blog/open-physical-ai-dataset/",
+      "date": "2025-03-18 12:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742273700.0,
+      "summary": "训练自主机器人和车辆与物理世界有效互动需要海量高质量的数据，为了让研究人员和开发者赢得先机，NVIDIA 现发",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10372,26 +10472,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 发布全球首个开源人形机器人基础模型 Isaac GR00T N1——并推出加速机器人开发的仿真框架",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks/",
-      "date": "2025-03-18 08:46",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742258801.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 —— NVIDIA 今",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
-      "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
-      "date": "2025-03-18 08:27",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742257660.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "优化 CUDA C++ 编译时间",
       "link": "https://developer.nvidia.com/zh-cn/blog/optimizing-compile-times-for-cuda-c/",
       "date": "2025-03-10 16:58",
@@ -10418,86 +10498,6 @@
       "author": "NVIDIA 技术博客",
       "timestamp": 1741582858.0,
       "summary": "在大型 GPU 集群上训练 AI 模型给模型构建者带来了重大挑战。随着作业规模的增加，人工干预变得不切实际，因 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "基于 1F1B 的 MoE A2A 通信计算 Overlap",
-      "link": "https://developer.nvidia.com/zh-cn/blog/1f1b-moe-a2a-computing-overlap/",
-      "date": "2025-03-07 17:10",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741338613.0,
-      "summary": "背景 在 MoE 模型的训练过程中，EP rank 之间的 A2A 通信在端到端时间中占据了相当大比重，对训练 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "使用重排序微服务提升信息检索准确性和降低成本",
-      "link": "https://developer.nvidia.com/zh-cn/blog/how-using-a-reranking-microservice-can-improve-accuracy-and-costs-of-information-retrieval/",
-      "date": "2025-03-06 13:36",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741239413.0,
-      "summary": "需要高性能信息检索的应用涉及各个领域，包括搜索引擎、知识管理系统、AI 代理和 AI 助手。这些系统需要准确且 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA GPU 上无需更改代码即可加速 Apache Spark ML",
-      "link": "https://developer.nvidia.com/zh-cn/blog/accelerate-apache-spark-ml-on-nvidia-gpus-with-zero-code-change/",
-      "date": "2025-03-06 13:26",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741238783.0,
-      "summary": "适用于 Apache Spark 软件插件的 NVIDIA RAPIDS 加速器 开创了零代码更改用户体验 ( &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA Omniverse 将 AR 体验串流到 Apple iPad",
-      "link": "https://developer.nvidia.com/zh-cn/blog/stream-ar-experiences-to-the-apple-ipad-with-nvidia-omniverse/",
-      "date": "2025-03-05 13:49",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741153772.0,
-      "summary": "最近在 MWC 巴塞罗那宣布 ，开发者现在可以将使用 NVIDIA Omniverse 构建的增强现实（AR） &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA NIM 和 NVIDIA Holoscan for Media 增强直播媒体工作流程效率",
-      "link": "https://developer.nvidia.com/zh-cn/blog/supercharging-live-media-workflows-with-nvidia-nim-and-nvidia-holoscan-for-media/",
-      "date": "2025-03-05 13:44",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741153484.0,
-      "summary": "NVIDIA Holoscan for Media 是一个 NVIDIA 加速平台，专为多供应商实时制作和 A &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "使用 Numba 将 GPU 加速的算法交易模拟提高 100 多倍",
-      "link": "https://developer.nvidia.com/zh-cn/blog/gpu-accelerate-algorithmic-trading-simulations-by-over-100x-with-numba/",
-      "date": "2025-03-04 13:53",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741067620.0,
-      "summary": "量化开发者需要运行回测模拟，以便从损益（P&#38;L）的角度了解金融算法的表现。统计技术对于根据可能的损益路 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "衡量 AI Guardrails 在生成式 AI 应用中的有效性和性能",
-      "link": "https://developer.nvidia.com/zh-cn/blog/measuring-the-effectiveness-and-performance-of-ai-guardrails-in-generative-ai-applications/",
-      "date": "2025-03-03 14:18",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740982686.0,
-      "summary": "保护 AI 智能体和其他对话式 AI 应用，以确保安全、品牌和可靠的行为，这对企业至关重要。 NVIDIA N &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "AI 模型为环保人士提供大规模保护渔业和野生动物的新工具",
-      "link": "https://developer.nvidia.com/zh-cn/blog/ai-model-offers-conservationists-new-tools-to-protect-fisheries-wildlife-at-scale/",
-      "date": "2025-03-03 14:06",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1740982014.0,
-      "summary": "为了遏制非法捕捞，研究人员发布了一个新的开源 AI 模型，该模型可以准确识别世界上几乎所有的航海船只的行为，包 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
