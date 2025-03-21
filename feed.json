@@ -9972,6 +9972,66 @@
       "category": "Blog"
     },
     {
+      "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
+      "link": "https://www.landiannews.com/archives/108447.html",
+      "date": "2025-03-21 10:49",
+      "author": "蓝点网",
+      "timestamp": 1742525397.0,
+      "summary": "#人工智能 微软为 Microsoft 365 订阅用户推出 Copilot for OneDrive，可以总结文件生成摘要、对比文件和选择文件后回答特定问题。此前这些功能已经向工作和学校账户提供，现在 Microsoft 365 个人和家庭版用户也可以使用，但仅限于网页版的 OneDrive。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "埃隆马斯克的xAI Grok人工智能应用登陆Telegram 但目前仅限会员使用",
+      "link": "https://www.landiannews.com/archives/108446.html",
+      "date": "2025-03-21 10:36",
+      "author": "蓝点网",
+      "timestamp": 1742524607.0,
+      "summary": "#人工智能 埃隆马斯克的 xAI Grok 人工智能应用登陆 Telegram 平台，暂不支持联网查询、使用 Grok-2-mini-08-13 小尺寸模型。不过这个机器人暂时仅限 Telegram Premium 订阅会员使用，估计还需要一些时间才允许免费用户使用。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软优化Windows 11解压缩功能 现在解压大量小文件时速度明显变快",
+      "link": "https://www.landiannews.com/archives/108445.html",
+      "date": "2025-03-21 10:23",
+      "author": "蓝点网",
+      "timestamp": 1742523823.0,
+      "summary": "#系统资讯 微软优化 Windows 11 解压缩功能，现在解压包含大量小文件的压缩文件时速度会明显变快。例如开发者打包的某个项目可能包含几万甚至几十万个只有几百 KB 的小文件，原本这类文件解压需要很长时间，经过优化后现在解压时间可以缩短。查看全文：https://ourl.co/108445",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软为iPhone/iPad带来免费的匿名办公文件共享功能 暂时不支持安卓平台",
+      "link": "https://www.landiannews.com/archives/108444.html",
+      "date": "2025-03-21 10:02",
+      "author": "蓝点网",
+      "timestamp": 1742522525.0,
+      "summary": "#软件资讯 微软为 iPhone/iPad 带来免费的匿名办公文件共享功能，用户收到链接时无需登录微软账号即可查看内容。此功能此前在桌面平台上提供，现已扩展到 iPhone 和 iPad，但暂时还不支持 Android 平台。查看全文：https://ourl.co/108444",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果因推迟Siri AI功能遭到起诉 有律师事务所认为苹果此前展示的是虚假宣传",
+      "link": "https://www.landiannews.com/archives/108443.html",
+      "date": "2025-03-21 09:39",
+      "author": "蓝点网",
+      "timestamp": 1742521186.0,
+      "summary": "#科技资讯 苹果因推迟 Siri AI 功能遭到起诉，原告认为苹果此前展示的是虚假宣传。此前苹果在各种渠道投放广告宣传 AI 功能，但 Siri AI 功能被推迟，原告方 Clarkson Law Firm 律师事务所认为苹果这是虚假宣传，预计该律师事务所应该会寻求集体诉讼地位。查看全文：https...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "开源/自有软件基础设施正在被人工智能破坏 大约97%的请求/流量都是爬虫而非真人",
+      "link": "https://www.landiannews.com/archives/108442.html",
+      "date": "2025-03-21 09:26",
+      "author": "蓝点网",
+      "timestamp": 1742520372.0,
+      "summary": "# 科技资讯 开源 / 自由软件基础设施正在被人工智能破坏，GNOME 桌面环境的官方网站在 2.5 小时内收到 81000 个请求，其中 97% 都是爬虫而非真人。这些 AI 公司的爬虫对数据非常饥渴，有时候不会遵守 robots.txt 协议，有时候会高频并发抓取，给目标网站造成严重的压力。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "系统备份软件Veeam Backup出现高危安全漏洞 攻击者可以轻松破坏服务器",
       "link": "https://www.landiannews.com/archives/108441.html",
       "date": "2025-03-21 09:08",
@@ -10112,76 +10172,6 @@
       "category": "News"
     },
     {
-      "title": "欧盟宣布谷歌搜索和Google Play违反数字市场法案(DMA) 最高可罚款350亿美元",
-      "link": "https://www.landiannews.com/archives/108416.html",
-      "date": "2025-03-20 10:34",
-      "author": "蓝点网",
-      "timestamp": 1742438097.0,
-      "summary": "#科技资讯 欧盟宣布谷歌搜索和 Google Play 违反发垄断法和数字市场法案，最高可以罚款 350 亿美元。欧盟发布的初步裁决主要针对谷歌搜索偏袒自家服务和 Google Play 限制开发者将用户引导到商店外购买，谷歌可以在最终裁决发布前上诉。查看全文：https://ourl.co/108...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软在欧盟销售的Surface Pro 11不再附带充电器 用户需要单独购买充电器",
-      "link": "https://www.landiannews.com/archives/108415.html",
-      "date": "2025-03-20 10:24",
-      "author": "蓝点网",
-      "timestamp": 1742437455.0,
-      "summary": "#科技资讯 微软在欧盟销售的 Surface Pro 11 不再附带充电器，用户必须单独购买充电器或 Surface Connect 磁吸式充电器。微软当前提供了几乎半价的充电器，不过也得 90 欧元，如果用户自己有 60W 左右的充电器那也可以实现快速充电。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "欧盟确认智能手机可以采用无端口设计 苹果可以推出无USB-C的iPhone",
-      "link": "https://www.landiannews.com/archives/108414.html",
-      "date": "2025-03-20 10:15",
-      "author": "蓝点网",
-      "timestamp": 1742436907.0,
-      "summary": "#科技资讯 欧盟确认智能手机可以采用无端口设计，因此苹果可以推出没有 USB-C 接口的 iPhone。欧盟新闻官表示此类无线电设备 (指无端口的智能手机) 无法通过有线进行充电，因此无需采用协调有线充电解决方案。查看全文：https://ourl.co/108414",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "百度发布声明回应谢广军女儿开盒事件 百度称开盒信息并非来自百度",
-      "link": "https://www.landiannews.com/archives/108399.html",
-      "date": "2025-03-20 10:00",
-      "author": "蓝点网",
-      "timestamp": 1742436016.0,
-      "summary": "#科技资讯 百度发布声明回应谢广军女儿开盒事件，百度称开盒信息并非来自百度，而是当事人通过海外的社工库获得的数据。百度称大量文案高度雷同的造谣文案称当事人承认家长给她数据库，针对此类造谣内容百度已向公安机关报案。查看全文：https://ourl.co/108399",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "即时通讯工具Telegram每月活跃用户突破10亿整数关口 成为全球第二大通讯应用",
-      "link": "https://www.landiannews.com/archives/108398.html",
-      "date": "2025-03-19 23:10",
-      "author": "蓝点网",
-      "timestamp": 1742397057.0,
-      "summary": "#软件资讯 即时通讯工具 Telegram 每月活跃用户突破 10 亿整数关口，成为全球仅次于 WhatsApp 的第二大通讯工具 (排除微信)。平均每位用户每天打开 Telegram 21 次、每天花费的时间是 41 分钟，在 2024 年 Telegram 净利润达到 5.47 亿美元。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "谷歌推出售价499美元的Pixel 9 采用谷歌G4芯片搭载8GB内存支持AI功能",
-      "link": "https://www.landiannews.com/archives/108397.html",
-      "date": "2025-03-19 22:56",
-      "author": "蓝点网",
-      "timestamp": 1742396193.0,
-      "summary": "#手机数码 谷歌推出售价 499 美元的 Pixel 9a，采用 Google Tensor G4 芯片和 8GB 内存，支持 Gemimi Live 实时视频等功能。该机型提供 128/256GB 存储，采用 6.3 英寸 pOLED 屏幕，刷新率 120Hz，采用 48MP 摄像头，自发布日起提...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日  ——  NVIDIA",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
@@ -10198,6 +10188,16 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日  ——  NVIDIA",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10342,6 +10342,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 发布全球首个开源人形机器人基础模型 Isaac GR00T N1——并推出加速机器人开发的仿真框架",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks/",
+      "date": "2025-03-18 08:46",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742258801.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
       "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
       "date": "2025-03-18 08:27",
@@ -10349,6 +10359,66 @@
       "timestamp": 1742257660.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
       "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell Ultra DGX SuperPOD 为企业构建 AI 工厂提供开箱即用的 AI 超级计算机",
+      "link": "https://blogs.nvidia.cn/blog/blackwell-ultra-dgx-superpod-supercomputer-ai-factories/",
+      "date": "2025-03-18 08:27",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742257660.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 于今",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 推出开放推理 AI 模型系列，助力开发者和企业构建代理式 AI 平台",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-launches-family-of-open-reasoning-ai-models-for-developers-and-enterprises-to-build-agentic-ai-platforms/",
+      "date": "2025-03-18 08:11",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742256698.0,
+      "summary": "美国加利福尼亚州圣何塞 ——&#160; GTC —— 2025 年 3 月 18 日 —— &#160;NV",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "通用汽车和 NVIDIA 合作开发 AI，提升下一代汽车体验和 AI 制造业",
+      "link": "https://blogs.nvidia.cn/blog/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing/",
+      "date": "2025-03-18 07:25",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742253940.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18日 ——通用汽车和 NVID",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Dynamo 开源库加速并扩展 AI 推理模型",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models/",
+      "date": "2025-03-18 06:59",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742252392.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 —— NVIDIA 今",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "气侯技术公司纷纷采用 NVIDIA Earth-2 用于高分辨率、高能效、更准确的天气预报和备灾工作",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness/",
+      "date": "2025-03-18 06:05",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742249142.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日 ——NVIDIA 今日",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Blackwell 加速计算机辅助工程软件实现实时数字孪生性能数量级提升",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-blackwell-accelerates-computer-aided-engineering-software-by-orders-of-magnitude-for-real-time-digital-twins/",
+      "date": "2025-03-18 05:45",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742247909.0,
+      "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -10662,66 +10732,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 助力谷歌量子 AI 通过量子器件物理学模拟加快处理器设计",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-supercharges-google-quantum-processor-design-with-simulation-of-quantum-device-physics/",
-      "date": "2024-11-18 13:56",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731909412.0,
-      "summary": "SC24 — NVIDIA 于今日宣布正在与谷歌量子 AI 合作，使用 NVIDIA CUDA-Q™ 平台进行",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 宣布与行业软件领先者推出 Omniverse 实时物理数字孪生产品",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders/",
-      "date": "2024-11-18 13:02",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731906166.0,
-      "summary": "SC24 — NVIDIA 今日宣布推出 NVIDIA Omniverse™ Blueprint。借助该蓝图，",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与软银集团助力日本迈向全球 AI 前沿阵列",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-softbank-accelerate-japans-journey-to-global-ai-powerhouse/",
-      "date": "2024-11-12 22:00",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1731420000.0,
-      "summary": "NVIDIA AI Summit Japan – NVIDIA 今日宣布与软银集团开展一系列合作，旨在加速日本",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 以太网加速 xAI 构建的全球最大 AI 超级计算机",
-      "link": "https://blogs.nvidia.cn/blog/spectrum-x-ethernet-networking-xai-colossus/",
-      "date": "2024-10-28 20:37",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1730119079.0,
-      "summary": "2024 年 10 月 28 日—NVIDIA 宣布，xAI 位于田纳西州孟菲斯市的 Colossus 超级计",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 向开放硬件生态系统捐赠 Blackwell 平台设计，加速 AI 基础设施创新",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-contributes-blackwell-platform-design-to-open-hardware-ecosystem-accelerating-ai-infrastructure-innovation/",
-      "date": "2024-10-15 09:34",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1728956048.0,
-      "summary": "10 月 16 日，在美国加利福尼亚州举行的 OCP 全球峰会上，NVIDIA 宣布已把 NVIDIA Bla",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "众多技术领导者利用 NVIDIA AI 软件改变全球各行各业",
-      "link": "https://blogs.nvidia.cn/blog/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries/",
-      "date": "2024-10-08 22:22",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1728397326.0,
-      "summary": "技术领导者利用 NVIDIA AI 软件来改变全球各行各业。 NVIDIA AI 峰会 – NVIDIA 近日",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "pacman 7.0.0 更新，本地仓库需要手动干预",
       "link": "https://www.archlinuxcn.org/manual-intervention-for-pacman-700-and-local-repositories-required/",
       "date": "2024-09-14 20:00",
@@ -10739,16 +10749,6 @@
       "timestamp": 1725943544.0,
       "summary": "2024-09-14更新：该问题已经通过更新 gcc 到包含修复的提交的方式得到解决。Arch Linux 的 [&#8230;]",
       "source_url": "https://www.archlinuxcn.org",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 发布 2025 财年第二季度财务报告",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-announces-financial-results-for-second-quarter-fiscal-2025/",
-      "date": "2024-08-28 20:09",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1724846989.0,
-      "summary": "NVIDIA（纳斯达克股票代码：NVDA）今日宣布，截至 2024 年 7 月 28 日的第二季度收入为 30",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
