@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-21",
+  "update_time": "2025-03-22",
   "articles": [
     {
       "title": "牛奶看板系统 | milk kanban",
@@ -9982,96 +9982,6 @@
       "category": "News"
     },
     {
-      "title": "联想基于SteamOS系统的游戏掌机已经开始预购 内存更少价格更便宜",
-      "link": "https://www.landiannews.com/archives/108448.html",
-      "date": "2025-03-21 16:57",
-      "author": "蓝点网",
-      "timestamp": 1742547468.0,
-      "summary": "#游戏设备 联想基于 SteamOS 系统的游戏掌机已经在百思买上开始预购，内存更少、价格更便宜，但可能要到 5 月份才能发货。联想称 Linux 系统消耗的内存更少，所以起步提供了 16GB 版，让该掌机的售价进一步降低。查看全文：https://ourl.co/108448",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
-      "link": "https://www.landiannews.com/archives/108447.html",
-      "date": "2025-03-21 10:49",
-      "author": "蓝点网",
-      "timestamp": 1742525397.0,
-      "summary": "#人工智能 微软为 Microsoft 365 订阅用户推出 Copilot for OneDrive，可以总结文件生成摘要、对比文件和选择文件后回答特定问题。此前这些功能已经向工作和学校账户提供，现在 Microsoft 365 个人和家庭版用户也可以使用，但仅限于网页版的 OneDrive。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "埃隆马斯克的xAI Grok人工智能应用登陆Telegram 但目前仅限会员使用",
-      "link": "https://www.landiannews.com/archives/108446.html",
-      "date": "2025-03-21 10:36",
-      "author": "蓝点网",
-      "timestamp": 1742524607.0,
-      "summary": "#人工智能 埃隆马斯克的 xAI Grok 人工智能应用登陆 Telegram 平台，暂不支持联网查询、使用 Grok-2-mini-08-13 小尺寸模型。不过这个机器人暂时仅限 Telegram Premium 订阅会员使用，估计还需要一些时间才允许免费用户使用。查看全文：https://our...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软优化Windows 11解压缩功能 现在解压大量小文件时速度明显变快",
-      "link": "https://www.landiannews.com/archives/108445.html",
-      "date": "2025-03-21 10:23",
-      "author": "蓝点网",
-      "timestamp": 1742523823.0,
-      "summary": "#系统资讯 微软优化 Windows 11 解压缩功能，现在解压包含大量小文件的压缩文件时速度会明显变快。例如开发者打包的某个项目可能包含几万甚至几十万个只有几百 KB 的小文件，原本这类文件解压需要很长时间，经过优化后现在解压时间可以缩短。查看全文：https://ourl.co/108445",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "微软为iPhone/iPad带来免费的匿名办公文件共享功能 暂时不支持安卓平台",
-      "link": "https://www.landiannews.com/archives/108444.html",
-      "date": "2025-03-21 10:02",
-      "author": "蓝点网",
-      "timestamp": 1742522525.0,
-      "summary": "#软件资讯 微软为 iPhone/iPad 带来免费的匿名办公文件共享功能，用户收到链接时无需登录微软账号即可查看内容。此功能此前在桌面平台上提供，现已扩展到 iPhone 和 iPad，但暂时还不支持 Android 平台。查看全文：https://ourl.co/108444",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果因推迟Siri AI功能遭到起诉 有律师事务所认为苹果此前展示的是虚假宣传",
-      "link": "https://www.landiannews.com/archives/108443.html",
-      "date": "2025-03-21 09:39",
-      "author": "蓝点网",
-      "timestamp": 1742521186.0,
-      "summary": "#科技资讯 苹果因推迟 Siri AI 功能遭到起诉，原告认为苹果此前展示的是虚假宣传。此前苹果在各种渠道投放广告宣传 AI 功能，但 Siri AI 功能被推迟，原告方 Clarkson Law Firm 律师事务所认为苹果这是虚假宣传，预计该律师事务所应该会寻求集体诉讼地位。查看全文：https...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "开源/自有软件基础设施正在被人工智能破坏 大约97%的请求/流量都是爬虫而非真人",
-      "link": "https://www.landiannews.com/archives/108442.html",
-      "date": "2025-03-21 09:26",
-      "author": "蓝点网",
-      "timestamp": 1742520372.0,
-      "summary": "# 科技资讯 开源 / 自由软件基础设施正在被人工智能破坏，GNOME 桌面环境的官方网站在 2.5 小时内收到 81000 个请求，其中 97% 都是爬虫而非真人。这些 AI 公司的爬虫对数据非常饥渴，有时候不会遵守 robots.txt 协议，有时候会高频并发抓取，给目标网站造成严重的压力。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "系统备份软件Veeam Backup出现高危安全漏洞 攻击者可以轻松破坏服务器",
-      "link": "https://www.landiannews.com/archives/108441.html",
-      "date": "2025-03-21 09:08",
-      "author": "蓝点网",
-      "timestamp": 1742519333.0,
-      "summary": "#安全资讯 系统备份与数据复制工具 Veeam Backup &#038; Replication 出现高危漏洞，借助漏洞黑客可以轻松访问备份服务器、读取数据或破坏数据。目前开发商已经发布新版本进行修复，该漏洞主要影响使用域技术的企业，如果贵司使用 Veeam 请立即升级。查看全文：https://...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "群晖2025年上半年新产品阵容曝光 全系列上2.5GbE网口 但怎么还是J4125 CPU",
-      "link": "https://www.landiannews.com/archives/108428.html",
-      "date": "2025-03-21 08:51",
-      "author": "蓝点网",
-      "timestamp": 1742518299.0,
-      "summary": "#硬件设备 群晖 2025 年上半年新产品阵容曝光，全系列上 2.5GbE 网口，但怎么还是采用 Intel J4125 处理器。真不知道群晖囤了多少 J4125，即将推出的 DS625slim、425+、225 + 等仍然采用 J4125 处理器，好消息是群晖总算开始使用 2.5GbE 网口了。查...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "使用 NVIDIA Holoscan 3.0 中的动态流控制轻松构建边缘 AI 应用",
       "link": "https://developer.nvidia.com/zh-cn/blog/easily-build-edge-ai-apps-with-dynamic-flow-control-in-nvidia-holoscan-3-0/",
       "date": "2025-03-20 16:20",
@@ -10079,16 +9989,6 @@
       "timestamp": 1742458815.0,
       "summary": "NVIDIA 在 GTC 2025 上宣布推出实时 AI 传感器处理平台 NVIDIA Holoscan 3. &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "谷歌正在调查即便网络连接非常好YouTube也只会播放144P/360P视频的问题",
-      "link": "https://www.landiannews.com/archives/108440.html",
-      "date": "2025-03-20 16:19",
-      "author": "蓝点网",
-      "timestamp": 1742458793.0,
-      "summary": "#科技资讯 谷歌正在调查即便网络连接良好 YouTube 也只会以 144P/360P 分辨率播放视频，该问题影响非常广泛，包括网页版、iOS 版和电视版都受影响。目前安卓版似乎不受影响，其他版本即便手动切换高分辨率也会卡顿或者随后自动降到低分辨率。查看全文：https://ourl.co/1084...",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -10129,106 +10029,6 @@
       "timestamp": 1742455680.0,
       "summary": "噪声是量子计算的著名对手。量子位对最细微的环境干扰很敏感，会迅速导致错误累积，并使最简单的量子算法的结果过于杂 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "首发翻车！谷歌称Pixel 9a存在组件质量问题 推迟到4月份再上市",
-      "link": "https://www.landiannews.com/archives/108427.html",
-      "date": "2025-03-20 15:14",
-      "author": "蓝点网",
-      "timestamp": 1742454886.0,
-      "summary": "#智能手机 首发翻车！谷歌称 Pixel 9a 存在组件质量问题推迟到 4 月份某个时候再上市。像这种已经发布然后推迟上市的情况并不多见，不过这也比上市后发现问题再召回要好，谷歌未透露具体什么硬件组件存在问题。查看全文：https://ourl.co/108427",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "HuggingFace推出iOS应用 无需联网即可使用本地视觉模型描述用户周围的内容",
-      "link": "https://www.landiannews.com/archives/108426.html",
-      "date": "2025-03-20 15:01",
-      "author": "蓝点网",
-      "timestamp": 1742454083.0,
-      "summary": "#人工智能 HuggingFace 推出本地智能视觉 AI 应用 HuggingSnap，支持 iOS、macOS 和 visionOS，无需联网即可调用 iPhone 摄像头实时描述周围的内容。该应用最大的特点就是本地运行 smolvlm2 模型，既不需要联网也可以节省电量延长 iPhone 续航...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "150美元/月信用额度派上用途：xAI推出图片生成API 每张图片0.07美元",
-      "link": "https://www.landiannews.com/archives/108425.html",
-      "date": "2025-03-20 14:49",
-      "author": "蓝点网",
-      "timestamp": 1742453391.0,
-      "summary": "#人工智能 150 美元 / 月信用额度派上用场：xAI 推出图像生成 API 服务，每张图片 0.07 美元。新的 API 模型是 Grok-2-Image-1212，给定标题即可生成最多 10 张 JPG 图像，每张图片 0.07 美元，不过暂时还不支持调整图像质量、大小和样式。查看全文：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果在iOS 18.4测试版中修复Safari暴露用户关键词搜索记录的隐私问题",
-      "link": "https://www.landiannews.com/archives/108423.html",
-      "date": "2025-03-20 14:34",
-      "author": "蓝点网",
-      "timestamp": 1742452487.0,
-      "summary": "#系统资讯 苹果在 iOS 18.4 最新测试版中修复 Safari 暴露用户关键词搜索记录的隐私问题，在 2 月份的测试版中苹果为 Safari 带来关键词搜索记录，点击地址栏就会显示。这个功能可能会暴露用户的搜索记录但苹果没有提供关闭选项，收到用户反馈后苹果在最新测试版中增加了关闭选项。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "埃隆马斯克的X/Twitter完成10亿美元新融资 估值回到收购时的440亿美元",
-      "link": "https://www.landiannews.com/archives/108424.html",
-      "date": "2025-03-20 14:34",
-      "author": "蓝点网",
-      "timestamp": 1742452457.0,
-      "summary": "#科技资讯 埃隆马斯克的 X/Twitter 完成 10 亿美元新融资，估值已经回到马斯克收购时的 440 亿美元。这类融资的估值实际上是 320 亿美元，但投资者还需要承认 X 当前剩余的 125 亿美元债务，相当于总估值来到了 435 亿美元，与当时收购的 440 亿美元相差无几。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "惠普打印机固件禁止非原装墨盒的集体诉讼和解 惠普不会向用户支付任何赔偿",
-      "link": "https://www.landiannews.com/archives/108422.html",
-      "date": "2025-03-20 13:07",
-      "author": "蓝点网",
-      "timestamp": 1742447223.0,
-      "summary": "#行业资讯 针对惠普打印机固件禁止使用非原装墨盒的集体诉讼最终达成和解，惠普既不会向用户支付任何赔偿金、也不会允许用户使用第三方墨盒。惠普唯一承诺就是 2016 年 12 月 1 日前生产的打印机可以拒绝所谓的动态安全更新，该更新会限制第三方墨盒，之后生产的打印机无法拒绝固件更新。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Kali Linux 2025.1a正式版发布 带来新工具、桌面更改和主题刷新",
-      "link": "https://www.landiannews.com/archives/108421.html",
-      "date": "2025-03-20 12:43",
-      "author": "蓝点网",
-      "timestamp": 1742445807.0,
-      "summary": "#系统资讯 Kali Linux 2025.1a 版发布，这是 2025 年的首个版本更新，带来新工具、刷新桌面主题和桌面用户界面更改等。此次更新其实重点是界面方面的，包括新壁纸和桌面样式的更改，使用 Kali Linux 的用户记得顺手更新到最新版看看变化。查看全文：https://ourl.co...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Plex重大变更：无论使用自己还是别人的媒体服务器远程播放都必须付费",
-      "link": "https://www.landiannews.com/archives/108420.html",
-      "date": "2025-03-20 11:24",
-      "author": "蓝点网",
-      "timestamp": 1742441068.0,
-      "summary": "#软件资讯 媒体服务器 Plex 进行重大变更：自 4 月 29 日起无论是自己搭建服务器还是使用别人服务器，只要涉及远程播放都必须付费开通订阅。唯一免费选项就是用户自己搭建服务器并在局域网中进行访问，同时 Plex for iOS/Android 客户端可以免费使用不需要再购买。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenAI推出o1 Pro模型API 每百万输出600美元 相当于DeepSeek的500倍以上",
-      "link": "https://www.landiannews.com/archives/108419.html",
-      "date": "2025-03-20 11:12",
-      "author": "蓝点网",
-      "timestamp": 1742440332.0,
-      "summary": "#人工智能 OpenAI 推出 o1 Pro 模型 API 服务，每百万输出 600 美元，相当于 DeepSeek 的 500 倍以上。o1 Pro 模型具有更好的推理能力，百万输入 150 美元，支持 200K 上下文窗口、最多输出 100K、数据库截至时间是 2023 年 10 月。查看全文：...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "SpeedTest抽取大量数据对比iPhone 16/16e网络速度 苹果C1芯片整体表现不俗",
-      "link": "https://www.landiannews.com/archives/108418.html",
-      "date": "2025-03-20 10:58",
-      "author": "蓝点网",
-      "timestamp": 1742439494.0,
-      "summary": "#手机数码 知名测速网站 SpeedTest 对 iPhone 16e 真实网络数据进行分析，分析表明苹果 C1 芯片即便没有支持毫米波 5G 但整体表现不错。搭载高通骁龙基带芯片的 iPhone 16 下载速度较 iPhone 16e 高出 35%，不过上传速度 iPhone 16e 超过 iPh...",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -10292,26 +10092,6 @@
       "category": "News"
     },
     {
-      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
-      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
       "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
       "date": "2025-03-18 23:55",
@@ -10348,6 +10128,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
+      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10689,6 +10489,206 @@
       "timestamp": 1741582858.0,
       "summary": "在大型 GPU 集群上训练 AI 模型给模型构建者带来了重大挑战。随着作业规模的增加，人工干预变得不切实际，因 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "压缩管理器WinRAR在7.10版中修改MoTW默认设置 解决分享文件泄露地址问题",
+      "link": "https://www.landiannews.com/archives/108011.html",
+      "date": "2025-02-22 14:41",
+      "author": "蓝点网",
+      "timestamp": 1740206516.0,
+      "summary": "#软件资讯 WinRAR 7.10 版修改了 MoTV 替代数据流的默认设置，解决潜在的泄露下载 URL 和用户 IP 地址等问题。新版本会默认仅保留区域值，这可以继续触发 MoTW 弹窗，但不再可以用来分析具体的地址。查看全文：https://ourl.co/108011",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知识库和协作应用Obsidian宣布商用免费 商业许可证变成可选购买状态",
+      "link": "https://www.landiannews.com/archives/108006.html",
+      "date": "2025-02-22 10:00",
+      "author": "蓝点网",
+      "timestamp": 1740189631.0,
+      "summary": "#软件资讯 知识库和协作应用 Obsidian 不再强迫企业购买商业许可证，即日起无论个人还是企业都可以免费使用。但企业仍然可以购买商业许可证以获得支持服务，另外 Obsidian 提供同步服务起步价每月 5 美元 / 用户。查看全文：https://ourl.co/108006",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "DeepSeek开启开源周活动 从下周开始将开源5个repos 为开源社区助力",
+      "link": "https://www.landiannews.com/archives/108005.html",
+      "date": "2025-02-21 14:40",
+      "author": "蓝点网",
+      "timestamp": 1740120002.0,
+      "summary": "#人工智能 DeepSeek 将在下周开启开源周，周一到周五每天分享一个开源 repo。这些 repo 包括 DeepSeek 构建的已经在生产环境中使用的模块，DeepSeek 希望通过这种方式为开源社区助力。查看全文：https://ourl.co/108005",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "啊这也太夸张了吧？不到3个月ChatGPT新增活跃用户达到1亿 总用户达到4亿",
+      "link": "https://www.landiannews.com/archives/108004.html",
+      "date": "2025-02-21 12:03",
+      "author": "蓝点网",
+      "timestamp": 1740110629.0,
+      "summary": "#人工智能 啊这也太夸张了吧？不到 3 个月 ChatGPT 新增周活跃用户达到 1 亿名，目前总周活跃用户已达到 4 亿名。2024 年 8 月 ChatGPT 周活跃用户达到 2 亿名，到 12 月达到 3 亿名，没想到这还不到 3 个月竟然又增加了 1 亿名用户。查看全文：https://ou...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "独家消息：5ber eSIM卡团队疑似被强行解散并拖欠工资 母公司多项业务停摆",
+      "link": "https://www.landiannews.com/archives/108003.html",
+      "date": "2025-02-21 11:42",
+      "author": "蓝点网",
+      "timestamp": 1740109344.0,
+      "summary": "#行业资讯 5ber eSIM 疑似跑路事件更多消息：eSIM 从业者向蓝点网提供独家爆料，5ber 母公司 iFree 出现问题导致旗下多个业务停摆。受影响的包括 5ber eSIM、环球流量卡业务 MOGO 以及线下店铺等，目前 5ber 团队疑似被强行解散并拖欠了至少三个月工资。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "爆料者透露苹果工程团队已经在测试C2基带芯片 但没有任何具体细节",
+      "link": "https://www.landiannews.com/archives/108002.html",
+      "date": "2025-02-21 11:13",
+      "author": "蓝点网",
+      "timestamp": 1740107581.0,
+      "summary": "#手机数码 爆料者透露苹果工程团队已经在测试 C2 基带芯片，内部标识符 C4020，但爆料者没有提供更多细节。目前 C1 芯片仅在入门级设备上采用，短时间内苹果不会推出 C2 芯片，iPhone 17 大多数机型仍将采用高通骁龙基带芯片。查看全文：https://ourl.co/108002",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌计划推出价格更便宜的YouTube Premium Lite订阅主要用于屏蔽视频广告",
+      "link": "https://www.landiannews.com/archives/108001.html",
+      "date": "2025-02-21 10:56",
+      "author": "蓝点网",
+      "timestamp": 1740106600.0,
+      "summary": "#科技资讯 谷歌计划推出价格更便宜的 YouTube Premium Lite 订阅主要用于帮助用户屏蔽广告。目前 YouTube 正在采取多种措施阻止用户屏蔽广告，包括限制观看视频和不停地弹出提醒等，谷歌希望通过新的 Lite 版吸引用户付费直接跳过广告而不是继续使用广告拦截软件进行对抗。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "安全统计数据显示苹果只能检测出50%被NSO间谍软件感染的设备 检测率非常低",
+      "link": "https://www.landiannews.com/archives/108000.html",
+      "date": "2025-02-21 10:46",
+      "author": "蓝点网",
+      "timestamp": 1740105967.0,
+      "summary": "#安全资讯 数据显示苹果大约只能检测出 50% 被 NSO 间谍软件感染的 iPhone，整体检测率仍然非常低。苹果会在检测到潜在攻击时主动向用户发出提醒，移动安全公司 iVerify 统计了该公司同名应用确认感染的 iPhone，发现苹果的检测率大约只有 50%，剩余 50% 的用户并不知道自己已...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "群晖推出办公套件API允许将群晖网盘和办公套件与其他产品集成实现工作流自动化",
+      "link": "https://www.landiannews.com/archives/107999.html",
+      "date": "2025-02-21 10:25",
+      "author": "蓝点网",
+      "timestamp": 1740104720.0,
+      "summary": "#科技资讯 群晖推出办公套件 API 允许将群晖网盘和办公套件与其他产品集成实现工作流自动化。例如在 CRM 中集成群晖网盘 API 可以直接上传和管理网盘中的文件，表格 API 可以自动收集数据并实时获得见解等，有兴趣的企业可以访问 API 文档查看具体的示例。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果以安全风险为由拒绝在英国开放iOS浏览器内核 — 毕竟你不是欧盟成员呀",
+      "link": "https://www.landiannews.com/archives/107998.html",
+      "date": "2025-02-21 10:11",
+      "author": "蓝点网",
+      "timestamp": 1740103862.0,
+      "summary": "#科技资讯 苹果以安全风险为由拒绝在英国开放 iOS 浏览器内核，毕竟你也不是欧盟成员呀！英国监管机构拟议的新规定要求苹果开放 iOS 浏览器内核，允许其他替代内核，苹果直接拒绝了该提议并要进行诉讼。查看全文：https://ourl.co/107998",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Windows 11安卓子系统关闭的原因(之一)？亚马逊宣布关闭其安卓应用商店",
+      "link": "https://www.landiannews.com/archives/107997.html",
+      "date": "2025-02-21 09:54",
+      "author": "蓝点网",
+      "timestamp": 1740102891.0,
+      "summary": "#软件资讯 Windows 11 安卓子系统关闭的原因 (之一)？亚马逊宣布关闭其安卓应用商店。此前微软与亚马逊合作，安卓子系统预装的就是亚马逊商店，不知道亚马逊是不是已经提前知会微软，微软这才觉得本来安卓子系统也没多少人用所以不如关了。查看全文：https://ourl.co/107997",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "分析师透露苹果将在iPhone 17全系列中使用自研Wi-Fi芯片取代博通",
+      "link": "https://www.landiannews.com/archives/107989.html",
+      "date": "2025-02-21 09:43",
+      "author": "蓝点网",
+      "timestamp": 1740102204.0,
+      "summary": "#手机数码 分析师透露苹果将在 iPhone 17 全系列中采用自研的 Wi-Fi 芯片取代长期以来博通提供的 Wi-Fi 芯片。天风国际知名分析师郭明錤称自研 Wi-Fi 芯片的采用速度非常快，因为 C1 基带芯片仅在入门级机型使用，现在 Wi-Fi 芯片全系列采用说明苹果非常有信心因此也没必要分...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "知情人士透露微软正在为OpenAI即将推出的GPT-5系列模型做好服务器容量准备",
+      "link": "https://www.landiannews.com/archives/107988.html",
+      "date": "2025-02-21 09:22",
+      "author": "蓝点网",
+      "timestamp": 1740100936.0,
+      "summary": "#人工智能 知情人士透露微软正在为 OpenAI 即将推出的 GPT-5 系列模型做好服务器容量准备。预计最早从下周开始微软将在 Azure 托管 GPT-4.5 系列模型，而 GPT-5 模型可能要到 5 月底发布，所以微软要提前准备好服务器。查看全文：https://ourl.co/107988",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "支持文档显示苹果预计在4月发布的iOS 18.4版中为国内用户带来AI功能",
+      "link": "https://www.landiannews.com/archives/107986.html",
+      "date": "2025-02-20 15:25",
+      "author": "蓝点网",
+      "timestamp": 1740036326.0,
+      "summary": "#人工智能 支持文档显示苹果 AI 服务将在 4 月份支持中文，预计到时候是 iOS 18.4 正式版，国内用户应该也能用上 AI 了。苹果目前提供的 AI 服务挺多的，到时候国内用户估计只能使用部分服务然后慢慢扩展获得更多 AI 相关功能。查看全文：https://ourl.co/107986",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "阿里云服务器出现无法解析XYZ和HOST域名的短时间故障 但不清楚具体原因",
+      "link": "https://www.landiannews.com/archives/107985.html",
+      "date": "2025-02-20 15:05",
+      "author": "蓝点网",
+      "timestamp": 1740035100.0,
+      "summary": "#云计算 阿里云服务器出现无法解析 XYZ/HOST 域名的短时间故障，具体发生时间是在 2 月 20 日 08:57~10:50。得亏受影响的两个域名使用率都比较低所以没造成特别严重的影响，只是蓝点网头一次见服务器无法解析特定域名的情况所以非常好奇。查看全文：https://ourl.co/107...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "传三星/SK海力士/美光将停止生产DDR4/DDR3 转向利润更高的DDR5/HBM内存",
+      "link": "https://www.landiannews.com/archives/107984.html",
+      "date": "2025-02-20 14:51",
+      "author": "蓝点网",
+      "timestamp": 1740034316.0,
+      "summary": "#科技资讯 消息称三星电子、SK 海力士和美光将在 2025 年停止生产 DDR4/DDR3 内存芯片，全面转向利润更高的 DDR5 和 HBM 高带宽内存芯片。这种转变可能会打断当前 DDR4/DDR3 产品价格稳步下降的局面，产能减少后这些产品价格可能会上涨，或者逼迫用户购买价格更高的 DDR5...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "xAI宣布Grok 3模型限时免费使用 支持深度研究和思维但有配额限制",
+      "link": "https://www.landiannews.com/archives/107983.html",
+      "date": "2025-02-20 14:35",
+      "author": "蓝点网",
+      "timestamp": 1740033355.0,
+      "summary": "#人工智能 xAI 宣布 Grok 3 模型限时免费使用，无需任何订阅都可以使用 Grok 3 深度研究和思维功能。不过免费版是有配额限制的，如果用户愿意开通 30 美元 / 月和 40 美元 / 月的 SuperGrok 或 X Premium + 则可以获得更高配额。查看全文：https://o...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "美光也推出读取速度可达14.5GB/秒的消费级SSD 可以缩短AI模型的加载时间",
+      "link": "https://www.landiannews.com/archives/107982.html",
+      "date": "2025-02-20 12:30",
+      "author": "蓝点网",
+      "timestamp": 1740025836.0,
+      "summary": "#硬件设备 美光也推出读取速度可达 14.5GB / 秒的新款消费级固态硬盘，基于 PCIe 5.0 协议最大提供 4TB 容量。这款固态硬盘采用慧荣 SM2508 8 通道主控芯片，美光称其超高速度还可以缩短 LLM 和 AI 模型的加载时间。查看全文：https://ourl.co/107982",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软增强Excel内置的人工智能服务 可引用来自Word、PDF或其他表格数据",
+      "link": "https://www.landiannews.com/archives/107981.html",
+      "date": "2025-02-20 12:09",
+      "author": "蓝点网",
+      "timestamp": 1740024574.0,
+      "summary": "#软件资讯 微软增强 Excel 内置的 Copilot AI 人工智能服务，可引用来自其他表格、文档、演示文稿、公共网络中的数据。当然用户需要提前授予 Copilot AI 读取企业内部数据或用户自己云端存储的数据，默认会从网络上寻找公共数据。查看全文：https://ourl.co/107981",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "宝可梦GO开发商Niantic计划以35亿美元完全出售游戏业务 原因是没有新热门游戏",
+      "link": "https://www.landiannews.com/archives/107980.html",
+      "date": "2025-02-20 11:52",
+      "author": "蓝点网",
+      "timestamp": 1740023531.0,
+      "summary": "#科技资讯 宝可梦 GO 开发商 Niantic 计划以 35 亿美元完全出售游戏业务，原因是除了宝可梦 GO 和 Ingress 外没有其他热门游戏。想要收购其游戏业务的则是沙特公共投资基金旗下的游戏公司，不过最终能够达成交易还需要等待新消息。查看全文：https://ourl.co/107980",
+      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
