@@ -10032,6 +10032,16 @@
       "category": "News"
     },
     {
+      "title": "谷歌为Gmail邮箱升级基于人工智能的搜索功能 优先展示相关性而非时间排序",
+      "link": "https://www.landiannews.com/archives/108452.html",
+      "date": "2025-03-21 23:41",
+      "author": "蓝点网",
+      "timestamp": 1742571664.0,
+      "summary": "#软件资讯 谷歌为 Gmail 邮箱升级基于人工智能的搜索功能，现在会优先按照相关性展示而非按照时间线排序。新的 AI 系统会综合考量各种因素，例如关键词、发送和接收时间、用户点击次数、常用联系人等进行排序，但用户也可以切换为按照时间先后顺序进行排序的搜索结果。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -10222,16 +10232,6 @@
       "category": "News"
     },
     {
-      "title": "埃隆马斯克的X/Twitter完成10亿美元新融资 估值回到收购时的440亿美元",
-      "link": "https://www.landiannews.com/archives/108424.html",
-      "date": "2025-03-20 14:35",
-      "author": "蓝点网",
-      "timestamp": 1742452505.0,
-      "summary": "#科技资讯 埃隆马斯克的 X/Twitter 完成 10 亿美元新融资，估值已经回到马斯克收购时的 440 亿美元。这类融资的估值实际上是 320 亿美元，但投资者还需要承认 X 当前剩余的 125 亿美元债务，相当于总估值来到了 435 亿美元，与当时收购的 440 亿美元相差无几。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "利用 Oracles 和实验反馈指导生成式分子设计",
       "link": "https://developer.nvidia.com/zh-cn/blog/guiding-generative-molecular-design-with-experimental-feedback-using-oracles/",
       "date": "2025-03-19 16:56",
@@ -10302,16 +10302,6 @@
       "category": "News"
     },
     {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -10358,6 +10348,16 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
