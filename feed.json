@@ -9872,6 +9872,76 @@
       "category": "Blog"
     },
     {
+      "title": "巴基斯坦准备将加密货币合法化并实施友好监管框架以吸引国际投资",
+      "link": "https://www.landiannews.com/archives/108453.html",
+      "date": "2025-03-22 14:10",
+      "author": "蓝点网",
+      "timestamp": 1742623804.0,
+      "summary": "#加密货币 巴基斯坦准备将加密货币合法化并实施明确且友好的法律监管框架，以吸引来自国际市场的金融投资。巴基斯坦目前任命比拉尔・本・赛义卜为加密货币顾问，准备对该国的加密货币行业实施多种变革，目标是让加密货币成为经济增长的关键步骤。查看全文：https://ourl.co/108453",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "俄罗斯漏洞经纪商开价400万美元收购即时通讯工具Telegram的零点击漏洞",
+      "link": "https://www.landiannews.com/archives/108451.html",
+      "date": "2025-03-22 11:59",
+      "author": "蓝点网",
+      "timestamp": 1742615944.0,
+      "summary": "#安全资讯 俄罗斯漏洞经纪商开出最高 400 万美元的价格收购即时通讯工具 Telegram 的零点击漏洞，该经纪商通常收到客户定金后发布悬赏令。其中需要用户交互的 Telegram 远程代码执行漏洞 50 万美元，无需交互的零点击漏洞 150 万美元，能够利用 Telegram 控制整个设备的漏洞...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "三星将从4月7日开始推送基于Android 15的One UI 7正式版 附设备支持清单",
+      "link": "https://www.landiannews.com/archives/108450.html",
+      "date": "2025-03-22 11:33",
+      "author": "蓝点网",
+      "timestamp": 1742614384.0,
+      "summary": "#系统资讯 三星将在 4 月 7 日推出基于 Android 15 的 One UI 7 正式版，首批共有 15 个机型可以获得更新，包括 S21~S24 和 Z 3~6 以及 Tab S6~S10。需要注意的是开始推送并不意味着所有机型都可以在当天获得更新，不同机型获得的更新时间不同，不同市场之间...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[即将结束] 腾讯云春季活动：境外服务器99元/年不限新老用户 部分CN2GIA线路",
+      "link": "https://www.landiannews.com/archives/108121.html",
+      "date": "2025-03-22 11:16",
+      "author": "蓝点网",
+      "timestamp": 1742613406.0,
+      "summary": "#云计算 腾讯云 2025 春季活动上线：境外服务器 99 元 / 年不限新老用户，部分区域采用 CN2GIA 线路回程。这些特惠服务器还支持同价续费，也就是 188 元购买 2 年，避免后续到期续费价格高的问题。查看全文：https://ourl.co/108121",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "付费是不可能的：谷歌在欧洲进行实验 表明新闻对谷歌广告业务毫无价值",
+      "link": "https://www.landiannews.com/archives/108449.html",
+      "date": "2025-03-22 11:14",
+      "author": "蓝点网",
+      "timestamp": 1742613250.0,
+      "summary": "#科技资讯 付费是不可能的：谷歌在欧洲 8 个国家进行实验，实验结果表明新闻对谷歌广告业务基本毫无价值。此前不少出版商要求谷歌为使用这些新闻或摘要付费，谷歌对此并不认可，所以进行该实验想要表明即便删除新闻也无所谓。查看全文：https://ourl.co/108449",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "在意大利法院的要求下谷歌对公共DNS投毒以污染侵犯体育赛事版权的网站",
+      "link": "https://www.landiannews.com/archives/108454.html",
+      "date": "2025-03-22 09:00",
+      "author": "蓝点网",
+      "timestamp": 1742605203.0,
+      "summary": "#科技资讯 在意大利法院的要求下谷歌可能很快就会在公共 DNS 中投毒以污染侵犯意甲联赛等体育赛事版权的网站。米兰法院在 3 月 11 日发布的裁决要求包括谷歌在内的所有互联网服务接入商都必须遵守法律，否则可能就会像 Cloudflare 那样每天被罚款 10,000 欧元。查看全文：https:/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌为Gmail邮箱升级基于人工智能的搜索功能 优先展示相关性而非时间排序",
+      "link": "https://www.landiannews.com/archives/108452.html",
+      "date": "2025-03-21 23:41",
+      "author": "蓝点网",
+      "timestamp": 1742571664.0,
+      "summary": "#软件资讯 谷歌为 Gmail 邮箱升级基于人工智能的搜索功能，现在会优先按照相关性展示而非按照时间线排序。新的 AI 系统会综合考量各种因素，例如关键词、发送和接收时间、用户点击次数、常用联系人等进行排序，但用户也可以切换为按照时间先后顺序进行排序的搜索结果。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -9879,6 +9949,106 @@
       "timestamp": 1742548399.0,
       "summary": "NVIDIA Parabricks 是一款可扩展的基因组学分析软件套件，通过加速计算和深度学习解决 omics &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "联想基于SteamOS系统的游戏掌机已经开始预购 内存更少价格更便宜",
+      "link": "https://www.landiannews.com/archives/108448.html",
+      "date": "2025-03-21 16:58",
+      "author": "蓝点网",
+      "timestamp": 1742547528.0,
+      "summary": "#游戏设备 联想基于 SteamOS 系统的游戏掌机已经在百思买上开始预购，内存更少、价格更便宜，但可能要到 5 月份才能发货。联想称 Linux 系统消耗的内存更少，所以起步提供了 16GB 版，让该掌机的售价进一步降低。查看全文：https://ourl.co/108448",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
+      "link": "https://www.landiannews.com/archives/108447.html",
+      "date": "2025-03-21 10:51",
+      "author": "蓝点网",
+      "timestamp": 1742525509.0,
+      "summary": "#人工智能 微软为 Microsoft 365 订阅用户推出 Copilot for OneDrive，可以总结文件生成摘要、对比文件和选择文件后回答特定问题。此前这些功能已经向工作和学校账户提供，现在 Microsoft 365 个人和家庭版用户也可以使用，但仅限于网页版的 OneDrive。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "埃隆马斯克的xAI Grok人工智能应用登陆Telegram 但目前仅限会员使用",
+      "link": "https://www.landiannews.com/archives/108446.html",
+      "date": "2025-03-21 10:37",
+      "author": "蓝点网",
+      "timestamp": 1742524671.0,
+      "summary": "#人工智能 埃隆马斯克的 xAI Grok 人工智能应用登陆 Telegram 平台，暂不支持联网查询、使用 Grok-2-mini-08-13 小尺寸模型。不过这个机器人暂时仅限 Telegram Premium 订阅会员使用，估计还需要一些时间才允许免费用户使用。查看全文：https://our...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软优化Windows 11解压缩功能 现在解压大量小文件时速度明显变快",
+      "link": "https://www.landiannews.com/archives/108445.html",
+      "date": "2025-03-21 10:24",
+      "author": "蓝点网",
+      "timestamp": 1742523892.0,
+      "summary": "#系统资讯 微软优化 Windows 11 解压缩功能，现在解压包含大量小文件的压缩文件时速度会明显变快。例如开发者打包的某个项目可能包含几万甚至几十万个只有几百 KB 的小文件，原本这类文件解压需要很长时间，经过优化后现在解压时间可以缩短。查看全文：https://ourl.co/108445",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软为iPhone/iPad带来免费的匿名办公文件共享功能 暂时不支持安卓平台",
+      "link": "https://www.landiannews.com/archives/108444.html",
+      "date": "2025-03-21 10:02",
+      "author": "蓝点网",
+      "timestamp": 1742522573.0,
+      "summary": "#软件资讯 微软为 iPhone/iPad 带来免费的匿名办公文件共享功能，用户收到链接时无需登录微软账号即可查看内容。此功能此前在桌面平台上提供，现已扩展到 iPhone 和 iPad，但暂时还不支持 Android 平台。查看全文：https://ourl.co/108444",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果因推迟Siri AI功能遭到起诉 有律师事务所认为苹果此前展示的是虚假宣传",
+      "link": "https://www.landiannews.com/archives/108443.html",
+      "date": "2025-03-21 09:39",
+      "author": "蓝点网",
+      "timestamp": 1742521194.0,
+      "summary": "#科技资讯 苹果因推迟 Siri AI 功能遭到起诉，原告认为苹果此前展示的是虚假宣传。此前苹果在各种渠道投放广告宣传 AI 功能，但 Siri AI 功能被推迟，原告方 Clarkson Law Firm 律师事务所认为苹果这是虚假宣传，预计该律师事务所应该会寻求集体诉讼地位。查看全文：https...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "开源/自有软件基础设施正在被人工智能破坏 大约97%的请求/流量都是爬虫而非真人",
+      "link": "https://www.landiannews.com/archives/108442.html",
+      "date": "2025-03-21 09:26",
+      "author": "蓝点网",
+      "timestamp": 1742520416.0,
+      "summary": "# 科技资讯 开源 / 自由软件基础设施正在被人工智能破坏，GNOME 桌面环境的官方网站在 2.5 小时内收到 81000 个请求，其中 97% 都是爬虫而非真人。这些 AI 公司的爬虫对数据非常饥渴，有时候不会遵守 robots.txt 协议，有时候会高频并发抓取，给目标网站造成严重的压力。查看...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "系统备份软件Veeam Backup出现高危安全漏洞 攻击者可以轻松破坏服务器",
+      "link": "https://www.landiannews.com/archives/108441.html",
+      "date": "2025-03-21 09:09",
+      "author": "蓝点网",
+      "timestamp": 1742519397.0,
+      "summary": "#安全资讯 系统备份与数据复制工具 Veeam Backup &#038; Replication 出现高危漏洞，借助漏洞黑客可以轻松访问备份服务器、读取数据或破坏数据。目前开发商已经发布新版本进行修复，该漏洞主要影响使用域技术的企业，如果贵司使用 Veeam 请立即升级。查看全文：https://...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "群晖2025年上半年新产品阵容曝光 全系列上2.5GbE网口 但怎么还是J4125 CPU",
+      "link": "https://www.landiannews.com/archives/108428.html",
+      "date": "2025-03-21 08:52",
+      "author": "蓝点网",
+      "timestamp": 1742518378.0,
+      "summary": "#硬件设备 群晖 2025 年上半年新产品阵容曝光，全系列上 2.5GbE 网口，但怎么还是采用 Intel J4125 处理器。真不知道群晖囤了多少 J4125，即将推出的 DS625slim、425+、225 + 等仍然采用 J4125 处理器，好消息是群晖总算开始使用 2.5GbE 网口了。查...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌正在调查即便网络连接非常好YouTube也只会播放144P/360P视频的问题",
+      "link": "https://www.landiannews.com/archives/108440.html",
+      "date": "2025-03-20 16:20",
+      "author": "蓝点网",
+      "timestamp": 1742458859.0,
+      "summary": "#科技资讯 谷歌正在调查即便网络连接良好 YouTube 也只会以 144P/360P 分辨率播放视频，该问题影响非常广泛，包括网页版、iOS 版和电视版都受影响。目前安卓版似乎不受影响，其他版本即便手动切换高分辨率也会卡顿或者随后自动降到低分辨率。查看全文：https://ourl.co/1084...",
+      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -9929,6 +10099,36 @@
       "timestamp": 1742455680.0,
       "summary": "噪声是量子计算的著名对手。量子位对最细微的环境干扰很敏感，会迅速导致错误累积，并使最简单的量子算法的结果过于杂 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "首发翻车！谷歌称Pixel 9a存在组件质量问题 推迟到4月份再上市",
+      "link": "https://www.landiannews.com/archives/108427.html",
+      "date": "2025-03-20 15:14",
+      "author": "蓝点网",
+      "timestamp": 1742454840.0,
+      "summary": "#智能手机 首发翻车！谷歌称 Pixel 9a 存在组件质量问题推迟到 4 月份某个时候再上市。像这种已经发布然后推迟上市的情况并不多见，不过这也比上市后发现问题再召回要好，谷歌未透露具体什么硬件组件存在问题。查看全文：https://ourl.co/108427",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "HuggingFace推出iOS应用 无需联网即可使用本地视觉模型描述用户周围的内容",
+      "link": "https://www.landiannews.com/archives/108426.html",
+      "date": "2025-03-20 15:01",
+      "author": "蓝点网",
+      "timestamp": 1742454061.0,
+      "summary": "#人工智能 HuggingFace 推出本地智能视觉 AI 应用 HuggingSnap，支持 iOS、macOS 和 visionOS，无需联网即可调用 iPhone 摄像头实时描述周围的内容。该应用最大的特点就是本地运行 smolvlm2 模型，既不需要联网也可以节省电量延长 iPhone 续航...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "150美元/月信用额度派上用途：xAI推出图片生成API 每张图片0.07美元",
+      "link": "https://www.landiannews.com/archives/108425.html",
+      "date": "2025-03-20 14:50",
+      "author": "蓝点网",
+      "timestamp": 1742453402.0,
+      "summary": "#人工智能 150 美元 / 月信用额度派上用场：xAI 推出图像生成 API 服务，每张图片 0.07 美元。新的 API 模型是 Grok-2-Image-1212，给定标题即可生成最多 10 张 JPG 图像，每张图片 0.07 美元，不过暂时还不支持调整图像质量、大小和样式。查看全文：htt...",
+      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
