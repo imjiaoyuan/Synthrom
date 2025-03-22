@@ -2,6 +2,16 @@
   "update_time": "2025-03-22",
   "articles": [
     {
+      "title": "赛博菩萨 Cloudflare 新服务 AI 迷宫, 专门应对行为不端的爬虫行为 | AI Labyrinth",
+      "link": "https://1link.fun/rss/ttwA9ny6kJq",
+      "date": "2025-03-22 17:22",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742635332.0,
+      "summary": "成为赛博菩萨不是没有道理的, Cloudflare 近期又宣布了一项新的免费服务, Free 计划的用户也可以使用.这个服务就是 AI Labyrinth, AI 迷宫, 它的作用是用来对抗行为不端的爬虫的, 尤其是那些模型训练公司的 AI 爬虫.一旦 Cloudflare 检测有爬虫违反了 rob...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
       "title": "中文打乱小工具 | Chinese word chaos",
       "link": "https://1link.fun/rss/V8QkVWnCe4R",
       "date": "2025-03-22 08:22",
@@ -149,16 +159,6 @@
       "timestamp": 1742216721.0,
       "summary": "孩儿，不怕，再黑的天到头了也得亮",
       "source_url": "https://wangyurui.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "让我们推倒社交媒体的花园围墙 | Tim Berners-Lee：Let’s knock down social media’s walled gardens",
-      "link": "https://1link.fun/rss/5A2eQhSfmjI",
-      "date": "2025-03-17 13:44",
-      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
-      "timestamp": 1742190269.0,
-      "summary": "万维网的发明者 Tim Berners-Lee 发文，说人们有时候会问我【在你发明万维网 35 年之后，如何评价现在的互联网？】回答就是：现在的互联网一部分功能失调，但也不是完全无药可救，还有一些尚未实现的目标，但是实现这些目标面临挑战。第一大挑战就是社交媒体，现在的社交媒体让所有人更加两极分化，社...",
-      "source_url": "https://1link.fun",
       "category": "Blog"
     },
     {
@@ -10302,6 +10302,16 @@
       "category": "News"
     },
     {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -10348,16 +10358,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
