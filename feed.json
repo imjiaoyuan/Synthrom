@@ -9972,6 +9972,16 @@
       "category": "Blog"
     },
     {
+      "title": "巴基斯坦准备将加密货币合法化并实施友好监管框架以吸引国际投资",
+      "link": "https://www.landiannews.com/archives/108453.html",
+      "date": "2025-03-22 14:10",
+      "author": "蓝点网",
+      "timestamp": 1742623804.0,
+      "summary": "#加密货币 巴基斯坦准备将加密货币合法化并实施明确且友好的法律监管框架，以吸引来自国际市场的金融投资。巴基斯坦目前任命比拉尔・本・赛义卜为加密货币顾问，准备对该国的加密货币行业实施多种变革，目标是让加密货币成为经济增长的关键步骤。查看全文：https://ourl.co/108453",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "俄罗斯漏洞经纪商开价400万美元收购即时通讯工具Telegram的零点击漏洞",
       "link": "https://www.landiannews.com/archives/108451.html",
       "date": "2025-03-22 11:59",
@@ -10222,16 +10232,6 @@
       "category": "News"
     },
     {
-      "title": "苹果在iOS 18.4测试版中修复Safari暴露用户关键词搜索记录的隐私问题",
-      "link": "https://www.landiannews.com/archives/108423.html",
-      "date": "2025-03-20 14:22",
-      "author": "蓝点网",
-      "timestamp": 1742451724.0,
-      "summary": "#系统资讯 苹果在 iOS 18.4 最新测试版中修复 Safari 暴露用户关键词搜索记录的隐私问题，在 2 月份的测试版中苹果为 Safari 带来关键词搜索记录，点击地址栏就会显示。这个功能可能会暴露用户的搜索记录但苹果没有提供关闭选项，收到用户反馈后苹果在最新测试版中增加了关闭选项。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "利用 Oracles 和实验反馈指导生成式分子设计",
       "link": "https://developer.nvidia.com/zh-cn/blog/guiding-generative-molecular-design-with-experimental-feedback-using-oracles/",
       "date": "2025-03-19 16:56",
@@ -10302,6 +10302,16 @@
       "category": "News"
     },
     {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -10348,16 +10358,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10492,6 +10492,16 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 加速的 Apache Spark 助力企业节省大量成本",
+      "link": "https://blogs.nvidia.cn/blog/project-aether-accelerates-apache-spark/",
+      "date": "2025-03-18 12:15",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742271351.0,
+      "summary": "全球数万家企业依靠 Apache Spark 来处理海量数据，以支持关键业务的运营，同时预测趋势、客户行为、业",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "推动影响力：NVIDIA 拓展汽车生态系统，将物理 AI 推向实际道路应用",
       "link": "https://blogs.nvidia.cn/blog/auto-ecosystem-physical-ai/",
       "date": "2025-03-18 11:34",
@@ -10508,16 +10518,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742268438.0,
       "summary": "物理 AI 正在为自动驾驶和机器人开发技术的交叉领域释放新的可能性，尤其是加速了自动驾驶汽车的开发。正确的技术",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA、Alphabet 和谷歌携手开启代理式与物理 AI 的未来",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-alphabet-and-google-collaborate-on-the-future-of-agentic-and-physical-ai/",
-      "date": "2025-03-18 11:26",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742268372.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 2025 年 3 月 18 日 —— 具有长期合作伙伴关系的 NV",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
