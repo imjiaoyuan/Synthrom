@@ -2,6 +2,16 @@
   "update_time": "2025-03-23",
   "articles": [
     {
+      "title": "使用 AI 让博客排版更上一个台阶",
+      "link": "https://miantiao.me/posts/ai-blog-typography/",
+      "date": "2025-03-23 21:39",
+      "author": "面条实验室",
+      "timestamp": 1742737195.0,
+      "summary": "使用人工智能技术重新定义博客文章的视觉呈现，从简约到精致，从平凡到卓越。",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "四川大学博物馆 Walk",
       "link": "https://blog.pursuitus.com/sichuan-university-museum.html",
       "date": "2025-03-23 18:51",
@@ -5282,16 +5292,6 @@
       "category": "Blog"
     },
     {
-      "title": "浏览器本地使用 AI 移除图片背景",
-      "link": "https://miantiao.me/posts/ai-remove-image-background/",
-      "date": "2024-07-07 21:28",
-      "author": "面条实验室",
-      "timestamp": 1720358931.0,
-      "summary": "利用WebGPU和Transformers.js在浏览器中实现高效的AI图片背景移除",
-      "source_url": "https://miantiao.me/",
-      "category": "Blog"
-    },
-    {
       "title": "聊一聊 Google 云盘的无限空间！",
       "link": "https://blog.illsky.com/posts/weixin-google-cloud-drive/",
       "date": "2024-07-06 08:00",
@@ -10362,22 +10362,22 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
