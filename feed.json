@@ -502,6 +502,16 @@
       "category": "Blog"
     },
     {
+      "title": "用播客的方式听 Hacker News",
+      "link": "https://miantiao.me/posts/hacker-news-podcast/",
+      "date": "2025-03-03 20:40",
+      "author": "面条实验室",
+      "timestamp": 1741005637.0,
+      "summary": "Hacker News 是我一直关注的重要资讯来源，它能持续提供新奇有趣的极客资讯。 之前我每天都会花半小时左右的时间来浏览。\n过年期间，我注意到 DeepSeek 非常火，就尝试使用 Cloudflare Workflow 编写了一个工作流。 但生成的内容都很短，而且接口也不稳定。 后来尝试 GP...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "Trae 国内版出来了，真的好用吗？",
       "link": "http://www.ruanyifeng.com/blog/2025/03/trae.html",
       "date": "2025-03-03 16:00",
@@ -2302,6 +2312,16 @@
       "category": "Blog"
     },
     {
+      "title": "RSS.Beauty - 让 RSS 变漂亮!",
+      "link": "https://miantiao.me/posts/rss-beauty/",
+      "date": "2024-12-31 22:50",
+      "author": "面条实验室",
+      "timestamp": 1735656648.0,
+      "summary": "拖了快半年的工具终于做完了。\n\nRSS.Beauty 是一个基于 XSLT 技术的 RSS 美化工具, 可以将普通的 RSS/Atom 订阅源转换成美观的阅读界面。\n主要特性\n\n🎨 精美的阅读界面\n🔄 支持 RSS 2.0 和 Atom 1.0\n📱 响应式设计, 支持移动端\n🔌 一键订阅到主流 RS...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "2024·年终",
       "link": "https://hp-l.github.io/2024/12/31/212542/",
       "date": "2024-12-31 21:25",
@@ -2592,6 +2612,26 @@
       "category": "Blog"
     },
     {
+      "title": "在浏览器中轻松运行 Python 程序",
+      "link": "https://miantiao.me/posts/run-python-in-browser/",
+      "date": "2024-12-21 17:57",
+      "author": "面条实验室",
+      "timestamp": 1734775054.0,
+      "summary": "最近，微软开源了一个名为 MarkItDown 的程序，可以将 Office 文件转换为 Markdown 格式。这个项目一经发布就迅速登上了 GitHub 热门榜。\n然而，由于 MarkItDown 是一个 Python 程序，对于非技术用户来说使用起来可能有些困难。为了解决这个问题，我想到了利用...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像",
+      "link": "https://miantiao.me/posts/cloudflare-docker-mirror/",
+      "date": "2024-12-21 16:17",
+      "author": "面条实验室",
+      "timestamp": 1734769060.0,
+      "summary": "Cloudflare Workers 搭建 Docker 镜像个人使用请求数小没啥问题。但是如果公开使用，大量的请求数还是会产生费用。\n其实 Cloudflare 还有一个更轻量的 JS Runtime: Cloudflare Snippets, 但是也有更严格的限制：CPU 执行时间 5 ms，最...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "世另我",
       "link": "https://yufree.cn/cn/2024/12/21/another-yufree/",
       "date": "2024-12-21 08:00",
@@ -2649,6 +2689,16 @@
       "timestamp": 1734571084.0,
       "summary": "不要看我说了什么，要看我看了什么。",
       "source_url": "https://1q43.blog",
+      "category": "Blog"
+    },
+    {
+      "title": "Cloudflare PyPI Mirror",
+      "link": "https://miantiao.me/posts/cloudflare-pypi-mirror/",
+      "date": "2024-12-18 21:06",
+      "author": "面条实验室",
+      "timestamp": 1734527174.0,
+      "summary": "Pyodide 是一个在 WebAssembly 中运行 Python 的工具库，使用 Micropip 通过 PyPI 来安装包。由于 WebAssembly 在浏览器内运行需要跨域和 PEP 691，但是清华的 tuna 又不支持 CORS 跨域。\nPyPI 在中国大陆是无法正常访问的，但是有许...",
+      "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
     {
@@ -4632,6 +4682,16 @@
       "category": "Blog"
     },
     {
+      "title": "Vite SSR 项目 Docker 镜像最小化打包方案",
+      "link": "https://miantiao.me/posts/vite-ssr-docker-image-minimal-build/",
+      "date": "2024-08-31 13:14",
+      "author": "面条实验室",
+      "timestamp": 1725081240.0,
+      "summary": "最近准备把部署在 Cloudflare, Vercel, Netlify 上的项目迁移到自己的 VPS 通过 Docker 运行，就复习了一下 Docker 镜像打包。 但是一个很小的项目打包出来就是 1.05GB， 这显然是不能接受的。所以研究了一下 Node.JS 项目 Docker 镜像最小化...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "「开往」远方",
       "link": "https://blog.gxres.net/posts/travelling-further",
       "date": "2024-08-31 08:00",
@@ -4842,6 +4902,16 @@
       "category": "Blog"
     },
     {
+      "title": "BroadcastChannel - 将你的 Telegram Channel 转为微博客",
+      "link": "https://miantiao.me/posts/broadcast-channel/",
+      "date": "2024-08-11 17:18",
+      "author": "面条实验室",
+      "timestamp": 1723367892.0,
+      "summary": "之前一直在 X 分享一些有趣的工具，而且也会同步到 Telegram Channel 上。看到 Austin 说准备建立一个网站，把分享内容都收录进去。 刚好想到最近看到的一个模板 Sepia，就想到把 Telegram Channel 转成微博客。\n难度不大，主功能一个周末就搞完了。过程中做到了浏...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
       "title": "「代码艺术家」不会被 AI 取代",
       "link": "https://lutaonan.com/blog/code-artists",
       "date": "2024-08-10 08:00",
@@ -4989,6 +5059,16 @@
       "timestamp": 1722297600.0,
       "summary": "好久没有打开我的老博客了，今天突然发现访问量突破了一百万，借此机会聊聊我的代码人生 …",
       "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
+      "title": "阿里云 AP8220 刷机教程",
+      "link": "https://miantiao.me/posts/aliyun-ap8220/",
+      "date": "2024-07-29 21:39",
+      "author": "面条实验室",
+      "timestamp": 1722260395.0,
+      "summary": "最近在准备给家用网络升级 2.5G， 在咸鱼收了一台阿里云 AP8220 来折腾。 但是这个机器的刷机资料太少了。折腾了2天才成功刷机。所以写一篇文档记录一下。\n提醒\n非必要，不刷机。\n刷机有风险，请做好刷砖准备。\n任何刷机问题与我无关，我只分享我的刷机过程。\n准备工作\n\n阿里云 AP8220 机器...",
+      "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
     {
@@ -5189,6 +5269,26 @@
       "timestamp": 1720532139.0,
       "summary": "很喜欢学マス的小偶像建模，遂解之",
       "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "使用 Cloudflare Zero Trust 制作 Google Safe Browsing 平替",
+      "link": "https://miantiao.me/posts/google-safe-browsing-alternative/",
+      "date": "2024-07-07 22:48",
+      "author": "面条实验室",
+      "timestamp": 1720363733.0,
+      "summary": "之前做 L(O*62).ONG 的第一版时，使用的服务端跳转，上线第二天就被 Google 警告了安全风险，只能改成本地跳转提醒后跳转再去申诉。\n\n对于这种场景最好的做法是使用 Google Safe Browsing 来做跳转，但是 Safe Browsing 有使用限制，每天只能调用 10000...",
+      "source_url": "https://miantiao.me/",
+      "category": "Blog"
+    },
+    {
+      "title": "浏览器本地使用 AI 移除图片背景",
+      "link": "https://miantiao.me/posts/ai-remove-image-background/",
+      "date": "2024-07-07 21:28",
+      "author": "面条实验室",
+      "timestamp": 1720358931.0,
+      "summary": "最近在学习 AI 相关的前端知识，看到 Transformers.js 的一个实例很感兴趣就把它做成了一个工具。\n通过在 WebWorker 中使用 Transformers.js 调用 WebGPU 运行 RMBG-1.4 模型，可以在浏览器本地使用 AI 移除图片背景。在 M1 PRO 上处理一...",
+      "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
     {
@@ -9872,6 +9972,16 @@
       "category": "Blog"
     },
     {
+      "title": "Cloudflare推出AI迷宫功能 通过生成海量无关内容将爬虫放进迷宫里避免抓取网站",
+      "link": "https://www.landiannews.com/archives/108486.html",
+      "date": "2025-03-23 10:47",
+      "author": "蓝点网",
+      "timestamp": 1742698075.0,
+      "summary": "#人工智能 Cloudflare 推出 AI 迷宫功能，通过生成海量无关内容将爬虫放到迷宫里避免抓取网站正常内容。该功能算是以毒攻毒，检测到异常抓取的爬虫时就把爬虫放到迷宫里随便抓取，反正这些内容不是目标网站的，也不会消耗目标网站的硬件和带宽资源。开启方法：https://ourl.co/10848...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "巴基斯坦准备将加密货币合法化并实施友好监管框架以吸引国际投资",
       "link": "https://www.landiannews.com/archives/108453.html",
       "date": "2025-03-22 14:10",
@@ -10122,16 +10232,6 @@
       "category": "News"
     },
     {
-      "title": "150美元/月信用额度派上用途：xAI推出图片生成API 每张图片0.07美元",
-      "link": "https://www.landiannews.com/archives/108425.html",
-      "date": "2025-03-20 14:50",
-      "author": "蓝点网",
-      "timestamp": 1742453402.0,
-      "summary": "#人工智能 150 美元 / 月信用额度派上用场：xAI 推出图像生成 API 服务，每张图片 0.07 美元。新的 API 模型是 Grok-2-Image-1212，给定标题即可生成最多 10 张 JPG 图像，每张图片 0.07 美元，不过暂时还不支持调整图像质量、大小和样式。查看全文：htt...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "利用 Oracles 和实验反馈指导生成式分子设计",
       "link": "https://developer.nvidia.com/zh-cn/blog/guiding-generative-molecular-design-with-experimental-feedback-using-oracles/",
       "date": "2025-03-19 16:56",
@@ -10202,26 +10302,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10258,6 +10338,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
