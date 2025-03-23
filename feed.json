@@ -9972,6 +9972,36 @@
       "category": "Blog"
     },
     {
+      "title": "苹果继续探索在AirPods无线耳机中添加微型红外摄像头 帮助AI检测用户动作",
+      "link": "https://www.landiannews.com/archives/108489.html",
+      "date": "2025-03-23 11:42",
+      "author": "蓝点网",
+      "timestamp": 1742701341.0,
+      "summary": "#手机数码 苹果继续探索在 AirPods 无线耳机中添加微型摄像头的想法，不过这个摄像头主要是红外传感器，用来配合 Vision Pro 空间计算设备。这类红外传感器作用类似 Face ID 的摄像头，并不具备拍摄功能，但苹果可以通过传感器实现手势控制和检测用户转头的方向。查看全文：https:/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "UWP版OneNote将在10月14日停止支持 但从6月开始同步就会变慢",
+      "link": "https://www.landiannews.com/archives/108488.html",
+      "date": "2025-03-23 11:22",
+      "author": "蓝点网",
+      "timestamp": 1742700147.0,
+      "summary": "#软件资讯 UWP 版 OneNote 将在 10 月 14 日停止支持，从 6 月开始同步性能就会下降，Windows 10 用户必须迁移到 Win32 版。这个 UWP 版属于历史遗留版本了(但体验挺不错的)，随 Windows 10 预装但基本停止功能更新，此前微软一直还在提供安全更新。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "三星存在固件更新导致条形音箱(回音壁)受损 无论是否过保三星都提供维修",
+      "link": "https://www.landiannews.com/archives/108487.html",
+      "date": "2025-03-23 11:04",
+      "author": "蓝点网",
+      "timestamp": 1742699083.0,
+      "summary": "#硬件设备 三星终于承认确实是软件更新导致条形音箱 / 回音壁受损，无论产品是否过保三星都提供免费维修服务。只不过维修方法似乎只有送到售后拆机刷固件，所以用户可能要等待很长时间才能重新使用这些设备。查看全文：https://ourl.co/108487",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "Cloudflare推出AI迷宫功能 通过生成海量无关内容将爬虫放进迷宫里避免抓取网站",
       "link": "https://www.landiannews.com/archives/108486.html",
       "date": "2025-03-23 10:47",
@@ -10152,16 +10182,6 @@
       "category": "News"
     },
     {
-      "title": "谷歌正在调查即便网络连接非常好YouTube也只会播放144P/360P视频的问题",
-      "link": "https://www.landiannews.com/archives/108440.html",
-      "date": "2025-03-20 16:20",
-      "author": "蓝点网",
-      "timestamp": 1742458859.0,
-      "summary": "#科技资讯 谷歌正在调查即便网络连接良好 YouTube 也只会以 144P/360P 分辨率播放视频，该问题影响非常广泛，包括网页版、iOS 版和电视版都受影响。目前安卓版似乎不受影响，其他版本即便手动切换高分辨率也会卡顿或者随后自动降到低分辨率。查看全文：https://ourl.co/1084...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "使用 NVIDIA Holoscan 3.0 中的动态流控制轻松构建边缘 AI 应用",
       "link": "https://developer.nvidia.com/zh-cn/blog/easily-build-edge-ai-apps-with-dynamic-flow-control-in-nvidia-holoscan-3-0/",
       "date": "2025-03-20 16:20",
@@ -10209,26 +10229,6 @@
       "timestamp": 1742455680.0,
       "summary": "噪声是量子计算的著名对手。量子位对最细微的环境干扰很敏感，会迅速导致错误累积，并使最简单的量子算法的结果过于杂 &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "首发翻车！谷歌称Pixel 9a存在组件质量问题 推迟到4月份再上市",
-      "link": "https://www.landiannews.com/archives/108427.html",
-      "date": "2025-03-20 15:14",
-      "author": "蓝点网",
-      "timestamp": 1742454840.0,
-      "summary": "#智能手机 首发翻车！谷歌称 Pixel 9a 存在组件质量问题推迟到 4 月份某个时候再上市。像这种已经发布然后推迟上市的情况并不多见，不过这也比上市后发现问题再召回要好，谷歌未透露具体什么硬件组件存在问题。查看全文：https://ourl.co/108427",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "HuggingFace推出iOS应用 无需联网即可使用本地视觉模型描述用户周围的内容",
-      "link": "https://www.landiannews.com/archives/108426.html",
-      "date": "2025-03-20 15:01",
-      "author": "蓝点网",
-      "timestamp": 1742454061.0,
-      "summary": "#人工智能 HuggingFace 推出本地智能视觉 AI 应用 HuggingSnap，支持 iOS、macOS 和 visionOS，无需联网即可调用 iPhone 摄像头实时描述周围的内容。该应用最大的特点就是本地运行 smolvlm2 模型，既不需要联网也可以节省电量延长 iPhone 续航...",
-      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
