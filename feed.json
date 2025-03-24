@@ -9972,6 +9972,186 @@
       "category": "Blog"
     },
     {
+      "title": "更多128TB固态硬盘即将问世 主控芯片制造商慧荣推出MonTitan RDK参考设计",
+      "link": "https://www.landiannews.com/archives/108502.html",
+      "date": "2025-03-24 14:07",
+      "author": "蓝点网",
+      "timestamp": 1742796472.0,
+      "summary": "#硬件设备 更多 128TB 固态硬盘即将问世：台湾固态硬盘控制器芯片制造商慧荣推出 MonTitan RDK 套件，基于 PCIe Gen 5 平台，最高支持 128TB。提供的连续读取速度可达到 14GB / 秒，主要采用 QLC NAND 闪存颗粒，利用 FDP 技术延长 QLC 颗粒的寿命。...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "博通VMware虚拟化软件的新强盗行为：客户订购/续订至少需要购买72核许可证",
+      "link": "https://www.landiannews.com/archives/108501.html",
+      "date": "2025-03-24 13:48",
+      "author": "蓝点网",
+      "timestamp": 1742795338.0,
+      "summary": "#科技资讯 博通 VMware 虚拟化软件的强盗行为：自 4 月起客户订购 / 续订至少需要购买 72 核心许可证，无论企业是否用得上。以前 VMware 允许客户按 CPU 插槽购买许可证，无所谓核心数，博通的新政策会大幅度增加中小企业成本，同时博通还要对延期续订的客户罚款 20%。查看全文：ht...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "俄罗斯切断Cloudflare网络以测试潜在影响 所有使用Cloudflare的网站都无法访问",
+      "link": "https://www.landiannews.com/archives/108495.html",
+      "date": "2025-03-24 12:15",
+      "author": "蓝点网",
+      "timestamp": 1742789719.0,
+      "summary": "#科技资讯 俄罗斯切断 Cloudflare 网络以测试潜在影响，3 月 22 日俄罗斯在部分州测试封锁使用 Cloudflare CDN 的网站，持续时间大约是 11 小时。此次封锁似乎主要是基于 IP 地址而非 HTTPS SNI 识别前置域名，也就是解析到 Cloudflare IP 可能就会...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Steam从商店中删除包含恶意软件的《狙击手: 幻影的决心》游戏",
+      "link": "https://www.landiannews.com/archives/108494.html",
+      "date": "2025-03-24 11:03",
+      "author": "蓝点网",
+      "timestamp": 1742785406.0,
+      "summary": "#安全资讯 Steam 从商店中删除包含恶意软件的狙击手：幻影的决心》(Sniper: Phantom's Resolution)。该游戏被发现包含多个商用攻击程序，安装过该游戏的用户请删除游戏并使用反病毒软件进行查杀，如有必要可以重装系统。查看全文：https://ourl.co/108494",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "英伟达RTX Pro 6000 GPU售价曝光 零售价达8,565美元 较上代涨价26%",
+      "link": "https://www.landiannews.com/archives/108493.html",
+      "date": "2025-03-24 10:42",
+      "author": "蓝点网",
+      "timestamp": 1742784139.0,
+      "summary": "#硬件设备 英伟达 RTX Pro 6000 GPU 在美国售价曝光，零售价高达 8565 美元，较上代同类产品涨价 25.9%。RTX Pro 是英伟达推出的新品牌，也是 RTX X000 系列的继任者，这些主要面向创意领域、开发者和数据科学家，为这些场景提供极其强大的 GPU 算力支持。查看全文...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "加密货币稳定币USDT发行商泰达(Tether)准备与会计师事务所进行首次审计",
+      "link": "https://www.landiannews.com/archives/108492.html",
+      "date": "2025-03-24 10:24",
+      "author": "蓝点网",
+      "timestamp": 1742783043.0,
+      "summary": "#加密货币 加密货币稳定币 USDT 发行商泰达 (Tether) 准备与会计师事务所合作进行首次审计。泰达发行 USDT 完全靠自身信用担保，因为其储备都是自己控制而非抵押，因此泰达经常被传出监管风险，现在泰达准备与会计师事务所合作进行首次审计。查看全文：https://ourl.co/10849...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软没有计划推出我的世界(Minecraft)续集或免费版 现有版本会持续更新",
+      "link": "https://www.landiannews.com/archives/108491.html",
+      "date": "2025-03-24 10:03",
+      "author": "蓝点网",
+      "timestamp": 1742781797.0,
+      "summary": "#游戏资讯 微软没有计划推出我的世界 (Minecraft) 续费或免费版，现有版本会持续更新。Mojang 游戏制作人接受 IGN 采访时对网友的猜测做出回应，不会有免费版也不会推出续集，但当前还使用 15 年前的平台和技术对这款游戏的更新来说确实是个挑战。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果继续探索在AirPods无线耳机中添加微型红外摄像头 帮助AI检测用户动作",
+      "link": "https://www.landiannews.com/archives/108489.html",
+      "date": "2025-03-23 11:42",
+      "author": "蓝点网",
+      "timestamp": 1742701341.0,
+      "summary": "#手机数码 苹果继续探索在 AirPods 无线耳机中添加微型摄像头的想法，不过这个摄像头主要是红外传感器，用来配合 Vision Pro 空间计算设备。这类红外传感器作用类似 Face ID 的摄像头，并不具备拍摄功能，但苹果可以通过传感器实现手势控制和检测用户转头的方向。查看全文：https:/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "UWP版OneNote将在10月14日停止支持 但从6月开始同步就会变慢",
+      "link": "https://www.landiannews.com/archives/108488.html",
+      "date": "2025-03-23 11:22",
+      "author": "蓝点网",
+      "timestamp": 1742700147.0,
+      "summary": "#软件资讯 UWP 版 OneNote 将在 10 月 14 日停止支持，从 6 月开始同步性能就会下降，Windows 10 用户必须迁移到 Win32 版。这个 UWP 版属于历史遗留版本了(但体验挺不错的)，随 Windows 10 预装但基本停止功能更新，此前微软一直还在提供安全更新。查看全...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "三星存在固件更新导致条形音箱(回音壁)受损 无论是否过保三星都提供维修",
+      "link": "https://www.landiannews.com/archives/108487.html",
+      "date": "2025-03-23 11:04",
+      "author": "蓝点网",
+      "timestamp": 1742699083.0,
+      "summary": "#硬件设备 三星终于承认确实是软件更新导致条形音箱 / 回音壁受损，无论产品是否过保三星都提供免费维修服务。只不过维修方法似乎只有送到售后拆机刷固件，所以用户可能要等待很长时间才能重新使用这些设备。查看全文：https://ourl.co/108487",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "Cloudflare推出AI迷宫功能 通过生成海量无关内容将爬虫放进迷宫里避免抓取网站",
+      "link": "https://www.landiannews.com/archives/108486.html",
+      "date": "2025-03-23 10:47",
+      "author": "蓝点网",
+      "timestamp": 1742698075.0,
+      "summary": "#人工智能 Cloudflare 推出 AI 迷宫功能，通过生成海量无关内容将爬虫放到迷宫里避免抓取网站正常内容。该功能算是以毒攻毒，检测到异常抓取的爬虫时就把爬虫放到迷宫里随便抓取，反正这些内容不是目标网站的，也不会消耗目标网站的硬件和带宽资源。开启方法：https://ourl.co/10848...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "巴基斯坦准备将加密货币合法化并实施友好监管框架以吸引国际投资",
+      "link": "https://www.landiannews.com/archives/108453.html",
+      "date": "2025-03-22 14:10",
+      "author": "蓝点网",
+      "timestamp": 1742623804.0,
+      "summary": "#加密货币 巴基斯坦准备将加密货币合法化并实施明确且友好的法律监管框架，以吸引来自国际市场的金融投资。巴基斯坦目前任命比拉尔・本・赛义卜为加密货币顾问，准备对该国的加密货币行业实施多种变革，目标是让加密货币成为经济增长的关键步骤。查看全文：https://ourl.co/108453",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "俄罗斯漏洞经纪商开价400万美元收购即时通讯工具Telegram的零点击漏洞",
+      "link": "https://www.landiannews.com/archives/108451.html",
+      "date": "2025-03-22 11:59",
+      "author": "蓝点网",
+      "timestamp": 1742615944.0,
+      "summary": "#安全资讯 俄罗斯漏洞经纪商开出最高 400 万美元的价格收购即时通讯工具 Telegram 的零点击漏洞，该经纪商通常收到客户定金后发布悬赏令。其中需要用户交互的 Telegram 远程代码执行漏洞 50 万美元，无需交互的零点击漏洞 150 万美元，能够利用 Telegram 控制整个设备的漏洞...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "三星将从4月7日开始推送基于Android 15的One UI 7正式版 附设备支持清单",
+      "link": "https://www.landiannews.com/archives/108450.html",
+      "date": "2025-03-22 11:33",
+      "author": "蓝点网",
+      "timestamp": 1742614384.0,
+      "summary": "#系统资讯 三星将在 4 月 7 日推出基于 Android 15 的 One UI 7 正式版，首批共有 15 个机型可以获得更新，包括 S21~S24 和 Z 3~6 以及 Tab S6~S10。需要注意的是开始推送并不意味着所有机型都可以在当天获得更新，不同机型获得的更新时间不同，不同市场之间...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "[即将结束] 腾讯云春季活动：境外服务器99元/年不限新老用户 部分CN2GIA线路",
+      "link": "https://www.landiannews.com/archives/108121.html",
+      "date": "2025-03-22 11:16",
+      "author": "蓝点网",
+      "timestamp": 1742613406.0,
+      "summary": "#云计算 腾讯云 2025 春季活动上线：境外服务器 99 元 / 年不限新老用户，部分区域采用 CN2GIA 线路回程。这些特惠服务器还支持同价续费，也就是 188 元购买 2 年，避免后续到期续费价格高的问题。查看全文：https://ourl.co/108121",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "付费是不可能的：谷歌在欧洲进行实验 表明新闻对谷歌广告业务毫无价值",
+      "link": "https://www.landiannews.com/archives/108449.html",
+      "date": "2025-03-22 11:14",
+      "author": "蓝点网",
+      "timestamp": 1742613250.0,
+      "summary": "#科技资讯 付费是不可能的：谷歌在欧洲 8 个国家进行实验，实验结果表明新闻对谷歌广告业务基本毫无价值。此前不少出版商要求谷歌为使用这些新闻或摘要付费，谷歌对此并不认可，所以进行该实验想要表明即便删除新闻也无所谓。查看全文：https://ourl.co/108449",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "在意大利法院的要求下谷歌对公共DNS投毒以污染侵犯体育赛事版权的网站",
+      "link": "https://www.landiannews.com/archives/108454.html",
+      "date": "2025-03-22 09:00",
+      "author": "蓝点网",
+      "timestamp": 1742605203.0,
+      "summary": "#科技资讯 在意大利法院的要求下谷歌可能很快就会在公共 DNS 中投毒以污染侵犯意甲联赛等体育赛事版权的网站。米兰法院在 3 月 11 日发布的裁决要求包括谷歌在内的所有互联网服务接入商都必须遵守法律，否则可能就会像 Cloudflare 那样每天被罚款 10,000 欧元。查看全文：https:/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌为Gmail邮箱升级基于人工智能的搜索功能 优先展示相关性而非时间排序",
+      "link": "https://www.landiannews.com/archives/108452.html",
+      "date": "2025-03-21 23:41",
+      "author": "蓝点网",
+      "timestamp": 1742571664.0,
+      "summary": "#软件资讯 谷歌为 Gmail 邮箱升级基于人工智能的搜索功能，现在会优先按照相关性展示而非按照时间线排序。新的 AI 系统会综合考量各种因素，例如关键词、发送和接收时间、用户点击次数、常用联系人等进行排序，但用户也可以切换为按照时间先后顺序进行排序的搜索结果。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -9979,6 +10159,26 @@
       "timestamp": 1742548399.0,
       "summary": "NVIDIA Parabricks 是一款可扩展的基因组学分析软件套件，通过加速计算和深度学习解决 omics &#8230; Continued",
       "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "联想基于SteamOS系统的游戏掌机已经开始预购 内存更少价格更便宜",
+      "link": "https://www.landiannews.com/archives/108448.html",
+      "date": "2025-03-21 16:58",
+      "author": "蓝点网",
+      "timestamp": 1742547528.0,
+      "summary": "#游戏设备 联想基于 SteamOS 系统的游戏掌机已经在百思买上开始预购，内存更少、价格更便宜，但可能要到 5 月份才能发货。联想称 Linux 系统消耗的内存更少，所以起步提供了 16GB 版，让该掌机的售价进一步降低。查看全文：https://ourl.co/108448",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
+      "link": "https://www.landiannews.com/archives/108447.html",
+      "date": "2025-03-21 10:51",
+      "author": "蓝点网",
+      "timestamp": 1742525509.0,
+      "summary": "#人工智能 微软为 Microsoft 365 订阅用户推出 Copilot for OneDrive，可以总结文件生成摘要、对比文件和选择文件后回答特定问题。此前这些功能已经向工作和学校账户提供，现在 Microsoft 365 个人和家庭版用户也可以使用，但仅限于网页版的 OneDrive。查看...",
+      "source_url": "https://www.landiannews.com",
       "category": "News"
     },
     {
@@ -10102,6 +10302,26 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10142,23 +10362,13 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -10168,16 +10378,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
