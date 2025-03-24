@@ -62,6 +62,16 @@
       "category": "Blog"
     },
     {
+      "title": "2025.03.24: 各种链接",
+      "link": "https://www.owenyoung.com/blog/journals/2025-03-24/",
+      "date": "2025-03-24 03:45",
+      "author": "Owen的博客",
+      "timestamp": 1742759106.0,
+      "summary": "如何做你热爱的事\n\n“当我还是个孩子的时候，工作和乐趣似乎在定义上是对立的。生活有两种状态：有时大人让你做事情，那被称为工作；其余时间你可以做自己想做的事情，那被称为玩耍。偶尔大人让你做的事情也很有趣，就像偶尔玩耍也不有趣——例如，如果你摔倒了并受伤。但除了这几种异常情况，工作基本上被定义为不有趣。...",
+      "source_url": "https://www.owenyoung.com",
+      "category": "Blog"
+    },
+    {
       "title": "使用 AI 让博客排版更上一个台阶",
       "link": "https://miantiao.me/posts/ai-blog-typography/",
       "date": "2025-03-23 21:39",
@@ -7792,16 +7802,6 @@
       "category": "Blog"
     },
     {
-      "title": "对“假开源”事件的反省",
-      "link": "https://www.owenyoung.com/blog/fake-open-source/",
-      "date": "2023-08-06 00:26",
-      "author": "Owen的博客",
-      "timestamp": 1691252785.0,
-      "summary": "前几天我从沉浸式翻译用户群得知，有一则 V2EX 上的帖子指控沉浸式翻译假开源：《10k+ star 的项目也搞假开源》，虽然这则帖子里面也有一些情绪化发言，但是我不得不承认这是一个很有价值的帖子，实际上我从中学到了很多关于开源和各种 License 的新知识，我也很庆幸是现在学到这些，而不是更晚。...",
-      "source_url": "https://www.owenyoung.com",
-      "category": "Blog"
-    },
-    {
       "title": "素描背后的数学",
       "link": "https://www.longluo.me/blog/perspective/",
       "date": "2023-08-02 19:15",
@@ -9972,6 +9972,16 @@
       "category": "Blog"
     },
     {
+      "title": "黑客称入侵甲骨文云平台服务器窃取600万条数据 找甲骨文要2亿美元赎金被拒",
+      "link": "https://www.landiannews.com/archives/108503.html",
+      "date": "2025-03-24 17:05",
+      "author": "蓝点网",
+      "timestamp": 1742807123.0,
+      "summary": "#安全资讯 黑客声称窃取甲骨文云平台多达 600 万条数据的数据库，但甲骨文否认该平台遭到任何入侵或数据泄露。黑客自称联系过甲骨文并要求提供 2 亿美元赎金但被拒绝，为了证明黑客还在甲骨文服务器留了文件并使用互联网档案馆的网站时光机进行拍照作为证据。查看全文：https://ourl.co/1085...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "更多128TB固态硬盘即将问世 主控芯片制造商慧荣推出MonTitan RDK参考设计",
       "link": "https://www.landiannews.com/archives/108502.html",
       "date": "2025-03-24 14:07",
@@ -10172,16 +10182,6 @@
       "category": "News"
     },
     {
-      "title": "微软为Microsoft 365订阅用户推出Copilot for OneDrive 可以总结/对比/回答问题",
-      "link": "https://www.landiannews.com/archives/108447.html",
-      "date": "2025-03-21 10:51",
-      "author": "蓝点网",
-      "timestamp": 1742525509.0,
-      "summary": "#人工智能 微软为 Microsoft 365 订阅用户推出 Copilot for OneDrive，可以总结文件生成摘要、对比文件和选择文件后回答特定问题。此前这些功能已经向工作和学校账户提供，现在 Microsoft 365 个人和家庭版用户也可以使用，但仅限于网页版的 OneDrive。查看...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "使用 NVIDIA Holoscan 3.0 中的动态流控制轻松构建边缘 AI 应用",
       "link": "https://developer.nvidia.com/zh-cn/blog/easily-build-edge-ai-apps-with-dynamic-flow-control-in-nvidia-holoscan-3-0/",
       "date": "2025-03-20 16:20",
@@ -10302,36 +10302,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
@@ -10362,13 +10332,33 @@
       "category": "News"
     },
     {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
       "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -10378,6 +10368,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
