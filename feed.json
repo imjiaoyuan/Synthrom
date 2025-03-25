@@ -9972,206 +9972,6 @@
       "category": "Blog"
     },
     {
-      "title": "非洲逮捕306名涉嫌电信诈骗和黑客的犯罪团伙 部分可能是东南亚转移过去的",
-      "link": "https://www.landiannews.com/archives/108522.html",
-      "date": "2025-03-25 15:16",
-      "author": "蓝点网",
-      "timestamp": 1742887012.0,
-      "summary": "#安全资讯  国际刑警组织联合非洲 7 国开展打击电信诈骗和黑客攻击等犯罪活动，逮捕 306 名犯罪嫌疑人。这些犯罪团伙中的部分成员可能是人口贩运的受害者，即被骗到诈骗中心被迫从事诈骗工作，部分可能也是从东南亚转移过去的诈骗团伙。查看全文：https://ourl.co/108522",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "阿里巴巴董事长蔡崇信警告AI数据中心建设可能形成泡沫 建设速度超过AI需求",
-      "link": "https://www.landiannews.com/archives/108524.html",
-      "date": "2025-03-25 15:07",
-      "author": "蓝点网",
-      "timestamp": 1742886439.0,
-      "summary": "#人工智能 阿里巴巴董事长蔡崇信警告 AI 数据中心建设可能形成泡沫，建设速度超过 AI 需求。蔡崇信注意到某些建设中的数据中心还未获得明确的需求租约就开始筹集资金，人们预测的 AI 容量需求要比看到的容量需求大得多。查看全文：https://ourl.co/108524",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "用户举报币安钱包运营经理利用内部消息构建老鼠仓 币安确认属实并暂停其职务",
-      "link": "https://www.landiannews.com/archives/108523.html",
-      "date": "2025-03-25 14:40",
-      "author": "蓝点网",
-      "timestamp": 1742884852.0,
-      "summary": "#加密货币 币安钱包运营经理被发现利用内幕消息构建老鼠仓非法获得不正当利润，被用户举报后币安调查确认，已暂停这名运营经理的职务并准备采取法律行动。这名员工叫 Freddie Ng，上个月刚加入币安钱包团队，在得知钱包即将上线新代币时他提前购买大量该代币并在上线后迅速抛售获得不正当利润。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "DeepSeek-V3-0324 685B模型可以在M3 Mac Studio上以每秒20toks本地运行",
-      "link": "https://www.landiannews.com/archives/108521.html",
-      "date": "2025-03-25 14:24",
-      "author": "蓝点网",
-      "timestamp": 1742883893.0,
-      "summary": "#人工智能 有开发者在配备 512GB 内存 / M3 Ultra 芯片的 Mac Studio 上运行 DeepSeek 最新模型 V3-0324-685B 版，速率为 20toks/s。Mac Studio 仍然属于消费级产品 (虽然这个配置售价 9499 美元)，但 DeepSeek 的新模型...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "美国财政部解除加密货币混币器Tornado Cash的制裁 但并未撤销对其创始人的指控",
-      "link": "https://www.landiannews.com/archives/108520.html",
-      "date": "2025-03-25 12:02",
-      "author": "蓝点网",
-      "timestamp": 1742875333.0,
-      "summary": "#加密货币 美国财政部宣布解除加密货币混币器 Tornado Cash 的制裁，但现在尚未撤销对其两名创始人的刑事指控。美国财政部称使用自由裁量权解除制裁，此前 Tornado Cash 因涉嫌帮助朝鲜黑客洗钱和隐匿加密货币流向而遭到制裁，美国公民和企业都不得与之交易。查看全文：https://ou...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "OpenAI更新ChatGPT高级语音模式 避免在用户思考时打断用户",
-      "link": "https://www.landiannews.com/archives/108519.html",
-      "date": "2025-03-25 11:54",
-      "author": "蓝点网",
-      "timestamp": 1742874875.0,
-      "summary": "#人工智能 OpenAI 更新 ChatGPT 高级语音模式，避免用户在停下来思考时或者深呼吸时发出声音打断用户。新版本会根据情况进行判断减少打扰，如果 ChatGPT Plus 等付费玩家，高级语音模式现在也会更加个性化，在回答问题时更直接、引人入胜、简洁、具体且富有创意。查看全文：https:/...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "VS Code商店出现2个包含勒索软件的扩展程序 目前已经被微软删除",
-      "link": "https://www.landiannews.com/archives/108509.html",
-      "date": "2025-03-25 11:22",
-      "author": "蓝点网",
-      "timestamp": 1742872923.0,
-      "summary": "#安全资讯 Visual Studio Code 商店出现两款包含勒索软件的扩展程序，安装后会自动调用 PowerShell 下载勒索软件加密开发者的数据。不过这俩扩展目前还在早期开发阶段，只会加密测试文件夹，所以还未造成实际伤害。查看全文：https://ourl.co/108509",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "把MacBook固定到桌面下连接显示器使用可行吗？前苹果工程师称要留散热间隙",
-      "link": "https://www.landiannews.com/archives/108507.html",
-      "date": "2025-03-25 10:58",
-      "author": "蓝点网",
-      "timestamp": 1742871516.0,
-      "summary": "#硬件设备 把 MacBook 固定到桌面下连接外部显示器使用可行吗？前苹果工程师提醒大家要预留足够的间隙用于散热。这位工程师称在苹果时做过这类测试，散热不佳会缩短显示器和图形系统的寿命，应该将 MacBook 与桌板预留 10 毫米间隙用于散热。查看全文：https://ourl.co/10850...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Cloudflare域名注册服务器上线.AI域名 注册/续费价70美元 较多数平台都便宜",
-      "link": "https://www.landiannews.com/archives/108506.html",
-      "date": "2025-03-25 10:42",
-      "author": "蓝点网",
-      "timestamp": 1742870573.0,
-      "summary": "#域名资讯 赛博菩萨 Cloudflare 域名注册服务上线 AI 域名，注册和续费价均为 70 美元 / 年，较大多数平台都更便宜。作为对比同样的域名在 GoDaddy 首年 49.99 美元，续费 149.99 美元，而在 Cloudflare 2 年总成本只需要 140 美元，较 GoDadd...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "铠侠展示122.88TB数据中心级固态硬盘 封装32个4TB QLC NAND闪存芯片",
-      "link": "https://www.landiannews.com/archives/108505.html",
-      "date": "2025-03-25 10:29",
-      "author": "蓝点网",
-      "timestamp": 1742869753.0,
-      "summary": "#硬件设备 铠侠 (Kioxia) 展示 122.88TB 数据中心级固态硬盘，封装 32 个 4TB QLC NAND 闪存芯片。该固态硬盘基于铠侠 BiCS 8 QLC NAND 技术，基于 PCIe Gen 5 平台和双端口设计，连续读取速度近 15,000MB / 秒，可以作为单个 x4 设...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "树莓派推出Raspberry Pi PoE+供电器 但售价25美元着实是太高了",
-      "link": "https://www.landiannews.com/archives/108518.html",
-      "date": "2025-03-25 10:29",
-      "author": "蓝点网",
-      "timestamp": 1742869749.0,
-      "summary": "#硬件设备 树莓派推出 Raspberry Pi PoE + 供电器，让树莓派可以拜托电源线直接使用网线 + PoE 供电，不过售价太高。这款 PoE 电源售价 25 美元，只能连接 1 台设备，蓝点网使用类似的给摄像头供电的 PoE 电源只需要人民币 19 元。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Cloudflare宣布即日起API平台拒绝所有HTTP连接 开发者必须采用HTTPS加密",
-      "link": "https://www.landiannews.com/archives/108504.html",
-      "date": "2025-03-25 10:16",
-      "author": "蓝点网",
-      "timestamp": 1742868975.0,
-      "summary": "#科技资讯 Cloudflare 宣布即日起 API 平台拒绝所有 HTTP 连接，开发者必须使用 HTTPS 请求才能正常与 API 平台连接。以前 Cloudflare 会将 HTTP 重定向到 HTTPS，但这仍然存在中间人劫持风险，所以现在 Cloudflare 直接从底层禁止 HTTP 连...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "苹果将在下周推出的iOS 18.4更新中为AirPods Max带来无损音频/模拟音频",
-      "link": "https://www.landiannews.com/archives/108508.html",
-      "date": "2025-03-25 10:02",
-      "author": "蓝点网",
-      "timestamp": 1742868140.0,
-      "summary": "#手机数码 喜报！苹果将在下周推出 iOS 18.4 更新为 AirPods Max 带来无损音频、超低延迟音频和模拟音频的支持，更新后用户可以收听 Apple Music 中超过 1 亿首无损音乐。苹果今天推出售价 39 美元的 USB-C 转 3.5mm 耳机线，让有需要的用户可以通过 AirP...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "喜报！Linux Kernel 6.14正式版发布 带来多项新功能和性能优化改进",
-      "link": "https://www.landiannews.com/archives/108510.html",
-      "date": "2025-03-25 00:01",
-      "author": "蓝点网",
-      "timestamp": 1742832093.0,
-      "summary": "#系统资讯 Linux Kernel 6.14 正式版现已发布，带来多项新功能和性能优化。该版本对文件系统、虚拟化、架构、网络、电源管理等多方面进行改进和优化，接下来 Linux 发行版开发商会逐渐适配，如果用户着急的话也可以自行下载内核编译使用。查看全文：https://ourl.co/10851...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "黑客称入侵甲骨文云平台服务器窃取600万条数据 找甲骨文要2亿美元赎金被拒",
-      "link": "https://www.landiannews.com/archives/108503.html",
-      "date": "2025-03-24 17:05",
-      "author": "蓝点网",
-      "timestamp": 1742807123.0,
-      "summary": "#安全资讯 黑客声称窃取甲骨文云平台多达 600 万条数据的数据库，但甲骨文否认该平台遭到任何入侵或数据泄露。黑客自称联系过甲骨文并要求提供 2 亿美元赎金但被拒绝，为了证明黑客还在甲骨文服务器留了文件并使用互联网档案馆的网站时光机进行拍照作为证据。查看全文：https://ourl.co/1085...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "更多128TB固态硬盘即将问世 主控芯片制造商慧荣推出MonTitan RDK参考设计",
-      "link": "https://www.landiannews.com/archives/108502.html",
-      "date": "2025-03-24 14:07",
-      "author": "蓝点网",
-      "timestamp": 1742796472.0,
-      "summary": "#硬件设备 更多 128TB 固态硬盘即将问世：台湾固态硬盘控制器芯片制造商慧荣推出 MonTitan RDK 套件，基于 PCIe Gen 5 平台，最高支持 128TB。提供的连续读取速度可达到 14GB / 秒，主要采用 QLC NAND 闪存颗粒，利用 FDP 技术延长 QLC 颗粒的寿命。...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "博通VMware虚拟化软件的新强盗行为：客户订购/续订至少需要购买72核许可证",
-      "link": "https://www.landiannews.com/archives/108501.html",
-      "date": "2025-03-24 13:48",
-      "author": "蓝点网",
-      "timestamp": 1742795338.0,
-      "summary": "#科技资讯 博通 VMware 虚拟化软件的强盗行为：自 4 月起客户订购 / 续订至少需要购买 72 核心许可证，无论企业是否用得上。以前 VMware 允许客户按 CPU 插槽购买许可证，无所谓核心数，博通的新政策会大幅度增加中小企业成本，同时博通还要对延期续订的客户罚款 20%。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "俄罗斯切断Cloudflare网络以测试潜在影响 所有使用Cloudflare的网站都无法访问",
-      "link": "https://www.landiannews.com/archives/108495.html",
-      "date": "2025-03-24 12:15",
-      "author": "蓝点网",
-      "timestamp": 1742789719.0,
-      "summary": "#科技资讯 俄罗斯切断 Cloudflare 网络以测试潜在影响，3 月 22 日俄罗斯在部分州测试封锁使用 Cloudflare CDN 的网站，持续时间大约是 11 小时。此次封锁似乎主要是基于 IP 地址而非 HTTPS SNI 识别前置域名，也就是解析到 Cloudflare IP 可能就会...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Steam从商店中删除包含恶意软件的《狙击手: 幻影的决心》游戏",
-      "link": "https://www.landiannews.com/archives/108494.html",
-      "date": "2025-03-24 11:03",
-      "author": "蓝点网",
-      "timestamp": 1742785406.0,
-      "summary": "#安全资讯 Steam 从商店中删除包含恶意软件的狙击手：幻影的决心》(Sniper: Phantom's Resolution)。该游戏被发现包含多个商用攻击程序，安装过该游戏的用户请删除游戏并使用反病毒软件进行查杀，如有必要可以重装系统。查看全文：https://ourl.co/108494",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "英伟达RTX Pro 6000 GPU售价曝光 零售价达8,565美元 较上代涨价26%",
-      "link": "https://www.landiannews.com/archives/108493.html",
-      "date": "2025-03-24 10:42",
-      "author": "蓝点网",
-      "timestamp": 1742784139.0,
-      "summary": "#硬件设备 英伟达 RTX Pro 6000 GPU 在美国售价曝光，零售价高达 8565 美元，较上代同类产品涨价 25.9%。RTX Pro 是英伟达推出的新品牌，也是 RTX X000 系列的继任者，这些主要面向创意领域、开发者和数据科学家，为这些场景提供极其强大的 GPU 算力支持。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -10302,26 +10102,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10368,6 +10148,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
