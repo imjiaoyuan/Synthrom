@@ -302,16 +302,6 @@
       "category": "Blog"
     },
     {
-      "title": "理想的文本内容创作、分发和消费系统",
-      "link": "https://limboy.me/posts/ideal-text-content-create-deliver-consume",
-      "date": "2025-03-15 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1741996800.0,
-      "summary": "理论上，一个平台包揽文本内容的创作、分发和消费应该会很高效，就像早期的 Twitter。但这种模式存在着根本性的弊端：不可控性。这种不可控体现在多个方面：\n\n产品不可控： 比如你可能需要长文写作功能，但平台要么不支持，要么将其作为付费功能；你希望内容列表以列表形式展示，但平台只提供 Feed 流。\n...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功",
       "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html",
       "date": "2025-03-14 08:08",
@@ -772,16 +762,6 @@
       "category": "Blog"
     },
     {
-      "title": "以终为始，面向价值观生活",
-      "link": "https://limboy.me/posts/value-oriented-life",
-      "date": "2025-02-28 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1740700800.0,
-      "summary": "不知道从什么时候开始，对坐飞机开始有种难以言说的恐惧。害怕被一个钢铁巨鸟带到离地万米的高空，害怕那无法预知的颠簸，更害怕自己对此无能为力。但生活又是充满着不得不飞的时刻，这反而促使我开始了一场逆向思考：假如我不幸在某次飞行中丧生，回顾这一生，是否留有遗憾？\n答案是肯定的。太多经典的书籍和影视剧还未来...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "全程使用 AI 从 0 到 1 写了个小工具",
       "link": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
       "date": "2025-02-28 01:26",
@@ -789,16 +769,6 @@
       "timestamp": 1740677188.0,
       "summary": "本文详细介绍了如何使用AI工具Trae从零开始创建一个简约的RSS阅读器，讨论了AI在编程领域的应用，工具的优缺点，以及在项目过程中遇到的问题和解决经验。",
       "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "AI 辅助编程的崛起意味着什么？",
-      "link": "https://limboy.me/posts/ai-programming",
-      "date": "2025-02-27 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1740614400.0,
-      "summary": "大概半年前，我开始接触 AI 编程助手，例如 Cursor 和 GitHub Copilot。简单试用后，感觉不太顺手，就暂时搁置了。当时我的感受是：\n\nCursor 的存在感太强了，用起来不太习惯，还是更喜欢 VSCode。\n\n但随着 AIDE 和 AI 编程插件越来越多地出现在视野中，我隐隐意识...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -3112,16 +3082,6 @@
       "category": "Blog"
     },
     {
-      "title": "去喀什旅行",
-      "link": "https://limboy.me/posts/travel-to-kashi",
-      "date": "2024-12-01 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1733011200.0,
-      "summary": "媳妇儿在小红书上种草了长龙航空的随心飞，于是怂恿我一起买了这个服务。然后就开始寻找目的地，本着第一趟就要赚回本的理念，选择了距离杭州近 5000 公里，中国最西部的城市：喀什。\n我对这个城市只停留在「听说过」的阶段，对于当地的美食、美景、风土人情、历史典故等毫无概念，但既然媳妇儿选择了这里，就只能陪...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "经济学人年度书籍推荐 2024。",
       "link": "https://xiaowenz.com/blog/2024/11/best-book-of-2024-by-economist/",
       "date": "2024-11-30 06:00",
@@ -3492,16 +3452,6 @@
       "category": "Blog"
     },
     {
-      "title": "独立开发之路：在不确定中寻找确定性",
-      "link": "https://limboy.me/posts/indie-dev",
-      "date": "2024-11-11 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1731283200.0,
-      "summary": "去年，看了一本印象颇深的书：北方的空地。这本书讲的是一个叫杨柳松的人，推着一辆自行车（交通工具兼载货工具），历经 77 天，独自穿越羌塘无人区的故事。旅途非常艰险，一点小小的意外就可能导致极严重的后果（比如帐篷的地钉被吹走）。但体验独特，风景绝美。看完后，印象最深的除了他的那份胆识、勇气和乐观外，还...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "猫鱼周刊 vol. 047 控烟条例",
       "link": "https://ameow.xyz/archives/weekly-047",
       "date": "2024-11-10 23:58",
@@ -3609,16 +3559,6 @@
       "timestamp": 1731097961.0,
       "summary": "本文记录了从上海到如皋的两天自驾游经历，探索了如皋的水绘园、定慧禅寺和李昌钰刑侦科学博物馆，体验了如皋的长寿文化和特色美食，感受了这座江苏省小城的历史与文化。",
       "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
-      "link": "https://limboy.me/posts/bike-shedding",
-      "date": "2024-11-08 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1731024000.0,
-      "summary": "想象有一个金融委员会会议，讨论三点议程，要点如下：\n\n耗资 1000 万英镑建设核电站的提案\n价值 350 英镑的自行车棚提案\n年度咖啡预算 21 英镑的提案\n\n会发生什么？委员会最终在很短的时间内就通过了核电站提案。它太高级了，谁都无法真正深入研究细节，而且大多数成员对这个主题了解不多。即使有人了...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -4492,16 +4432,6 @@
       "category": "Blog"
     },
     {
-      "title": "洗澡这件小事值得被认真对待",
-      "link": "https://limboy.me/posts/shower-habit",
-      "date": "2024-09-24 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1727136000.0,
-      "summary": "今天早上（严格说来是近中午了，醒的晚😂）在洗澡的时候，忽然觉得应该将「每天早上洗澡」这件事纳入日程中，因为这是难得的一段不会被打扰，不会使用电子设备，完全属于自己的时间。可以用这段时间做一些微小但又重要的事。\n反思昨天的表现\n因为是发生不久的事，所以印象也还算深刻，可以回顾昨天哪些事做的比较好，哪些...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "记一次用 Maven 编译 CoreProtect 插件",
       "link": "https://blog.gxres.net/posts/compile-coreprotect-with-maven",
       "date": "2024-09-24 08:00",
@@ -4639,16 +4569,6 @@
       "timestamp": 1725727965.0,
       "summary": "在之前接触的两种强制激活 Google 地图时间轴（以前称之为「位置记录」）方法都失效后，我通过 Thanox 的一个功能「隐匿」来伪装 SIM 卡信息从而强制启用 Google 地图时间轴。",
       "source_url": "https://blog.ichr.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "Rebuilt this site for the next decade using Astro",
-      "link": "https://limboy.me/posts/rebuilt-this-site-for-the-next-decade",
-      "date": "2024-09-06 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1725580800.0,
-      "summary": "This site previously used Zola as its blog engine (you can read here for more details), along with:\n\nAlpine.js: A lightweight Vue.js alternative.\nTail...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -5152,16 +5072,6 @@
       "category": "Blog"
     },
     {
-      "title": "AI 不断发展的时代，人应该做什么",
-      "link": "https://limboy.me/posts/thinking-on-the-development-stages-of-ai-and-its-impact",
-      "date": "2024-07-22 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1721606400.0,
-      "summary": "这篇文章是我与 AI(Claude 3.5 Sonnet) 共创的结果，我贡献了最初的思考，AI 对它进行了完善和补充。以后这种共创模式应该会更加普遍吧。\n我的思考\n如果我们把 AI 的发展拆分为三个阶段，就能看到 AI 可能带来的影响。\n\n第一阶段：不具备智能的汽车。此时司机具有重要性，因为不仅要...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "从零开始搭建你的免费博客评论系统（Remark42 + fly.io）",
       "link": "https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio",
       "date": "2024-07-22 01:10",
@@ -5242,16 +5152,6 @@
       "category": "Blog"
     },
     {
-      "title": "展开讲讲独立创作者的工作节奏",
-      "link": "https://limboy.me/posts/indie-creator-routine",
-      "date": "2024-07-13 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1720828800.0,
-      "summary": "「独立创作者」是指那些对时间和地点有较高自由度、以作品创作为主的群体。「工作节奏」包含了目标、项目、任务、时间规划、Deep Work、回顾等诸多元素。\n  经过一段时间的尝试后，发现我其实没有太多需要 Schedule 的 Tasks，还是回归到了 free style schedule···　 ...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "让 Tana 和 Heptabase 协同作战",
       "link": "https://justgoidea.com/posts/2024-020/",
       "date": "2024-07-12 12:09",
@@ -5329,16 +5229,6 @@
       "timestamp": 1719909810.0,
       "summary": "在 2024 年上半年，我共发布了 20 期电子报，涵盖了个人知识管理（PKM）、AI 发展、社交媒体等多个主题。为了让更多读者能够方便地获取这些精华内容，我特别将其汇总发布在博客上。这些内容不仅反映了我对当代科技和社会问题的深入思考，还包含了对未来趋势的独特见解。如果您对这些主题感兴趣，欢迎点击阅...",
       "source_url": "https://justgoidea.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "独立创作是一种生活方式",
-      "link": "https://limboy.me/posts/independent-creation-is-a-lifestyle",
-      "date": "2024-07-02 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1719878400.0,
-      "summary": "独立创作不是一种行为艺术，更不是逃避生活的借口，而是一种主动选择的生活方式。很多人向往却难以迈出第一步，或因难以坚持而中途放弃。独立创作要求高度的自律和时间管理，需要在创作、生活、学习、休息之间找到平衡，确保持续进展。Cal Newport在《深度工作》中也提到，高度专注和时间管理是成功创作的关键，...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -5502,26 +5392,6 @@
       "category": "Blog"
     },
     {
-      "title": "如何高效地学习英语",
-      "link": "https://limboy.me/posts/learn-english-effectively",
-      "date": "2024-06-04 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1717459200.0,
-      "summary": "这可能是每个想学好英语的人首先会问的问题，但似乎并没有被很好地解答。经过一番调研后，我试着给出自己对这个问题的理解。\n首先要对「学好英语」有一个明确的定义，我对它的定义是：有一个足够大的词汇库，当文字或语音命中这些词汇时，可以不费力地 get 到意思，同时能够不费力地用这些词汇来表达（用正确的语法来...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "Polly V2",
-      "link": "https://limboy.me/posts/polly-v2",
-      "date": "2024-06-02 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1717286400.0,
-      "summary": "继 Polly V1 小范围开放后，Polly V2 终于可以跟大家见面了。我对 Polly 的愿景是，通过对它的合理使用，可以达到英语能力的全面提升。\n  整个产品设计围绕以下理论展开：以大量、感兴趣、难度适中（可理解，又稍显吃力）的内容作为输入（输入大于输出），反复听、反复看（听为主，看为辅）、...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "🗼 五月底去了一趟日本，记录一下我的游记和攻略",
       "link": "https://www.mengke.me/blog/202405/Travels_In_Japan",
       "date": "2024-05-31 08:00",
@@ -5629,16 +5499,6 @@
       "timestamp": 1715838840.0,
       "summary": "不敢相信我也敢写摄影教程了。 本文的目标就是： 告别自动模式！ 不是自动模式不好，但有选择地用自动模式和只会用自动模式是有本质区别的。 拍了这几年下",
       "source_url": "http://bamboobone9.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "用 Telegram 来构建数字花园",
-      "link": "https://limboy.me/posts/telegram-digital-garden",
-      "date": "2024-05-16 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1715817600.0,
-      "summary": "第一次接触到「数字花园」这个名称是因为这篇文章，文中，作者将他创作的产品比作花园，我想「数字花园」可能是个更合适的比喻。既是花园，就需要有一片土地，可以在上面种不同类型的植物。\nTwitter / 微博 / 小红书，这类的社交网络 App，不是自己的数字花园，虽然也能在上面发不同类型的内容，但要接受...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -6312,16 +6172,6 @@
       "category": "Blog"
     },
     {
-      "title": "关于易维护的代码",
-      "link": "https://limboy.me/posts/maintainable-code",
-      "date": "2024-03-04 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1709510400.0,
-      "summary": "在编程领域，编写易维护代码是很重要的一部分，不然就会出现「屎山雕花」的情况。以下是我关于编写「易维护代码」的一些心得。\n易维护的代码有怎样的特性？\n易调式\n\n出现问题后，可以快速定位问题出现的原因。\n\n易调整\n\n可以方便地找到改动处，以实现需求或修复 Bug。\n改动带来的影响面明确且可控。（如果出现...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "2024.03.03: 各种链接",
       "link": "https://www.owenyoung.com/blog/journals/2024-03-03/",
       "date": "2024-03-03 21:28",
@@ -6439,16 +6289,6 @@
       "timestamp": 1708683300.0,
       "summary": "🤔 嘛，确实很久没更新近况了 🤪在后台评论以及邮件中，总能收到来自朋友们的关心（以及对年终总结的催更 XD），不过每每提笔时却又百感交集，一时竟不知该如何总结。前前后后新建过十来个文档，但最终都...",
       "source_url": "https://idealclover.top/",
-      "category": "Blog"
-    },
-    {
-      "title": "不再好好做音乐流媒体的 Spotify",
-      "link": "https://limboy.me/posts/spotify-expand-scope",
-      "date": "2024-02-22 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1708560000.0,
-      "summary": "写这篇文章的初衷是在 Hacker News 上看到的这个连接：The day I canceled my Spotify subscription，我自己也是通过灰色渠道在用着 Spotify，感觉这个 App 变得越来越重，东西越来越多，首页各种推荐给你的 List，还去不掉，自己的部分（Lik...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -7212,16 +7052,6 @@
       "category": "Blog"
     },
     {
-      "title": "Polly",
-      "link": "https://limboy.me/posts/polly",
-      "date": "2023-12-02 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1701475200.0,
-      "summary": "Polly 是我前一段时间写的用来学英语的网站，核心思想是通过电影、美剧和书籍来学英语。网站提供了精选的内容和方便的工具来帮助实践 100LS。\n  100 L(Listen)S(Speak) 这个方法在《我在100天内自学英文翻转人生》这本书中提出，作者参考了美国国防部语言学校的学习方法，取其练习...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
       "title": "氐宿四，心宿二｜2023年11月小结",
       "link": "https://thirdshire.com/november-2023-recap/",
       "date": "2023-12-01 11:30",
@@ -7239,26 +7069,6 @@
       "timestamp": 1701348504.0,
       "summary": "Do you ever shake in this place? Can a blessing fly through you to someone else’s belly? Who gets to be different, who gets to be bigger, who is allow...",
       "source_url": "https://owlswims.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "吃饭时也可以练习正念",
-      "link": "https://limboy.me/posts/be-mindful-while-eating",
-      "date": "2023-11-30 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1701302400.0,
-      "summary": "今天中午去了附近的一家日料店吃饭，因为它家中午有优惠，且饭的品质不错。菜上齐后，就吧啦吧啦吃了起来，可能是米饭太香了，就细嚼品了品。以前吃饭时，虽然不看手机，但脑子里总会想着其他事，不太会专注在面前的食物。今天可能是被这碗米饭吸引，我的注意力开始集中到饭和菜上。开始去回味沙拉中的玉米粒和沙拉酱，泡菜...",
-      "source_url": "https://limboy.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "感恩练习",
-      "link": "https://limboy.me/posts/grateful-practice",
-      "date": "2023-11-30 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1701302400.0,
-      "summary": "元宝事件之后，我开始更加严肃地看待意外事件：一些习以为常的存在是可以顷刻间不复存在的。无论多么不舍，多么懊悔，都回不来了。\n于是我打算换个思路：现在拥有的一切都不是理所当然的，这些存在值得被感激。从 0 开始，一个一个叠加值得感恩的人、事、物。以下是我的不完全感恩列表：\n\n身体\n\n能够品尝食物的美味...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -7289,16 +7099,6 @@
       "timestamp": 1701098436.0,
       "summary": "对于静态博客，有时候会需要更改博文的永久URL链接格式，比如把格式为/blog/xxx的链接改为/post/xxx。有时由于迁移博客，也需要把以前的老博文进行URL重定向跳转，以避免失效链接导致的404。",
       "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "元宝",
-      "link": "https://limboy.me/posts/yuanbao",
-      "date": "2023-11-27 08:00",
-      "author": "Limboy's Essays",
-      "timestamp": 1701043200.0,
-      "summary": "从来没有想过，一只小小的牡丹鹦鹉会给我的心绪带来如此大的冲击，让我一段时间都无法直视它的照片，每每想起它在天台从我手上飞走，都会忍不住心酸。\n元宝是媳妇怕二狗子（家里的另一只牡丹鹦鹉）寂寞而找的伴，因为二狗子是母的，所以希望新来的伴儿是公的，这样到时还能生小宝宝。来到咱家时，它已经有点大了，跟人不太...",
-      "source_url": "https://limboy.me/",
       "category": "Blog"
     },
     {
@@ -10302,26 +10102,6 @@
       "category": "News"
     },
     {
-      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
-      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
       "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
       "date": "2025-03-18 23:55",
@@ -10368,6 +10148,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
+      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
