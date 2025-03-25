@@ -12,6 +12,16 @@
       "category": "Blog"
     },
     {
+      "title": "两组照片：南瓜生日，路过巴黎",
+      "link": "https://www.skyue.com/25032520.html",
+      "date": "2025-03-25 20:11",
+      "author": "拾月",
+      "timestamp": 1742904660.0,
+      "summary": "南瓜生日要出差两周，所以上周六提前给南瓜过生日，在远洋乐堤港的mamala餐厅，餐厅环境不错。结束后，到天街三匠一生打了一组黄金对戒，使用约20克黄金，其中13.14克是求婚时送的小金块，外加6...",
+      "source_url": "https://www.skyue.com/",
+      "category": "Blog"
+    },
+    {
       "title": "独立开发者请不要开发这一类软件 | Beware Flavored Software",
       "link": "https://1link.fun/rss/rx_-IesQOU5",
       "date": "2025-03-25 10:09",
@@ -1609,16 +1619,6 @@
       "timestamp": 1738249114.0,
       "summary": "无摘要",
       "source_url": "https://hp-l.github.io/",
-      "category": "Blog"
-    },
-    {
-      "title": "博客十周年",
-      "link": "https://www.skyue.com/25013022.html",
-      "date": "2025-01-30 22:37",
-      "author": "拾月",
-      "timestamp": 1738247820.0,
-      "summary": "当年写「博客五周年」之时，就期待写十周年这天。2023年参与二维吾码「2023 年了，为什么还在写博客」播客录制，我跟评论尸说，这个话题我原本想在博客十周年写一篇。现在时间到了，我重新听了一遍播...",
-      "source_url": "https://www.skyue.com/",
       "category": "Blog"
     },
     {
@@ -10302,6 +10302,26 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10352,23 +10372,13 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
     {
@@ -10378,16 +10388,6 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
