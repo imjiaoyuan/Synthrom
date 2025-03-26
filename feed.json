@@ -2,6 +2,16 @@
   "update_time": "2025-03-26",
   "articles": [
     {
+      "title": "那个转行做木工的程序员现在怎么样了？| ebd2 I no longer build software",
+      "link": "https://1link.fun/rss/NM1tG26c5Yo",
+      "date": "2025-03-26 09:45",
+      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
+      "timestamp": 1742953539.0,
+      "summary": "Eric 曾经是一个程序员，2017 年的时候，他给 docker cli 提了一个 issue，问能不能在 push 镜像的时候同时推送到多个 tag。提了这个 issue 之后就没再管了，这个 issue 也如同其他 issue 一样，时不时有人回复一下，而且直到现在也没有解决。3年之后，202...",
+      "source_url": "https://1link.fun",
+      "category": "Blog"
+    },
+    {
       "title": "“仪式感”是生活的解药，还是新型消费陷阱？",
       "link": "http://m.wufazhuce.com/question/4325",
       "date": "2025-03-26 06:25",
@@ -239,16 +249,6 @@
       "timestamp": 1742326502.0,
       "summary": "从哈尔滨归来后，内心充满不踏实与茫然，决定前往宁波东钱湖进行一场心灵的旅行。文章详细记录了在东钱湖畔的静坐观雨、湖边泊车、自驾环湖的行程，以及在韩岭老街和韩岭美术馆的探索，体验湖光山色与自然宁静带来的心灵抚慰。",
       "source_url": "https://blog.ops-coffee.cn",
-      "category": "Blog"
-    },
-    {
-      "title": "在线实时多人一起扫雷 | minesweeperpro",
-      "link": "https://1link.fun/rss/jTARByUhehw",
-      "date": "2025-03-19 00:05",
-      "author": "1Link.Fun 科技周刊 | 每天获取一条高质量的链接",
-      "timestamp": 1742313929.0,
-      "summary": "和随机网友一起玩扫雷游戏，看看谁获得的分数更高。玩法很简单，进入网站之后，无需登录，系统会给你分配一个随机的昵称并且根据你的 IP 地址展示对应的国旗标志。然后点击开始键开始游戏，系统会给你匹配多位对手（注意，是多位，不只是2位玩家），你的目标就是尽可能的得到更多的金币，拿金币的规则也很简单：正确标...",
-      "source_url": "https://1link.fun",
       "category": "Blog"
     },
     {
@@ -4602,6 +4602,16 @@
       "category": "Blog"
     },
     {
+      "title": "记录一次 Apple Vision Pro 体验",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
+      "date": "2024-09-09 02:42",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1725820950.0,
+      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "date": "2024-09-08 16:00",
@@ -4879,6 +4889,16 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
+      "category": "Blog"
+    },
+    {
+      "title": "随便聊聊最近买的物件",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
+      "date": "2024-08-15 15:29",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1723706959.0,
+      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -5269,6 +5289,16 @@
       "timestamp": 1720569600.0,
       "summary": "好不容易再次充满干劲，趁着这个机会把 Sliver Complex 的登陆页给重写一下，顺便尝试一下之前就想试一试的 Svelte 与 SvelteKit。",
       "source_url": "https://blog.gxres.net/",
+      "category": "Blog"
+    },
+    {
+      "title": "记录一次学マス角色模型解包",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
+      "date": "2024-07-09 21:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1720532139.0,
+      "summary": "很喜欢学マス的小偶像建模，遂解之",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -7822,6 +7852,26 @@
       "category": "Blog"
     },
     {
+      "title": "TinHiFi T4 - 净",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
+      "date": "2023-07-20 11:35",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689824148.0,
+      "summary": "干净且均衡。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "百元内卷终点？——水月雨 竹2",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
+      "date": "2023-07-20 10:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1689821885.0,
+      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -7989,6 +8039,36 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "为网页添加FontAwesome支持",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
+      "date": "2023-06-09 21:23",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686317012.0,
+      "summary": "🤔",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "SBC-XQ 蓝牙编码的音频质量",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
+      "date": "2023-06-09 20:58",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686315520.0,
+      "summary": "翻译了一篇关于SBC-XQ的文章。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "Linux运行游戏问题及解决方案汇总",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
+      "date": "2023-06-09 20:49",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1686314985.0,
+      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -8722,6 +8802,16 @@
       "category": "Blog"
     },
     {
+      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
+      "date": "2022-08-14 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1660406400.0,
+      "summary": "一篇普通的晓尾巴测评。",
+      "source_url": "https://xlog.dreamo.ink",
+      "category": "Blog"
+    },
+    {
       "title": "分布式数据库的一致性问题与共识算法",
       "link": "https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed",
       "date": "2022-08-07 04:11",
@@ -8929,6 +9019,16 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Fedora 折騰日記 ver 1.0",
+      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
+      "date": "2022-04-04 00:00",
+      "author": "梦墨不会做梦💤",
+      "timestamp": 1649001600.0,
+      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
+      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -9872,6 +9972,36 @@
       "category": "Blog"
     },
     {
+      "title": "博通发布安全更新修复VMware Tools存在的高危漏洞 借助漏洞可以逃逸沙盒",
+      "link": "https://www.landiannews.com/archives/108527.html",
+      "date": "2025-03-26 10:39",
+      "author": "蓝点网",
+      "timestamp": 1742956745.0,
+      "summary": "#安全资讯 博通发布更新修复 VMware Tools for Windows 的高危安全漏洞，借助该漏洞可以绕过身份验证在虚拟机中提权。使用 VMware 虚拟机的用户注意检查 VMware Tools 的更新，避免漏洞被恶意软件利用。查看全文：https://ourl.co/108527",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌Chrome在线安装程序出现错误导致Windows 10/11安装都提示无法运行",
+      "link": "https://www.landiannews.com/archives/108526.html",
+      "date": "2025-03-26 09:45",
+      "author": "蓝点网",
+      "timestamp": 1742953527.0,
+      "summary": "#软件资讯 也是草台行为：Chrome 官网在线安装程序出现错误，疑似是谷歌将 Arm64 安装包替换了 x64 安装包，导致系统无法运行。当用户尝试安装时会提示此应用无法在您的电脑上运行，这是微软预留的架构不支持提示。目前该错误已经修复。查看全文：https://ourl.co/108526",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "苹果宣布在6月9日~13日举办WWDC 2025开发者大会 预计会有各种关于AI的内容",
+      "link": "https://www.landiannews.com/archives/108525.html",
+      "date": "2025-03-26 09:33",
+      "author": "蓝点网",
+      "timestamp": 1742952796.0,
+      "summary": "#科技资讯 苹果宣布在 6 月 9 日～13 日举办 WWDC 2025 开发者大会，预计会有各种关于 AI 的内容。苹果将在此次开发者大会上公布 iOS 19，据说该版本要重新设计并以 Apple visionOS 半透明悬浮风格做参考，不知道具体会是什么样子。查看全文：https://ourl....",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "非洲逮捕306名涉嫌电信诈骗和黑客的犯罪团伙 部分可能是东南亚转移过去的",
       "link": "https://www.landiannews.com/archives/108522.html",
       "date": "2025-03-25 15:16",
@@ -10042,36 +10172,6 @@
       "category": "News"
     },
     {
-      "title": "俄罗斯切断Cloudflare网络以测试潜在影响 所有使用Cloudflare的网站都无法访问",
-      "link": "https://www.landiannews.com/archives/108495.html",
-      "date": "2025-03-24 12:15",
-      "author": "蓝点网",
-      "timestamp": 1742789719.0,
-      "summary": "#科技资讯 俄罗斯切断 Cloudflare 网络以测试潜在影响，3 月 22 日俄罗斯在部分州测试封锁使用 Cloudflare CDN 的网站，持续时间大约是 11 小时。此次封锁似乎主要是基于 IP 地址而非 HTTPS SNI 识别前置域名，也就是解析到 Cloudflare IP 可能就会...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Steam从商店中删除包含恶意软件的《狙击手: 幻影的决心》游戏",
-      "link": "https://www.landiannews.com/archives/108494.html",
-      "date": "2025-03-24 11:03",
-      "author": "蓝点网",
-      "timestamp": 1742785406.0,
-      "summary": "#安全资讯 Steam 从商店中删除包含恶意软件的狙击手：幻影的决心》(Sniper: Phantom's Resolution)。该游戏被发现包含多个商用攻击程序，安装过该游戏的用户请删除游戏并使用反病毒软件进行查杀，如有必要可以重装系统。查看全文：https://ourl.co/108494",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "英伟达RTX Pro 6000 GPU售价曝光 零售价达8,565美元 较上代涨价26%",
-      "link": "https://www.landiannews.com/archives/108493.html",
-      "date": "2025-03-24 10:42",
-      "author": "蓝点网",
-      "timestamp": 1742784139.0,
-      "summary": "#硬件设备 英伟达 RTX Pro 6000 GPU 在美国售价曝光，零售价高达 8565 美元，较上代同类产品涨价 25.9%。RTX Pro 是英伟达推出的新品牌，也是 RTX X000 系列的继任者，这些主要面向创意领域、开发者和数据科学家，为这些场景提供极其强大的 GPU 算力支持。查看全文...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -10202,26 +10302,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
@@ -10268,6 +10348,26 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10432,6 +10532,26 @@
       "category": "News"
     },
     {
+      "title": "隆重推出 NVIDIA Isaac 医疗健康版：一款 AI 驱动的医疗机器人开发平台",
+      "link": "https://developer.nvidia.com/zh-cn/blog/introducing-nvidia-isaac-for-healthcare-an-ai-powered-medical-robotics-development-platform/",
+      "date": "2025-03-18 10:46",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742265970.0,
+      "summary": "医疗科技的未来是机器人，医院将实现完全自动化，AI 驱动的手术系统、机器人助手和自主患者护理将改变我们所知的医 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA DGX 云基准测试衡量和提高 AI 工作负载性能",
+      "link": "https://developer.nvidia.com/zh-cn/blog/measure-and-improve-ai-workload-performance-with-nvidia-dgx-cloud-benchmarking/",
+      "date": "2025-03-18 10:35",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742265356.0,
+      "summary": "随着 AI 功能的进步，了解硬件和软件基础架构选择对工作负载性能的影响对于技术验证和业务规划都至关重要。组织需 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 宣布推出光电一体化封装网络交换机 Spectrum-X Photonics，助力 AI 工厂扩展到数百万 GPU 级别",
       "link": "https://blogs.nvidia.cn/blog/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories/",
       "date": "2025-03-18 10:08",
@@ -10439,6 +10559,16 @@
       "timestamp": 1742263694.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日  ——  NVIDIA",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA DGX 云无服务器推理在云环境中无缝扩展人工智能",
+      "link": "https://developer.nvidia.com/zh-cn/blog/seamlessly-scale-ai-across-cloud-environments-with-nvidia-dgx-cloud-serverless-inference/",
+      "date": "2025-03-18 10:07",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742263661.0,
+      "summary": "NVIDIA DGX Cloud Serverless Inference 是一种自动扩展 AI 推理解决方案 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
@@ -10559,36 +10689,6 @@
       "timestamp": 1742247909.0,
       "summary": "加利福尼亚州圣何塞 —GTC— 2025 年 3 月 18 日 —NVIDIA 今日宣布包括 Ansys、 A",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "优化 CUDA C++ 编译时间",
-      "link": "https://developer.nvidia.com/zh-cn/blog/optimizing-compile-times-for-cuda-c/",
-      "date": "2025-03-10 16:58",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741597114.0,
-      "summary": "在现代软件开发中，时间是非常宝贵的资源，尤其是在编译过程中。对于在大规模 GPU 加速应用程序上使用 CUDA &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA DriveOS LLM SDK 简化自动驾驶汽车应用的 LLM 部署",
-      "link": "https://developer.nvidia.com/zh-cn/blog/streamline-llm-deployment-for-autonomous-vehicle-applications-with-nvidia-driveos-llm-sdk/",
-      "date": "2025-03-10 14:57",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741589835.0,
-      "summary": "大语言模型 (LLMs) 在自然语言处理 (NLP) 中表现出非凡的泛化能力。它们广泛应用于翻译、数字助理、推 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA DGX 云上确保模型训练可靠性",
-      "link": "https://developer.nvidia.com/zh-cn/blog/ensuring-reliable-model-training-on-nvidia-dgx-cloud/",
-      "date": "2025-03-10 13:00",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1741582858.0,
-      "summary": "在大型 GPU 集群上训练 AI 模型给模型构建者带来了重大挑战。随着作业规模的增加，人工干预变得不切实际，因 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
