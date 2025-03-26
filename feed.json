@@ -10392,6 +10392,36 @@
       "category": "News"
     },
     {
+      "title": "使用 NVIDIA NeMo 微服务和数据飞轮实现 AI 智能体性能最大化",
+      "link": "https://developer.nvidia.com/zh-cn/blog/maximize-ai-agent-performance-with-data-flywheels-using-nvidia-nemo-microservices/",
+      "date": "2025-03-18 14:10",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742278207.0,
+      "summary": "随着 代理式 AI 系统 的发展并成为优化业务流程的关键，开发者必须定期更新这些系统，以适应不断变化的业务和用 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 和 QuEra 利用人工智能解码量子错误",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-and-quera-decode-quantum-errors-with-ai/",
+      "date": "2025-03-18 14:04",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742277891.0,
+      "summary": "量子位本身对噪声很敏感，预计即使是最可靠的量子位也始终会表现出比实际量子应用所需数量级的噪声水平。 此噪声问题 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA cuML 为 scikit-learn 带来零代码更改加速",
+      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/",
+      "date": "2025-03-18 13:59",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742277593.0,
+      "summary": "Scikit-learn 是应用最广泛的 ML 库，因其 API 简单、算法多样且与 pandas 和 Num &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "NVIDIA 推出开源物理 AI 数据集，助力机器人及自动驾驶汽车技术发展",
       "link": "https://blogs.nvidia.cn/blog/open-physical-ai-dataset/",
       "date": "2025-03-18 12:55",
@@ -10429,36 +10459,6 @@
       "timestamp": 1742268372.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 2025 年 3 月 18 日 —— 具有长期合作伙伴关系的 NV",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
-      "category": "News"
-    },
-    {
-      "title": "在 NVIDIA DGX 云上使用 NVIDIA NeMo Curator 处理 PB 级视频",
-      "link": "https://developer.nvidia.com/zh-cn/blog/petabyte-scale-video-processing-with-nvidia-nemo-curator-on-nvidia-dgx-cloud/",
-      "date": "2025-03-18 10:53",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742266385.0,
-      "summary": "随着 物理 AI 的兴起，视频内容生成呈指数级增长。一辆配备摄像头的自动驾驶汽车每天可生成超过 1 TB 的视 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "隆重推出 NVIDIA Isaac 医疗健康版：一款 AI 驱动的医疗机器人开发平台",
-      "link": "https://developer.nvidia.com/zh-cn/blog/introducing-nvidia-isaac-for-healthcare-an-ai-powered-medical-robotics-development-platform/",
-      "date": "2025-03-18 10:46",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742265970.0,
-      "summary": "医疗科技的未来是机器人，医院将实现完全自动化，AI 驱动的手术系统、机器人助手和自主患者护理将改变我们所知的医 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA DGX 云基准测试衡量和提高 AI 工作负载性能",
-      "link": "https://developer.nvidia.com/zh-cn/blog/measure-and-improve-ai-workload-performance-with-nvidia-dgx-cloud-benchmarking/",
-      "date": "2025-03-18 10:35",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742265356.0,
-      "summary": "随着 AI 功能的进步，了解硬件和软件基础架构选择对工作负载性能的影响对于技术验证和业务规划都至关重要。组织需 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
