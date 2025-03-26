@@ -2,6 +2,26 @@
   "update_time": "2025-03-26",
   "articles": [
     {
+      "title": "只是个喷嚏",
+      "link": "https://1q43.blog/post/11035/",
+      "date": "2025-03-26 15:16",
+      "author": "虹线",
+      "timestamp": 1742973371.0,
+      "summary": "科技当然以人为本。",
+      "source_url": "https://1q43.blog",
+      "category": "Blog"
+    },
+    {
+      "title": "在 Mac 上使用 SDRPlay RSP1",
+      "link": "https://zhangshuqiao.org/2025-03/%E5%9C%A8Mac%E4%B8%8A%E4%BD%BF%E7%94%A8SDRPlay%20RSP1/",
+      "date": "2025-03-26 10:29",
+      "author": "米米的博客",
+      "timestamp": 1742956183.0,
+      "summary": "SDRPlay RSP1 是一款性价比较高的 SDR 接收机，支持频率范围从 1kHz 到 2GHz，适用于无线电接收、频谱分析、信号侦查等应用场景。笔者最近购买了一台进行研究，虽然是国产的改进版本，但主要芯片型号与原版的 RSP1",
+      "source_url": "https://zhangshuqiao.org/",
+      "category": "Blog"
+    },
+    {
       "title": "那个转行做木工的程序员现在怎么样了？| ebd2 I no longer build software",
       "link": "https://1link.fun/rss/NM1tG26c5Yo",
       "date": "2025-03-26 09:45",
@@ -5102,16 +5122,6 @@
       "category": "Blog"
     },
     {
-      "title": "Coze收费后，普通人最应该学的AI低代码产品是这个",
-      "link": "https://1q43.blog/post/6060/",
-      "date": "2024-07-29 10:20",
-      "author": "虹线",
-      "timestamp": 1722219622.0,
-      "summary": "一起把 n8n 的中文社区炒热吧～",
-      "source_url": "https://1q43.blog",
-      "category": "Blog"
-    },
-    {
       "title": "HelloGitHub 第 100 期",
       "link": "https://hellogithub.com/periodical/volume/100",
       "date": "2024-07-26 08:04",
@@ -9192,16 +9202,6 @@
       "category": "Blog"
     },
     {
-      "title": "ArcGIS 结合 three.js 渲染 3D 场景",
-      "link": "https://zhangshuqiao.org/2021-06/ArcGIS%E7%BB%93%E5%90%88three.js%E6%B8%B2%E6%9F%933D%E5%9C%BA%E6%99%AF/",
-      "date": "2021-06-25 12:53",
-      "author": "米米的博客",
-      "timestamp": 1624596819.0,
-      "summary": "ArcGIS 提供了非常强大的 JavaScript API，允许用户方便地在浏览器中展现 3D 地形等场景。同时，ArcGIS 也提供了一个底层接口 <a",
-      "source_url": "https://zhangshuqiao.org/",
-      "category": "Blog"
-    },
-    {
       "title": "我给自己设立了每月 $20 的开源捐赠预算",
       "link": "https://lutaonan.com/blog/my-oss-donation-budget",
       "date": "2021-05-12 08:00",
@@ -9932,6 +9932,56 @@
       "category": "News"
     },
     {
+      "title": "借助 NVIDIA NIM 微服务，在 RTX AI PC 和工作站上开启您的 AI 之旅",
+      "link": "https://developer.nvidia.com/zh-cn/blog/kickstart-your-ai-journey-on-rtx-ai-pcs-and-workstations-with-nvidia-nim-microservices/",
+      "date": "2025-03-25 17:11",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742893913.0,
+      "summary": "随着数字人、智能体、播客、图像和视频生成等新兴用例的出现， 生成式 AI 正在改变我们与 PC 的交互方式。这 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 SES AI 的 NVIDIA 驱动的电动汽车创新技术，加速运输业的未来发展",
+      "link": "https://developer.nvidia.com/zh-cn/blog/accelerating-the-future-of-transportation-with-ses-ais-nvidia-powered-innovation-for-electric-vehicles/",
+      "date": "2025-03-25 17:04",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742893487.0,
+      "summary": "电动汽车 (EV) 正在改变交通运输方式，但成本、使用寿命和续航里程等挑战仍然是广泛采用电动汽车的障碍。这些挑 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "聚焦：AXA 借助 NVIDIA Earth-2 探索 AI 驱动的飓风风险评估",
+      "link": "https://developer.nvidia.com/zh-cn/blog/spotlight-axa-explores-ai-driven-hurricane-risk-assessment-with-nvidia-earth-2/",
+      "date": "2025-03-25 16:54",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742892856.0,
+      "summary": "大型集成对于预测仅通过历史数据无法完全理解的罕见、高影响事件至关重要。通过模拟数千个潜在场景，它们提供了必要的 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA Mission Control 实现 AI 工厂自动化",
+      "link": "https://developer.nvidia.com/zh-cn/blog/automating-ai-factory-operations-with-nvidia-mission-control/",
+      "date": "2025-03-25 16:51",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742892664.0,
+      "summary": "DeepSeek-R1 等先进的 AI 模型证明，企业现在可以构建专用于自己的数据和专业知识的尖端 AI 模型 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
+      "title": "利用 NVIDIA Earth-2 提升洪水风险评估能力",
+      "link": "https://developer.nvidia.com/zh-cn/blog/powering-flood-risk-assessment-with-nvidia-earth-2/",
+      "date": "2025-03-25 16:45",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742892300.0,
+      "summary": "陆地洪水每年都会造成重大的经济和社会影响。在 2024 年给保险业造成超过 10 亿美元损失的八场自然灾害中， &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "非洲逮捕306名涉嫌电信诈骗和黑客的犯罪团伙 部分可能是东南亚转移过去的",
       "link": "https://www.landiannews.com/archives/108522.html",
       "date": "2025-03-25 15:16",
@@ -10072,6 +10122,16 @@
       "category": "News"
     },
     {
+      "title": "集成 Flower和 NVIDIA FLARE，加速联邦学习生态系统发展",
+      "link": "https://developer.nvidia.com/zh-cn/blog/supercharging-the-federated-learning-ecosystem-by-integrating-flower-and-nvidia-flare/",
+      "date": "2025-03-24 17:19",
+      "author": "NVIDIA 技术博客",
+      "timestamp": 1742807961.0,
+      "summary": "近年来， Flower 和 NVIDIA FLARE 等开源系统已成为联邦学习 (FL) 领域的关键工具，每个 &#8230; Continued",
+      "source_url": "https://developer.nvidia.com/zh-cn/blog",
+      "category": "News"
+    },
+    {
       "title": "借助 NVIDIA Parabricks 和 NVIDIA AI Blueprints，将基因组学和单细胞分析时间缩短至几分钟",
       "link": "https://developer.nvidia.com/zh-cn/blog/shrink-genomics-and-single-cell-analysis-time-to-minutes-with-nvidia-parabricks-and-nvidia-blueprints/",
       "date": "2025-03-21 17:13",
@@ -10162,42 +10222,32 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA Earth-2 为阿联酋的区域 AI 天气预报提供支持",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-earth-2-powers-regional-ai-weather-forecasting-in-the-united-arab-emirates/",
-      "date": "2025-03-19 16:39",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742373551.0,
-      "summary": "在阿联酋 (UAE) ，极端天气事件破坏日常生活、延误航班、危及交通并使城市规划复杂化。白天的高温限制了人类在 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "AI 推理时代的 NVIDIA Blackwell Ultra",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-blackwell-ultra-for-the-era-of-ai-reasoning/",
-      "date": "2025-03-19 16:34",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742373298.0,
-      "summary": "多年来，AI 的进步一直通过预训练扩展遵循清晰的轨迹：更大的模型、更多的数据和更丰富的计算资源带来了突破性的功 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 虚拟 GPU 18.0 可在每个虚拟化平台上实现适用于 AI 的 VDI",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-virtual-gpu-v18-0-enables-vdi-for-ai-on-every-virtualized-platform/",
-      "date": "2025-03-19 16:25",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742372718.0,
-      "summary": "NVIDIA 虚拟 GPU (vGPU) 技术可在虚拟桌面基础架构 (VDI) 中解锁 AI 功能，使其比以往 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
       "title": "影响深远的创新：NVIDIA Research 如何推动 AI、图形及其他领域的革命性工作",
       "link": "https://blogs.nvidia.cn/blog/nvidia-research-ai-graphics/",
       "date": "2025-03-19 11:51",
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742356288.0,
       "summary": "NVIDIA 众多具有里程碑意义的创新（驱动 AI、加速计算、实时光线追踪以及无缝连接数据中心提供支持的基础性",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
+      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
+      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10248,26 +10298,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
-      "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "电信行业正加速采用 AI 技术，以实现即使在信号强度不佳的条件下也能够提供无缝连接，同时最大化可持续性与频谱效",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "适用于 NVIDIA Blackwell 架构的全新软件驱动 AI 工厂高速运行",
-      "link": "https://blogs.nvidia.cn/blog/mission-control-software/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
@@ -10389,36 +10419,6 @@
       "timestamp": 1742279802.0,
       "summary": "全球企业每分每秒钟都在进行关键决策。物流公司决定货运卡车的调度方案，零售企业思考货架的最优配置，航空公司在暴风",
       "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "使用 NVIDIA NeMo 微服务和数据飞轮实现 AI 智能体性能最大化",
-      "link": "https://developer.nvidia.com/zh-cn/blog/maximize-ai-agent-performance-with-data-flywheels-using-nvidia-nemo-microservices/",
-      "date": "2025-03-18 14:10",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742278207.0,
-      "summary": "随着 代理式 AI 系统 的发展并成为优化业务流程的关键，开发者必须定期更新这些系统，以适应不断变化的业务和用 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 和 QuEra 利用人工智能解码量子错误",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-and-quera-decode-quantum-errors-with-ai/",
-      "date": "2025-03-18 14:04",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742277891.0,
-      "summary": "量子位本身对噪声很敏感，预计即使是最可靠的量子位也始终会表现出比实际量子应用所需数量级的噪声水平。 此噪声问题 &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA cuML 为 scikit-learn 带来零代码更改加速",
-      "link": "https://developer.nvidia.com/zh-cn/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/",
-      "date": "2025-03-18 13:59",
-      "author": "NVIDIA 技术博客",
-      "timestamp": 1742277593.0,
-      "summary": "Scikit-learn 是应用最广泛的 ML 库，因其 API 简单、算法多样且与 pandas 和 Num &#8230; Continued",
-      "source_url": "https://developer.nvidia.com/zh-cn/blog",
       "category": "News"
     },
     {
