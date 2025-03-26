@@ -647,7 +647,7 @@
       "date": "2025-03-03 20:40",
       "author": "面条实验室",
       "timestamp": 1741005637.0,
-      "summary": "用播客的方式听 Hacker News将每日 Hacker News 热门内容转换为中文播客，让你随时随地收听科技资讯在线预览RSS 订阅GitHub 项目项目背景Hacker News 是我一直关注的重要资讯来源，它能持续提供新奇有趣的极客资讯。之前我每天都会花半小时左右的时间来浏览。过年期间，我...",
+      "summary": "利用AI和Cloudflare将Hacker News热门内容转换为中文播客，支持RSS订阅，方便随时随地收听科技资讯",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -2417,7 +2417,7 @@
       "date": "2024-12-31 22:50",
       "author": "面条实验室",
       "timestamp": 1735656648.0,
-      "summary": "RSS.Beauty让 RSS 订阅源焕发新生的现代工具立即体验GitHub 仓库拖了快半年的工具终于做完了。RSS.Beauty 是一个基于 XSLT 技术的 RSS 美化工具，可以将普通的 RSS/Atom 订阅源转换成美观的阅读界面。让信息流变得更加优雅，阅读体验更加舒适。技术栈AstroTa...",
+      "summary": "基于XSLT技术的RSS美化工具，将普通RSS/Atom订阅源转换为美观易读的响应式界面，提升阅读体验",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -2717,7 +2717,7 @@
       "date": "2024-12-21 17:57",
       "author": "面条实验室",
       "timestamp": 1734775054.0,
-      "summary": "最近，微软开源了一个名为 MarkItDown 的程序，可以将 Office 文件转换为 Markdown 格式。这个项目一经发布就迅速登上了 GitHub 热门榜。\n然而，由于 MarkItDown 是一个 Python 程序，对于非技术用户来说使用起来可能有些困难。为了解决这个问题，我想到了利用...",
+      "summary": "利用WebAssembly和Pyodide技术在浏览器中运行Python程序，以Microsoft的MarkItDown工具为例，实现无需安装即可将Office文件转换为Markdown的在线服务。",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -2727,7 +2727,7 @@
       "date": "2024-12-21 16:17",
       "author": "面条实验室",
       "timestamp": 1734769060.0,
-      "summary": "Cloudflare Workers 搭建 Docker 镜像个人使用请求数小没啥问题。但是如果公开使用，大量的请求数还是会产生费用。\n其实 Cloudflare 还有一个更轻量的 JS Runtime: Cloudflare Snippets, 但是也有更严格的限制：CPU 执行时间 5 ms，最...",
+      "summary": "利用Cloudflare Snippets搭建高效无限流量的Docker镜像加速服务，支持多种容器注册表，包括Docker Hub和GitHub Container Registry",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -2797,7 +2797,7 @@
       "date": "2024-12-18 21:06",
       "author": "面条实验室",
       "timestamp": 1734527174.0,
-      "summary": "Pyodide 是一个在 WebAssembly 中运行 Python 的工具库，使用 Micropip 通过 PyPI 来安装包。由于 WebAssembly 在浏览器内运行需要跨域和 PEP 691，但是清华的 tuna 又不支持 CORS 跨域。\nPyPI 在中国大陆是无法正常访问的，但是有许...",
+      "summary": "基于Cloudflare Workers/Snippets搭建支持PEP 691和CORS的Python包镜像，解决WebAssembly环境中Micropip安装包的问题",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -4747,7 +4747,7 @@
       "date": "2024-08-31 13:14",
       "author": "面条实验室",
       "timestamp": 1725081240.0,
-      "summary": "最近准备把部署在 Cloudflare, Vercel, Netlify 上的项目迁移到自己的 VPS 通过 Docker 运行，就复习了一下 Docker 镜像打包。 但是一个很小的项目打包出来就是 1.05GB， 这显然是不能接受的。所以研究了一下 Node.JS 项目 Docker 镜像最小化...",
+      "summary": "详解如何将Vite SSR项目的Docker镜像从1GB优化到135MB的完整过程，使用多阶段构建和依赖内联技术",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -4967,7 +4967,7 @@
       "date": "2024-08-11 17:18",
       "author": "面条实验室",
       "timestamp": 1723367892.0,
-      "summary": "BroadcastChannel将你的 Telegram Channel 转为微博客一个零JS的微博客解决方案，让你的Telegram Channel内容优雅地展示在网页上之前一直在 X 分享一些有趣的工具，而且也会同步到 Telegram Channel 上。看到 Austin 说准备建立一个网站...",
+      "summary": "一个零JS的微博客生成工具，将Telegram频道内容优雅展示在网页上，使用多种现代CSS技术实现交互功能",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -5127,7 +5127,7 @@
       "date": "2024-07-29 21:39",
       "author": "面条实验室",
       "timestamp": 1722260395.0,
-      "summary": "最近在准备给家用网络升级 2.5G， 在咸鱼收了一台阿里云 AP8220 来折腾。 但是这个机器的刷机资料太少了。折腾了2天才成功刷机。所以写一篇文档记录一下。\n提醒\n非必要，不刷机。\n刷机有风险，请做好刷砖准备。\n任何刷机问题与我无关，我只分享我的刷机过程。\n准备工作\n\n阿里云 AP8220 机器...",
+      "summary": "详细介绍阿里云AP8220路由器刷入OpenWrt的步骤，包括进入Uboot、刷入大分区及固件的完整过程",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -5307,7 +5307,7 @@
       "date": "2024-07-07 22:48",
       "author": "面条实验室",
       "timestamp": 1720363733.0,
-      "summary": "之前做 L(O*62).ONG 的第一版时，使用的服务端跳转，上线第二天就被 Google 警告了安全风险，只能改成本地跳转提醒后跳转再去申诉。\n\n对于这种场景最好的做法是使用 Google Safe Browsing 来做跳转，但是 Safe Browsing 有使用限制，每天只能调用 10000...",
+      "summary": "利用Cloudflare Zero Trust Gateway和DoH服务构建的网址安全检查工具，支持自定义黑白名单、多种风险分类过滤，替代Google Safe Browsing的限制",
       "source_url": "https://miantiao.me/",
       "category": "Blog"
     },
@@ -10232,26 +10232,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
@@ -10305,10 +10285,20 @@
       "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
       "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
       "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -10318,6 +10308,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
