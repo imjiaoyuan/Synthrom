@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-03-27",
+  "update_time": "2025-03-28",
   "articles": [
     {
       "title": "掌控习惯",
@@ -129,6 +129,16 @@
       "timestamp": 1742832000.0,
       "summary": "用官方的方式做非官方的事！",
       "source_url": "https://mabbs.github.io/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 060 MCP 可能是通用人工智能的最后一公里",
+      "link": "https://ameow.xyz/archives/weekly-060",
+      "date": "2025-03-24 23:48",
+      "author": "阿猫的博客",
+      "timestamp": 1742831308.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 61 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n午后的香港街头，阳光打在彩色的维他饮料...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -482,6 +492,16 @@
       "category": "Blog"
     },
     {
+      "title": "使用 Cursor 进行 Code Review（简易版）",
+      "link": "https://ameow.xyz/archives/simple-code-review-with-cursor",
+      "date": "2025-03-10 23:21",
+      "author": "阿猫的博客",
+      "timestamp": 1741620105.0,
+      "summary": "前言\n周刊介绍了未来已来？-- 基于 cursor 的 ai code review这篇文章，马上仿照文章的方式给项目配了一个 mdc（之前的 .cursorrule），效果还不错，快马加鞭分享一下。\n配置\n首先是按 Cmd + Shift + P 呼出命令面板，输入 rule ，选择 File: ...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "诗心剑胆：陆游的烽火人生",
       "link": "https://wangyurui.com/posts/lu-you-de-ren-sheng-2ad7617f",
       "date": "2025-03-10 23:10",
@@ -489,6 +509,16 @@
       "timestamp": 1741619416.0,
       "summary": "朔风卷起檐角残雪，案头烛火在铜雀灯台间摇曳出斑驳暗影。八十五载光阴如枯叶簌簌坠落，陆游倚在越州老宅的病榻上，分明听见汴梁城的铁马踏碎了江南残梦。浑浊的瞳孔里，靖康之变的烽烟仍在燃烧，沈园的桃花飘落成血色，南郑的角弓犹在铮鸣。他颤抖着推开侍儿递来的汤药，枯枝般的手指攥紧狼毫——这支笔写过《平戎策》的锋...",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 059 可拷的代码",
+      "link": "https://ameow.xyz/archives/weekly-059",
+      "date": "2025-03-09 19:05",
+      "author": "阿猫的博客",
+      "timestamp": 1741518313.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 60 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n文章\n程序员在公司生产环境放置破坏程序，...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -669,6 +699,16 @@
       "timestamp": 1740931200.0,
       "summary": "Weekly#27",
       "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义",
+      "link": "https://ameow.xyz/archives/weekly-058",
+      "date": "2025-03-02 23:25",
+      "author": "阿猫的博客",
+      "timestamp": 1740929129.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 59 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n尖岗山上的落日，城市高楼、主干道、夕阳...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -932,6 +972,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 057 什么是推理语言大模型？",
+      "link": "https://ameow.xyz/archives/weekly-057",
+      "date": "2025-02-23 23:16",
+      "author": "阿猫的博客",
+      "timestamp": 1740323808.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 58 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n文章\n认识推理语言大模型 —— 构建和优...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "哈尔滨｜松花江畔的冰雪叙事与铁轨之上的冰城记忆",
       "link": "https://blog.ops-coffee.cn/r/city-china-heilongjiang-haerbin.html",
       "date": "2025-02-23 23:09",
@@ -1102,6 +1152,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？",
+      "link": "https://ameow.xyz/archives/weekly-056",
+      "date": "2025-02-16 22:24",
+      "author": "阿猫的博客",
+      "timestamp": 1739715864.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 57 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n摄于江西武功山。也是春节假期期间去的，...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "2024年度最憋屈的漏洞披露",
       "link": "https://www.darknavy.org/zh/darknavy_insight/the_most_frustrating_vulnerability_disclosure_of_2024/",
       "date": "2025-02-16 17:58",
@@ -1169,6 +1229,16 @@
       "timestamp": 1739641694.0,
       "summary": "漂浮游弋的生命体，离经叛道的异教徒，散漫无边的闲云野鹤，钢铁熔炉的炽热晶核。噬美贼，饕餮兽，世界一角有你撕咬的 [&#8230;]",
       "source_url": "https://imzm.im",
+      "category": "Blog"
+    },
+    {
+      "title": "2025.02.01 武功山游记",
+      "link": "https://ameow.xyz/archives/2025-02-01-wugong-mountain",
+      "date": "2025-02-16 01:37",
+      "author": "阿猫的博客",
+      "timestamp": 1739641050.0,
+      "summary": "装备清单\n\n 衣物 \n  \n   背包 Liigear 章鱼老师 2\n   冲锋衣 赫利肯火枪手软壳\n   抓绒衣 猫虎兽抓绒卫衣\n   速干衣/速干裤 迪卡侬 BL500\n   冲锋裤 迪卡侬 MH500\n   徒步鞋 迪卡侬 MH500\n   袜子 迪卡侬运动袜\n   帽子 猫虎兽美利奴帽子\n ...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -1329,6 +1399,16 @@
       "timestamp": 1739119380.0,
       "summary": "搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...",
       "source_url": "https://www.skyue.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 055 城市旅游就是打卡吗？",
+      "link": "https://ameow.xyz/archives/weekly-055",
+      "date": "2025-02-09 19:32",
+      "author": "阿猫的博客",
+      "timestamp": 1739100746.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 56 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n摄于湖南长沙东风路文创园。这里原本是长...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -1842,6 +1922,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 054 Connecting The Dots",
+      "link": "https://ameow.xyz/archives/weekly-054",
+      "date": "2025-01-19 16:50",
+      "author": "阿猫的博客",
+      "timestamp": 1737276636.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 55 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n春节临近，接下来两周不一定会更新，在这里...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "Shape Up 阅读笔记（7）- 还有些重要的细枝末节",
       "link": "https://xiaowenz.com/blog/2025/01/shape-up-methodology-7/",
       "date": "2025-01-19 06:00",
@@ -2079,6 +2169,16 @@
       "timestamp": 1736697600.0,
       "summary": "Weekly#22",
       "source_url": "https://taxodium.ink",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 053 2025 新年快乐！",
+      "link": "https://ameow.xyz/archives/weekly-053",
+      "date": "2025-01-12 19:35",
+      "author": "阿猫的博客",
+      "timestamp": 1736681706.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 54 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n本期是猫鱼周刊在 2025 年的第一期，...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -2422,6 +2522,16 @@
       "category": "Blog"
     },
     {
+      "title": "2024 年度总结",
+      "link": "https://ameow.xyz/archives/2024-wrapup",
+      "date": "2024-12-30 02:39",
+      "author": "阿猫的博客",
+      "timestamp": 1735497572.0,
+      "summary": "去年差不多时候也做了一份年终总结，去年我对自己还是相对满意的，在开源、写作方面都做得不错。今年感觉有更多的成果可以总结出来，而且比去年要做得更好。其实有些提升非常不知不觉，趁着年度总结的机会，仔细盘点一把。\n去年我把总结分成了技术和生活两大块，今年则是会从技术、写作、运动、文娱这几块去总结。\n技术\n...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "隐说 No.3  儿时的梦想",
       "link": "https://wangyurui.com/posts/yin-shuo-no-3-er-shi-de-meng-xiang-5c915627",
       "date": "2024-12-29 12:09",
@@ -2572,6 +2682,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 052 OpenAI 也翻车，基础设施暴雷",
+      "link": "https://ameow.xyz/archives/weekly-052",
+      "date": "2024-12-22 20:08",
+      "author": "阿猫的博客",
+      "timestamp": 1734869330.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 53 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n文章\nOpenAI 事故报告\n原文链接\n...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "隐说 No.2  教育与洗脑",
       "link": "https://wangyurui.com/posts/yin-shuo-no-2-shan-zong-shi-niu-5ac883bd",
       "date": "2024-12-22 19:07",
@@ -2692,6 +2812,16 @@
       "category": "Blog"
     },
     {
+      "title": "Heltec T114 （带GPS）便携 Meshtastic 节点方案",
+      "link": "https://ameow.xyz/archives/meshtastic-heltec-t114",
+      "date": "2024-12-18 15:08",
+      "author": "阿猫的博客",
+      "timestamp": 1734505735.0,
+      "summary": "概要\n基于 nRF52840 的方案，使得开发板本身功耗非常低，搭配 2200mAh 的电池，开 GPS 的情况下，续航可达一周，适合随身携带使用。整体成本在 ¥300 左右。\nBOM\n\n \n  \n   类型\n   项目\n   参考价格\n   备注\n   购买链接\n  \n \n \n  \n   开发板\n...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "读《吸引力法则：如何利用心理暗示实现愿望》的记录与思考",
       "link": "https://polebug.github.io/2024/12/18/law_of_attraction/",
       "date": "2024-12-18 08:51",
@@ -2709,6 +2839,16 @@
       "timestamp": 1734443597.0,
       "summary": "你对于那个问题不能解决吗？那末，你就去调查那个问题的现状和它的历史吧！你完完全全调查明白了，你对那个问题就有解决的办法了",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 051 祛魅 AI",
+      "link": "https://ameow.xyz/archives/weekly-051",
+      "date": "2024-12-15 19:18",
+      "author": "阿猫的博客",
+      "timestamp": 1734261527.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 52 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n周刊马上迎来一周年，预告一篇特刊，会分享...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -2899,6 +3039,16 @@
       "timestamp": 1733666000.0,
       "summary": "对于趋势判断不准是不行的，判断准确但是不做好准备工作也是不行的。",
       "source_url": "https://wangyurui.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 050 什么是好的面试问题？",
+      "link": "https://ameow.xyz/archives/weekly-050",
+      "date": "2024-12-08 17:31",
+      "author": "阿猫的博客",
+      "timestamp": 1733650317.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 51 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n上周因为工作日工作太多，周末实在太累，不勉强自己...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -3152,6 +3302,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 049 养生营销号",
+      "link": "https://ameow.xyz/archives/weekly-049",
+      "date": "2024-11-24 18:22",
+      "author": "阿猫的博客",
+      "timestamp": 1732443750.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 50 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n304 位年轻人，给「奶奶」建了个假营养号...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "碎碎念 |  生活与人生",
       "link": "https://wangyurui.com/posts/sui-sui-nian-bbc88676",
       "date": "2024-11-24 14:40",
@@ -3272,6 +3432,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 048 世界是个巨大的草台班子",
+      "link": "https://ameow.xyz/archives/weekly-048",
+      "date": "2024-11-17 17:45",
+      "author": "阿猫的博客",
+      "timestamp": 1731836736.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 49 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n幽灵文字\n原文链接\n幽灵文字指的是日文字符...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "好评喵：轻松生成商品/服务评价",
       "link": "https://idealclover.top/archives/641/",
       "date": "2024-11-17 15:17",
@@ -3382,6 +3552,16 @@
       "category": "Blog"
     },
     {
+      "title": "猫鱼周刊 vol. 047 控烟条例",
+      "link": "https://ameow.xyz/archives/weekly-047",
+      "date": "2024-11-10 23:58",
+      "author": "阿猫的博客",
+      "timestamp": 1731254328.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 48 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n控烟条例\n原文链接\n起因是看到 v2ex ...",
+      "source_url": "https://ameow.xyz",
+      "category": "Blog"
+    },
+    {
       "title": "1002",
       "link": "https://cyp0633.icu/timeline/2024/11/1002/",
       "date": "2024-11-10 21:20",
@@ -3439,6 +3619,16 @@
       "timestamp": 1731148200.0,
       "summary": "// ⚠️ 前有悲伤警告 | 幼稚文风碎碎念警告 | 不知所云警告 | 主观含量高警告 | 本文禁止转载// ⚠️ 总之，酌情观看对于我这么一个恨不得三年总结放在一起发的拖更大鸽来说，发一个季度...",
       "source_url": "https://idealclover.top/",
+      "category": "Blog"
+    },
+    {
+      "title": "排查 Linux 空间占用",
+      "link": "https://ameow.xyz/archives/linux-storage-usage-troubleshoot",
+      "date": "2024-11-09 15:57",
+      "author": "阿猫的博客",
+      "timestamp": 1731139040.0,
+      "summary": "在维护自己的服务器的时候经常会出现空间不足的情况，总结了一些经验和命令以备后续速查。\n文件系统\n先看一下系统总体的磁盘占用，确定一下系统上有几块盘，是哪块满了。\ndf -h\n\n粗筛，看看根目录下哪个文件夹的占用比较大。\ndu -h --max-depth=1\n\n找出当前目录下最大的 10 个文件\nd...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -3609,6 +3799,16 @@
       "timestamp": 1730657622.0,
       "summary": "每个爱读书的人都有几千本书在等着。\nThe post 博客作者采访问卷 from Dayu appeared first on To the Lighthouse.",
       "source_url": "https://owlswims.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "猫鱼周刊 vol. 046 身份数据保护",
+      "link": "https://ameow.xyz/archives/weekly-046",
+      "date": "2024-11-04 01:25",
+      "author": "阿猫的博客",
+      "timestamp": 1730654705.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 47 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@pm.me\n\n文章\n新加坡政府身份认证体系调研\n原文链接\n\n ...",
+      "source_url": "https://ameow.xyz",
       "category": "Blog"
     },
     {
@@ -6012,16 +6212,6 @@
       "category": "Blog"
     },
     {
-      "title": "一个六岁开源项目的崩溃与新生",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
-      "date": "2024-03-11 03:29",
-      "author": "Hi, DIYgod",
-      "timestamp": 1710098945.0,
-      "summary": "我有一个维护了六年的开源项目—— RSSHub，它正在面临崩溃\n\n表面上，它有接近 30k Stars、900 多 Contributors、每月 3 亿多次请求和数不清的用户、每月几十刀的赞助、有源源不断的 issue 和 pr、代码几乎每天更新，非常健康和充满活力",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "2024 香港银行开户指北",
       "link": "https://kowyo.com/post/my-first-master-card/",
       "date": "2024-03-10 22:07",
@@ -6272,16 +6462,6 @@
       "category": "Blog"
     },
     {
-      "title": "和帕鲁生活在一起的两周",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
-      "date": "2024-02-19 03:20",
-      "author": "Hi, DIYgod",
-      "timestamp": 1708284033.0,
-      "summary": "哪个小男孩没幻想过生活在这样一个充满宝可梦伙伴的世界，它们能听懂且愿意倾听我们说话，有着不同的特点和强大的技能，而且都很可爱，我们可以跟它们睡觉吃饭、并肩作战探索世界，永远不再孤独，不管是谁都可以找到最适合自己的宝可梦",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "A collection of some useful websites",
       "link": "https://www.mengke.me/blog/202402/LearningWebsites",
       "date": "2024-02-18 08:00",
@@ -6482,16 +6662,6 @@
       "category": "Blog"
     },
     {
-      "title": "Twitter 对开源项目发起 DDoS 攻击",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
-      "date": "2024-01-28 18:24",
-      "author": "Hi, DIYgod",
-      "timestamp": 1706437493.0,
-      "summary": "背景 Twitter 被马斯克收购后，从去年 8 月开始，他们对开源第三方集成和第三方客户端进行了一系列明里暗里的打压和攻击，这样做是为了阻止用户通过非官方客户端访问和使用 Twitter，来增加公司的广告和会员营收\n\n而开源社区中以 Nitter 和 RSSHub…",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "也来谈谈这次的 Bulma + UnoCSS 界面重写",
       "link": "https://blog.gxres.net/posts/talk-about-rebuild-with-bulma-and-unocss",
       "date": "2024-01-28 08:00",
@@ -6559,16 +6729,6 @@
       "timestamp": 1705674947.0,
       "summary": "记录时间：12.22 – 1.18\n太阳经过星座：人马座｜Sagittarius\n最亮恒星：箕宿三 Kaus Australis\n本月事件\n\n圣诞节假期去朋友家住了几天。她们家两个大人带两个小孩确实辛苦。我问朋友为什么决定生第二个，她说很向往那种大家庭的氛围，确实人与人之前的追求不同。甘蔗没有两头甜...",
       "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "如何优雅编译一个 Markdown 文档",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
-      "date": "2024-01-18 20:50",
-      "author": "Hi, DIYgod",
-      "timestamp": 1705582237.0,
-      "summary": "Markdown 是一种广泛使用的轻量级标记语言，允许人们使用易读易写的纯文本格式编写文档，也是 xLog 主要使用的文章格式，本文就以 xLog Flavored Markdown 为例来说明如何优雅地解析一个 Markdown 文档",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -6659,16 +6819,6 @@
       "timestamp": 1704803673.0,
       "summary": "算不上卡粉，也不想能开尽开，只是希望能够有个真的能够用得上的境外账户。而作为学生，本次记录应该也可作为零开参考。",
       "source_url": "https://blog.ichr.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "2023 平稳过渡",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
-      "date": "2024-01-08 22:23",
-      "author": "Hi, DIYgod",
-      "timestamp": 1704723798.0,
-      "summary": "发小觉得今年经历了巨大的变化，从苏格兰搬到新加坡，从未婚到已婚，从一家两口变成了一家三口，但我觉得都在预料之中，所以感觉还算很平稳",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -6869,16 +7019,6 @@
       "timestamp": 1702824003.0,
       "summary": "“博客教”信徒们大家好，欢迎收看“一博真相”，我是主播不加盐。 众所周知，由于“博客教”形式宗和质料宗的信徒对教义的理解存在较大的分歧，经常出现两宗派信徒互掐的现象，甚至扬言要让对方滚出“博客教”。但...",
       "source_url": "https://www.ntiy.com",
-      "category": "Blog"
-    },
-    {
-      "title": "轻松创建一万个 Twitter 账号",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2292",
-      "date": "2023-12-15 18:14",
-      "author": "Hi, DIYgod",
-      "timestamp": 1702635286.0,
-      "summary": "Twitter 在 8 月决定了全面限制公开访问和 API 接口，导致第三方集成均无法再正常工作。开放用户数据被绑架成私人敛财工具，曾经的 Open Web 标杆 Twitter 竟沦落到这种境地，数字奴隶制在最不应该的地方出现，令人唏嘘",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -7512,16 +7652,6 @@
       "category": "Blog"
     },
     {
-      "title": "优雅使用 Cloudflare WARP 应对  RSSHub 反爬难题",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2022",
-      "date": "2023-08-18 06:01",
-      "author": "Hi, DIYgod",
-      "timestamp": 1692309711.0,
-      "summary": "🕊️ 本文送给更开放的互联网 起因是看到 @geekbb 介绍 Warp 的推文。尽管 Warp 已经发布了很长时间，就保护 IP 隐私而言，它并没有 iCloud Private Relay 好用，我也没有魔法上网的需求。但是我突然意识到，我还是有隐藏 IP 的需求。\n\n在开…",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "月刊（第22期）：当下的快乐",
       "link": "https://blog.ursb.me/posts/weekly-22/",
       "date": "2023-08-13 15:55",
@@ -7529,16 +7659,6 @@
       "timestamp": 1691913336.0,
       "summary": "本篇是对二〇二三年五月至八月生活的记录与思考。\n最近周末比较忙导致断更了，感谢催更同学的关注：\n💐 当下的快乐\n本文标题来源于莪默·伽亚谟《鲁拜集》——“享受当下的快乐，因为这一刻正是你的人生。”\n\nPS. 我一直把月刊中的文章定位为“自我对话”，只有对话结果满意的文章我才会拿出来修整一番重新在博客...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "在博客融入一个跨平台作品集",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1957",
-      "date": "2023-08-08 06:34",
-      "author": "Hi, DIYgod",
-      "timestamp": 1691447658.0,
-      "summary": "长久以来# 我一直将个人博客视为一个理想的展示个人 IP 的 “个人网站”，而不仅仅是发布文章的平台。我曾在 2014 年初学编程时使用 WordPress 建站 《世界，你好！》；入了前端坑后，在 2017 年我转向了 Hexo 《做了一点微小的改动》；Web3 飞升后…",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -7609,16 +7729,6 @@
       "timestamp": 1689582747.0,
       "summary": "期待已久的碟中谍7终于上映，按照顶配 IMAX 观影。时长163分钟是系列最长，观影结束后最大的问题也出现在这 [&#8230;]",
       "source_url": "https://imzm.im",
-      "category": "Blog"
-    },
-    {
-      "title": "对 Newsletter 说不",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1825",
-      "date": "2023-07-13 02:31",
-      "author": "Hi, DIYgod",
-      "timestamp": 1689186673.0,
-      "summary": "衰退无处不在，这是很正常的现象。人们自然而然地更倾向于短平快的消费方式。然而，我一直无法忍受的一种奇怪趋势是，在一些地方，人们将 RSS 抛弃，转而使用 Newsletter。 本质上，电子邮件是一种私密的双向通信机制，而 RSS 是一种开放的单向通信机制…",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -7822,16 +7932,6 @@
       "category": "Blog"
     },
     {
-      "title": "4 月新番太好看了！吹爆！",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=1614",
-      "date": "2023-05-25 07:32",
-      "author": "Hi, DIYgod",
-      "timestamp": 1684971149.0,
-      "summary": "今年从 1 月就一直没什么好看的作品，到了 4 月突然爆发，让我非常激动。现在播出过半了，是时候好好说说感受了 以下当然不能囊括 4 月所有的好作品，因为实在太多了，只是说一说符合我口味的几部，按我个人的喜爱程度来排序\n\n以下会包含大量剧透，还没看的小伙伴请酌情观看\n\n鬼灭之刃刀匠…",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "MacOS 窗口管理器 yabai 玩耍笔记",
       "link": "https://thiscute.world/posts/macos-window-manager-yabai-usage/?utm_source=atom_feed",
       "date": "2023-05-22 12:24",
@@ -7932,16 +8032,6 @@
       "category": "Blog"
     },
     {
-      "title": "我得了软件更新强迫症",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=914",
-      "date": "2023-04-09 07:00",
-      "author": "Hi, DIYgod",
-      "timestamp": 1680994800.0,
-      "summary": "我必须让身边所有软件都保持最新版本，就像走路不能踩到地砖缝缝一样，没有意义，但也危害不大，所以我放任它发展",
-      "source_url": "https://diygod.cc",
-      "category": "Blog"
-    },
-    {
       "title": "在 M1 Mac 上安装 ARM 架构 Windows 虚拟机",
       "link": "https://zhangshuqiao.org/2023-04/%E5%9C%A8M1%20Mac%E4%B8%8A%E5%AE%89%E8%A3%85ARM%E6%9E%B6%E6%9E%84Windows%E8%99%9A%E6%8B%9F%E6%9C%BA/",
       "date": "2023-04-03 21:34",
@@ -7959,16 +8049,6 @@
       "timestamp": 1680443630.0,
       "summary": "本篇是对二〇二三年三月生活的记录与思考。\n🎬 本月书影音\n\n在读：小说 |《德米安》 | ★★★★★\n在读：小说 |《少年巴比伦》| ★★★★★\n在读：文学 |《西方文学史》| ★★★★☆\n看完：日剧 |《重启人生》| ★★★★★★\n看完：韩剧 |《黑暗荣耀》 | ★★★★★\n看完：美剧 |《最后生...",
       "source_url": "https://blog.ursb.me/",
-      "category": "Blog"
-    },
-    {
-      "title": "令我痛心的三部反乌托邦动漫",
-      "link": "https://xlog.app/api/redirection?characterId=10&noteId=764",
-      "date": "2023-04-02 12:50",
-      "author": "Hi, DIYgod",
-      "timestamp": 1680411000.0,
-      "summary": "四月对我而言是一个充满悲伤的月份。尽管《四月是你的谎言》已经过去了很多年，但每当看到「四月」这两个字，仍会立刻触发我的 PTSD，再加上今天我刚读完一本反乌托邦题材的小说《来自新世界》。多种思绪糅杂在一起，让我不禁回想起了那些令我痛心的「重量级」反乌托邦动漫",
-      "source_url": "https://diygod.cc",
       "category": "Blog"
     },
     {
@@ -9912,6 +9992,36 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -9948,36 +10058,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
