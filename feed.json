@@ -4632,16 +4632,6 @@
       "category": "Blog"
     },
     {
-      "title": "记录一次 Apple Vision Pro 体验",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=12",
-      "date": "2024-09-09 02:42",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1725820950.0,
-      "summary": "本文图片均由小米 14 Ultra 直出。 前言\n\nApple Vision Pro，\n 作为 WWDC23 的 One More Thing，一经推出便万众瞩目，\n 今年 6 月份，随着国行的推出，国内的预约体验正式开放，\n 我对这台设备有着浓厚兴趣，恰好最近有空，遂前往本地的…",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
       "title": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "link": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "date": "2024-09-08 16:00",
@@ -4919,16 +4909,6 @@
       "timestamp": 1723731300.0,
       "summary": "彻底重塑城市和生活方式",
       "source_url": "https://darmau.co/zh",
-      "category": "Blog"
-    },
-    {
-      "title": "随便聊聊最近买的物件",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=9",
-      "date": "2024-08-15 15:29",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1723706959.0,
-      "summary": "最近买了不少东西，眼看博客好久没更新文字了，那就聚合起来写一堆简评证明一下我还活着。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -5309,16 +5289,6 @@
       "timestamp": 1720569600.0,
       "summary": "好不容易再次充满干劲，趁着这个机会把 Sliver Complex 的登陆页给重写一下，顺便尝试一下之前就想试一试的 Svelte 与 SvelteKit。",
       "source_url": "https://blog.gxres.net/",
-      "category": "Blog"
-    },
-    {
-      "title": "记录一次学マス角色模型解包",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=8",
-      "date": "2024-07-09 21:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1720532139.0,
-      "summary": "很喜欢学マス的小偶像建模，遂解之",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -7862,26 +7832,6 @@
       "category": "Blog"
     },
     {
-      "title": "TinHiFi T4 - 净",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=7",
-      "date": "2023-07-20 11:35",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689824148.0,
-      "summary": "干净且均衡。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
-      "title": "百元内卷终点？——水月雨 竹2",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=5",
-      "date": "2023-07-20 10:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1689821885.0,
-      "summary": "2019年的银色飞船到2022年的竹1，水月雨在百元价位的竞争力越来越强，\n2023年7月，水月雨推出了竹2，打着「内卷终点」的slogen，欲求「薄纱一切」。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
       "title": "本站已彻底和大陆脱钩",
       "link": "https://darmau.co/zh/article/completely-detached-from-mainland",
       "date": "2023-07-20 10:25",
@@ -8049,36 +7999,6 @@
       "timestamp": 1686355200.0,
       "summary": "冯大辉 Fenng 发了一条 Tweet 问\n\n对于各位高考过来人，如果成绩只能上二本，要不要复读？\n\n以下是我的想法。\n我当时考到的是二本，除了学费贵一点之外，我觉得都挺好的。我个人的浅见是，命运是没有人能预测的，复读和不复读是两个不同的分支。当然这说了等于没说。所以我来试试纸上谈兵一下：\n我们假...",
       "source_url": "https://lutaonan.com",
-      "category": "Blog"
-    },
-    {
-      "title": "为网页添加FontAwesome支持",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=4",
-      "date": "2023-06-09 21:23",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686317012.0,
-      "summary": "🤔",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
-      "title": "SBC-XQ 蓝牙编码的音频质量",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=2",
-      "date": "2023-06-09 20:58",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686315520.0,
-      "summary": "翻译了一篇关于SBC-XQ的文章。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
-      "title": "Linux运行游戏问题及解决方案汇总",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=1",
-      "date": "2023-06-09 20:49",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1686314985.0,
-      "summary": "记录一下在Linux环境下玩游戏遇到的问题以及解决方案。",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -8812,16 +8732,6 @@
       "category": "Blog"
     },
     {
-      "title": "识听巡回：MoonDrop 晓 3.5mm ver.",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=6",
-      "date": "2022-08-14 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1660406400.0,
-      "summary": "一篇普通的晓尾巴测评。",
-      "source_url": "https://xlog.dreamo.ink",
-      "category": "Blog"
-    },
-    {
       "title": "分布式数据库的一致性问题与共识算法",
       "link": "https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed",
       "date": "2022-08-07 04:11",
@@ -9029,16 +8939,6 @@
       "timestamp": 1651363200.0,
       "summary": "对于我来说，我一直认为自己缺少做决策的能力。成年人的生活不像学生时代，所有的题目都有固定答案。所有的选择都不存在绝对的对和错，它只是在人的一生 checkout 了一个新的 branch. 我总是不知道应该如何做决定。\n刚好看到了 Jeff Bezos 曾经谈到了自己是如何做决定的，他称之为 Reg...",
       "source_url": "https://lutaonan.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Fedora 折騰日記 ver 1.0",
-      "link": "https://xlog.app/api/redirection?characterId=56433&noteId=3",
-      "date": "2022-04-04 00:00",
-      "author": "梦墨不会做梦💤",
-      "timestamp": 1649001600.0,
-      "summary": "調教 Fedora ，讓ta更好的爲你服務（",
-      "source_url": "https://xlog.dreamo.ink",
       "category": "Blog"
     },
     {
@@ -9972,6 +9872,46 @@
       "category": "Blog"
     },
     {
+      "title": "高通在美国/欧盟/韩国向Arm提起秘密诉讼 指控Arm限制其获取技术损害竞争",
+      "link": "https://www.landiannews.com/archives/108541.html",
+      "date": "2025-03-27 10:58",
+      "author": "蓝点网",
+      "timestamp": 1743044325.0,
+      "summary": "#科技资讯 高通在美国 / 欧盟 / 韩国向 Arm 发起秘密诉讼，指控 Arm 限制其获取技术并损害竞争。高通称 Arm 正在改变专利许可模式从而偏向自家芯片定制设计业务，这会损害 Arm 原本开放许可模式建立的强大的软件和硬件生态系统。查看全文：https://ourl.co/108541",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "谷歌推出紧急安全更新修复Chrome零日漏洞 该漏洞被黑客用于间谍行动",
+      "link": "https://www.landiannews.com/archives/108540.html",
+      "date": "2025-03-27 10:40",
+      "author": "蓝点网",
+      "timestamp": 1743043240.0,
+      "summary": "#安全资讯 谷歌推出紧急安全更新修复 Chrome 零日漏洞，该漏洞被黑客用于间谍行动。攻击者通过发送钓鱼邮件诱导用户点击某个特制网站，只要点击，网站就会利用漏洞在设备上实现远程代码执行并用于部署后门程序。查看全文：https://ourl.co/108540",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "ChatGPT 4o图片生成在社交媒体上引起狂欢 因太火爆以至于免费版需要推迟",
+      "link": "https://www.landiannews.com/archives/108549.html",
+      "date": "2025-03-27 10:31",
+      "author": "蓝点网",
+      "timestamp": 1743042692.0,
+      "summary": "#人工智能 ChatGPT 4o 模型图片生成在社交媒体上引起狂欢，因为太火爆导致消耗太多算力，所以 OpenAI 推迟该功能向免费版用户开放。用户可以使用这个新功能上传图片作为画风灵感，随后即可将任意图片转换为类似风格。查看全文：https://ourl.co/108549",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "密码泄露查询网站HaveIBeenPwned创建者/安全专家Troy Hunt被钓鱼导致数据泄露",
+      "link": "https://www.landiannews.com/archives/108548.html",
+      "date": "2025-03-27 10:08",
+      "author": "蓝点网",
+      "timestamp": 1743041302.0,
+      "summary": "#安全资讯 密码泄露查询网站 HaveIBeenPwned 创建者兼网络安全专家 Troy Hunt 被钓鱼导致数据泄露。黑客针对 Hunt 精心制作了钓鱼邮件和钓鱼网站，Hunt 并未发现邮件和域名异常于是输入了账号密码和 2FA 验证码，导致 16000 名订阅者邮箱被窃取。查看全文：https...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "索泰继续提高RTX 5090售价 最新价格相较于初始价格已经上涨高达20%",
       "link": "https://www.landiannews.com/archives/108539.html",
       "date": "2025-03-26 21:23",
@@ -10182,46 +10122,6 @@
       "category": "News"
     },
     {
-      "title": "把MacBook固定到桌面下连接显示器使用可行吗？前苹果工程师称要留散热间隙",
-      "link": "https://www.landiannews.com/archives/108507.html",
-      "date": "2025-03-25 10:58",
-      "author": "蓝点网",
-      "timestamp": 1742871516.0,
-      "summary": "#硬件设备 把 MacBook 固定到桌面下连接外部显示器使用可行吗？前苹果工程师提醒大家要预留足够的间隙用于散热。这位工程师称在苹果时做过这类测试，散热不佳会缩短显示器和图形系统的寿命，应该将 MacBook 与桌板预留 10 毫米间隙用于散热。查看全文：https://ourl.co/10850...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Cloudflare域名注册服务器上线.AI域名 注册/续费价70美元 较多数平台都便宜",
-      "link": "https://www.landiannews.com/archives/108506.html",
-      "date": "2025-03-25 10:42",
-      "author": "蓝点网",
-      "timestamp": 1742870573.0,
-      "summary": "#域名资讯 赛博菩萨 Cloudflare 域名注册服务上线 AI 域名，注册和续费价均为 70 美元 / 年，较大多数平台都更便宜。作为对比同样的域名在 GoDaddy 首年 49.99 美元，续费 149.99 美元，而在 Cloudflare 2 年总成本只需要 140 美元，较 GoDadd...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "铠侠展示122.88TB数据中心级固态硬盘 封装32个4TB QLC NAND闪存芯片",
-      "link": "https://www.landiannews.com/archives/108505.html",
-      "date": "2025-03-25 10:29",
-      "author": "蓝点网",
-      "timestamp": 1742869753.0,
-      "summary": "#硬件设备 铠侠 (Kioxia) 展示 122.88TB 数据中心级固态硬盘，封装 32 个 4TB QLC NAND 闪存芯片。该固态硬盘基于铠侠 BiCS 8 QLC NAND 技术，基于 PCIe Gen 5 平台和双端口设计，连续读取速度近 15,000MB / 秒，可以作为单个 x4 设...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "树莓派推出Raspberry Pi PoE+供电器 但售价25美元着实是太高了",
-      "link": "https://www.landiannews.com/archives/108518.html",
-      "date": "2025-03-25 10:29",
-      "author": "蓝点网",
-      "timestamp": 1742869749.0,
-      "summary": "#硬件设备 树莓派推出 Raspberry Pi PoE + 供电器，让树莓派可以拜托电源线直接使用网线 + PoE 供电，不过售价太高。这款 PoE 电源售价 25 美元，只能连接 1 台设备，蓝点网使用类似的给摄像头供电的 PoE 电源只需要人民币 19 元。查看全文：https://ourl....",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "集成 Flower和 NVIDIA FLARE，加速联邦学习生态系统发展",
       "link": "https://developer.nvidia.com/zh-cn/blog/supercharging-the-federated-learning-ecosystem-by-integrating-flower-and-nvidia-flare/",
       "date": "2025-03-24 17:19",
@@ -10332,36 +10232,6 @@
       "category": "News"
     },
     {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
-      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "NVIDIA Aerial 平台扩展新工具，助力构建 AI 原生无线网络",
       "link": "https://blogs.nvidia.cn/blog/aerial-telecom-research/",
       "date": "2025-03-18 23:55",
@@ -10405,10 +10275,30 @@
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
-      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "AI 部署的成功依靠速度、数据和规模。因此，NVIDIA 正在扩展 NVIDIA 认证系统，现在已将企业存储纳",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "电信行业领先企业启用代理式 AI 优化网络运维",
+      "link": "https://blogs.nvidia.cn/blog/telecom-agentic-ai-for-network-operations/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "全球电信网络每天需支持数百万用户连接，平均每分钟产生超过 3,800 TB 数据。 基站、路由器、交换机及数据",
+      "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
     {
@@ -10418,6 +10308,16 @@
       "author": "新闻 分类 | NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/blog/category/news/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "新闻 分类 | NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/blog/category/news/",
       "category": "News"
     },
