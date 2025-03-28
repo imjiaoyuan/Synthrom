@@ -9752,6 +9752,16 @@
       "category": "Blog"
     },
     {
+      "title": "博通起诉西门子没购买许可证使用多个VMware产品还要求提供维护和支持服务",
+      "link": "https://www.landiannews.com/archives/108568.html",
+      "date": "2025-03-28 10:35",
+      "author": "蓝点网",
+      "timestamp": 1743129356.0,
+      "summary": "#科技资讯 博通起诉西门子美国公司未购买许可证的情况下使用多个 VMware 产品还寻求维护和技术支持。VMware 称收到西门子提交的付费支持请求续订后检查了购买记录，结果发现西门子并没有购买产品许可证。查看全文：https://ourl.co/108568",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "调查显示甲骨文云服务器确实被攻击并泄露数据 但甲骨文始终没有承认",
       "link": "https://www.landiannews.com/archives/108566.html",
       "date": "2025-03-27 18:57",
@@ -9938,16 +9948,6 @@
       "author": "蓝点网",
       "timestamp": 1742958779.0,
       "summary": "#人工智能 OpenAI 今天起更新 ChatGPT 切换为 GPT-4o 多模态模型，支持在聊天对话中生成更准确的图像。GPT-4o 较 DALL-E 3 模型有更大的提升，目前 ChatGPT 免费版和订阅版都可以使用但有配额限制，后续 OpenAI 将推出 API 供开发者调用。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "博通发布安全更新修复VMware Tools存在的高危漏洞 借助漏洞可以逃逸沙盒",
-      "link": "https://www.landiannews.com/archives/108527.html",
-      "date": "2025-03-26 10:39",
-      "author": "蓝点网",
-      "timestamp": 1742956745.0,
-      "summary": "#安全资讯 博通发布更新修复 VMware Tools for Windows 的高危安全漏洞，借助该漏洞可以绕过身份验证在虚拟机中提权。使用 VMware 虚拟机的用户注意检查 VMware Tools 的更新，避免漏洞被恶意软件利用。查看全文：https://ourl.co/108527",
       "source_url": "https://www.landiannews.com",
       "category": "News"
     },
