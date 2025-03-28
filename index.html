@@ -346,8 +346,31 @@
             }
         }
 
+        // 预加载分类数据
+        async function preloadCategoryData() {
+            const response = await fetch('feed.json');
+            if (response.ok) {
+                const data = await response.json();
+                // 预先计算今日/历史文章数量
+                const articles = data.articles || [];
+                const todayArticles = articles.filter(article => isToday(article.date));
+                // 预先渲染占位结构
+                document.getElementById('articles').innerHTML = `
+                    <div class="section-title">
+                        <i class="mdi mdi-star"></i>
+                        <span>今日更新</span>
+                        <small>(${todayArticles.length}篇)</small>
+                    </div>
+                    <div class="article-section"></div>
+                `;
+            }
+        }
+
         // 修改页面加载事件
         document.addEventListener('DOMContentLoaded', async () => {
+            // 预加载数据
+            await preloadCategoryData();
+            
             // 加载所有配置
             const [labelConf, githubConf] = await Promise.all([
                 loadLabelConfig(),
@@ -382,26 +405,76 @@
             margin-top: 20px;
         }
 
-        /* 移除文章卡片的阴影动画和上浮效果 */
+        /* 预加载时的占位样式 */
+        .section-title {
+            opacity: 1 !important;  /* 防止日期标题闪动 */
+            min-height: 24px;      /* 设置最小高度 */
+            visibility: visible !important;
+        }
+
+        /* 基础文章样式 */
         .article {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: none;  /* 移除所有过渡效果 */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+            background-color: var(--bg-color, #fff) !important;
+            transition: none !important;
+            transform: none !important;
+            height: auto !important;
+            margin-bottom: 16px;
         }
 
-        .article:hover {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transform: none;  /* 移除上浮效果 */
-        }
-
-        /* 已读文章的样式 */
+        /* 已读文章基础样式 */
         .article.read {
             opacity: 0.7;
-            transition: none;  /* 移除过渡效果 */
+            background-color: var(--bg-color, #fff) !important;
+        }
+
+        /* 已读文章悬停样式 - 仅允许透明度变化 */
+        .article.read:hover {
+            opacity: 1;
+            background-color: var(--bg-color, #fff) !important;
+        }
+
+        /* 修改已读文章的样式控制 */
+        .article.read,
+        .article.read:hover,
+        .article.read .article-title,
+        .article.read:hover .article-title,
+        .article.read .article-summary,
+        .article.read:hover .article-summary,
+        .article.read .meta-item,
+        .article.read:hover .meta-item,
+        .article.read .source-link,
+        .article.read:hover .source-link,
+        .article.read .meta-item span,
+        .article.read:hover .meta-item span,
+        .article.read .meta-item i,
+        .article.read:hover .meta-item i {
+            color: var(--text-color-light, #666) !important;
+        }
+
+        /* 已读文章的透明度控制 */
+        .article.read {
+            opacity: 0.7;
         }
 
         .article.read:hover {
             opacity: 1;
-            transition: opacity 0.2s;  /* 只在hover时添加透明度过渡 */
+        }
+
+        /* 移除所有过渡效果，只保留透明度过渡 */
+        .article.read,
+        .article.read * {
+            transition: opacity 0.2s !important;
+        }
+
+        /* 确保链接和按钮的颜色保持一致 */
+        .article.read .source-link,
+        .article.read:hover .source-link,
+        .article.read .meta-item,
+        .article.read:hover .meta-item,
+        .article.read .meta-item *,
+        .article.read:hover .meta-item * {
+            color: var(--text-color-light, #666) !important;
         }
 
         /* 移除导航项的动画效果，仅保留颜色变化 */
