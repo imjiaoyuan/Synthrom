@@ -414,7 +414,8 @@
 
         /* 基础文章样式 */
         .article {
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+            box-shadow: none !important;
+            border: 1px solid rgba(0, 0, 0, 0.12) !important;
             background-color: var(--bg-color, #fff) !important;
             transition: none !important;
             transform: none !important;
@@ -494,6 +495,174 @@
 
         .meta-item:hover {
             transform: none;
+        }
+
+        /* 修改卡片样式 */
+        .v-card {
+            box-shadow: none !important; /* 移除阴影 */
+            border: 1px solid rgba(0, 0, 0, 0.12) !important; /* 添加细线边框 */
+        }
+
+        /* 修改导航栏样式，添加背景模糊效果 */
+        .header {
+            background-color: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+            box-shadow: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+        }
+
+        .header-main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: 24px;
+        }
+
+        /* 站点标题样式 */
+        .site-title {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.2rem;
+            font-weight: 500;
+            color: var(--primary-color, #1976d2);
+        }
+
+        /* 导航项样式 */
+        .nav-items {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+        }
+
+        .category-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        .category-item:hover {
+            background-color: rgba(0, 0, 0, 0.04);
+        }
+
+        .category-item.active {
+            color: var(--primary-color, #1976d2);
+            background-color: rgba(25, 118, 210, 0.08);
+            border-color: rgba(25, 118, 210, 0.12);
+        }
+
+        /* 更新时间样式 */
+        .update-time {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-left: auto;
+            color: var(--text-color-light, #666);
+            font-size: 0.9rem;
+        }
+
+        /* 移动端导航样式 */
+        .mobile-nav {
+            background-color: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+            position: fixed;
+            top: 56px;
+            left: 0;
+            right: 0;
+            z-index: 99;
+            display: none;
+            padding: 8px;
+            justify-content: center;
+            gap: 16px;
+        }
+
+        /* 确保移动端导航在需要时显示 */
+        @media (max-width: 768px) {
+            .nav-items {
+                display: none;
+            }
+            
+            .mobile-nav {
+                display: flex;
+            }
+            
+            .articles {
+                margin-top: 104px;
+                padding: 0 16px;
+            }
+            
+            .header-main {
+                padding: 8px 16px;
+            }
+        }
+
+        /* 调整文章列表容器样式 */
+        .articles {
+            max-width: 800px;
+            margin: 72px auto 0;
+            padding: 0 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* 文章卡片样式 */
+        .article {
+            background-color: var(--bg-color, #fff);
+            border: 1px solid rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            padding: 16px;
+            margin-bottom: 12px;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* 调整分类标题样式 */
+        .section-title {
+            margin: 8px 0 12px;
+            padding: 0 4px;
+        }
+
+        /* 调整文章分组样式 */
+        .article-section {
+            margin-bottom: 24px;
+        }
+
+        /* 历史文章标题样式 */
+        .section-title.history-title {
+            margin-top: 16px;
+        }
+
+        /* 文章标题样式优化 */
+        .article-title {
+            font-size: 1.1rem;
+            line-height: 1.4;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        /* 文章摘要样式优化 */
+        .article-summary {
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin: 8px 0;
+            color: var(--text-color-light, #666);
         }
     </style>
 </body>
