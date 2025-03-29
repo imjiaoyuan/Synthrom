@@ -9682,6 +9682,36 @@
       "category": "Blog"
     },
     {
+      "title": "[教程] 微软在Windows 11中删除BypassNRO跳过登录脚本 现在需要手动改注册表跳过",
+      "link": "https://www.landiannews.com/archives/108570.html",
+      "date": "2025-03-29 12:00",
+      "author": "蓝点网",
+      "timestamp": 1743220857.0,
+      "summary": "#技术教程 微软在 Windows 11 最新测试版中删除 BypassNRO 绕过登录脚本以强迫用户登录微软账户，但我们仍然可以修改注册表继续绕过账户登录。BypassNRO 脚本被删除后现在只能通过修改注册表启用相同的功能，需要添加名为 BypassNRO 的键值再重启系统。操作方法如下：htt...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "微软删除Win11蓝屏死机界面的二维码和表情符号 换回2012年时Win8时代的样式",
+      "link": "https://www.landiannews.com/archives/108569.html",
+      "date": "2025-03-29 11:42",
+      "author": "蓝点网",
+      "timestamp": 1743219755.0,
+      "summary": "#系统资讯 微软删除 Windows 11 蓝屏死机界面的二维码和表情符号，换回 2012 年时 Windows 8 时代的精简版样式。在新的蓝屏死机界面仅会提示系统遇到问题然后用较小字符备注引起蓝屏死机的原因，毕竟原本那个二维码只是链接到微软帮助中心实际并不能帮用户解决问题。(绿屏和黑屏代表测试版...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
+      "title": "新版Windows 11在全新安装时可选切换为ReFS弹性文件系统 操作方法如下",
+      "link": "https://www.landiannews.com/archives/108563.html",
+      "date": "2025-03-29 11:09",
+      "author": "蓝点网",
+      "timestamp": 1743217767.0,
+      "summary": "#系统资讯 新版 Windows 11 在全新安装时可选切换为 ReFS 弹性文件系统，即将操作系统安装在 ReFS 而非 NTFS 上。这是微软在 Build 27823 测试版中推出的最新功能，最初是在 2023 年 1 月测试，现在已经抵达金丝雀版，但只能安装时切换不能在装机完成后切换。操作方...",
+      "source_url": "https://www.landiannews.com",
+      "category": "News"
+    },
+    {
       "title": "博通起诉西门子没购买许可证使用多个VMware产品还要求提供维护和支持服务",
       "link": "https://www.landiannews.com/archives/108568.html",
       "date": "2025-03-28 10:35",
@@ -9852,36 +9882,6 @@
       "category": "News"
     },
     {
-      "title": "终于要炸了：北冕座T新星爆发预计从明天起可以观测 持续时间约为1周",
-      "link": "https://www.landiannews.com/archives/108536.html",
-      "date": "2025-03-26 15:27",
-      "author": "蓝点网",
-      "timestamp": 1742974022.0,
-      "summary": "#天体物理 终于要炸了：北冕座 T 新星爆发预计从明天开始可以观测，持续时间约为 1 周。北冕座 T 是个周期性的新星爆发恒星系统，此前天文学家预计在 2024 年 9 月爆发，现在新时间是 2025 年 3 月 27 日。查看全文：https://ourl.co/108536",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "Cloudflare R2对象存储发生1小时全球中断 人为错误将凭证部署到开发环境",
-      "link": "https://www.landiannews.com/archives/108535.html",
-      "date": "2025-03-26 11:26",
-      "author": "蓝点网",
-      "timestamp": 1742959578.0,
-      "summary": "#云计算 Cloudflare R2 在全球范围内出现 1 小时分钟的中断，中断原因是工程师在部署凭证时命令有误导致新凭证被部署到开发环境，而生产环境却删除了凭证。这次问题导致 Cloudflare R2 及相关服务全部出现可用性下降的问题，目前 Cloudflare 正在改进工作流程要求自动化部署...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
-      "title": "ChatGPT开始集成多模态支持的GPT-4o 支持通过聊天直接生成图像",
-      "link": "https://www.landiannews.com/archives/108534.html",
-      "date": "2025-03-26 11:12",
-      "author": "蓝点网",
-      "timestamp": 1742958779.0,
-      "summary": "#人工智能 OpenAI 今天起更新 ChatGPT 切换为 GPT-4o 多模态模型，支持在聊天对话中生成更准确的图像。GPT-4o 较 DALL-E 3 模型有更大的提升，目前 ChatGPT 免费版和订阅版都可以使用但有配额限制，后续 OpenAI 将推出 API 供开发者调用。查看全文：ht...",
-      "source_url": "https://www.landiannews.com",
-      "category": "News"
-    },
-    {
       "title": "借助 NVIDIA NIM 微服务，在 RTX AI PC 和工作站上开启您的 AI 之旅",
       "link": "https://developer.nvidia.com/zh-cn/blog/kickstart-your-ai-journey-on-rtx-ai-pcs-and-workstations-with-nvidia-nim-microservices/",
       "date": "2025-03-25 17:11",
@@ -10042,36 +10042,6 @@
       "category": "News"
     },
     {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
-      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
       "title": "全速推进：NVIDIA 认证计划扩展至企业存储领域，加速 AI 工厂部署",
       "link": "https://blogs.nvidia.cn/blog/nvidia-certified-enterprise-storage/",
       "date": "2025-03-18 23:55",
@@ -10108,6 +10078,36 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
+      "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC  —— 2025 年 3 月 18 日 —— Oracle 和 NVID",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
