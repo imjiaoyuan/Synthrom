@@ -222,6 +222,16 @@
       "category": "Blog"
     },
     {
+      "title": "Model Context Protocol (MCP) 快速开始",
+      "link": "https://www.mengke.me/blog/202503/MCP_Quick_Start",
+      "date": "2025-03-22 08:00",
+      "author": "Mengke's blog - Mengke's coding journey",
+      "timestamp": 1742601600.0,
+      "summary": "探索 MCP 协议如何让 AI 从\"回答问题\"进化为\"执行任务\"。本文详细介绍了 MCP 的概念、架构和实现原理，并通过 Github MCP 的实例，展示了 AI 直接操作代码仓库的强大能力...",
+      "source_url": "https://www.mengke.me/blog",
+      "category": "Blog"
+    },
+    {
       "title": "关于HiFi的尝试与探索",
       "link": "https://mabbs.github.io/2025/03/22/hifi.html",
       "date": "2025-03-22 00:00",
@@ -8052,16 +8062,6 @@
       "category": "Blog"
     },
     {
-      "title": "flex 布局中 start/end 和 flex-start/flex-end 的区别",
-      "link": "https://www.mengke.me/blog/202306/start_end_flex-start_flex-end",
-      "date": "2023-06-05 08:00",
-      "author": "Mengke's blog - Mengke's coding journey",
-      "timestamp": 1685923200.0,
-      "summary": "flex 布局中 start/end 和 flex-start/flex-end 的区别",
-      "source_url": "https://www.mengke.me/blog",
-      "category": "Blog"
-    },
-    {
       "title": "近日观影",
       "link": "https://imzm.im/movies-and-shows-watched-recently/",
       "date": "2023-06-02 15:30",
@@ -10262,6 +10262,26 @@
       "category": "News"
     },
     {
+      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
+      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
+      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
+      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
+      "date": "2025-03-18 23:55",
+      "author": "NVIDIA 英伟达博客",
+      "timestamp": 1742313300.0,
+      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
+      "source_url": "https://blogs.nvidia.cn/",
+      "category": "News"
+    },
+    {
       "title": "Oracle 与 NVIDIA 合作助力企业加速代理式 AI 推理",
       "link": "https://blogs.nvidia.cn/blog/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference/",
       "date": "2025-03-18 23:55",
@@ -10308,26 +10328,6 @@
       "author": "NVIDIA 英伟达博客",
       "timestamp": 1742313300.0,
       "summary": "蒸汽推动了工业时代的发展，数字时代通过软件带来了转变。如今，生成式 AI、代理式 AI 和 AI 推理的发展是",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA 与行业领先的存储企业共同推出面向 AI 时代的新型企业基础设施",
-      "link": "https://blogs.nvidia.cn/blog/nvidia-and-storage-industry-leaders-unveil-new-class-of-enterprise-infrastructure-for-the-age-of-ai/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "美国加利福尼亚州圣何塞 —— GTC —— 太平洋时间 2025 年 3 月 18 日&#160; ——&#038;nb",
-      "source_url": "https://blogs.nvidia.cn/",
-      "category": "News"
-    },
-    {
-      "title": "借助 NVIDIA RTX PRO Blackwell 系列 GPU 和 NVIDIA NIM 微服务加速 AI 开发",
-      "link": "https://blogs.nvidia.cn/blog/rtx-ai-garage-blackwell-pro-nim/",
-      "date": "2025-03-18 23:55",
-      "author": "NVIDIA 英伟达博客",
-      "timestamp": 1742313300.0,
-      "summary": "随着生成式 AI 能力的扩展，NVIDIA 正为开发者提供工具，使其能够将 AI 无缝集成到创意项目、应用程序",
       "source_url": "https://blogs.nvidia.cn/",
       "category": "News"
     },
